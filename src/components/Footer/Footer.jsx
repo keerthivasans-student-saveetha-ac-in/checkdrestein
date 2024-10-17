@@ -546,7 +546,8 @@ const Footer = () => {
 
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/drestein-in-93a163297/"
+              // href="https://www.linkedin.com/in/drestein-in-93a163297/"
+              href="https://www.linkedin.com/in/dresteinofficial"
             >
               <FaLinkedinIn />
             </a>
