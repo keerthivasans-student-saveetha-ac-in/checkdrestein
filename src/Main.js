@@ -92,8 +92,7 @@ const Main = () => {
           }}
           height="100%"
           // src="OtherAssets/poster.webp"
-          // src="OtherAssets/Drestein 2024-02.jpg"
-          src="OtherAssets/poster1temp.webp"
+          src="PosterAssets/bannerposter.webp"
           alt="banner"
         />
       </div>
