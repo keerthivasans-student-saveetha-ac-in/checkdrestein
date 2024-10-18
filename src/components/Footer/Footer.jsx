@@ -539,20 +539,19 @@ const Footer = () => {
             
             <a
               target="_blank"
-              href="https://www.facebook.com/profile.php?id=61567521531098&mibextid=ZbWKwL"
+              href="https://www.facebook.com/profile.php?id=61567521531098"
             >
               <FaFacebook />
             </a>
 
             <a
               target="_blank"
-              // href="https://www.linkedin.com/in/drestein-in-93a163297/"
               href="https://www.linkedin.com/in/dresteinofficial"
             >
               <FaLinkedinIn />
             </a>
 
-            <a target="_blank" href="https://twitter.com/drestein_in/status/1714284030588600527?t=tzQKp_5pV5pFIOh_iw6W3w&s=08">
+            <a target="_blank" href="https://x.com/dresteinoffi/">
               <FaTwitter />
             </a>
 
