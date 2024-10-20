@@ -274,8 +274,28 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
+            ALMA JOECIN E (AGRI) - 7305894860
+        </Chip>
+        
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            NARENDAR N (AGRI) - 7418034369
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
             BALASABARISH K J (BIO - MED) - 7845976785
-          </Chip>
+        </Chip>
 
         <Chip
             size="lg"
@@ -294,7 +314,17 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
-            VISAKAN G (MECH) - 8637432631
+            GEOFFREY MICHAEL G (EIE) - 8940107410
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            VISAKAN G (MECH) - 7094998410
         </Chip>
 
         <Chip
@@ -312,23 +342,23 @@ const Footer = () => {
             style={{ backgroundColor: "transparent" }}
             startDecorator={
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
-              // <Avatar size="sm" src={`PeopleAssets/dscmembers/dsc1.webp`} />
             }
             >
-            YAMUNAASRI T S (SCOFT) - 9884497722
-          </Chip>
+            ANN BLESSY PHILIPS (SCOFT) - 6369544215
+        </Chip>
 
-          <Chip
+        <Chip
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+              // <Avatar size="sm" src={`PeopleAssets/dscmembers/dsc1.webp`} />
             }
             >
-            ANN BLESSY PHILIPS (SCOFT) - 6369544215
-          </Chip>
-          
-          <Chip
+            YAMUNAASRI T S (SCOFT) - 9884497722
+        </Chip>
+  
+        <Chip
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
@@ -336,9 +366,9 @@ const Footer = () => {
             }
             >
             SHYAM S (SCOFT) - 6381519904
-          </Chip>
+        </Chip>
 
-          <Chip
+        <Chip
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
@@ -346,8 +376,8 @@ const Footer = () => {
             }
             >
             TEJUSVE KABEER F (SCOFT) - 9600139114
-          </Chip>
-          
+        </Chip>
+
 
           {/* <Chip
             size="md"
