@@ -58,6 +58,18 @@ const Footer = () => {
     }
   `;
 
+  // const Year = styled.p`
+  //   font-size: 1vw;
+  //   font-family: Montserrat, sans-serif;
+  //   font-weight: 800;
+  //   color: rgb(255, 255, 255);
+  //   text-align: center;
+  //   height: auto;
+  //   letter-spacing: 0.8em;
+  //   @media screen and (max-width: 600px) {
+  //     font-size: 3vw;
+  //   }
+
   const Year = styled.p`
     font-size: 1vw;
     font-family: "Azonix", sans-serif;
@@ -168,6 +180,7 @@ const Footer = () => {
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
+              // <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
               <Avatar size="sm" src={`PeopleAssets/webcoordinators/webco1 (white).png`} />
             }
             >
@@ -180,6 +193,7 @@ const Footer = () => {
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
+              // <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
               <Avatar size="sm" src={`PeopleAssets/webcoordinators/webco2 (white).jpg`} />
             }
             >
@@ -192,6 +206,7 @@ const Footer = () => {
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
+              // <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
               <Avatar size="sm" src={`PeopleAssets/webcoordinators/webco3 (white).jpg`} />
             }
             >
@@ -204,6 +219,7 @@ const Footer = () => {
             size="lg"
             style={{ backgroundColor: "transparent" }}
             startDecorator={
+              // <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
               <Avatar size="sm" src={`PeopleAssets/webcoordinators/webco4 (white).png`} />
             }
             >
@@ -211,6 +227,41 @@ const Footer = () => {
           </Chip>
           </a>
 
+          {/*<a href="https://www.linkedin.com/in/vishwa-raja-a59825210/"   target="_blank"class="links"> 
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={'/static/images/avatar/1.jpg'} />
+            }
+            > 
+             VISHWARAJA R
+          </Chip>
+          </a>
+
+          <a href="https://www.linkedin.com/in/itz-akash/"  target="_blank" class="links">
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            AKASH A
+          </Chip>
+          </a>
+
+          <a href="https://www.linkedin.com/in/vijayaragavan-arr/"  target="_blank" class="links">
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Vijayaragavan ARR
+          </Chip>
+          </a> */}
         </div>
 
         <div className="block">
@@ -327,6 +378,156 @@ const Footer = () => {
             TEJUSVE KABEER F (SCOFT) - 9600139114
         </Chip>
           
+          
+          {/* <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Vijayaragavan ARR  (AI&DS) 9443654516
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Naveen Kumar A 	(AI&ML) 8925252883
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            H.S Dhanush 	(BIO-MED) 9789058816
+          </Chip>
+          
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Muhundhan M	(CIVIL) 9791389479
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            R.Pavankumar	(Agri) 6383494421
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Srikanth T	(CHEMICAL) 6382979534
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            KISHORE.N	(CSE) 9894801443
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            R.Jayamani (Cyber) 9962244445
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Jessica.J	(ECE) 9345337659
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Yeshwanth V	(EIE) 9342019960
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Shanthini.S	(IT) 9025278040
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            Angappan.R	(MED) 9025864979
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+           Kiran raaj k.v	(MECH) 9789994338
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+           Amudhan. E. K 	(MBA) 7358736824
+          </Chip>
+
+          <Chip
+            size="md"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+           Balaji	(EEE) 9345992270
+          </Chip> */}
         </div>
         
         <div className="block">
@@ -346,6 +547,10 @@ const Footer = () => {
           <Link to="/form" className="links">
             Events
           </Link>
+
+          {/* <a href="#" className="links">
+            Privacy Policy
+          </a> */}
           
           <h4
             className="heading"
@@ -355,7 +560,7 @@ const Footer = () => {
           </h4>
           <div class="social-links">
             
-            <a
+          <a
               target="_blank" 
               href="https://www.instagram.com/dresteinofficial/"
             >
@@ -394,13 +599,13 @@ const Footer = () => {
           <h4 className="heading">LOCATION</h4>
           <p className="address">
             Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
-            Chennai, Tamil Nadu - 602 105.
+            Chennai, Tamil Nadu 602105
           </p>
           <div class="mapouter">
             <div class="gmap_canvas">
               <iframe
                 style={{
-                  borderRadius: "20px",
+                  borderRadius: "15px",
                 }}
                 class="gmap_iframe"
                 width="100%"
@@ -408,13 +613,16 @@ const Footer = () => {
                 scrolling="no"
                 marginHeight="0"
                 marginWidth="0"
+                // src="https://maps.google.com/maps?width=250&amp;height=250&amp;hl=en&amp;q=Saveetha engineering college&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                 src="https://maps.google.com/maps?width=250&height=250&hl=en&q=New%20SEC%20Campus&t=&z=19&ie=UTF8&iwloc=B&output=embed"
               ></iframe>
             </div>
           </div>
         </div>
       </div>
-
+      {/* <div className="copyright">
+        Copyright © Saveetha Engineering College, Powered by Drestein 2024.
+      </div> */}
       <div className="copyright">
         Copyright © Drestein 2024 - Saveetha Engineering College. All rights reserved
       </div>

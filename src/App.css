@@ -108,14 +108,14 @@ section {
   height: 200vh;
 }
 
-/* partical */
+partical
 
 .particles {
   position: absolute;
   z-index: -10000;
 }
 
-/* progress */
+progress
 
 .scrollprogress {
   position: fixed;
@@ -123,11 +123,11 @@ section {
   left: 0px;
   right: 0;
   height: 4px;
-  /* background: #203f98; */
+  background: #005f10;
   background: rgb(14, 5, 5);
   transform-origin: 0%;
   z-index: 10000000;
-  border-radius: 50px;
+  border-radius: 100px;
 }
 
 /* register now btn */

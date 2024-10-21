@@ -1,15 +1,15 @@
 .footer {
   width: 100%;
   .container {
-    width: 80%;
+    width: 85%;
     margin-inline: auto;
   }
   .flex {
     font-size: 14px;
     display: flex;
     justify-content: space-around;
-    gap: 2rem;
-    margin: 3rem;
+    gap: 3rem;
+    margin: 4rem;
     margin-inline: auto;
 
     @media screen and (max-width: 600px) {
@@ -18,8 +18,9 @@
     .block {
       display: flex;
       flex-direction: column;
+      margin-bottom: 1.5rem;
 
-      flex: 1 0 0;
+      flex: 100;
       .heading {
         margin-bottom: 1.5rem;
       }
@@ -61,8 +62,8 @@
 
   .gmap_canvas {
     overflow: hidden;
-    // background: none !important;
-    width: 100%;
+    background: none !important;
+    width: 125%;
     height: 300px;
   }
 
