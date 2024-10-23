@@ -23,10 +23,10 @@ const Navbar = styled.nav`
   width: 100%;
   position: sticky;
   top: 0;
-  box-shadow: 0px 1px 2px #00CC0040, 
-              0px 2px 4px #00CC0040, 
-              0px 4px 8px #00CC0040, 
-              0px 8px 16px #00CC0040;
+  // box-shadow: 0px 1px 2px #00CC0040, 
+  //             0px 2px 4px #00CC0040, 
+  //             0px 4px 8px #00CC0040, 
+  //             0px 8px 16px #00CC0040;
 
   @media screen and (max-width: 600px) {
     top: -80px;
@@ -39,7 +39,7 @@ const Navbar = styled.nav`
 const SLogo = styled.img`
   width: 23%;
   height: auto;
-  @media screen and (max-width: 300px) {
+  @media screen and (max-width: 600px) {
     width: 90%;
   }
 `;
@@ -85,7 +85,7 @@ const EventLogo = styled.div`
 `;
 const DresteinLetter = styled.p`
   font-size: 2.2vw;
-  font-family: "x", sans-serif;
+  font-family: "Azonix", sans-serif;
   letter-spacing: 1.5px;
   color: rgb(255, 255, 255);
   align-self: center;
@@ -111,7 +111,7 @@ const DresteinLetter = styled.p`
 
 const Year = styled.p`
   font-size: 1vw;
-  font-family: "x", sans-serif;
+  font-family: "Azonix", sans-serif;
   font-weight: 800;
   color: rgb(255, 255, 255);
   text-align: center;
