@@ -263,6 +263,16 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
+            NANDA KISHORE R (ECE) - 9344248604
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
             NEVIL JOE FERDIN P (EEE) - 9360507661
         </Chip>
 
@@ -274,6 +284,16 @@ const Footer = () => {
             }
             >
             GEOFFREY MICHAEL G (EIE) - 8940107410
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            MOHITH R (MBA) - 6374394052
         </Chip>
 
         <Chip
@@ -402,8 +422,7 @@ const Footer = () => {
         <div className="block">
           <h4 className="heading">LOCATION</h4>
           <p className="address">
-            Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
-            Chennai, Tamil Nadu - 602 105.
+            Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd, Chennai, Tamil Nadu - 602 105.
           </p>
           <div class="mapouter">
             <div class="gmap_canvas">

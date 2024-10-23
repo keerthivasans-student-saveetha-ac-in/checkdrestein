@@ -1,7 +1,7 @@
 // export const Particle = {
 //   "particles": {
 //     "number": {
-//       "value": 70, // Number of particles
+//       "value": 50, // Number of particles
 //       "density": {
 //         "enable": true,
 //         "value_area": 800
@@ -121,7 +121,7 @@ export const Particle = {
       }
     },
     "opacity": {
-      "value": 0.5,
+      "value": 0.4,
       "random": false,
       "anim": {
         "enable": false,
