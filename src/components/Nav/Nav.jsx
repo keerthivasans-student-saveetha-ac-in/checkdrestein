@@ -23,6 +23,12 @@ const Navbar = styled.nav`
   width: 100%;
   position: sticky;
   top: 0;
+{ background: #000; 
+  box-shadow: 0px 1px 2px #00cc0080, 
+              0px 2px 4px #00cc0080, 
+              0px 4px 8px #00cc0080, 
+              0px 8px 16px #00cc0080; }
+
   @media screen and (max-width: 600px) {
     top: -80px;
     flex-direction: column;
@@ -32,9 +38,9 @@ const Navbar = styled.nav`
 `;
 
 const SLogo = styled.img`
-  width: 23%;
+  width: 28%;
   height: auto;
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 300px) {
     width: 90%;
   }
 `;
