@@ -1,8 +1,8 @@
 export const EventDetails = [
-  // {
-  //   id: "scoft",
-  //   title: "SCOFT",
-  //   eventslist: [
+  {
+    id: "scoft",
+    title: "SCOFT",
+    eventslist: [
       // {
       //   name: "PROMPT CRAFT",
       //   date: "02 Nov 2023(FN)",
@@ -219,507 +219,507 @@ export const EventDetails = [
       //     },
       //   ],
       // },
-    // ],
+    ],
 
-  //   workshopslist: [
-  //     {
-  //       name: "Empowering Design - A Hands-On UI/UX Workshop",
-  //       logo: "EventsAssets/Workshops/scoftretech.webp",
-  //       tag: "WORKSHOP",
-  //       color: "10, 100, 35",
-  //       company: "Retech Solutions Pvt Ltd, Chennai",
-  //       link: "http://surl.li/mgnzi",
-  //       note: "This 4-hour workshop will provide a hands-on experience in UI/UX design, where participants will work on a practical project from start to finish. By the end, they will have designed a simple, mobile app screens such as a login page, product listing page, and checkout page",
-  //       day1: {
-  //         date: "06.11.2024 (FN & AN)",
-  //         time: "9:00 - 3:00pm",
-  //         mode: "OFFLINE",
-  //         venue: "not yet finalized",
-  //         list: true,
-  //         resource: [
-  //           {
-  //             name: "Somasundaram Subbu",
-  //             desig: "CEO and Co-Founder",
-  //             phone: 8939062130,
-  //             email: "ssubbu.connect@gmail.com",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms.Karthika RN",
-  //             desig: "Assistant Professor",
-  //             phone: 8248816873,
-  //             email: "karthikarn@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Jayapriya",
-  //             year: "III",
-  //             phone: 8608686872,
-  //             email: "jayapriyaanandkumar@gmail.com",
-  //           },
-  //           {
-  //             name: "Pavithra",
-  //             year: "III",
-  //             phone: 7358144662,
-  //             email: "pavithra1012004@gmail.com",
-  //           },
-  //           {
-  //             name: "Saran S",
-  //             year: "III",
-  //             phone: 6381602448,
-  //             email: "saransaran0184@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //     {
-  //       name: "ERC-Token Blockchain",
-  //       logo: "EventsAssets/itw6.webp",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       company:
-  //         "Span Technologies, Chennai",
-  //       link: "https://rb.gy/xvkko",
-  //       day1: {
-  //         date: "01.11.2023(FN & AN)",
-  //         time: "9:00 - 3:00pm",
-  //         mode: "OFFLINE",
-  //         venue: "TBA",
-  //         list: true,
-  //       topic: "History of blockchain.Why Blockchain ? .\nConsensus Mechanism.\nRole of Cryptography in blockchain wallets.\nUse cases.DeFi and Dao.\nSolidity 101.\nRemix and Hardhat.\nCreating your own Dogecoin!.\nWhat next?",
-  //         resource: [
-  //           {
-  //             name: "Sanjay Kumar M",
-  //             desig: "Trainee",
-  //             phone: 7550132900,
-  //             email: "sanjaymoad786@gmail.com",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms. V Swedha",
-  //             desig: "Assistant Professor",
-  //             phone: 7338920965,
-  //             email: "swedha@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Sathiya Narayanan G",
-  //             year: "III",
-  //             phone: 8015365007,
-  //             email: "sathiyanarayanan.g2003b1@gmail.com",
-  //           },
-  //           {
-  //             name: "Prasanna R",
-  //             year: "III",
-  //             phone: 9360411017,
-  //             email: "rajprasanna67@gmail.com",
-  //           },
-  //           {
-  //             name: "Yogesh B",
-  //             year: "III",
-  //             phone: 9488687665,
-  //             email: "yogeshit2105@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //     {
-  //       name: "Salesforce ",
-  //       logo: "EventsAssets/itw2.webp",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       company: "Cognizant, Chennai",
-  //       link: " https://docs.google.com/forms/d/e/1FAIpQLScR_XN_y2J_Ked7GkRwYGaxMmdWwpQVcHS3AulGMo8K5JezGA/viewform",
-  //       day1: {
-  //         date: "27.10.2023",
-  //         time: "9:00 -3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "block chain lab",
-  //         list: true,
-  //         topic:"Introduction to CRM.\nIntroduction to Salesforce.\nWhat is trialhead?.\nTypes of clouds in Salesforce.Admin Concepts with example.\nDev Concepts with example.Hands-on.\nSmart Share.\nWrap-up",
-  //         resource: [
-  //           {
-  //             name: "Kayalvizhi S ",
-  //             desig: "Programmer Analyst",
-  //             phone: 7373775433,
-  //             email: "kayal116295@gmail.com",
-  //           },
-  //           {
-  //             name: "Christika S ",
-  //             desig: "Programmer Analyst",
-  //             phone: 9080415655,
-  //             email: "christikaselvam2000@gmail.com",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms. Abinaya G",
-  //             desig: "Assistant Professor",
-  //             phone: 9500206093,
-  //             email: "gabinaya@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "ARAVIND S",
-  //             year: "IV",
-  //             phone: 9025351218,
-  //             email: "aravindsureshkumar70@gmail.com",
-  //           },
-  //           {
-  //             name: "AADHITYA RAJ V",
-  //             year: "III",
-  //             phone: 6374492710,
-  //             email: "aadhithya3210@gmail.com",
-  //           },
-  //           {
-  //             name: "NAADIRA SAHAR N",
-  //             year: "III",
-  //             phone: 8608595118,
-  //             email: "naadirasahar18@gmail.com",
-  //           },
-  //           {
-  //             name: "YUGENDARAN G",
-  //             year: "III",
-  //             phone: 9464272504,
-  //             email: "gyugendaran05@gmail.com",
-  //           },
-  //         ],
-  //       },
+    workshopslist: [
+      {
+        name: "Empowering Design - A Hands-On UI/UX Workshop",
+        logo: "EventsAssets/Workshops/scoftretech.webp",
+        tag: "WORKSHOP",
+        color: "10, 100, 35",
+        company: "Retech Solutions Pvt Ltd, Chennai",
+        link: "http://surl.li/mgnzi",
+        note: "This 4-hour workshop will provide a hands-on experience in UI/UX design, where participants will work on a practical project from start to finish. By the end, they will have designed a simple, mobile app screens such as a login page, product listing page, and checkout page",
+        day1: {
+          date: "06.11.2024 (FN & AN)",
+          time: "9:00 - 3:00pm",
+          mode: "OFFLINE",
+          venue: "not yet finalized",
+          list: true,
+          resource: [
+            {
+              name: "Somasundaram Subbu",
+              desig: "CEO and Co-Founder",
+              phone: 8939062130,
+              email: "ssubbu.connect@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms.Karthika RN",
+              desig: "Assistant Professor",
+              phone: 8248816873,
+              email: "karthikarn@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Jayapriya",
+              year: "III",
+              phone: 8608686872,
+              email: "jayapriyaanandkumar@gmail.com",
+            },
+            {
+              name: "Pavithra",
+              year: "III",
+              phone: 7358144662,
+              email: "pavithra1012004@gmail.com",
+            },
+            {
+              name: "Saran S",
+              year: "III",
+              phone: 6381602448,
+              email: "saransaran0184@gmail.com",
+            },
+          ],
+        },
+      },
+      {
+        name: "ERC-Token Blockchain",
+        logo: "EventsAssets/itw6.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        company:
+          "Span Technologies, Chennai",
+        link: "https://rb.gy/xvkko",
+        day1: {
+          date: "01.11.2023(FN & AN)",
+          time: "9:00 - 3:00pm",
+          mode: "OFFLINE",
+          venue: "TBA",
+          list: true,
+        topic: "History of blockchain.Why Blockchain ? .\nConsensus Mechanism.\nRole of Cryptography in blockchain wallets.\nUse cases.DeFi and Dao.\nSolidity 101.\nRemix and Hardhat.\nCreating your own Dogecoin!.\nWhat next?",
+          resource: [
+            {
+              name: "Sanjay Kumar M",
+              desig: "Trainee",
+              phone: 7550132900,
+              email: "sanjaymoad786@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. V Swedha",
+              desig: "Assistant Professor",
+              phone: 7338920965,
+              email: "swedha@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Sathiya Narayanan G",
+              year: "III",
+              phone: 8015365007,
+              email: "sathiyanarayanan.g2003b1@gmail.com",
+            },
+            {
+              name: "Prasanna R",
+              year: "III",
+              phone: 9360411017,
+              email: "rajprasanna67@gmail.com",
+            },
+            {
+              name: "Yogesh B",
+              year: "III",
+              phone: 9488687665,
+              email: "yogeshit2105@gmail.com",
+            },
+          ],
+        },
+      },
+      {
+        name: "Salesforce ",
+        logo: "EventsAssets/itw2.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        company: "Cognizant, Chennai",
+        link: " https://docs.google.com/forms/d/e/1FAIpQLScR_XN_y2J_Ked7GkRwYGaxMmdWwpQVcHS3AulGMo8K5JezGA/viewform",
+        day1: {
+          date: "27.10.2023",
+          time: "9:00 -3.00pm",
+          mode: "OFFLINE",
+          venue: "block chain lab",
+          list: true,
+          topic:"Introduction to CRM.\nIntroduction to Salesforce.\nWhat is trialhead?.\nTypes of clouds in Salesforce.Admin Concepts with example.\nDev Concepts with example.Hands-on.\nSmart Share.\nWrap-up",
+          resource: [
+            {
+              name: "Kayalvizhi S ",
+              desig: "Programmer Analyst",
+              phone: 7373775433,
+              email: "kayal116295@gmail.com",
+            },
+            {
+              name: "Christika S ",
+              desig: "Programmer Analyst",
+              phone: 9080415655,
+              email: "christikaselvam2000@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. Abinaya G",
+              desig: "Assistant Professor",
+              phone: 9500206093,
+              email: "gabinaya@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "ARAVIND S",
+              year: "IV",
+              phone: 9025351218,
+              email: "aravindsureshkumar70@gmail.com",
+            },
+            {
+              name: "AADHITYA RAJ V",
+              year: "III",
+              phone: 6374492710,
+              email: "aadhithya3210@gmail.com",
+            },
+            {
+              name: "NAADIRA SAHAR N",
+              year: "III",
+              phone: 8608595118,
+              email: "naadirasahar18@gmail.com",
+            },
+            {
+              name: "YUGENDARAN G",
+              year: "III",
+              phone: 9464272504,
+              email: "gyugendaran05@gmail.com",
+            },
+          ],
+        },
         
-  //     },
-  //     {
-  //       name: "Cyber security",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       logo: "EventsAssets/itw3.webp",
-  //       link: "https://shorturl.at/dyGX5",
-  //       day1: {
-  //         date: "27.10.2023 ",
-  //         time: "9:00 -3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "CSE 1F LH 01 ",
-  //         list: true,
-  //         topic:
-  //           "Understanding Cybersecurity. Significance and Real-world Examples .  Self-Defense Strategies. Application Security.Live Hacking Demo             ",
-  //         resource: [
-  //           {
-  //             name: "Mr. Sanjay Kumar D S",
-  //             desig: "Cybersecurity Analyst and Ethical Hacker",
-  //             phone: 6382459254,
-  //             // email: "",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Mr. Balaji",
-  //             desig: "Assistant Professor",
-  //             phone: 9042328457,
-  //             email: "balajii@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Rajesh K",
-  //             year: "III ",
-  //             phone: 9150841707,
-  //             email: "mahirajesh291@gmail.com",
-  //           },
-  //           {
-  //             name: "Sugavarathan L",
-  //             year: "III ",
-  //             phone: 7010268757,
-  //             email: "sugavarathan003@gmail.com",
-  //           },
-  //           {
-  //             name: "Sujithra D",
-  //             year: "II",
-  //             phone: 8667385033,
-  //             email: "sujithradhayalan@gmail.com",
-  //           },
-  //           {
-  //             name: "Shruthi S",
-  //             year: "II",
-  //             phone: 6374757716,
-  //             email: "shruthi2307.july@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //     {
-  //       name: "Cloud CI/CD Pipeline",
-  //       logo: "EventsAssets/itw4.webp",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       company: "Synopsys Pvt Ltd",
-  //       link: "https://docs.google.com/forms/d/e/1FAIpQLSd1nx3KZvYz2JOJe_8M71EI5XmX6YTYjmopnkeZlXoTV6AjGw/viewform",
-  //       day1: {
-  //         date: "30.10.2023 ",
-  //         time: "9:00 -3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "CSE GF LH 02 ",
-  //         list: true,
-  //         topic:
-  //           " Fundamentals of Software Development.\n Knowledge of IT Operations.\nSecurity Awareness.\nContainer and Kubernetes",
-  //         resource: [
-  //           {
-  //             name: "Mr. Praveen Kumar V",
-  //             desig: "Source Code Reviewer",
-  //             phone: 6379346410,
-  //             email:"Praveenkumarvelu190@gmail.com",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms. Abinaya G",
-  //             desig: "Assistant Professor",
-  //             phone: 9500206093,
-  //             email: "gabinaya@saveetha.ac.in",
-  //           },
-  //           {
-  //             name: "Ms.Karthika RN",
-  //             desig: "Assistant Professor",
-  //             phone: 8248816873,
-  //             email: "karthikarn@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Swathi A",
-  //             year: "IV ",
-  //             phone: 8248096438,
-  //             email: "swathi7203@gmail.com",
-  //           },
-  //           {
-  //             name: "Deepa S",
-  //             year: "IV ",
-  //             phone: 8754574363,
-  //             email: "deepalaga@gmail.com",
-  //           },
-  //           {
-  //             name: "Rajesh K",
-  //             year: "III ",
-  //             phone: 9150841707,
-  //             email: "mahirajesh291@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //       day2: {
-  //         date: "31.10.2023 ",
-  //         time: "9:00 -3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "CSE GF LH 02 ",
-  //         list: true,
-  //       topic:
-  //           "Continuous Integration/Continuous Delivery (CI/CD).\nSecurity Tools.\nContainer and Kubernetes.\nCreate an entire pipeline locally (Hands-on).\nCreate an entire pipeline in the cloud (Hands-on) ",
-  //         resource: [
-  //           {
-  //             name: "Mr. Sanjay Kumar D S",
-  //             desig: "Cybersecurity Analyst and Ethical Hacker",
-  //             phone: 6382459254,
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms. Abinaya G",
-  //             desig: "Assistant Professor",
-  //             phone: 9500206093,
-  //             email: "gabinaya@saveetha.ac.in",
-  //           },
-  //           {
-  //             name: "Ms.Karthika RN",
-  //             desig: "Assistant Professor",
-  //             phone: 8248816873,
-  //             email: "karthikarn@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Swathi A",
-  //             year: "IV ",
-  //             phone: 8248096438,
-  //             email: "swathi7203@gmail.com",
-  //           },
-  //           {
-  //             name: "Deepa S",
-  //             year: "IV ",
-  //             phone: 8754574363,
-  //             email: "deepalaga@gmail.com",
-  //           },
-  //           {
-  //             name: "Rajesh K",
-  //             year: "III ",
-  //             phone: 9150841707,
-  //             email: "mahirajesh291@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //     {
-  //       name: " Advanced AI Analytics in Healthcare",
-  //       logo: "EventsAssets/itw5.webp",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       company: "Saveetha School of Engineering",
-  //       link: "https://forms.gle/WaUCWeNUhi7Kf8Er7",
-  //       day1: {
-  //         date: "31.10.2023 ",
-  //         time: "9:00 -3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "blockchain",
-  //         list: true,
-  //         topic:
-  //           "Forenoon session: AI’s Role in Disease Diagonisation – Introduction.\nConvolutional Neural Networks (CNN) for medical image analysis- Hands on.\nRecurrent Neural Networks (RNN) for time series data-Hands on.\nText classification and sentiment analysis.- Hands-on.\nNamed Entity Recognition (NER) for clinical text – Hands –on.\n11 Critical Diseases Detection AI Strategies – Hands on. \nAfternoon Session: Overview of Best Medical AI Softwares Regulatory considerations and compliance (HIPAA, GDPR, etc).\nCase Study: Generative AI in healthcare – Hands on",
-  //         resource: [
-  //           {
-  //             name: "Dr.M.Prakash",
-  //             desig: "Associate Professor",
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Dr.S.Vidhya",
-  //             desig: "Associate Professor",
-  //             phone: 9444778865,
-  //             email: "vidhya@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "ARAVIND S",
-  //             year: "IV",
-  //             phone: 9025351218,
-  //             email: "aravindsureshkumar70@gmail.com",
-  //           },
-  //           {
-  //             name: "Monicka S",
-  //             year: "III ",
-  //             phone: 9345410530,
-  //             email: "smonicka19@gmail.com",
-  //           },
-  //           {
-  //             name: "Dharshini S",
-  //             year: "III ",
-  //             phone: 7200972014,
-  //             email: "dharshinirsenthilkumar@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //     {
-  //       name: "LLMs and Prompt Engineering",
-  //       logo: "EventsAssets/itw7.webp",
-  //       tag: "WORKSHOP",
-  //       color: "0, 70, 90",
-  //       company: "InLustro",
-  //       link: "https://forms.gle/Sb7woJ96Jwm6X6M66",
-  //       day1: {
-  //         date: "26.10.2023 ",
-  //         time: "9:00am - 3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "Admin 5F LH 2",
-  //         list: true,
-  //         topic:
-  //           "Introduction to Language Models and Prompt Engineering Building Your First Language Model and Prompt Engineering",
-  //           resource: [
-  //             {
-  //               name: "Sreekanth Tadakaluru",
-  //               desig: "Data Scientist",
-  //               phone: 7338709583,
-  //             },
-  //           ],
-  //         staff: [
-  //           {
-  //             name: "Ms. Abinaya G",
-  //             desig: "Assistant Professor",
-  //             phone: 9500206093,
-  //             email: "gabinaya@saveetha.ac.in",
-  //           },
-  //           {
-  //             name: "Ms.Karthika RN",
-  //             desig: "Assistant Professor",
-  //             phone: 8248816873,
-  //             email: "karthikarn@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Raghul M",
-  //             year: "IV",
-  //             phone: 9025273351,
-  //             email: "raghulmalai21@gmail.com",
-  //           },
-  //           {
-  //             name: "Manoj MV",
-  //             year: "II",
-  //             phone: 9789895273,
-  //             email: "manojvelmurugan04@gmail.com",
-  //           },
-  //           {
-  //             name: "Dinesh Kumaraa K",
-  //             year: "II",
-  //             phone: 8438923349,
-  //             email: "dineshkumaraa03@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //       day2: {
-  //         date: "27.10.2023 ",
-  //         time: "9:00am - 3.00pm",
-  //         mode: "OFFLINE",
-  //         venue: "Admin 5F LH 2",
-  //         list: true,
-  //         topic:
-  //           "Applications of Language Models with Effective Prompt Engineering Advanced Techniques, Responsible AI, and Deploying Models with Custom Prompts ",
-  //         resource: [
-  //           {
-  //             name: "Sreekanth Tadakaluru",
-  //             desig: "Data Scientist",
-  //             phone: 7338709583,
-  //           },
-  //         ],
-  //         staff: [
-  //           {
-  //             name: "Ms. Abinaya G",
-  //             desig: "Assistant Professor",
-  //             phone: 9500206093,
-  //             email: "gabinaya@saveetha.ac.in",
-  //           },
-  //           {
-  //             name: "Ms.Karthika RN",
-  //             desig: "Assistant Professor",
-  //             phone: 8248816873,
-  //             email: "karthikarn@saveetha.ac.in",
-  //           },
-  //         ],
-  //         student: [
-  //           {
-  //             name: "Raghul M",
-  //             year: "IV",
-  //             phone: 9025273351,
-  //             email: "raghulmalai21@gmail.com",
-  //           },
-  //           {
-  //             name: "Manoj MV",
-  //             year: "II",
-  //             phone: 9789895273,
-  //             email: "manojvelmurugan04@gmail.com",
-  //           },
-  //           {
-  //             name: "Dinesh Kumaraa K",
-  //             year: "II",
-  //             phone: 8438923349,
-  //             email: "dineshkumaraa03@gmail.com",
-  //           },
-  //         ],
-  //       },
-  //     },
-  //   ],
-  // },
+      },
+      {
+        name: "Cyber security",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        logo: "EventsAssets/itw3.webp",
+        link: "https://shorturl.at/dyGX5",
+        day1: {
+          date: "27.10.2023 ",
+          time: "9:00 -3.00pm",
+          mode: "OFFLINE",
+          venue: "CSE 1F LH 01 ",
+          list: true,
+          topic:
+            "Understanding Cybersecurity. Significance and Real-world Examples .  Self-Defense Strategies. Application Security.Live Hacking Demo             ",
+          resource: [
+            {
+              name: "Mr. Sanjay Kumar D S",
+              desig: "Cybersecurity Analyst and Ethical Hacker",
+              phone: 6382459254,
+              // email: "",
+            },
+          ],
+          staff: [
+            {
+              name: "Mr. Balaji",
+              desig: "Assistant Professor",
+              phone: 9042328457,
+              email: "balajii@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Rajesh K",
+              year: "III ",
+              phone: 9150841707,
+              email: "mahirajesh291@gmail.com",
+            },
+            {
+              name: "Sugavarathan L",
+              year: "III ",
+              phone: 7010268757,
+              email: "sugavarathan003@gmail.com",
+            },
+            {
+              name: "Sujithra D",
+              year: "II",
+              phone: 8667385033,
+              email: "sujithradhayalan@gmail.com",
+            },
+            {
+              name: "Shruthi S",
+              year: "II",
+              phone: 6374757716,
+              email: "shruthi2307.july@gmail.com",
+            },
+          ],
+        },
+      },
+      {
+        name: "Cloud CI/CD Pipeline",
+        logo: "EventsAssets/itw4.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        company: "Synopsys Pvt Ltd",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSd1nx3KZvYz2JOJe_8M71EI5XmX6YTYjmopnkeZlXoTV6AjGw/viewform",
+        day1: {
+          date: "30.10.2023 ",
+          time: "9:00 -3.00pm",
+          mode: "OFFLINE",
+          venue: "CSE GF LH 02 ",
+          list: true,
+          topic:
+            " Fundamentals of Software Development.\n Knowledge of IT Operations.\nSecurity Awareness.\nContainer and Kubernetes",
+          resource: [
+            {
+              name: "Mr. Praveen Kumar V",
+              desig: "Source Code Reviewer",
+              phone: 6379346410,
+              email:"Praveenkumarvelu190@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. Abinaya G",
+              desig: "Assistant Professor",
+              phone: 9500206093,
+              email: "gabinaya@saveetha.ac.in",
+            },
+            {
+              name: "Ms.Karthika RN",
+              desig: "Assistant Professor",
+              phone: 8248816873,
+              email: "karthikarn@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Swathi A",
+              year: "IV ",
+              phone: 8248096438,
+              email: "swathi7203@gmail.com",
+            },
+            {
+              name: "Deepa S",
+              year: "IV ",
+              phone: 8754574363,
+              email: "deepalaga@gmail.com",
+            },
+            {
+              name: "Rajesh K",
+              year: "III ",
+              phone: 9150841707,
+              email: "mahirajesh291@gmail.com",
+            },
+          ],
+        },
+        day2: {
+          date: "31.10.2023 ",
+          time: "9:00 -3.00pm",
+          mode: "OFFLINE",
+          venue: "CSE GF LH 02 ",
+          list: true,
+        topic:
+            "Continuous Integration/Continuous Delivery (CI/CD).\nSecurity Tools.\nContainer and Kubernetes.\nCreate an entire pipeline locally (Hands-on).\nCreate an entire pipeline in the cloud (Hands-on) ",
+          resource: [
+            {
+              name: "Mr. Sanjay Kumar D S",
+              desig: "Cybersecurity Analyst and Ethical Hacker",
+              phone: 6382459254,
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. Abinaya G",
+              desig: "Assistant Professor",
+              phone: 9500206093,
+              email: "gabinaya@saveetha.ac.in",
+            },
+            {
+              name: "Ms.Karthika RN",
+              desig: "Assistant Professor",
+              phone: 8248816873,
+              email: "karthikarn@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Swathi A",
+              year: "IV ",
+              phone: 8248096438,
+              email: "swathi7203@gmail.com",
+            },
+            {
+              name: "Deepa S",
+              year: "IV ",
+              phone: 8754574363,
+              email: "deepalaga@gmail.com",
+            },
+            {
+              name: "Rajesh K",
+              year: "III ",
+              phone: 9150841707,
+              email: "mahirajesh291@gmail.com",
+            },
+          ],
+        },
+      },
+      {
+        name: " Advanced AI Analytics in Healthcare",
+        logo: "EventsAssets/itw5.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        company: "Saveetha School of Engineering",
+        link: "https://forms.gle/WaUCWeNUhi7Kf8Er7",
+        day1: {
+          date: "31.10.2023 ",
+          time: "9:00 -3.00pm",
+          mode: "OFFLINE",
+          venue: "blockchain",
+          list: true,
+          topic:
+            "Forenoon session: AI’s Role in Disease Diagonisation – Introduction.\nConvolutional Neural Networks (CNN) for medical image analysis- Hands on.\nRecurrent Neural Networks (RNN) for time series data-Hands on.\nText classification and sentiment analysis.- Hands-on.\nNamed Entity Recognition (NER) for clinical text – Hands –on.\n11 Critical Diseases Detection AI Strategies – Hands on. \nAfternoon Session: Overview of Best Medical AI Softwares Regulatory considerations and compliance (HIPAA, GDPR, etc).\nCase Study: Generative AI in healthcare – Hands on",
+          resource: [
+            {
+              name: "Dr.M.Prakash",
+              desig: "Associate Professor",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr.S.Vidhya",
+              desig: "Associate Professor",
+              phone: 9444778865,
+              email: "vidhya@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "ARAVIND S",
+              year: "IV",
+              phone: 9025351218,
+              email: "aravindsureshkumar70@gmail.com",
+            },
+            {
+              name: "Monicka S",
+              year: "III ",
+              phone: 9345410530,
+              email: "smonicka19@gmail.com",
+            },
+            {
+              name: "Dharshini S",
+              year: "III ",
+              phone: 7200972014,
+              email: "dharshinirsenthilkumar@gmail.com",
+            },
+          ],
+        },
+      },
+      {
+        name: "LLMs and Prompt Engineering",
+        logo: "EventsAssets/itw7.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        company: "InLustro",
+        link: "https://forms.gle/Sb7woJ96Jwm6X6M66",
+        day1: {
+          date: "26.10.2023 ",
+          time: "9:00am - 3.00pm",
+          mode: "OFFLINE",
+          venue: "Admin 5F LH 2",
+          list: true,
+          topic:
+            "Introduction to Language Models and Prompt Engineering Building Your First Language Model and Prompt Engineering",
+            resource: [
+              {
+                name: "Sreekanth Tadakaluru",
+                desig: "Data Scientist",
+                phone: 7338709583,
+              },
+            ],
+          staff: [
+            {
+              name: "Ms. Abinaya G",
+              desig: "Assistant Professor",
+              phone: 9500206093,
+              email: "gabinaya@saveetha.ac.in",
+            },
+            {
+              name: "Ms.Karthika RN",
+              desig: "Assistant Professor",
+              phone: 8248816873,
+              email: "karthikarn@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Raghul M",
+              year: "IV",
+              phone: 9025273351,
+              email: "raghulmalai21@gmail.com",
+            },
+            {
+              name: "Manoj MV",
+              year: "II",
+              phone: 9789895273,
+              email: "manojvelmurugan04@gmail.com",
+            },
+            {
+              name: "Dinesh Kumaraa K",
+              year: "II",
+              phone: 8438923349,
+              email: "dineshkumaraa03@gmail.com",
+            },
+          ],
+        },
+        day2: {
+          date: "27.10.2023 ",
+          time: "9:00am - 3.00pm",
+          mode: "OFFLINE",
+          venue: "Admin 5F LH 2",
+          list: true,
+          topic:
+            "Applications of Language Models with Effective Prompt Engineering Advanced Techniques, Responsible AI, and Deploying Models with Custom Prompts ",
+          resource: [
+            {
+              name: "Sreekanth Tadakaluru",
+              desig: "Data Scientist",
+              phone: 7338709583,
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. Abinaya G",
+              desig: "Assistant Professor",
+              phone: 9500206093,
+              email: "gabinaya@saveetha.ac.in",
+            },
+            {
+              name: "Ms.Karthika RN",
+              desig: "Assistant Professor",
+              phone: 8248816873,
+              email: "karthikarn@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "Raghul M",
+              year: "IV",
+              phone: 9025273351,
+              email: "raghulmalai21@gmail.com",
+            },
+            {
+              name: "Manoj MV",
+              year: "II",
+              phone: 9789895273,
+              email: "manojvelmurugan04@gmail.com",
+            },
+            {
+              name: "Dinesh Kumaraa K",
+              year: "II",
+              phone: 8438923349,
+              email: "dineshkumaraa03@gmail.com",
+            },
+          ],
+        },
+      },
+    ],
+  },
   
   // {
   //   id: "csiot",

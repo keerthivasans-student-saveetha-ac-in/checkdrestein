@@ -219,7 +219,7 @@ const Footer = () => {
               <Avatar size="sm" src={`PeopleAssets/webcoordinators/webco5 (white).jpg`} />
             }
             >
-            TANEESHA KANNAN
+            TANESSHA KANNAN
           </Chip>
           </a>
 
@@ -228,16 +228,6 @@ const Footer = () => {
 
         <div className="block">
         <h4 className="heading" align="center" >DSC MEMBERS</h4>
-        
-        <Chip
-            size="lg"
-            style={{ backgroundColor: "transparent" }}
-            startDecorator={
-              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
-            }
-            >
-            ALMA JOECIN E (AGRI) - 7305894860
-        </Chip>
         
         <Chip
             size="lg"
@@ -276,7 +266,37 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
+            VINOTH KUMAR V (CIVIL) - 9884513579
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            NEVIL JOE FERDIN P (EEE) - 9360507661
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
             GEOFFREY MICHAEL G (EIE) - 8940107410
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
+            MOHITH R (MBA) - 6374394052
         </Chip>
 
         <Chip
@@ -314,7 +334,6 @@ const Footer = () => {
             style={{ backgroundColor: "transparent" }}
             startDecorator={
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
-              // <Avatar size="sm" src={`PeopleAssets/dscmembers/dsc1.webp`} />
             }
             >
             YAMUNAASRI T S (SCOFT) - 9884497722
