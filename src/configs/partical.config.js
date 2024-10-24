@@ -1,7 +1,7 @@
 // export const Particle = {
 //   "particles": {
 //     "number": {
-//       "value": 50, // Number of particles
+//       "value": 70, // Number of particles
 //       "density": {
 //         "enable": true,
 //         "value_area": 800
@@ -96,7 +96,7 @@
 export const Particle = {
   "particles": {
     "number": {
-      "value": 40, // Reduced number of particles (25% of 380)
+      "value": 60, // Reduced number of particles (25% of 380)
       "density": {
         "enable": true,
         "value_area": 800
@@ -121,7 +121,7 @@ export const Particle = {
       }
     },
     "opacity": {
-      "value": 0.4,
+      "value": 0.5,
       "random": false,
       "anim": {
         "enable": false,

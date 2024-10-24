@@ -40,7 +40,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Main />} />
               <Route path="form" element={<Form />} />
-              {/* <Route path="events" element={<Events />} /> */}
+              <Route path="events" element={<Events />} />
               <Route path="AB" element={<Ab />} />
               <Route path="Departments" element={<Departments />} />
               <Route path="Admin/login" element={<UserProvider><SignIn /></UserProvider> } />
@@ -56,6 +56,7 @@ function App() {
                       width: "100%",
                     }}
                   >
+                    <h1> </h1>
                     <h1>Update in Progress... Stay Tuned 😉</h1>
                    
                   </div>

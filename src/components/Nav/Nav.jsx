@@ -23,11 +23,6 @@ const Navbar = styled.nav`
   width: 100%;
   position: sticky;
   top: 0;
-  // box-shadow: 0px 1px 2px #00CC0040, 
-  //             0px 2px 4px #00CC0040, 
-  //             0px 4px 8px #00CC0040, 
-  //             0px 8px 16px #00CC0040;
-
   @media screen and (max-width: 600px) {
     top: -80px;
     flex-direction: column;
@@ -54,7 +49,7 @@ const rotate = keyframes`
 `;
 
 const DLogo = styled.img`
-  width: 23%;
+  width: 22%;
   margin-right: 10px;
   animation: ${rotate} 7s infinite linear;
   transform-origin: center;
