@@ -388,7 +388,7 @@ export default function ConditionalValidationGrid() {
           marginLeft: "400px",
         }}
       >
-        TOTAL AMOUT : {totalA}💸
+        TOTAL AMOUNT : {totalA}💸
       </h3>
       <h3
         style={{
@@ -397,7 +397,7 @@ export default function ConditionalValidationGrid() {
           marginLeft: "700px",
         }}
       >
-        RECEIVED AMOUT : {collectedcash}💸
+        RECEIVED AMOUNT : {collectedcash}💸
       </h3>
     </Box>
   );

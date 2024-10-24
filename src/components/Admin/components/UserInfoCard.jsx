@@ -64,7 +64,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
 
   const fetchUsers = async()=>{
     const {data,error} = await supabase
-    .from('RegisteredPeople')
+    .from('RegisteredPeople1')
     .select()
 
     if(error){
@@ -85,7 +85,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
   // useEffect(()=>{
   //   const fetchuser  = async()=>{
   //     const {data,error} = await supabase
-  //     .from('RegisteredPeople')
+  //     .from('RegisteredPeople1')
   //     .select()
   //     .eq('userRef', userRef) // Correct
   //     .on('UPDATE',(payload)=>{
@@ -107,7 +107,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
   const handleChange = async (e, id, AmountPaid) => {
     setload(true);
     // setChecked(pre=>!pre)
-    const docRef = doc(db, "RegisteredPeople", `${id}`);
+    const docRef = doc(db, "RegisteredPeople1", `${id}`);
     console.log(e.target.checked);
     let amount = 0;
     if (e.target.checked) {
@@ -116,7 +116,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
       amount = AmountPaid - 200;
     }
     const {data,error}  = await supabase
-    .from('RegisteredPeople')
+    .from('RegisteredPeople1')
     .update({
         cashPaid: e.target.checked,
         AmountPaid: amount,
@@ -165,7 +165,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
     }
  
     const {data,error}  = await supabase
-    .from('RegisteredPeople')
+    .from('RegisteredPeople1')
     .update( {
       cashPaidForProject: e.target.checked,
       AmountPaid: amount,
@@ -211,7 +211,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
     }
 
     const {data,error}  = await supabase
-    .from('RegisteredPeople')
+    .from('RegisteredPeople1')
     .update( {
       cashPaidForPaper: e.target.checked,
       AmountPaid: amount,

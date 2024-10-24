@@ -271,7 +271,7 @@ export default function UpdateForm({
 
     console.log(Amountpaid);
     const {data,error}  = await supabase
-    .from('RegisteredPeople')
+    .from('RegisteredPeople1')
     .update( {
       CashToBePaid: totalAmount,
       DepartEvent: Event,

@@ -39,7 +39,7 @@ function SingleUserPage() {
 
   const params = useParams();
   const userid = params.userid;
-  const [Registeredpeople, setRegistredPeople] = useState([]);
+  const [Registeredpeople1, setRegistredPeople] = useState([]);
   const [load, setLoad] = useState(true);
   //    http://localhost:3000/user/qlkwnfdklwqfn
 
@@ -105,11 +105,11 @@ if(RegUsers.length>0){
 
   return (
     <SingleUserMain>
-      {Registeredpeople.length === 0 ? (
+      {Registeredpeople1.length === 0 ? (
         <h1>user Not Found</h1>
       ) : (
         <div>
-          {Registeredpeople.map((data) => {
+          {Registeredpeople1.map((data) => {
             const {
               lname,
               fname,

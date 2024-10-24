@@ -190,7 +190,7 @@ const Form = () => {
         SecureToken: process.env.REACT_APP_EMAILCODE_ID,
         To: formdata.email,
 
-        From: "dresteinsaveetha2022@gmail.com",
+        From: "drestein@saveetha.ac.in",
 
         Subject:
           "Congrats! Your registration for Drestein is complete 🎉",
@@ -233,7 +233,7 @@ const Form = () => {
 
 
            const {data,error} = await supabase
-           .from('RegisteredPeople')
+           .from('RegisteredPeople1')
            .insert([formdata])
        
             
@@ -277,7 +277,7 @@ const Form = () => {
 
   //     // });
   //      const {data,error} = await  supabase
-  //     .from('RegisteredPeople')
+  //     .from('RegisteredPeople1')
   //     .select()
   //     .eq('email',email)
   //     .single()
@@ -285,7 +285,7 @@ const Form = () => {
   //     if(error){
   //       toast.error(error)
   //       console.log(error)
-  //       reject("some error in check user exist")
+  //       reject("some error in check user exist")x
 
 
 
@@ -550,7 +550,7 @@ const Form = () => {
           }}
         >
           <CssVarsProvider theme={theme} className="formsheet">
-            {1 ? (
+            {0 ? (
               <div
                 style={{
                   fontSize: "2vw",
@@ -563,7 +563,7 @@ const Form = () => {
               >
               </div>
             ) : null}
-            {0 ? (
+            {1 ? (
               <form
                 onSubmit={handlesubmit}
                 style={{ marginInline: "auto" }}

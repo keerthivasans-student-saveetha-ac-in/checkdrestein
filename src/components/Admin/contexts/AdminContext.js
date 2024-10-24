@@ -51,7 +51,7 @@ const [change,setchange] = useState(false)
 
     const fetchUsers = async()=>{
       const {data,error} = await supabase
-      .from('RegisteredPeople')
+      .from('RegisteredPeople1')
       .select()
   
       if(error){
