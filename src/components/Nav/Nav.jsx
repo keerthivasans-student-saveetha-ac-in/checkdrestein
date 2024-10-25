@@ -5,15 +5,16 @@ import saveethalogo from "../../assets/logo.webp";
 import Mobilenav from "./Mobilenav";
 import { HiOutlineMenuAlt1 } from "react-icons/hi";
 import { CgClose } from "react-icons/cg";
-
 import "./styles/HambBurger.css";
 import { HashLink as Link } from "react-router-hash-link";
+import NavMenu from './NavMenu';  // <-- Import NavMenu
 
+// Styled components for Navbar
 const Navbar = styled.nav`
   color: rgb(255, 255, 255);
   -webkit-backdrop-filter: blur(30px);
   backdrop-filter: blur(10px);
-  padding-bottom: 1rem;
+  padding-bottom: 3rem;
   border-radius: 0 0 10px 10px;
   z-index: 1000000;
   display: flex;
@@ -23,8 +24,18 @@ const Navbar = styled.nav`
   width: 100%;
   position: sticky;
   top: 0;
+  box-shadow: 0px 1px 2px rgba(0, 100, 0, 0.5), 
+            0px 2px 4px rgba(0, 100, 0, 0.5), 
+            0px 4px 8px rgba(0, 100, 0, 0.5), 
+            0px 8px 16px rgba(0, 100, 0, 0.5);
+
   @media screen and (max-width: 600px) {
     top: -80px;
+    box-shadow: 0px 1px 2px rgba(0, 100, 0, 0.5), 
+            0px 2px 4px rgba(0, 100, 0, 0.5), 
+            0px 4px 8px rgba(0, 100, 0, 0.5), 
+            0px 8px 16px rgba(0, 100, 0, 0.5);
+
     flex-direction: column;
     gap: 20px;
     padding-left: 0;
@@ -57,6 +68,7 @@ const DLogo = styled.img`
     width: 16%;
   }
 `;
+
 const LogoHead = styled.div`
   display: flex;
   flex-direction: row;
@@ -75,12 +87,11 @@ const EventLogo = styled.div`
   justify-content: center;
   align-items: center;
   min-width: 100px;
-  @media screen and (max-width: 600px) {
-  }
 `;
+
 const DresteinLetter = styled.p`
   font-size: 2.2vw;
-  font-family: "Azonix", sans-serif;
+  font-family: "x", sans-serif;
   letter-spacing: 1.5px;
   color: rgb(255, 255, 255);
   align-self: center;
@@ -91,22 +102,9 @@ const DresteinLetter = styled.p`
   }
 `;
 
-// const Year = styled.p`
-//   font-size: 1vw;
-//   font-family: Montserrat, sans-serif;
-//   font-weight: 800;
-//   color: rgb(255, 255, 255);
-//   text-align: center;
-//   height: auto;
-//   letter-spacing: 0.8em;
-//   margin-left: 1.5em;
-//   @media screen and (max-width: 600px) {
-//     font-size: 3vw;
-//   }
-
 const Year = styled.p`
   font-size: 1vw;
-  font-family: "Azonix", sans-serif;
+  font-family: "x", sans-serif;
   font-weight: 800;
   color: rgb(255, 255, 255);
   text-align: center;
@@ -117,6 +115,30 @@ const Year = styled.p`
     font-size: 3vw;
   }
 `;
+
+// Adding glowing effect to NavItem
+const NavItem = styled.a`
+  color: #fff;  /* Text color */
+  text-transform: uppercase;  /* Uppercase text */
+  font-size: 1.4vw;  /* Font size for the buttons */
+  cursor: pointer;  /* Pointer cursor on hover */
+  text-decoration: none;  /* No underline */
+  padding: 10px 19px;  /* Padding for the buttons */
+  border-radius: 5px;  /* Rounded corners */
+  transition: 0.3s ease-in-out;  /* Transition effect */
+
+  /* Initial box-shadow (no glow) */
+  box-shadow: inset 0px 0px 5px rgba(0, 100, 0, 0.1), 0px 0px 10px rgba(0, 100, 0, 0.3); /* Dark green shadow */
+
+  &:hover {
+    /* On hover, add glowing effect with stronger shadows */
+    box-shadow: 0px 0px 15px rgba(0, 100, 0, 0.8), 0px 0px 30px rgba(0, 100, 0, 0.5), 0px 0px 45px rgba(0, 100, 0, 1); /* Dark green glow */
+    transform: translateY(-3px); /* Slight lift effect */
+  }
+`;
+
+
+
 const NavHead = styled.ul`
   list-style: none;
   display: flex;
@@ -127,13 +149,7 @@ const NavHead = styled.ul`
     display: none;
   }
 `;
-const NavItem = styled.a`
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 1.5vw;
-  cursor: pointer;
-  text-decoration: none;
-`;
+
 const MobileNavHeader = styled.div`
   display: flex;
   justify-content: center;
@@ -144,42 +160,41 @@ const MobileNavHeader = styled.div`
   align-self: flex-start;
 `;
 
+// Main Nav component
 function Nav() {
-  const navstyle = {
-    "@media (maxWidth: 500px)": {
-      top: "-80px",
-    },
-  };
   const [openMenu, setOpenMenu] = useState(false);
 
   return (
-    <Navbar className="navbar" style={navstyle}>
-      
+    <Navbar className="navbar">
       <SLogo src={saveethalogo} />
       <NavHead>
         <Link style={{ textDecoration: "inherit" }} to="/#">
-          <NavItem>Home</NavItem>
+          <NavItem>HOME</NavItem>
         </Link>
         <Link style={{ textDecoration: "inherit" }} to="/Departments#">
-          <NavItem>Departments</NavItem>
+          <NavItem>DEPARTMENTS</NavItem>
         </Link>
         <Link style={{ textDecoration: "inherit" }} to="/Events#">
-          <NavItem>Events</NavItem>
+          <NavItem>EVENTS</NavItem>
         </Link>
         <Link style={{ textDecoration: "inherit" }} to="/form#">
-          <NavItem>Register</NavItem>
+          <NavItem>REGISTER</NavItem>
         </Link>
         <Link style={{ textDecoration: "inherit" }} to="/Ab#">
-          <NavItem>About us</NavItem>
+          <NavItem>About Us</NavItem>
         </Link>
-        
+
+        {/* Add NavMenu component */}
+        <NavMenu />
       </NavHead>
+
       <Mobilenav openMenu={openMenu} setOpenMenu={setOpenMenu} />
       <div className="icon" onClick={() => setOpenMenu(!openMenu)}>
         {openMenu ? <CgClose /> : <HiOutlineMenuAlt1 />}
       </div>
+
       <MobileNavHeader>
-        <Link to="/#" style={{ "text-decoration": "none" }}>
+        <Link to="/#" style={{ textDecoration: "none" }}>
           <LogoHead>
             <DLogo src={dresteinLogo} alt="DresteinLogo" />
             <EventLogo>
@@ -193,4 +208,4 @@ function Nav() {
   );
 }
 
-export default Nav;
+export default Nav; 
