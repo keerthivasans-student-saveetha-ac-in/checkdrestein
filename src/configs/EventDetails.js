@@ -1339,7 +1339,7 @@ export const EventDetails = [
       },
       {
         name: "CHALLENGES, BENIFITS AND FUTURE OF DRONE TECHNOLOGY",
-        logo: "EventsAssets/agri24.webp",
+        logo: "EventsAssets/Workshops/agri24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSfHfmXxz77N3HMInRnFNN6yk4hYJMmDKlhuX6Griob5cLs3JQ/viewform",
@@ -3082,119 +3082,119 @@ export const EventDetails = [
         logo: "/EventsAssets/Workshops/civilw1.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        company:"Techmaax",
-        desc: "Cipher Hunt is a cybersecurity competition that is all about finding weaknesses and exploiting loopholes in various computer programs. It aims to engage participants in the creative exploration of real-world computer security by distilling the significant disciplines of professional cybersecurity into short, objectively measurable exercises.An ethical hacking contest in which contestants will have to find pieces of information, called ‘flags’, hidden in each of the challenges. So, assemble your team, prepare to decrypt hidden messages, exploit vulnerabilities, and do whatever it takes to Hunt!",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSd1YjNa3lgwmANBmkcjksymUGNOgmHJMSq_6L4_AdQ9kFKlbg/viewform?usp=pp_url",
-        day1: {
-          date: "27/10/2023",
-          time: "FULL DAY",
-          mode: "OFFLINE",
-          topic:"Revit Architecture",
-          venue: "TBA",
-          resource: [
-            {
-              name: "Vishali",
-              desig: "Senior BIM trainer ",
-              phone: 9884673258 ,
-              email: "techmaax@sa3dsolutions.com ",
-            },
-          ],
-          staff: [
-            {
-              name: "Mrs. Amsayazhi pandian ",
-              desig: "Associate Professor",
-              phone: 8870140626,
-              email: "amsayazhip@saveetha.ac.inQQ ",
-            },
-            {
-              name: "Mrs. Yamini roja  ",
-              desig: "Associate Professor",
-              phone: 9500548311 ,
-              email: "yaminiroja@saveetha.ac.in  ",
-            },
-            {
-              name: "Mrs.Theerkadharshini  ",
-              desig: "Associate Professor",
-              phone: 9597594405 ,
-              email: "theerkadharshinis@gmail.com  ",
-            },
-          ],
-          student: [
-            {
-              name: "Abilasha M ",
-              year: "IV",
-              phone: 9025443725 ,
-              email: "abilasha1309@gmail.com ",
-            },
-            {
-              name: "Priya kumari  ",
-              year: "IV",
-              phone: 9679519489 ,
-              email: "priyakumari11600@gmail.com  ",
-            },
-            {
-              name: "Mithun ",
-              year: "III",
-              phone: 9943941000  ,
-              email: "mithunra2306@gmail.com ",
-            },
-          ],
-        },
-        day2: {
-          date: "28/10/2023",
-          time: "FULL DAY",
-          mode: "OFFLINE",
-          topic:"Revit Map - Revit Structure",
-          venue: "TBA",
-          resource: [
-            {
-              name: "Vishali",
-              desig: "Senior BIM trainer ",
-              phone: 9884673258 ,
-              email: "techmaax@sa3dsolutions.com ",
-            },
-          ],
-          staff: [
-            {
-              name: "Mrs. Amsayazhi pandian ",
-              desig: "Associate Professor",
-              phone: 8870140626,
-              email: "amsayazhip@saveetha.ac.inQQ ",
-            },
-            {
-              name: "Mrs. Yamini roja  ",
-              desig: "Associate Professor",
-              phone: 9500548311 ,
-              email: "yaminiroja@saveetha.ac.in  ",
-            },
-            {
-              name: "Mrs.Theerkadharshini  ",
-              desig: "Associate Professor",
-              phone: 9597594405 ,
-              email: "theerkadharshinis@gmail.com  ",
-            },
-          ],
-          student: [
-            {
-              name: "Abilasha M ",
-              year: "IV",
-              phone: 9025443725 ,
-              email: "abilasha1309@gmail.com ",
-            },
-            {
-              name: "Priya kumari  ",
-              year: "IV",
-              phone: 9679519489 ,
-              email: "priyakumari11600@gmail.com  ",
-            },
-            {
-              name: "Mithun ",
-              year: "III",
-              phone: 9943941000  ,
-              email: "mithunra2306@gmail.com ",
-            },
-          ],
-        },
+        // company:"Techmaax",
+        // desc: "Cipher Hunt is a cybersecurity competition that is all about finding weaknesses and exploiting loopholes in various computer programs. It aims to engage participants in the creative exploration of real-world computer security by distilling the significant disciplines of professional cybersecurity into short, objectively measurable exercises.An ethical hacking contest in which contestants will have to find pieces of information, called ‘flags’, hidden in each of the challenges. So, assemble your team, prepare to decrypt hidden messages, exploit vulnerabilities, and do whatever it takes to Hunt!",
+        // link: "https://docs.google.com/forms/d/e/1FAIpQLSd1YjNa3lgwmANBmkcjksymUGNOgmHJMSq_6L4_AdQ9kFKlbg/viewform?usp=pp_url",
+        // day1: {
+        //   date: "27/10/2023",
+        //   time: "FULL DAY",
+        //   mode: "OFFLINE",
+        //   topic:"Revit Architecture",
+        //   venue: "TBA",
+        //   resource: [
+        //     {
+        //       name: "Vishali",
+        //       desig: "Senior BIM trainer ",
+        //       phone: 9884673258 ,
+        //       email: "techmaax@sa3dsolutions.com ",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Mrs. Amsayazhi pandian ",
+        //       desig: "Associate Professor",
+        //       phone: 8870140626,
+        //       email: "amsayazhip@saveetha.ac.inQQ ",
+        //     },
+        //     {
+        //       name: "Mrs. Yamini roja  ",
+        //       desig: "Associate Professor",
+        //       phone: 9500548311 ,
+        //       email: "yaminiroja@saveetha.ac.in  ",
+        //     },
+        //     {
+        //       name: "Mrs.Theerkadharshini  ",
+        //       desig: "Associate Professor",
+        //       phone: 9597594405 ,
+        //       email: "theerkadharshinis@gmail.com  ",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Abilasha M ",
+        //       year: "IV",
+        //       phone: 9025443725 ,
+        //       email: "abilasha1309@gmail.com ",
+        //     },
+        //     {
+        //       name: "Priya kumari  ",
+        //       year: "IV",
+        //       phone: 9679519489 ,
+        //       email: "priyakumari11600@gmail.com  ",
+        //     },
+        //     {
+        //       name: "Mithun ",
+        //       year: "III",
+        //       phone: 9943941000  ,
+        //       email: "mithunra2306@gmail.com ",
+        //     },
+        //   ],
+        // },
+        // day2: {
+        //   date: "28/10/2023",
+        //   time: "FULL DAY",
+        //   mode: "OFFLINE",
+        //   topic:"Revit Map - Revit Structure",
+        //   venue: "TBA",
+        //   resource: [
+        //     {
+        //       name: "Vishali",
+        //       desig: "Senior BIM trainer ",
+        //       phone: 9884673258 ,
+        //       email: "techmaax@sa3dsolutions.com ",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Mrs. Amsayazhi pandian ",
+        //       desig: "Associate Professor",
+        //       phone: 8870140626,
+        //       email: "amsayazhip@saveetha.ac.inQQ ",
+        //     },
+        //     {
+        //       name: "Mrs. Yamini roja  ",
+        //       desig: "Associate Professor",
+        //       phone: 9500548311 ,
+        //       email: "yaminiroja@saveetha.ac.in  ",
+        //     },
+        //     {
+        //       name: "Mrs.Theerkadharshini  ",
+        //       desig: "Associate Professor",
+        //       phone: 9597594405 ,
+        //       email: "theerkadharshinis@gmail.com  ",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Abilasha M ",
+        //       year: "IV",
+        //       phone: 9025443725 ,
+        //       email: "abilasha1309@gmail.com ",
+        //     },
+        //     {
+        //       name: "Priya kumari  ",
+        //       year: "IV",
+        //       phone: 9679519489 ,
+        //       email: "priyakumari11600@gmail.com  ",
+        //     },
+        //     {
+        //       name: "Mithun ",
+        //       year: "III",
+        //       phone: 9943941000  ,
+        //       email: "mithunra2306@gmail.com ",
+        //     },
+        //   ],
+        // },
       },
       // {
       //   name: "Two Days Workshop and Hands-on training on Modern Surveying",
@@ -3503,131 +3503,131 @@ export const EventDetails = [
         logo: "EventsAssets/Workshops/chemw1.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdCctTzJS_-Td8gcffoufKCvalekgfek9WK570Yfymo85PCAA/viewform ",
-        day1: {
-          date: "30/10/2023",
-          time: "9:00am - 3.00pm",
-          mode: "OFFLINE",
-          venue: "RB 3F CHEMICAL REACTION ENGINEERING LAB",
-          topic:"Session 1 - Biodiesel synthesis using Third Generation  algal biomass.\nSession 2 - Hands on Training in Lipid  extraction and transesterification process for Biodiesel Synthesis",
-          resource: [
-            {
-              name: "Dr.S.Renganathan",
-              desig: "Professor",
-              phone: 9941613532,
-              email: "srenganathan@annauniv.edu",
-            },
-            {
-              name: "Dr.N.Umaiyambika",
-              desig: "Assistant Professor",
-              phone: 9444945153,
-              email:"umaiyambikan@saveetha.ac.in",
-            },
+        // link: "https://docs.google.com/forms/d/e/1FAIpQLSdCctTzJS_-Td8gcffoufKCvalekgfek9WK570Yfymo85PCAA/viewform ",
+        // day1: {
+        //   date: "30/10/2023",
+        //   time: "9:00am - 3.00pm",
+        //   mode: "OFFLINE",
+        //   venue: "RB 3F CHEMICAL REACTION ENGINEERING LAB",
+        //   topic:"Session 1 - Biodiesel synthesis using Third Generation  algal biomass.\nSession 2 - Hands on Training in Lipid  extraction and transesterification process for Biodiesel Synthesis",
+        //   resource: [
+        //     {
+        //       name: "Dr.S.Renganathan",
+        //       desig: "Professor",
+        //       phone: 9941613532,
+        //       email: "srenganathan@annauniv.edu",
+        //     },
+        //     {
+        //       name: "Dr.N.Umaiyambika",
+        //       desig: "Assistant Professor",
+        //       phone: 9444945153,
+        //       email:"umaiyambikan@saveetha.ac.in",
+        //     },
             
-          ],
-          staff: [
-            {
-              name: "Dr.N.Umaiyambika",
-              desig: "Assistant Professor",
-              phone: 9444945153,
-              email:"umaiyambikan@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Thamidalapati Lokesh",
-              year: "IV",
-              phone: 6302333052,
-              email: "lokesh18pc52@gmail.com",
-            },
-            {
-              name: "Shajan S",
-              year: "IV",
-              phone: 7695827492,
-              email: "sshajan625@gmail.com",
-            },
-          ],
-        },
-        day2: {
-          date: "31/10/2023",
-          time: "9:00am - 3.00pm",
-          mode: "OFFLINE",
-          venue: "RB 3F CHEMICAL REACTION ENGINEERING LAB ",
-          topic:"Session 1  - Design of Experiments (DOE) using Design Expert software.\nSession 2 - Hands on Session in  DOE with Problem on biodiesel synthesis",
-          resource: [
-            {
-              name: "Dr.A.Balasubramanian",
-              desig: "Associate Professor",
-              phone: 9488478235,
-              email: "balasubramaniana@saveetha.ac.in",
-            },
-            {
-              name: "Dr.N.Umaiyambika",
-              desig: "Assistant Professor",
-              phone: 9444945153,
-              email:"umaiyambikan@saveetha.ac.in",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.N.Umaiyambika",
-              desig: "Assistant Professor",
-              phone: 9444945153,
-              email:"umaiyambikan@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Thamidalapati Lokesh",
-              year: "IV",
-              phone: 6302333052,
-              email: "lokesh18pc52@gmail.com",
-            },
-            {
-              name: "Shajan S",
-              year: "IV",
-              phone: 7695827492,
-              email: "sshajan625@gmail.com",
-            },
-          ],
-        },
-        day3: {
-          date: "01/11/2023",
-          time: "9:00am - 3.00pm",
-          mode: "OFFLINE",
-          venue: " ",
-          topic:"Session 1  - Microbial Fuel Cells: A Promising Technology for Renewable Energy and Environmental Sustainability.Session 2 - Hands-On: Build Your Own Microbial Fuel Cell.",
-          resource: [
-            {
-              name: " Dr.P. Senthilkumar",
-              desig: "Associate Professor",
-              phone: 7305105056,
-              email:"senthilkumarp@saveetha.ac.in",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.N.Umaiyambika",
-              desig: "Assistant Professor",
-              phone: 9444945153,
-              email:"umaiyambikan@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Thamidalapati Lokesh",
-              year: "IV",
-              phone: 6302333052,
-              email: "lokesh18pc52@gmail.com",
-            },
-            {
-              name: "Shajan S",
-              year: "IV",
-              phone: 7695827492,
-              email: "sshajan625@gmail.com",
-            },
-          ],
-        },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.N.Umaiyambika",
+        //       desig: "Assistant Professor",
+        //       phone: 9444945153,
+        //       email:"umaiyambikan@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Thamidalapati Lokesh",
+        //       year: "IV",
+        //       phone: 6302333052,
+        //       email: "lokesh18pc52@gmail.com",
+        //     },
+        //     {
+        //       name: "Shajan S",
+        //       year: "IV",
+        //       phone: 7695827492,
+        //       email: "sshajan625@gmail.com",
+        //     },
+        //   ],
+        // },
+        // day2: {
+        //   date: "31/10/2023",
+        //   time: "9:00am - 3.00pm",
+        //   mode: "OFFLINE",
+        //   venue: "RB 3F CHEMICAL REACTION ENGINEERING LAB ",
+        //   topic:"Session 1  - Design of Experiments (DOE) using Design Expert software.\nSession 2 - Hands on Session in  DOE with Problem on biodiesel synthesis",
+        //   resource: [
+        //     {
+        //       name: "Dr.A.Balasubramanian",
+        //       desig: "Associate Professor",
+        //       phone: 9488478235,
+        //       email: "balasubramaniana@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "Dr.N.Umaiyambika",
+        //       desig: "Assistant Professor",
+        //       phone: 9444945153,
+        //       email:"umaiyambikan@saveetha.ac.in",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.N.Umaiyambika",
+        //       desig: "Assistant Professor",
+        //       phone: 9444945153,
+        //       email:"umaiyambikan@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Thamidalapati Lokesh",
+        //       year: "IV",
+        //       phone: 6302333052,
+        //       email: "lokesh18pc52@gmail.com",
+        //     },
+        //     {
+        //       name: "Shajan S",
+        //       year: "IV",
+        //       phone: 7695827492,
+        //       email: "sshajan625@gmail.com",
+        //     },
+        //   ],
+        // },
+        // day3: {
+        //   date: "01/11/2023",
+        //   time: "9:00am - 3.00pm",
+        //   mode: "OFFLINE",
+        //   venue: " ",
+        //   topic:"Session 1  - Microbial Fuel Cells: A Promising Technology for Renewable Energy and Environmental Sustainability.Session 2 - Hands-On: Build Your Own Microbial Fuel Cell.",
+        //   resource: [
+        //     {
+        //       name: " Dr.P. Senthilkumar",
+        //       desig: "Associate Professor",
+        //       phone: 7305105056,
+        //       email:"senthilkumarp@saveetha.ac.in",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.N.Umaiyambika",
+        //       desig: "Assistant Professor",
+        //       phone: 9444945153,
+        //       email:"umaiyambikan@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Thamidalapati Lokesh",
+        //       year: "IV",
+        //       phone: 6302333052,
+        //       email: "lokesh18pc52@gmail.com",
+        //     },
+        //     {
+        //       name: "Shajan S",
+        //       year: "IV",
+        //       phone: 7695827492,
+        //       email: "sshajan625@gmail.com",
+        //     },
+        //   ],
+        // },
       },
     ],
   },
@@ -4069,117 +4069,118 @@ export const EventDetails = [
         logo: "/EventsAssets/Workshops/mechw1.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        company: "THINK BIG",
-        venue:"RECTANGULAR block",
-        link: " https://docs.google.com/forms/d/e/1FAIpQLSeHCybuLQ03SWuWwRKETpcYnXfnPWvwsZz62OCfS57WhuaXTw/viewform?usp=sf_link",
-        day1: {
-          date: "30.10.2023",
-          mode: "offline",
-          time: "9:00AM TO 3:00PM",
-          topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
-          resource: [
-            {
-              name: "G.S.Rahul",
-              desig: "Trainer",
-              phone: 8939360814,
-              email: "s.rahulgovind@gmail.com",
-            },
-            {
-              name: "M.Mothesh",
-              desig: "Trainer",
-              phone: 9710745354,
-              email: "smothesh1201@gmail.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr. C.RADHIKA",
-              desig: "Associate Professor",
-              phone: 9884280906,
-              email: "radhika@saveetha.ac.in",
-            },
-            {
-              name: "DR. R.RAJASEKAR",
-              desig: "Associate Professor",
-              phone: 9597647948,
-              email: "rajasekarr@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "B. R. MITHUN RAJ ",
-              year: "IV",
-              phone: 9444253575,
-              email: "rmithun186@gmail.com",
-            },
-            {
-              name: " M. NARESH KUMAR ",
-              year: "IV",
-              phone: 9025863763,
-              email: "mnareshkumar0611@gmail.com",
-            },
-            {
-              name: "K. A.  SHYAM SUNDAR  ",
-              year: "III",
-              phone: 9360719209,
-              email: "kashyam2003@gmail.com",
-            },
-          ],
-        },
-        day2: {
-          date: "31.10.2023",
-          mode: "offline",
-          time: "9:00AM TO 3:00PM",
-          topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
-          resource: [
-            {
-              name: "G.S.Rahul",
-              desig: "Trainer",
-              phone: 8939360814,
-              email: "s.rahulgovind@gmail.com",
-            },
-            {
-              name: "M.Mothesh",
-              desig: "Trainer",
-              phone: 9710745354,
-              email: "smothesh1201@gmail.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr. C.RADHIKA",
-              desig: "Associate Professor",
-              phone: 9884280906,
-              email: "radhika@saveetha.ac.in",
-            },
-            {
-              name: "DR. R.RAJASEKAR",
-              desig: "Associate Professor",
-              phone: 9597647948,
-              email: "rajasekarr@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "B. R. MITHUN RAJ ",
-              year: "IV",
-              phone: 9444253575,
-              email: "rmithun186@gmail.com",
-            },
-            {
-              name: " M. NARESH KUMAR ",
-              year: "IV",
-              phone: 9025863763,
-              email: "mnareshkumar0611@gmail.com",
-            },
-            {
-              name: "K. A.  SHYAM SUNDAR  ",
-              year: "III",
-              phone: 9360719209,
-              email: "kashyam2003@gmail.com",
-            },
-          ],
-        },
+        // company: "THINK BIG",
+        // venue:"RECTANGULAR block",
+        // link: " https://docs.google.com/forms/d/e/1FAIpQLSeHCybuLQ03SWuWwRKETpcYnXfnPWvwsZz62OCfS57WhuaXTw/viewform?usp=sf_link",
+        // day1: {
+        //   date: "30.10.2023",
+        //   mode: "offline",
+        //   time: "9:00AM TO 3:00PM",
+        //   topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
+        //   resource: [
+        //     {
+        //       name: "G.S.Rahul",
+        //       desig: "Trainer",
+        //       phone: 8939360814,
+        //       email: "s.rahulgovind@gmail.com",
+        //     },
+        //     {
+        //       name: "M.Mothesh",
+        //       desig: "Trainer",
+        //       phone: 9710745354,
+        //       email: "smothesh1201@gmail.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr. C.RADHIKA",
+        //       desig: "Associate Professor",
+        //       phone: 9884280906,
+        //       email: "radhika@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "DR. R.RAJASEKAR",
+        //       desig: "Associate Professor",
+        //       phone: 9597647948,
+        //       email: "rajasekarr@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "B. R. MITHUN RAJ ",
+        //       year: "IV",
+        //       phone: 9444253575,
+        //       email: "rmithun186@gmail.com",
+        //     },
+        //     {
+        //       name: " M. NARESH KUMAR ",
+        //       year: "IV",
+        //       phone: 9025863763,
+        //       email: "mnareshkumar0611@gmail.com",
+        //     },
+        //     {
+        //       name: "K. A.  SHYAM SUNDAR  ",
+        //       year: "III",
+        //       phone: 9360719209,
+        //       email: "kashyam2003@gmail.com",
+        //     },
+        //   ],
+        // },
+        // day2: {
+        //   date: "31.10.2023",
+        //   mode: "offline",
+        //   time: "9:00AM TO 3:00PM",
+        //   topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
+        //   resource: [
+        //     {
+        //       name: "G.S.Rahul",
+        //       desig: "Trainer",
+        //       phone: 8939360814,
+        //       email: "s.rahulgovind@gmail.com",
+        //     },
+        //     {
+        //       name: "M.Mothesh",
+        //       desig: "Trainer",
+        //       phone: 9710745354,
+        //       email: "smothesh1201@gmail.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr. C.RADHIKA",
+        //       desig: "Associate Professor",
+        //       phone: 9884280906,
+        //       email: "radhika@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "DR. R.RAJASEKAR",
+        //       desig: "Associate Professor",
+        //       phone: 9597647948,
+        //       email: "rajasekarr@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "B. R. MITHUN RAJ ",
+        //       year: "IV",
+        //       phone: 9444253575,
+        //       email: "rmithun186@gmail.com",
+        //     },
+        //     {
+        //       name: " M. NARESH KUMAR ",
+        //       year: "IV",
+        //       phone: 9025863763,
+        //       email: "mnareshkumar0611@gmail.com",
+        //     },
+        //     {
+        //       name: "K. A.  SHYAM SUNDAR  ",
+        //       year: "III",
+        //       phone: 9360719209,
+        //       email: "kashyam2003@gmail.com",
+        //     },
+        //   ],
+        // },
+      
       },
       // {
       //   name: "3D PRINTING",

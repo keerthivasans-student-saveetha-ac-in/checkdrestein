@@ -39,7 +39,7 @@ function App() {
           <DisplayPopupProvider>
             <Routes>
               <Route path="/" element={<Main />} />
-              <Route path="form" element={<Form />} />
+              {/* <Route path="form" element={<Form />} /> */}
               <Route path="events" element={<Events />} />
               <Route path="AB" element={<Ab />} />
               <Route path="Departments" element={<Departments />} />
