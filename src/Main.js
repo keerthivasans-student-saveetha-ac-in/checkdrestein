@@ -6,7 +6,8 @@ import { Particle } from "./configs/partical.config";
 import styled from "styled-components";
 import Departments from "./components/event/Departments";
 // import Gallery from "./components/Gallery/Gallery";
-import Gallery2022 from "./components/Gallery/Gallery2022";
+// import Gallery2022 from "./components/Gallery/Gallery2022";
+import Gallery2023 from "./components/Gallery/Gallery2023";
 import Nav from "./components/Nav/Nav";
 import Header from "./components/Header/Header";
 import Link from "./components/Link/Header";
@@ -105,8 +106,12 @@ const Main = () => {
         <Guest />
       </div> */}
       
-      <div id="Gallery2022">
+      {/* <div id="Gallery2022">
         <Gallery2022 />
+      </div> */}
+
+     <div id="Gallery2023">
+        <Gallery2023 />
       </div>
       
       
