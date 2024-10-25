@@ -4065,231 +4065,194 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name: "not yet submitted",
-        logo: "/EventsAssets/Workshops/mechw1.webp",
+        name: "Hydrogen: Fueling the Future",
+        logo: "/EventsAssets/",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         // company: "THINK BIG",
-        // venue:"RECTANGULAR block",
-        // link: " https://docs.google.com/forms/d/e/1FAIpQLSeHCybuLQ03SWuWwRKETpcYnXfnPWvwsZz62OCfS57WhuaXTw/viewform?usp=sf_link",
-        // day1: {
-        //   date: "30.10.2023",
-        //   mode: "offline",
-        //   time: "9:00AM TO 3:00PM",
-        //   topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
-        //   resource: [
-        //     {
-        //       name: "G.S.Rahul",
-        //       desig: "Trainer",
-        //       phone: 8939360814,
-        //       email: "s.rahulgovind@gmail.com",
-        //     },
-        //     {
-        //       name: "M.Mothesh",
-        //       desig: "Trainer",
-        //       phone: 9710745354,
-        //       email: "smothesh1201@gmail.com",
-        //     },
-        //   ],
-        //   staff: [
-        //     {
-        //       name: "Dr. C.RADHIKA",
-        //       desig: "Associate Professor",
-        //       phone: 9884280906,
-        //       email: "radhika@saveetha.ac.in",
-        //     },
-        //     {
-        //       name: "DR. R.RAJASEKAR",
-        //       desig: "Associate Professor",
-        //       phone: 9597647948,
-        //       email: "rajasekarr@saveetha.ac.in",
-        //     },
-        //   ],
-        //   student: [
-        //     {
-        //       name: "B. R. MITHUN RAJ ",
-        //       year: "IV",
-        //       phone: 9444253575,
-        //       email: "rmithun186@gmail.com",
-        //     },
-        //     {
-        //       name: " M. NARESH KUMAR ",
-        //       year: "IV",
-        //       phone: 9025863763,
-        //       email: "mnareshkumar0611@gmail.com",
-        //     },
-        //     {
-        //       name: "K. A.  SHYAM SUNDAR  ",
-        //       year: "III",
-        //       phone: 9360719209,
-        //       email: "kashyam2003@gmail.com",
-        //     },
-        //   ],
-        // },
-        // day2: {
-        //   date: "31.10.2023",
-        //   mode: "offline",
-        //   time: "9:00AM TO 3:00PM",
-        //   topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
-        //   resource: [
-        //     {
-        //       name: "G.S.Rahul",
-        //       desig: "Trainer",
-        //       phone: 8939360814,
-        //       email: "s.rahulgovind@gmail.com",
-        //     },
-        //     {
-        //       name: "M.Mothesh",
-        //       desig: "Trainer",
-        //       phone: 9710745354,
-        //       email: "smothesh1201@gmail.com",
-        //     },
-        //   ],
-        //   staff: [
-        //     {
-        //       name: "Dr. C.RADHIKA",
-        //       desig: "Associate Professor",
-        //       phone: 9884280906,
-        //       email: "radhika@saveetha.ac.in",
-        //     },
-        //     {
-        //       name: "DR. R.RAJASEKAR",
-        //       desig: "Associate Professor",
-        //       phone: 9597647948,
-        //       email: "rajasekarr@saveetha.ac.in",
-        //     },
-        //   ],
-        //   student: [
-        //     {
-        //       name: "B. R. MITHUN RAJ ",
-        //       year: "IV",
-        //       phone: 9444253575,
-        //       email: "rmithun186@gmail.com",
-        //     },
-        //     {
-        //       name: " M. NARESH KUMAR ",
-        //       year: "IV",
-        //       phone: 9025863763,
-        //       email: "mnareshkumar0611@gmail.com",
-        //     },
-        //     {
-        //       name: "K. A.  SHYAM SUNDAR  ",
-        //       year: "III",
-        //       phone: 9360719209,
-        //       email: "kashyam2003@gmail.com",
-        //     },
-        //   ],
-        // },
-      
+        venue:"will be updated soon",
+        link: "",
+        day1: {
+          date: "06 Nov 2024",
+          mode: "offline",
+          time: " ",
+          resource: [
+            {
+              // name: "",
+              // phone: 8939360814,
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Manimaran.G",
+              phone: 9092265908,
+            },
+          ],
+          student: [
+            {
+              name: "Madhumeena . K",
+              phone: 8925263119,
+            },
+            {
+              name: " Sridharshini.K",
+              phone: 9342683811,
+            },
+            {
+              name: "K. A.  SHYAM SUNDAR  ",
+              year: "III",
+              phone: 9360719209,
+              email: "kashyam2003@gmail.com",
+            },
+          ],
+        },
+        day2: {
+          date: "31.10.2023",
+          mode: "offline",
+          time: "9:00AM TO 3:00PM",
+          topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
+          resource: [
+            {
+              name: "G.S.Rahul",
+              desig: "Trainer",
+              phone: 8939360814,
+              email: "s.rahulgovind@gmail.com",
+            },
+            {
+              name: "M.Mothesh",
+              desig: "Trainer",
+              phone: 9710745354,
+              email: "smothesh1201@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. C.RADHIKA",
+              desig: "Associate Professor",
+              phone: 9884280906,
+              email: "radhika@saveetha.ac.in",
+            },
+            {
+              name: "DR. R.RAJASEKAR",
+              desig: "Associate Professor",
+              phone: 9597647948,
+              email: "rajasekarr@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "B. R. MITHUN RAJ ",
+              year: "IV",
+              phone: 9444253575,
+              email: "rmithun186@gmail.com",
+            },
+            {
+              name: " M. NARESH KUMAR ",
+              year: "IV",
+              phone: 9025863763,
+              email: "mnareshkumar0611@gmail.com",
+            },
+            {
+              name: "K. A.  SHYAM SUNDAR  ",
+              year: "III",
+              phone: 9360719209,
+              email: "kashyam2003@gmail.com",
+            },
+          ],
+        },
       },
-      // {
-      //   name: "3D PRINTING",
-      //   logo: "/EventsAssets/mechw2.webp",
-      //   tag: "WORKSHOP",
-      //   color: "0, 70, 90",
-      //   venue:"RECTANGULAR block",
-      //   link: "https://docs.google.com/forms/d/e/1FAIpQLSeI_8QwQgRcO7IcC_GI2w-iIeyQU0Pl-vE6L1-1IUiHq-m5vw/viewform",
-      //   day1: {
-      //     mode: "offline",
-      //     date: "27/10/2023",
-      //     time: "9:00AM TO 3:00PM",
-      //     resource: [
-      //       {
-      //         name: "Dr.sabarinathan palaniyapan",
-      //         desig: "Associate Professor(SDC)",
-      //         phone: 8973267279,
-      //         email: "Sabariphd21@gmail.com",
-      //       },
-      //       {
-      //         name: "Dr.sellakumar s",
-      //         desig: "Associate Professor(SEC)",
-      //         phone: 9486932452,
-      //         email: "Sellakumar@saveetha.ac.in",
-      //       },
-      //       {
-      //         name: "Dr.Muthukumar v",
-      //         desig: "Associate Professor(SEC)",
-      //         phone: 9176941555,
-      //         email: "muthukumar@saveetha.ac.in",
-      //       },
-      //     ],
-      //     staff: [
-      //       {
-      //         name: "Dr. V.MUTHUKUMAR",
-      //         desig: "Associate Professor",
-      //         phone: 917694155,
-      //         email: "muthukumar@saveetha.ac.in",
-      //       },
-      //       {
-      //         name: "DR. R. PRAKASH",
-      //         desig: "Associate Professor",
-      //         phone: 9884121894,
-      //         email: "prakash@saveetha.ac.in",
-      //       },
-      //     ],
-      //     student: [
-      //       {
-      //         name: "K.PAVITHRAN ",
-      //         year: "IV",
-      //         phone: 7305327330,
-      //         email: "paviworld2000@gmail.com",
-      //       },
-      //       {
-      //         name: "T. LOKESH KUMAR",
-      //         year: "IV",
-      //         phone: 6382120093,
-      //         email: "Ramulokesh112@gmail.com",
-      //       },
-      //       {
-      //         name: "K. MADHUMEENA",
-      //         year: "III",
-      //         phone: 8925263119,
-      //         email: "madhumeenakannan@gmail.com",
-      //       },
-      //     ],
-      //   },
-      //   day2: {
-      //     mode: "offline",
-      //     date: "28/10/2023",
-      //     time: "9:00AM TO 3:00PM",
-      //     staff: [
-      //       {
-      //         name: "Dr. V.MUTHUKUMAR",
-      //         desig: "Associate Professor",
-      //         phone: 917694155,
-      //         email: "muthukumar@saveetha.ac.in",
-      //       },
-      //       {
-      //         name: "DR. R. PRAKASH",
-      //         desig: "Associate Professor",
-      //         phone: 9884121894,
-      //         email: "prakash@saveetha.ac.in",
-      //       },
-      //     ],
-      //     student: [
-      //       {
-      //         name: "K.PAVITHRAN ",
-      //         year: "IV",
-      //         phone: 7305327330,
-      //         email: "paviworld2000@gmail.com",
-      //       },
-      //       {
-      //         name: "T. LOKESH KUMAR",
-      //         year: "IV",
-      //         phone: 6382120093,
-      //         email: "Ramulokesh112@gmail.com",
-      //       },
-      //       {
-      //         name: "K. MADHUMEENA",
-      //         year: "III",
-      //         phone: 8925263119,
-      //         email: "madhumeenakannan@gmail.com",
-      //       },
-      //     ],
-      //   },
-      // },
+      {
+        name: "Autodesk Fusion",
+        logo: "/EventsAssets/",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        // company: "THINK BIG",
+        venue:"will be updated soon",
+        link: "",
+        day1: {
+          date: "04 Nov 2024",
+          mode: "offline",
+          time: " ",
+          resource: [
+            {
+              // name: "",
+              // phone: 8939360814,
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. MUTHUKUMAR V.",
+              phone: 9176941555,
+            },
+          ],
+          student: [
+            {
+              name: "SATHISH R.",
+              phone: 9940429539,
+            },
+            {
+              name: " Kavyaambiga K",
+              phone: 9790151293,
+            },
+          ],
+        },
+        day2: {
+          date: "31.10.2023",
+          mode: "offline",
+          time: "9:00AM TO 3:00PM",
+          topic:" FN-Principles Of Flights, Flying Procedures, Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics, Equipment maintenance. *ALL MUST BRING YOUR OWN LAPTOP",
+          resource: [
+            {
+              name: "G.S.Rahul",
+              desig: "Trainer",
+              phone: 8939360814,
+              email: "s.rahulgovind@gmail.com",
+            },
+            {
+              name: "M.Mothesh",
+              desig: "Trainer",
+              phone: 9710745354,
+              email: "smothesh1201@gmail.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. C.RADHIKA",
+              desig: "Associate Professor",
+              phone: 9884280906,
+              email: "radhika@saveetha.ac.in",
+            },
+            {
+              name: "DR. R.RAJASEKAR",
+              desig: "Associate Professor",
+              phone: 9597647948,
+              email: "rajasekarr@saveetha.ac.in",
+            },
+          ],
+          student: [
+            {
+              name: "B. R. MITHUN RAJ ",
+              year: "IV",
+              phone: 9444253575,
+              email: "rmithun186@gmail.com",
+            },
+            {
+              name: " M. NARESH KUMAR ",
+              year: "IV",
+              phone: 9025863763,
+              email: "mnareshkumar0611@gmail.com",
+            },
+            {
+              name: "K. A.  SHYAM SUNDAR  ",
+              year: "III",
+              phone: 9360719209,
+              email: "kashyam2003@gmail.com",
+            },
+          ],
+        },
+      },
     ],
   },
+  
   {
     id: "mba",
     title: "Management Studies",
@@ -5270,102 +5233,103 @@ export const EventDetails = [
     workshopslist: [
       {
         name: "not yet submitted",
-        // logo: "/EventsAssets/ecew1.webp",
+        logo: "/EventsAssets/ecew1.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        venue: "ECE III Floor Microprocessor lab",
-        company:"IT Expect Training",
+        // venue: "ECE III Floor Microprocessor lab",
+        // company:"IT Expect Training",
     
-        link: "https://forms.gle/cSmjSPii3pibWvEu7",
-        day1: {
-          date: "25/10/23",
-          time: "FULL DAY",
-          mode: "Hybrid",
-          venue: "ECE III Floor Microprocessor lab",
+        // link: "https://forms.gle/cSmjSPii3pibWvEu7",
+        // day1: {
+        //   date: "25/10/23",
+        //   time: "FULL DAY",
+        //   mode: "Hybrid",
+        //   venue: "ECE III Floor Microprocessor lab",
     
-          topic: "Python basics. Pygame basics ",
-          resource: [
-            {
-              name: "Mr.Muhamed Ilyas",
-              desig: "CEO",
-              phone: 9884648010,
-              email: "ilyas@tripleminfotech.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.M.Vanitha  ",
-              desig: "Associate Professor  ",
-              phone: 7871784886,
-              email: "vanitha@saveetha.ac.in",
-            },
-            {
-              name: "Mr.C.Srinivasan",
-              desig: "Associate Professor  ",
-              phone: 9894726688,
-              email: "srinivasanc@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Evangeline Priya",
-              year: "IV ",
-              phone: 9789974799,
-              email: "evangelinepriyaa.ece.sec@gmail.com",
-            },
-            {
-              name: "Gifta Goldwise",
-              year: "IV  ",
-              phone: 7339665541,
-              email: "giftagoldwise@gmail.com ",
-            },
-          ],
-        },
-        day2: {
-          date: "26/10/23",
-          time: "FULL DAY",
-          mode: "Hybrid",
-          venue: "ECE III Floor Microprocessor lab",
+        //   topic: "Python basics. Pygame basics ",
+        //   resource: [
+        //     {
+        //       name: "Mr.Muhamed Ilyas",
+        //       desig: "CEO",
+        //       phone: 9884648010,
+        //       email: "ilyas@tripleminfotech.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.M.Vanitha  ",
+        //       desig: "Associate Professor  ",
+        //       phone: 7871784886,
+        //       email: "vanitha@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "Mr.C.Srinivasan",
+        //       desig: "Associate Professor  ",
+        //       phone: 9894726688,
+        //       email: "srinivasanc@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Evangeline Priya",
+        //       year: "IV ",
+        //       phone: 9789974799,
+        //       email: "evangelinepriyaa.ece.sec@gmail.com",
+        //     },
+        //     {
+        //       name: "Gifta Goldwise",
+        //       year: "IV  ",
+        //       phone: 7339665541,
+        //       email: "giftagoldwise@gmail.com ",
+        //     },
+        //   ],
+        // },
+        // day2: {
+        //   date: "26/10/23",
+        //   time: "FULL DAY",
+        //   mode: "Hybrid",
+        //   venue: "ECE III Floor Microprocessor lab",
     
-          topic: "Developing Flappy bird game environment. Writing logics for the game ",
-          resource: [
-            {
-              name: "Mr.Muhamed Ilyas",
-              desig: "CEO",
-              phone: 9884648010,
-              email: "ilyas@tripleminfotech.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.M.Vanitha  ",
-              desig: "Associate Professor  ",
-              phone: 7871784886,
-              email: "vanitha@saveetha.ac.in",
-            },
-            {
-              name: "Mr.C.Srinivasan",
-              desig: "Associate Professor  ",
-              phone: 9894726688,
-              email: "srinivasanc@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Evangeline Priya",
-              year: "IV ",
-              phone: 9789974799,
-              email: "evangelinepriyaa.ece.sec@gmail.com",
-            },
-            {
-              name: "Gifta Goldwise",
-              year: "IV  ",
-              phone: 7339665541,
-              email: "giftagoldwise@gmail.com ",
-            },
-          ],
-        },
-      },//1
+        //   topic: "Developing Flappy bird game environment. Writing logics for the game ",
+        //   resource: [
+        //     {
+        //       name: "Mr.Muhamed Ilyas",
+        //       desig: "CEO",
+        //       phone: 9884648010,
+        //       email: "ilyas@tripleminfotech.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.M.Vanitha  ",
+        //       desig: "Associate Professor  ",
+        //       phone: 7871784886,
+        //       email: "vanitha@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "Mr.C.Srinivasan",
+        //       desig: "Associate Professor  ",
+        //       phone: 9894726688,
+        //       email: "srinivasanc@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Evangeline Priya",
+        //       year: "IV ",
+        //       phone: 9789974799,
+        //       email: "evangelinepriyaa.ece.sec@gmail.com",
+        //     },
+        //     {
+        //       name: "Gifta Goldwise",
+        //       year: "IV  ",
+        //       phone: 7339665541,
+        //       email: "giftagoldwise@gmail.com ",
+        //     },
+        //   ],
+        // },
+
+      },//
       // {
       //   name: "CREATE AN ARTIFICIAL INTELLIGENT CHATBOT USING PYTHON AND CHATGPT",
       //   // logo: "/EventsAssets/ecew2.webp",
@@ -6667,102 +6631,102 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name: "Not submitted",
+        name: "Not yet submitted",
         logo: "/EventsAssets/Workshops/",
         tag: "WORKSHOP",
         color: "0, 70, 90",
 
-        link: "",
-        day1: {
-          date: " 04 Nov 2024",
-          time: "FORENOON & AFTERNOON",
-          mode:"OFFLINE",
-          venue:"TBA",
-          company: "Think Big Unlocking Innovation",
-          topic:
-            "FN-Principles Of Flights,Flying Procedures,Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics,Equipment maintenance ",
-          resource: [
-            {
-              name: "Raghul. G.S",
-              desig: "Trainer",
-              phone: 8939360814,
-              email: "s.rahulgovind@gamil.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.K.Kanchana",
-              desig: "Associate Professor",
-              phone: 9444189111,
-              email: "kanchana@saveetha.ac.in",
-            },
-            {
-              name: "Dr.R.Hemalatha",
-              desig: "Associate Professor",
-              phone: 8870186912,
-              email: "hemalathar@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Thirumalai. M",
-              year: "III",
-              phone: 9360210316,
-              email: "thirumalaimana93@gamil.com",
-            },
-            {
-              name: "Mohamed Riyazdeen. T",
-              year: "III",
-              phone: 8668061637,
-              email: "arsathkhan51005@gmail.com",
-            },
-          ],
-        },
-        day2: {
-          date: "31/10/2023",
-          time: "FORENOON & AFTERNOON",
-          mode:"OFFLINE",
-          venue:"TBA",
-          company: "Think Big Unlocking Innovation",
-          topic:
-            "FN-Payload,Installation  and Utilization,Flight Simulation. AN- Practical flying ",
-          resource: [
-            {
-              name: "Raghul. G.S",
-              desig: "Trainer",
-              phone: 8939360814,
-              email: "s.rahulgovind@gamil.com",
-            },
-          ],
-          staff: [
-            {
-              name: "Dr.K.Kanchana",
-              desig: "Associate Professor",
-              phone: 9444189111,
-              email: "kanchana@saveetha.ac.in",
-            },
-            {
-              name: "Mrs.Hemalatha",
-              desig: "Associate Professor",
-              phone: 8870186912,
-              email: "hemalathar@saveetha.ac.in",
-            },
-          ],
-          student: [
-            {
-              name: "Thirumalai. M",
-              year: "III",
-              phone: 9360210316,
-              email: "thirumalaimana93@gamil.com",
-            },
-            {
-              name: "Mohamed Riyazdeen. T",
-              year: "III",
-              phone: 8668061637,
-              email: "arsathkhan51005@gmail.com",
-            },
-          ],
-        },
+        // link: "",
+        // day1: {
+        //   date: " 04 Nov 2024",
+        //   time: "FORENOON & AFTERNOON",
+        //   mode:"OFFLINE",
+        //   venue:"TBA",
+        //   company: "Think Big Unlocking Innovation",
+        //   topic:
+        //     "FN-Principles Of Flights,Flying Procedures,Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics,Equipment maintenance ",
+        //   resource: [
+        //     {
+        //       name: "Raghul. G.S",
+        //       desig: "Trainer",
+        //       phone: 8939360814,
+        //       email: "s.rahulgovind@gamil.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.K.Kanchana",
+        //       desig: "Associate Professor",
+        //       phone: 9444189111,
+        //       email: "kanchana@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "Dr.R.Hemalatha",
+        //       desig: "Associate Professor",
+        //       phone: 8870186912,
+        //       email: "hemalathar@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Thirumalai. M",
+        //       year: "III",
+        //       phone: 9360210316,
+        //       email: "thirumalaimana93@gamil.com",
+        //     },
+        //     {
+        //       name: "Mohamed Riyazdeen. T",
+        //       year: "III",
+        //       phone: 8668061637,
+        //       email: "arsathkhan51005@gmail.com",
+        //     },
+        //   ],
+        // },
+        // day2: {
+        //   date: "31/10/2023",
+        //   time: "FORENOON & AFTERNOON",
+        //   mode:"OFFLINE",
+        //   venue:"TBA",
+        //   company: "Think Big Unlocking Innovation",
+        //   topic:
+        //     "FN-Payload,Installation  and Utilization,Flight Simulation. AN- Practical flying ",
+        //   resource: [
+        //     {
+        //       name: "Raghul. G.S",
+        //       desig: "Trainer",
+        //       phone: 8939360814,
+        //       email: "s.rahulgovind@gamil.com",
+        //     },
+        //   ],
+        //   staff: [
+        //     {
+        //       name: "Dr.K.Kanchana",
+        //       desig: "Associate Professor",
+        //       phone: 9444189111,
+        //       email: "kanchana@saveetha.ac.in",
+        //     },
+        //     {
+        //       name: "Mrs.Hemalatha",
+        //       desig: "Associate Professor",
+        //       phone: 8870186912,
+        //       email: "hemalathar@saveetha.ac.in",
+        //     },
+        //   ],
+        //   student: [
+        //     {
+        //       name: "Thirumalai. M",
+        //       year: "III",
+        //       phone: 9360210316,
+        //       email: "thirumalaimana93@gamil.com",
+        //     },
+        //     {
+        //       name: "Mohamed Riyazdeen. T",
+        //       year: "III",
+        //       phone: 8668061637,
+        //       email: "arsathkhan51005@gmail.com",
+        //     },
+        //   ],
+        // },
       },
       // {
       //   name: "Android On Raspberry Pi-Hands On Training ",
