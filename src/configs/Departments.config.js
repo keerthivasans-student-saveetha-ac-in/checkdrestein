@@ -234,11 +234,11 @@ export const departobj = [
   {
     id: "#scoft",
     // title: "Saveetha\tConsortium\tfor\tFuture Technologies",
-    title: "SCoFT",
-    img: "/DepartmentAssets/scoft.webp",
+    title: "SCOFT",
+    img: "/DepartmentAssets/scoftnew.webp",
     des: "test",
     color: "#CDCD00",
-    bgtext: "SCoFT",
+    bgtext: "SCOFT",
     mbtm: "-30px",
   },
 
