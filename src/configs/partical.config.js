@@ -96,7 +96,7 @@
 export const Particle = {
   "particles": {
     "number": {
-      "value": 60, // Reduced number of particles (25% of 380)
+      "value": 40, // Reduced number of particles (25% of 380)
       "density": {
         "enable": true,
         "value_area": 800
