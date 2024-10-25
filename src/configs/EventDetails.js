@@ -4252,7 +4252,7 @@ export const EventDetails = [
       },
     ],
   },
-  
+
   {
     id: "mba",
     title: "Management Studies",
@@ -6631,288 +6631,83 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name: "Not yet submitted",
-        logo: "/EventsAssets/Workshops/",
+        name: "Soar to New Heights : Master Drone Technology",
+        logo: "/EventsAssets/",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-
-        // link: "",
-        // day1: {
-        //   date: " 04 Nov 2024",
-        //   time: "FORENOON & AFTERNOON",
-        //   mode:"OFFLINE",
-        //   venue:"TBA",
-        //   company: "Think Big Unlocking Innovation",
-        //   topic:
-        //     "FN-Principles Of Flights,Flying Procedures,Stake Holders and their laws. AN-RotorCraft Operation and aerodynamics,Equipment maintenance ",
-        //   resource: [
-        //     {
-        //       name: "Raghul. G.S",
-        //       desig: "Trainer",
-        //       phone: 8939360814,
-        //       email: "s.rahulgovind@gamil.com",
-        //     },
-        //   ],
-        //   staff: [
-        //     {
-        //       name: "Dr.K.Kanchana",
-        //       desig: "Associate Professor",
-        //       phone: 9444189111,
-        //       email: "kanchana@saveetha.ac.in",
-        //     },
-        //     {
-        //       name: "Dr.R.Hemalatha",
-        //       desig: "Associate Professor",
-        //       phone: 8870186912,
-        //       email: "hemalathar@saveetha.ac.in",
-        //     },
-        //   ],
-        //   student: [
-        //     {
-        //       name: "Thirumalai. M",
-        //       year: "III",
-        //       phone: 9360210316,
-        //       email: "thirumalaimana93@gamil.com",
-        //     },
-        //     {
-        //       name: "Mohamed Riyazdeen. T",
-        //       year: "III",
-        //       phone: 8668061637,
-        //       email: "arsathkhan51005@gmail.com",
-        //     },
-        //   ],
-        // },
-        // day2: {
-        //   date: "31/10/2023",
-        //   time: "FORENOON & AFTERNOON",
-        //   mode:"OFFLINE",
-        //   venue:"TBA",
-        //   company: "Think Big Unlocking Innovation",
-        //   topic:
-        //     "FN-Payload,Installation  and Utilization,Flight Simulation. AN- Practical flying ",
-        //   resource: [
-        //     {
-        //       name: "Raghul. G.S",
-        //       desig: "Trainer",
-        //       phone: 8939360814,
-        //       email: "s.rahulgovind@gamil.com",
-        //     },
-        //   ],
-        //   staff: [
-        //     {
-        //       name: "Dr.K.Kanchana",
-        //       desig: "Associate Professor",
-        //       phone: 9444189111,
-        //       email: "kanchana@saveetha.ac.in",
-        //     },
-        //     {
-        //       name: "Mrs.Hemalatha",
-        //       desig: "Associate Professor",
-        //       phone: 8870186912,
-        //       email: "hemalathar@saveetha.ac.in",
-        //     },
-        //   ],
-        //   student: [
-        //     {
-        //       name: "Thirumalai. M",
-        //       year: "III",
-        //       phone: 9360210316,
-        //       email: "thirumalaimana93@gamil.com",
-        //     },
-        //     {
-        //       name: "Mohamed Riyazdeen. T",
-        //       year: "III",
-        //       phone: 8668061637,
-        //       email: "arsathkhan51005@gmail.com",
-        //     },
-        //   ],
-        // },
+        link: "",
+        day1: {
+          date: " 04 Nov 2024",
+          time: "Full Day",
+          mode:"OFFLINE",
+          venue:"will be updated soon",
+          // company: "Think Big Unlocking Innovation",
+        
+          resource: [
+            {
+              // name: "Raghul. G.S",
+              // desig: "Trainer",
+              // phone: 8939360814,
+              // email: "s.rahulgovind@gamil.com",
+            },
+          ],
+          staff: [
+            {
+              name: "DR.F.MAX SAVIO",
+              phone: 9840188187,
+            },
+            {
+              name: "Mr. T.D Suresh",
+              phone: 9941721288,
+            },
+          ],
+          student: [
+            {
+              name: "Nikkesh V",
+              phone: 7010473758,
+            },
+          ],
+        },
       },
-      // {
-      //   name: "Android On Raspberry Pi-Hands On Training ",
-      //   logo: "/EventsAssets/eeew2.webp",
-      //   tag: "WORKSHOP",
-      //   color: "0, 70, 90",
-       
-      //   link: " https://forms.gle/CuFB5KcJCDeQabMY9 ",
-      //   day1: {
-      //     date: "26/10/2023",
-      //     time: "FULL DAY",
-      //     company: "Arjun Vision Tech Solutions",
-      //     venue:"EEE 1F EMBEDDED LAB",
-      //     topic:
-      //       "FN- Android. AN- Hands on Android ",
-      //     resource: [
-      //       {
-      //         name: "Ms.R.Sowndariya",
-      //         desig: "Marketing Head",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //       {
-      //         name: "Mr.R.Sri Balaji Aravind ",
-      //         desig: "Co-founder",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //     ],
-      //     staff: [
-      //       {
-      //         name: "Dr.R.Karpaga Priya",
-      //         desig: "Associate Professor",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //     ],
-      //     student: [
-      //       {
-      //         name: "Moses Saveri. A",
-      //         year: "IV",
-      //         phone: 7695847728,
-      //         email: "mosessaveri17@gmail.com",
-      //       },
-      //       {
-      //         name: "Suriya. G",
-      //         year: "IV",
-      //         phone: 7708439329,
-      //         email: "suriyag0108@gmail.com",
-      //       },
-      //     ],
-      //   },
-      //   day2: {
-      //     date: "27/10/2023",
-      //     time: "FULL DAY",
-      //     company: "Arjun Vision Tech Solutions",
-      //     venue:"EEE 1F EMBEDDED LAB",
-      //     topic:
-      //       "FN-Raspberry Pi. AN- Hands on Raspberry Pi ",
-      //     resource: [
-      //       {
-      //         name: "Ms.R.Sowndariya",
-      //         desig: "Marketing Head",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //       {
-      //         name: "Mr.R.Sri Balaji Aravind ",
-      //         desig: "Co-founder",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //     ],
-      //     staff: [
-      //       {
-      //         name: "Dr.R.Karpaga Priya",
-      //         desig: "Associate Professor",
-      //         phone: 9597727988,
-      //         email: "karpagapriyar@gmail.com",
-      //       },
-      //     ],
-      //     student: [
-      //       {
-      //         name: "Moses Saveri. A",
-      //         year: "IV",
-      //         phone: 7695847728,
-      //         email: "mosessaveri17@gmail.com",
-      //       },
-      //       {
-      //         name: "Suriya. G",
-      //         year: "IV",
-      //         phone: 7708439329,
-      //         email: "suriyag0108@gmail.com",
-      //       },
-      //     ],
-      //   },
-      // },
-      // {
-      //   name: "IOT Prototyping and Development  : Hands On Training Workshop ",
-      //   logo: "/EventsAssets/eeew3.webp",
-      //   tag: "WORKSHOP",
-      //   color: "0, 70, 90",
-
-      //   link:"https://forms.gle/2AQ4sh8rnB55AE2a6",
-      //   day1: {
-      //     date: "30/10/2023",
-      //     time: "TBA",
-      //     venue: "TBA",
-      //     mode: "OFFLINE",
-      //     topic: "FN - Overview of Embedded Systems. AN - Hands on training IOT prototype ",
-      //     resource: [
-      //       {
-      //         name: "Mr.ArunKumar",
-      //         desig: "Vice President(RETECH)",
-      //         phone: 9444533061,
-      //         email: "kavitha@saveetha.ac.in",
-      //       },
-      //     ],
-      //     staff: [
-           
-      //       {
-      //         name: "Ms.S.Kavitha",
-      //         desig: "Associate Professor",
-      //         phone: 9444533061,
-      //         email: "kavitha@saveetha.ac.in",
-      //       },
-            
-      //     ],
-
-      //     student: [
-      //       {
-      //         name: "B.G.Kishore",
-      //         year: "IV",
-      //         phone: 6374395782,
-      //         email: "vishnuprasad3002@gmail.com",
-
-      //       },
-      //       {
-      //         name: "N.Vishnu Prasad",
-      //         year: "IV",
-      //         phone: 6369299454,
-      //         email: "kishorebg87@gmail.com",
-      //       },
-            
-      //     ],
-      //   },
-      //   day2: {
-      //     date: "31/10/2023",
-      //     time: "TBA",
-      //     venue: "TBA",
-      //     mode: "OFFLINE",
-      //     topic: "FN – IOT Prototyping and Development. AN – Hands-On Training Workshop ",
-      //     resource: [
-      //       {
-      //         name: "Mr.ArunKumar",
-      //         desig: "Vice President(RETECH)",
-      //         phone: 9444533061,
-      //         email: "kavitha@saveetha.ac.in",
-      //       },
-      //     ],
-      //     staff: [
-      //       {
-      //         name: "Ms.S.Kavitha",
-      //         desig: "Associate Professor",
-      //         phone: 9444533061,
-      //         email: "kavitha@saveetha.ac.in",
-      //       },
-      //     ],
-      //     student: [
-      //       {
-      //         name: "B.G.Kishore",
-      //         year: "IV",
-      //         phone: 6374395782,
-      //         email: "vishnuprasad3002@gmail.com",
-
-      //       },
-      //       {
-      //         name: "N.Vishnu Prasad",
-      //         year: "IV",
-      //         phone: 6369299454,
-      //         email: "kishorebg87@gmail.com",
-      //       },
-            
-      //     ],
-      //   },
-      // },
+      {
+        name: "Exploring IOT : From Concept to Implementation",
+        logo: "/EventsAssets/",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        link: "",
+        day1: {
+          date: " 07 Nov 2024",
+          time: "Full Day",
+          mode:"OFFLINE",
+          venue:"will be updated soon",
+          // company: "Think Big Unlocking Innovation",
+        
+          resource: [
+            {
+              // name: "Raghul. G.S",
+              // desig: "Trainer",
+              // phone: 8939360814,
+              // email: "s.rahulgovind@gamil.com",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr.K.Kanchana",
+              phone: 9444189111,
+            },
+            {
+              name: "Dr. Monica P Suresh",
+              phone: 9940345793,
+            },
+          ],
+          student: [
+            {
+              name: "Presilla Mary",
+              phone: 7200262279,
+            },
+          ],
+        },
+      },
     ],
   },
 ];
