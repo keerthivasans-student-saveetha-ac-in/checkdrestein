@@ -1662,7 +1662,7 @@ export const EventDetails = [
                 phone: 9361680748,
               },
               {
-                name: "Dharshiniyaa k.s",
+                name: "Dharshiniyaa K S",
                 phone: 9787005451,
               },
             ],
