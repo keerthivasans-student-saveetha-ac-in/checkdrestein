@@ -276,6 +276,16 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
+            NANDA KISHORE R (ECE) - 9344248604
+        </Chip>
+
+        <Chip
+            size="lg"
+            style={{ backgroundColor: "transparent" }}
+            startDecorator={
+              <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
+            }
+            >
             NEVIL JOE FERDIN P (EEE) - 9360507661
         </Chip>
 
