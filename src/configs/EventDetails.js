@@ -877,47 +877,53 @@ export const EventDetails = [
     title :"Electronics and Instrumentation Engineering",
     eventslist :[
       {
-        name: "Tech Battle ",
-        date: "09 Nov 2024(FN)",
+        name: "Tech Battle",
+        date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 12:00pm",
-        members: "Team of 2-3",
-        round1title: "Art Replication",
+        time: "10:00 AM - 12:00 PM",
+        members: "Team of 3",
+        round1title: "Spotlight & Recall",
         round1:
-          "Participants will be given a pre-generated image, created using AI tools, and their task is to replicate it as closely as possible. This round tests not only their creativity but also their precision and attention to detail. Time Taken for Round-1 will be 30 mins. Can you match the AI’s creation using your artistic skills? The top 10 teams will be moved to second round",
-        round2title: "AI Comic Creation",
+          "Collect the Group of Components displayed on the Screen. Convey the image through action and find its technical term",
+       
+        round2title: "Guess the Expression!!",
         round2:
-          "In the second round, the stakes are raised! Participants will be provided with a specific scenario, and their challenge is to generate their own comic using AI tools for image generation. They’ll need to create characters, scenes, and a compelling narrative that fits the given scenario. This round emphasizes storytelling, creativity, and the ability to seamlessly integrate AI-generated images into a cohesive comic. Time Taken for Round -2 will be 45 mins. The AI-generated-COMIC should be minimum of 5 to 6 pages",
-        note:"Requirements from College: Internet, Projector, Mic and speaker. Requirements from Participants:Laptop with Internet connection",
+          "Theoretical laws will be given to the one of the participant, the expressions for those laws needed to be said by their the respective team members",
+       
+          round3title: "Challenge Yourself !!",
+          round3:
+            "11 Blocks will displayed on the screen, 3 blocks contains Bomb in them , 2 Exchange. Remaining 6 blocks contains the Specific Points .General Topics related to Electronics will be given Onspot",
+       
         tag: "EVENT",
         color: "0, 1, 38",
-        logo: "/EventsAssets/prompt.webp",
+        logo: "/EventsAssets/techbattle.webp",
         staff: [
           {
-            name: " Dr.M.Ulagammai",
-            phone: 9842925311,
+            name: " Dr. P. Yuvaraj ",
+            phone: 9865324440,
           },
         ],
         student: [
           {
-            name: "Prema Latha S",
-            phone: 8124694321,  
+            name: "Sugantha Kumar M",
+            phone: 9176007792,  
           },
           {
-            name: " Nithyaa Sri S S",
-            phone: 9487319445,
+            name: "Darshana K",
+            phone: 8248477077,
           },
           {
             name: "Kamalesh S",
             phone: 9444436536,
           },
           {
-            name: " Kiran Balaji H",
+            name: "Kiran Balaji H",
             phone: 9600141495,
           },
         ],
       },//1
+
       ],
     workshopslist:[
       {
@@ -1032,19 +1038,19 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "Vishnupriya.K",
+              name: "Vishnupriya K",
               phone: 7305397423,
             },
             {
-              name: "Santhosh.P",
+              name: "Santhosh P",
               phone: 8870434353,
             },
             {
-              name: "Ishvary.G",
+              name: "Ishvarya G",
               phone: 8667225253,
             },
             {
-              name: "Shruthi.K",
+              name: "Shruthi K",
               phone: 7708115540,
             },
           ],
@@ -1508,7 +1514,7 @@ export const EventDetails = [
         round1: "Participants will present a working prototype of their pre-made website. Teams can consist of 1 to 4 members. Participants are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. They will explain their unique touch and showcase their technical skills during the presentation. Evaluation criteria include originality, technical execution, and user experience",
         round2title: "Live Development Challenge",
         round2: "Finalists will participate in a live session to build a fully functional website within a set time limit. Participants can use any resources but must display their coding skills and creativity while explaining how their code works. Judges will assess the personal contribution and technical depth of the project. Finalists must be prepared to answer questions about their development process and the choices they made during the build",
-        note:"Laptops or devices are needed from participants for coding and accessing the quiz. A reliable internet connection is required from participants for seamless participation. Web development knowledge, including HTML, CSS, and JavaScript, is necessary from participants. Creativity and problem-solving skills are expected from participants to tackle coding challenges effectively",
+        note:"Laptops are mandatory. A reliable internet connection is required from participants for seamless participation. Web development knowledge, including HTML, CSS, and JavaScript, is necessary from participants. Creativity and problem-solving skills are expected from participants to tackle coding challenges effectively",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/webwizard.webp",
@@ -1693,19 +1699,19 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: " M.ARJUN",
+            name: "Arjun M",
             phone:  8148918219,  
           },
           {
-            name: " ABINAV SANKAR S",
+            name: "Abinav Sankar S",
             phone: 8610304570,
           },
           {
-            name: " Lakshmi Priya.V",
+            name: "Lakshmi Priya V",
             phone: 6381478448,
           },
           {
-            name: " Harin.A",
+            name: "Harini A",
             phone: 9962050598,
           },
         ],
@@ -2437,6 +2443,57 @@ export const EventDetails = [
           ],
         },    
       },//12
+
+      {
+        name: "A Hands-On Workshop in Product Design, Full-Stack Development, and DevOps",
+        logo: "EventsAssets/handson.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: " will be updated soon",
+        time: " 09:00 AM 03:00 PM",
+        note:"Laptop Required",
+        link: "https://forms.gle/PBi6k2ppcLtViayr6",
+        topic:"things to be included",
+        note:"Product Design: Learn user-centered design, quick prototyping, and usability testing to create intuitive, user-friendly interfaces. Full-Stack Development: Hands-on with frontend (HTML, CSS, JavaScript) and backend (APIs, databases) development to build complete web applications. DevOps: Practice CI/CD, containerization with Docker, and scaling applications with Kubernetes for streamlined deployment and management",
+        day1: {
+          date: "05 Nov 2024",
+          time: " 09:00 AM 03:00 PM",
+          mode: "Individual",
+          venue: "will be updated soon",
+          
+          resource: [
+            {
+               name: " Mr. DHANANJAY KUMAR",
+               desig: " Assistant Vice President, Citi Bank",
+            },
+            
+          ],
+          staff: [
+            {
+              name: " Mrs. G. ABINAYA",
+              phone:  9500206093,
+            },
+          ],
+          student: [
+            {
+              name: " Kalpana S",
+              phone:  9361081634,
+            },
+            {
+              name: " Malarvizhi G",
+              phone: 7708254194,
+            },
+            {
+              name: " Sonu S ",
+              phone: 9840916273,
+            },
+            {
+              name: " Jaya Abirami S",
+              phone: 8122934948,
+            },
+          ],
+        },   
+      },//13
       
 
     ],
