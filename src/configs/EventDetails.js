@@ -8,7 +8,7 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name: "Hands on workshop- Millet based snacks and baked products",
+        name: "Hands on Workshop - Millet based snacks and baked products",
         logo: "EventsAssets/agrdep.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -29,14 +29,14 @@ export const EventDetails = [
         ],
     staff: [
             {
-              name: " Dr.Ganapathy",
+              name: " Dr. Ganapathy",
               phone: 9787982231,
             },
            
           ],
           student: [
             {
-              name: " CHANTINE S",
+              name: "Chantine S",
               phone: 8248590927  ,
             },
           ],
@@ -56,21 +56,21 @@ export const EventDetails = [
         ],
         staff: [
           {
-            name: " Dr.Ganapathy",
+            name: " Dr. Ganapathy",
             phone: 9787982231,
           },
          
         ],
         student: [
           {
-            name: " CHANTINE S",
+            name: "Chantine S",
             phone: 8248590927  ,
           },
         ],
       },
       },//1
       {
-        name: "CHALLENGES,BENIFITS AND FUTURE OF DRONE TECHNOLOGY",
+        name: "Challenges, Benifits and Future of Drone Technology",
         logo: "EventsAssets/agri24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -83,21 +83,21 @@ export const EventDetails = [
           venue: "will be updated soon",
           list: true,
           resource: [ {
-            name: "DR. K.P.Shashidar Rao",
+            name: "DR. K. P. Shashidar Rao",
             desig:" Founder Dronemaker India ",
           },
         
         ],
     staff: [
             {
-              name: " Dr.P.Bakkiyalakshmi",
+              name: " Dr. P. Bakkiyalakshmi",
               phone: 9566670561,
             },
            
           ],
           student: [
             {
-              name: "PRIYADHARSHINI",
+              name: "Priyadharshini",
               phone:  9445913039 ,
             },
           ],
@@ -115,7 +115,7 @@ export const EventDetails = [
     workshopslist: [
     
       {
-        name: "Troubleshooting and maintenance of critical care equipments",
+        name: "Troubleshooting & Maintenance of Critical Care Equipments",
         logo: "/EventsAssets/bmi24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -192,7 +192,7 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name: "ASPEN Plus Insight: Modeling Reactor & Distillation Processes",
+        name: "ASPEN Plus Insight - Modeling Reactor & Distillation Processes",
         logo: "EventsAssets/aspen.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -280,7 +280,7 @@ export const EventDetails = [
     workshopslist: [
       {
         name: "Digital Land Survey 2.0",
-        logo: "EventsAssets/.webp",
+        logo: "EventsAssets/digitalland.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: " will be updated soon",
@@ -804,10 +804,8 @@ export const EventDetails = [
         
           resource: [
             {
-              // name: "Raghul. G.S",
-              // desig: "Trainer",
-              // phone: 8939360814,
-              // email: "s.rahulgovind@gamil.com",
+              name: "Mr. Jagadeeswaran",
+              desig: "CEO, THINK BIG",
             },
           ],
           staff: [
@@ -829,7 +827,7 @@ export const EventDetails = [
         },
       },//1
       {
-        name: "Exploring IOT: From Concept to Implementation",
+        name: "Exploring IOT - From Concept to Implementation",
         logo: "/EventsAssets/eee2.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -844,15 +842,13 @@ export const EventDetails = [
         
           resource: [
             {
-              // name: "Raghul. G.S",
-              // desig: "Trainer",
-              // phone: 8939360814,
-              // email: "s.rahulgovind@gamil.com",
+              name: "K. Ilanchezhian",
+              desig: "Manager – Technical, Shree Technologies A Franchisee of Prolific Systems & Technologies Pvt. Ltd., Coimbatore",
             },
           ],
           staff: [
             {
-              name: "Dr.K.Kanchana",
+              name: "Dr. K. Kanchana",
               phone: 9444189111,
             },
             {
@@ -1114,23 +1110,23 @@ export const EventDetails = [
           time: "10:00 AM - 3:00 PM",
           resource: [
             {
-              name: "Dr. Sangeetha.D",
+              name: "Dr. D. Sangeetha",
               // phone: 8939360814,
             },
           ],
           staff: [
             {
-              name: "Dr. Manimaran.G",
+              name: "Dr. G. Manimaran",
               phone: 9092265908,
             },
           ],
           student: [
             {
-              name: "Madhumeena . K",
+              name: "Madhumeena K",
               phone: 8925263119,
             },
             {
-              name: " Sridharshini.K",
+              name: " Sridharshini K",
               phone: 9342683811,
             },
           ],
@@ -1151,23 +1147,23 @@ export const EventDetails = [
           time: "10:00 AM - 3:00 PM",
           resource: [
             {
-               name: "Mr. Yasar Arafath J",
+               name: "Mr. J. Yasar Arafath",
               // phone: 8939360814,
             },
           ],
           staff: [
             {
-              name: "Dr. MUTHUKUMAR V.",
+              name: "Dr. V. MUTHUKUMAR",
               phone: 9176941555,
             },
           ],
           student: [
             {
-              name: "SATHISH R.",
+              name: "Sathish R",
               phone: 9940429539,
             },
             {
-              name: " Kavyaambiga K",
+              name: "Kavyaambiga K",
               phone: 9790151293,
             },
           ],
@@ -1178,28 +1174,65 @@ export const EventDetails = [
           time: "10:00 AM - 3:00 PM",
           resource: [
             {
-               name: "Mr. Yasar Arafath J",
+               name: "Mr. J. Yasar Arafath",
               // phone: 8939360814,
             },
           ],
           staff: [
             {
-              name: "Dr. MUTHUKUMAR V.",
+              name: "Dr. V. MUTHUKUMAR",
               phone: 9176941555,
             },
           ],
           student: [
             {
-              name: "SATHISH R.",
+              name: "Sathish R",
               phone: 9940429539,
             },
             {
-              name: " Kavyaambiga K",
+              name: "Kavyaambiga K",
               phone: 9790151293,
             },
           ],
         },
       },//2
+
+      {
+        name: "Aerospace Design and Testing",
+        logo: "/EventsAssets/aerospace.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        // company: "THINK BIG",
+        venue:"will be updated soon",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeRVXBRs0faEBdj4gv116ZCSDP2r0O5YwMPXH8l0JZlBPGNNg/viewform",
+        day1: {
+          date: "07 Nov 2024",
+          mode: "Individual",
+          time: "10:00 AM - 3:00 PM",
+          resource: [
+            {
+               name: "Gladwin Immanuel R",
+              desig: "N/A",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. G. Gopala Rama Subramaniyan",
+              phone: 9444167442,
+            },
+          ],
+          student: [
+            {
+              name: " Mothy Krishnan R D",
+              phone: 8072000453,
+            },
+            {
+              name: " Harish Kumar R",
+              phone: 7305264191,
+            },
+          ],
+        },
+      },//3
     ],
   },
 
