@@ -426,12 +426,19 @@ const Modal = ({ open, setOpenModal }) => {
               <div className="faculty">
                 <h3>Resource Person:</h3>
                 <ol>
-                  {eventObject?.day1.resource?.map((each) => {
+                  {/* {eventObject?.day1.resource?.map((each) => {
                     return (
                       <li>
                         <span>{each.name}</span> {`(${each.phone})`} <br />{" "}
+                        {`${each.desig}`} */}
+
+              {eventObject?.day1.resource?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span><br />{" "}
                         {`${each.desig}`}
                       </li>
+                      
                     );
                   })}
                 </ol>
@@ -538,7 +545,7 @@ const Modal = ({ open, setOpenModal }) => {
                   {eventObject?.day2.resource?.map((each) => {
                     return (
                       <li>
-                        <span>{each.name}</span> {`(${each.phone})`} <br />{" "}
+                        <span>{each.name}</span> <br />{" "}
                         {`${each.desig}`}
                       </li>
                     );

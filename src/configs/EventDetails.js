@@ -1759,6 +1759,7 @@ export const EventDetails = [
         venue: " will be updated soon",
         time: "09.00 AM to 03.00 PM",
         note:"Laptop Required", 
+        note: "This workshop focuses on the MERN stack, taking participants from the basics of web development through to building fully functional, full-stack applications. Participants will also learn advanced deployment techniques, equipping them with comprehensive skills in MongoDB, Express, React, and Node js to create dynamic and scalable web applications",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSckuUw8tfhqI48sVjd41H_A11htc4fPlCZ8X_n5XGE333vm6A/viewform",
         day1: {
           date: "04 Nov 2024",
@@ -1767,18 +1768,9 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. Kamaleshwaran M",
-              // desig: "Professor",
-              // phone: 9941613532,
-              // email: "srenganathan@annauniv.edu",
+              name: "Mr. Kameshwaran M",
+              desig: "Associate Engineer, Presidio",
             },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
-            
           ],
           staff: [
             {
@@ -1812,18 +1804,9 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. Kamaleshwaran M",
-              // desig: "Professor",
-              // phone: 9941613532,
-              // email: "srenganathan@annauniv.edu",
+              name: "Mr. Kameshwaran M",
+              desig: "Associate Engineer, Presidio",
             },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
-            
           ],
           staff: [
             {
@@ -1857,7 +1840,7 @@ export const EventDetails = [
         tag: "WORKSHOP",
         color: "0, 70, 90",
         // company: "Faculty of Saveetha Engineering College",
-        note:"**Overview:**:This workshop aims to equip participants with the knowledge and skills to harness the power of the Internet of Things (IoT) using Python. We will focus on connecting a sensor to an Node MCU microcontroller and integrating it with a Jupyter Notebook for data analysis and visualization",
+        note:"This workshop aims to equip participants with the knowledge and skills to harness the power of the Internet of Things (IoT) using Python. We will focus on connecting a sensor to an Node MCU microcontroller and integrating it with a Jupyter Notebook for data analysis and visualization. Laptop with Jupyter notebook installed (MANDATORY)",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSf09tx3Trmob0lafaakyW3chpIVjHK0oRKNmPGEE_wMPmTyHw/viewform",
         day1: {
           date: "07 Nov 2024",
@@ -1865,11 +1848,10 @@ export const EventDetails = [
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
-          topic: "JUPYTER IOT SANDBOX",
           resource: [
             {
-              name: "Dr. Vasanth Kumar .CH",
-              email: "vasanthkumar@saveetha.ac.in",
+              name: "Dr. Vasanth Kumar C H",
+              desig: "Assistant Professor, SCOFT, Saveetha Engineering College",
             },
           ],
           staff: [
@@ -1877,13 +1859,6 @@ export const EventDetails = [
               name: "Dr Aswini J ",
               phone: 9380977888,
             },
-
-            // {
-            //   name: "Ms.A.DEEPA",
-            //   desig: "Assistant Professor",
-            //   phone: 86101998246,
-            //   email: "passionateaboutresearch@gmail.com",
-            // },
           ],
           student: [
             {
@@ -1905,37 +1880,38 @@ export const EventDetails = [
           ],
         },
       },//2
+      
       {
         name: "Tested academy career acceralator",
         logo: "EventsAssets/scoft2.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         // company:  "YETHI",
-        note:"Laptop Required",
+        note:"Join us for an insightful day of learning and hands-on experience designed to equip you with essential knowledge in the banking domain, software testing, automation, and Tenjin's capabilities. Our event features interactive sessions and real-time application, making it ideal for those looking to sharpen their skills and apply industry-relevant practices. We’re thrilled to announce that all event participants will receive one month of FREE access to Tenjin’s powerful platform!. This exclusive offer allows you to explore and utilize Tenjin's advanced data and automation tools, giving you the hands-on experience needed to stand out in tech and analytics roles",
         link: "https://forms.gle/68uN1gf1WpYZLbfL9",
         day1: {
           date: " 05 Nov 2024",
-          time: "10am - 2pm",
+          time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
           resource: [
             {
               name: "Mr.Sitesh Srivastava",
+              desig: "Chief Customer 'Success' Officer (CCO), Yethi Consulting (yethi.in), Director - TESTED Academy"
             },
+
+            {
+              name: "Mr. R. V. Chari",
+              desig: "Senior Solution Architect Post Graduate Banker and Ten years of experience in software related activities in Bank"
+            },
+
           ],
           staff: [
             {
               name: "Ms.Panimalar",
               phone: 9789703697,
             },
-
-            // {
-            //   name: "Ms.A.DEEPA",
-            //   desig: "Assistant Professor",
-            //   phone: 86101998246,
-            //   email: "passionateaboutresearch@gmail.com",
-            // },
           ],
           student: [
             {
@@ -1962,8 +1938,8 @@ export const EventDetails = [
         logo: "EventsAssets/empower.jpg",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        company:  "RETECH",
-        note:"Projector and Laptops for presentations. Internet connection for design tools. Laptops (Required) with Figma pre-installed and an internet connection for participants. Notepads and pens for participants",
+        company:  "RETECH Solutions",
+        note:"Provide hands-on experience in UI/UX design using Figma. Equip participants with practical skills in wireframing, prototyping, and usability testing. Enhance participants' understanding of the importance of design, How good design impacts not only technology but also everyday life and user satisfaction. Laptops (Required) with Figma pre-installed and an internet connection for participants",
         link: "https://docs.google.com/forms/d/e/1FAIpQLScUEgS_paQp3mHKeNtN7qHOinyHtjm2yhoizVOHe9o7HN2NRA/viewform",
         day1: {
           date: " 06 Nov 2024",
@@ -1974,8 +1950,7 @@ export const EventDetails = [
           resource: [
             {
               name: "Mr. Dilli Ganesh",
-              phone: 8939874198,
-              // email:"dilleeone@gmail.com",
+              desig : "UI/UX Mentor at Retech Solutions Pvt Ltd"
             },
           ],
           staff: [
@@ -2003,7 +1978,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue: " will be updated soon",
         time: "9:00 AM to 3:00 PM",
-        note:"Laptop Required",
+        note:"The workshop offers a comprehensive introduction to 3D printing, covering essential concepts, hands-on practices, and advanced techniques. The sessions are designed to guide participants through the basics, design, preparation, and execution of 3D printing, ensuring a complete understanding of the technology",
         link: "https://forms.gle/Bx6QJCPr21q5Kc8t6",
         day1: {
           date: "06 Nov 2024",
@@ -2012,17 +1987,9 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "DR.SELLAKUMAR,",
-              // desig: "Professor",
-              // phone: 9941613532,
-              // email: "srenganathan@annauniv.edu",
+              name: "DR. S. SELLAKUMAR",
+              desig: "Assistant Professor, Department of Mechanical Engineering (SCOFT)",
             },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
             
           ],
           staff: [
@@ -2043,6 +2010,7 @@ export const EventDetails = [
           ],
         },
       },//5
+
       {
         name: "Cybersecurity Foundation Essentials",
         logo: "EventsAssets/scoft3-24.webp",
@@ -2058,18 +2026,21 @@ export const EventDetails = [
           time: "9:00 AM to 3:00 PM",
           mode: "OFFLINE",
           venue: "will be updated soon",
+          topic: "Wi-Fi Cracking, Android Hacking, ⁠⁠Browser Hacking, ⁠⁠Website hacking, ⁠⁠Bug Bounty, ⁠⁠Windows Hacking, ⁠⁠Dark Web, ⁠⁠Daily Cyber Threats",
           resource: [
             {
               name: "Mr. Abhishek Kumar",
-              // desig: "Professor",
-              // phone: 9941613532,
-              // email: "srenganathan@annauniv.edu",
+              desig: "Founder - CyberTeam",
+            },
+            {
+              name: "Ms. Aditi Rai",
+              desig: "Founder - CyberTeam",
             },
             
           ],
           staff: [
             {
-              name: "Dhivya Dharshini S",
+              name: "Ms. S. Dhivya Dharshini",
               phone: 8754468216,
             },
           ],
@@ -2094,13 +2065,14 @@ export const EventDetails = [
         },
         
       },//6
+      
       {
         name: "MERN Mobile Synergy",
         logo: "EventsAssets/mern.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         // company: "Faculty of Saveetha Engineering College",
-        note:"Laptop With Node JS, Visual Studio Code and MongoDB installed",
+        note:"Dive into a hands-on workshop where you’ll use MongoDB, Express, React, and Node to create a sleek registration app. Perfect for beginners--learn to register and display students with real- world skills!!. Laptop With Node JS, Visual Studio Code and MongoDB installed",
         link: "https://forms.gle/jni66VzWw8wcAPaU7",
         day1: {
           date: "05 Nov 2024",
@@ -2108,10 +2080,11 @@ export const EventDetails = [
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
-          topic: "MERN Mobile Synergy",
+          // topic: "MERN Mobile Synergy",
           resource: [
             {
-              name: "Logesh JV",
+              name: "Mr. J. V. Logesh",
+              desig: "Instructor, JVL code"
             },
           ],
           staff: [
@@ -2140,15 +2113,16 @@ export const EventDetails = [
           ],
         },
         day2: {
-          date: "05 Nov 2024",
+          date: "06 Nov 2024",
           time: "9:00am to 3:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
-          topic: "MERN Mobile Synergy",
+          // topic: "MERN Mobile Synergy",
           resource: [
             {
-              name: "Logesh JV",
+              name: "Mr. J. V. Logesh",
+              desig: "Instructor, JVL code"
             },
           ],
           staff: [
@@ -2177,14 +2151,15 @@ export const EventDetails = [
           ],
         },
       },//7
+
       {
-        name: "Cyber Forensics D+ecode",
+        name: "Cyber Forensics Decode",
         logo: "EventsAssets/cyber.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: " will be updated soon",
         time: "Full Day",
-        note:"Laptop Required",
+        note:"This workshop provides a foundational understanding of cyber forensics, its key principles, and practical skills for dealing with digital evidence. The sessions are designed to cover the essentials of cyber forensics and offer hands-on experience in handling digital evidence using forensic tools",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSedJSPVDcB615ZZ4xek94qX22pWU436Ud5CWFn_58bBH3uCgg/viewform",
   
         day1: {
@@ -2195,15 +2170,8 @@ export const EventDetails = [
           resource: [
             {
               name: "Mr. Sylesh",
-              // desig: "Professor",
-              // email: "srenganathan@annauniv.edu",
+              desig: "Senior Manager - DFIR, Alibi Technologies LLP",
             },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
             
           ],
           staff: [
@@ -2233,16 +2201,16 @@ export const EventDetails = [
         },
         
       },//8
+
       {
         name: "UiPath Robotic Automation Mastery",
         logo: "EventsAssets/robotics.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        venue: " will be updated soon",
+        venue: "will be updated soon",
         time: "Full Day",
-        note:"Laptop Required",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSedJSPVDcB615ZZ4xek94qX22pWU436Ud5CWFn_58bBH3uCgg/viewform",
-  
+        note:"Dive into the world of Robotic Process Automation (RPA) with this hands-on, two-day UiPath workshop designed for beginners and professionals alike. On Day 1, you'll master RPA basics: setup, exploring the UiPath environment, and building your first automated workflows, including web scraping and Excel automation. Day 2 takes you deeper, with advanced automation techniques, error handling, email and PDF automation, and modular workflow design. By the end, you’ll have practical, industry-ready skills to automate repetitive tasks, optimize workflows, and boost productivity with UiPath",
+        link: "https://forms.gle/BpjKcs9XZG4rvncq9",
         day1: {
           date: "06 Nov 2024",
           time: "Full Day",
@@ -2250,17 +2218,9 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. Mohamed Salman,h",
-              // desig: "Professor",
-              // email: "srenganathan@annauniv.edu",
-            },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
-            
+              name: "Mr. Mohamed Salman",
+              desig: "Automation Consultant, Northern Trust Asset Management",
+            }, 
           ],
           staff: [
             {
@@ -2294,17 +2254,9 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. Mohamed Salman,h",
-              // desig: "Professor",
-              // email: "srenganathan@annauniv.edu",
-            },
-            // {
-            //   name: "Dr.N.Umaiyambika",
-            //   desig: "Assistant Professor",
-            //   phone: 9444945153,
-            //   email:"umaiyambikan@saveetha.ac.in",
-            // },
-            
+              name: "Mr. Mohamed Salman",
+              desig: "Automation Consultant, Northern Trust Asset Management",
+            }, 
           ],
           staff: [
             {
@@ -2332,32 +2284,31 @@ export const EventDetails = [
           ],
         },    
       },//9
+
       {
-        name: "AI-Driven Filmmaking",
+        name: "AI - Driven Filmmaking",
         logo: "EventsAssets/driven.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: " will be updated soon",
         time: " 09:30 AM to 03:00 PM",
-        note:"Laptop Required",
+        note:"Idea Generation & Screenplay: AI assists in story ideas, dialogue, and plot development. Animation & VFX: AI speeds up animation and VFX with automation and realistic simulations. Sound & Video Editing: AI enhances sound syncing, transitions, and effects for efficient editing",
         link: "https://forms.gle/WXmfCiGVHaH5xAKw5",
-  
         day1: {
           date: "07 Nov 2024",
           time: "09:30 AM to 03:00 PM",
-          mode: "OFFLINE",
+          mode: "OFFLINE",  
           venue: "will be updated soon",
           resource: [
             {
-              name: " Mr. S.N.Sathva Krishnan",
-              desig: " Head of the Visual Effects Dept. at ICAT Design & Medical College",
-              // email: "srenganathan@annauniv.edu",
+              name: " Mr. S. N. Sathva Krishnan",
+              desig: "Head of the Visual Effects department at ICAT Design & Media College",
             },
             
           ],
           staff: [
             {
-              name: " Mrs.J.Dhanalakshmi",
+              name: " Mrs. J. Dhanalakshmi",
               phone: 8866426107,
             },
           ],
@@ -2375,12 +2326,13 @@ export const EventDetails = [
               phone: 8148941952,
             },
             {
-              name: " Sanjay Kumar NB",
+              name: " Sanjay Kumar N B",
               phone: 9677179915,
             },
           ],
         },      
       },//10
+
       {
         name: "Future Forage Gate",
         logo: "EventsAssets/futureforage.webp",
@@ -2388,7 +2340,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue: " will be updated soon",
         time: " 09:00 AM to 03:00 PM",
-        note:"Laptop Required",
+        note:"This workshop aims to provide students with valuable insights into options for higher studies after graduation, followed by skill-building sessions focused on quantitative and verbal reasoning. The schedule is structured to offer both guidance and practice in essential aptitude skills",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdk_C95s4jjfrklM_5RcjDPuEukz2NeqJ68Mi3SsYbxW2_ZoQ/viewform",
         
         day1: {
@@ -2399,19 +2351,17 @@ export const EventDetails = [
           resource: [
             {
               name: " Mr.Krishnan Kesavan",
-              desig: " Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
+              desig: "Head of Operations and English language mentor, IMS Anna Nagar, Chennai",
             },
             {
               name: " Mr. Vijay Kumar",
-              desig: "  Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
+              desig: "Quants mentor, IMS Anna Nagar, Chennai",
             },
             
           ],
           staff: [
             {
-              ame: " Mrs. E. Poongulali",
+              name: " Mrs. E. Poongulali",
               phone:  9442787826,
             },
           ],
@@ -2435,108 +2385,31 @@ export const EventDetails = [
           ],
         },      
       },//11
+
       {
-        name: "Future Forage Gate",
+        name: "Full Stack Mastery - Idea to Deployment",
         logo: "EventsAssets/fullstack.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: " will be updated soon",
-        time: " NIL",
-        note:"Laptop Required",
-        link: "",
-        
+        time: "09:00 AM to 03:00 PM",
+        note:"The Full Stack Mastery Deployment Workshop is a high-energy, immersive experience that takes you through the world of full stack web development using industry-leading technologies like React js, Node js, MongoDB Atlas, and Livewire. This workshop is designed to equip participants with the essential skills and insider knowledge needed to become a full stack development pro, all while exploring future trends and career possibilities",
+        link: "https://forms.gle/1E6frBz2rE8MCKke6",
         day1: {
-          date: "04 Nov 2024",
-          time: " NIL",
-          mode: "Individual",
-          venue: "will be updated soon",
-          resource: [
-            {
-              // name: " Mr.Krishnan Kesavan",
-              // desig: " Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
-            },
-            
-          ],
-          staff: [
-            {
-              ame: " Shanmuga priya ",
-              phone:  9094623070,
-            },
-          ],
-          student: [
-            {
-              name: " Mamtha I",
-              phone:  8838465440,
-            },
-            {
-              name: " Kishore B",
-              phone: 7550191229,
-            },
-            {
-              name: " Akshayaa M T ",
-              phone: 7010256205,
-            },
-            {
-              name: " Akshaya S K",
-              phone: 8778410710,
-            },
-          ],
-        },    
-        day2: {
-          date: "05 Nov 2024",
-          time: " NIL",
-          mode: "Individual",
-          venue: "will be updated soon",
-          resource: [
-            {
-              // name: " Mr.Krishnan Kesavan",
-              // desig: " Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
-            },
-            
-          ],
-          staff: [
-            {
-              ame: " Shanmuga priya ",
-              phone:  9094623070,
-            },
-          ],
-          student: [
-            {
-              name: " Mamtha I",
-              phone:  8838465440,
-            },
-            {
-              name: " Kishore B",
-              phone: 7550191229,
-            },
-            {
-              name: " Akshayaa M T ",
-              phone: 7010256205,
-            },
-            {
-              name: " Akshaya S K",
-              phone: 8778410710,
-            },
-          ],
-        },  
-        day3: {
           date: "06 Nov 2024",
-          time: " NIL",
+          time: "09:00 AM to 03:00 PM",
           mode: "Individual",
           venue: "will be updated soon",
           resource: [
             {
-              // name: " Mr.Krishnan Kesavan",
-              // desig: " Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
+              name: "Mr. ANUPRIYAN K",
+              desig: "B.TECH IT, M.E CSE, Technical Leader-Livewire Corporate,chennai",
             },
             
           ],
           staff: [
             {
-              ame: " Shanmuga priya ",
+              name: "Mrs. Shanmuga Priya",
               phone:  9094623070,
             },
           ],
@@ -2559,44 +2432,6 @@ export const EventDetails = [
             },
           ],
         },    
-        day4: {
-          date: "07 Nov 2024",
-          time: " NIL",
-          mode: "Individual",
-          venue: "will be updated soon",
-          resource: [
-            {
-              // name: " Mr.Krishnan Kesavan",
-              // desig: " Head of Operations and English language mento IMS",
-              // email: "srenganathan@annauniv.edu",
-            },
-            
-          ],
-          staff: [
-            {
-              ame: " Shanmuga priya ",
-              phone:  9094623070,
-            },
-          ],
-          student: [
-            {
-              name: " Mamtha I",
-              phone:  8838465440,
-            },
-            {
-              name: " Kishore B",
-              phone: 7550191229,
-            },
-            {
-              name: " Akshayaa M T ",
-              phone: 7010256205,
-            },
-            {
-              name: " Akshaya S K",
-              phone: 8778410710,
-            },
-          ],
-        },  
       },//12
       
 
