@@ -1262,10 +1262,9 @@ export const EventDetails = [
         date: "08 Nov 2024(AN)",
         type: "Team of 3",
         venue: "Will Be Updated Soon",
-        time: "Afternoon",
-      
+        time: "01:00pm - 03.00pm",
         round1title: "WITNESS'S TALE:",
-        round1: "TEAMS FIND THE CRIME SCENE BY ANALYZING MISLEADING CLUES. WINNERS GET A PRE-CODED IMAGE CLASSIFIER; OTHERS MUST CODE IT.",
+        round1: "TEAMS FIND THE CRIME SCENE BY ANALYZING MISLEADING CLUES. WINNERS GET A PRE-CODED IMAGE CLASSIFIER; OTHERS MUST CODE IT",
         round2title: "HIDDEN DAGGERS:",
         round2: "TEAMS IDENTIFY THE MURDER WEAPON USING IMAGE CLASSIFICATION.PREVIOUS WINNERS USE A PRE-CODED MODEL; OTHERS BUILD THEIR OWN AS A SABOTAGE",
         // round3title: "",
@@ -1276,18 +1275,26 @@ export const EventDetails = [
         logo: "/EventsAssets/murder-mys-24.webp",
         staff: [
           {
-            name: "Archana S H",
+            name: "Mrs. S. H. Archana",
             phone: 9094375369,
           },
         ],
         student: [
           {
-            name: "SRI VARSHAN P",
+            name: "Sri Varshan P",
             phone: 8754453088,
           },
           {
-            name: "KANISHKAR M",
+            name: "Kanishkar M",
             phone: 9042424694,
+          },
+          {
+            name: "Beatrice Thomas",
+            phone: 9840839234,
+          },
+          {
+            name: "Naveen Kanthan L",
+            phone: 9150629605,
           },
         ],
       },//1
@@ -1298,20 +1305,18 @@ export const EventDetails = [
         venue: "Will Be Updated Soon",
         time: "10:00am to 12:00pm",
         members: "Team of 3",
-        rules: "Participants must work in teams of 3. Participants must use only 1 phone. Laptops and internet access are required.",
+        rules: "Participants must work in teams of 3. Laptops and internet access are required",
         round1title: "The Tech Quiz Challenge",
-        round1:
-          "Teams will face a series of challenging quiz-based questions that test their knowledge across various technical domains. It's all about accuracy and teamwork as you work together to solve the problems and find the correct answers.",
+        round1:"Teams will face a series of challenging quiz-based questions that test their knowledge across various technical domains. It's all about accuracy and teamwork as you work together to solve the problems and find the correct answers",
         round2title: "Navigate the Clues",
-        round2:
-          "Teams must use their technical skills to solve clues and find the next location. Each successful destination will provide a new clue, leading to the next location. Teams are allowed to use only one phone for navigation and solving the clues",
-          note:"Laptops (one per team). Phone (one per team). Internet Access",
+        round2: "Teams must use their technical skills to solve clues and find the next location. Each successful destination will provide a new clue, leading to the next location. Teams are allowed to use only one phone for navigation and solving the clues",
+        note:"Laptops required. Internet Access needed",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cryptNhunt.webp",
         staff: [
           {
-            name: "Madhumitha N",
+            name: "Mrs. N Madhumitha",
             phone: 7708777640,
           },
         ],
@@ -1334,26 +1339,28 @@ export const EventDetails = [
           },
         ],
       },//2
+
       {
         name: "Data Note",
         date: "08 Nov 2024(AN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "Afternoon",
+        time: "01:00pm - 03:00pm",
         members: "Team of 3",
+        rules: "Participants must work in teams of 3. AI tools are prohibited",
         round1title: "L's Data Investigations",
         round1: "The setting is L's dimly lit office, cluttered with stacks of data reports and illuminated by the flickering glow of computer screens. This is where L, the world’s greatest detective, meticulously examines every detail, searching for patterns that might lead him to Kira. Participants step into this realm, embodying L's investigative spirit. Armed with a dataset filled with clues—crime statistics, social media activity, and more—they must analyze the information to uncover trends that could reveal Kira's next move. With five questions to answer, teams work frantically, applying statistical methods to determine which day had the highest crime rates or uncovering the most prevalent social media interactions. The clock ticks down, and they race to submit their findings, knowing that accuracy and clarity will earn them crucial points",
         round2title: "Kira's Preprocessing Trial",
         round2: "As the investigation deepens, the scene shifts to Kira’s hideout—an enigmatic space where strategy and manipulation reign supreme. Here, Kira devises intricate plans, and participants must adopt his cunning mindset to prevail.In Kira’s Preprocessing Trial, teams face a series of data challenges that test their collaborative skills and analytical prowess. Each task reveals a clue that will bring them closer to escaping the room, just as Kira carefully orchestrates his moves to outwit L. Teams tackle the first challenge of handling missing values, filling in gaps to ensure data integrity. Next, they confront duplicates, stripping away redundancy to present a unique dataset. Outlier detection becomes a race against time as they identify anomalies, while data type conversion ensures every piece of information is in its rightful format. The pressure mounts, and only those who solve each task with speed and accuracy will advance",
         round3title: "Shinigami's Data Vision",
         round3: "In the final act, participants enter the mystical realm of the Shinigami, where clarity and insight illuminate the darkness. Here, the true power of visualization comes to life. Just as the Shinigami can perceive lifespans, teams must create visual representations that reveal the hidden narratives within their data. With a 3x3 Bingo card in hand, participants engage in a flurry of creativity. They tackle a variety of visualization challenges—from pie charts to scatter plots—working together to communicate trends and insights that could change the game. As they complete three tasks in a row and call “Bingo!”, the anticipation builds. They present their visualizations to the judges, explaining how each chart uncovers a deeper understanding of the data. In this moment, the power of insight becomes their ultimate weapon",
-        note:"Laptop Required",
+        note:"Laptop with internet connection. Jupyter Notebook required",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/datanote.webp",
         staff: [
           {
-            name: "Vishnupriya K",
+            name: "Mrs. K. Vishnupriya",
             phone: 9566500547,
           },
         ],
@@ -1414,6 +1421,10 @@ export const EventDetails = [
             name: "DAKSHA SUBBAIAN",
             phone: 9840560001,
           },
+          {
+            name: "AALIYA FATHIMA",
+            phone: 7695010234,
+          },
         ],
       },//4
       {
@@ -1429,13 +1440,12 @@ export const EventDetails = [
         round1: "Participants will design a UI/UX landing page using Figma, based on a given prompt",
         round2title: "Mobile App Design",
         round2: "In this round, you will design the layout for the mobile screen with the given prompt that addresses the real-world challenges",
-        note:"From the College: Projector, charging ports/sockets, classroom (40-50 capacity), A4 sheets, Wi-Fi (if possible), mic and speaker. From the Participants: Laptop (mandatory) and personal data connection",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/design-dhamaka.webp",
         staff: [
           {
-            name: "Dr Aswini J",
+            name: "Dr. J. Aswini",
             phone: 9380977888,
           },
         ],
@@ -1458,20 +1468,19 @@ export const EventDetails = [
         venue: "Will Be Updated Soon",
         time: "1:00pm to 3:00pm",
         members: "Team of 1-3",
-        rules:"Teams of 1-3 members. Can use proteus or Tinckercad  Participants must bring their own laptops with personal data connections",
+        rules:"Teams of 1 - 3 members. Can use proteus or Tinckercad  Participants must bring their own laptops with personal data connections",
         round1title: "The Sketch Showdown (Figma Design Sprint)",
         round1: "contestants will decode thehidden links between images and dive deep into the world of IoT!",
         round2title: "IoT Circuit Quest",
         round2: "contestants will be handed incomplete IoT circuits or system designs. Your task is to identify the missing components and sensors",
         round3title: "Built The Future",
         round3: "contestants will be presented with the real world iot problem and they have to Develop from scratch, Design the circuit, Code the logic and bring the system to life",
-        note:"● From the College: Projector, charging ports/sockets, classroom (40-50 capacity), Wi-Fi (if possible), mic and speaker. From the Participants: Laptop installed with proteus or tinckercad (mandatory) and personal data connection",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/iothackative.webp",
         staff: [
           {
-            name: "Dr. vasanth Kumar .CH",
+            name: "Dr. C. H. Vasanth Kumar",
             phone: 8122328543,
           },
         ],
@@ -1486,6 +1495,7 @@ export const EventDetails = [
           },         
         ],
       },//6
+
       {
         name: "Web Wizards",
         // tagline: "",
@@ -1495,18 +1505,16 @@ export const EventDetails = [
         time: "9:00am to 3:00pm",
         members: "Team of 1-4",
         round1title: "Presentation of working prototype of their pre-made website",
-        round1: "Participants will present a working prototype of their pre-made website . They are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. Participants will explain their unique touch and showcase their technical skills through the presentation.Evaluation Criteria: Originality, Technical Execution, and User Experience",
+        round1: "Participants will present a working prototype of their pre-made website. Teams can consist of 1 to 4 members. Participants are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. They will explain their unique touch and showcase their technical skills during the presentation. Evaluation criteria include originality, technical execution, and user experience",
         round2title: "Live Development Challenge",
-        round2: "Finalists will participate in a live session, where they must build a fully functional website within a set time limit. While they can use any resources, participants must display their coding skills, creativity, and explain how their code works. Judges will assess the personal contribution and technical depth of the project. The finalists must be prepared to answer questions about their development process and the choices they made during the build",
-        round3title: "Built The Future",
-        round3: "contestants will be presented with the real world iot problem and they have to Develop from scratch, Design the circuit, Code the logic and bring the system to life",
-        note:" From the College: Venue. Projector & Audio System. Internet Connectivity. Technical Setup. Power Backup. From the Participants: Laptops/Devices . Internet Connection. Web Development Knowledge (HTML/CSS/JavaScript). Creativity and Problem-Solving Skills",
+        round2: "Finalists will participate in a live session to build a fully functional website within a set time limit. Participants can use any resources but must display their coding skills and creativity while explaining how their code works. Judges will assess the personal contribution and technical depth of the project. Finalists must be prepared to answer questions about their development process and the choices they made during the build",
+        note:"Laptops or devices are needed from participants for coding and accessing the quiz. A reliable internet connection is required from participants for seamless participation. Web development knowledge, including HTML, CSS, and JavaScript, is necessary from participants. Creativity and problem-solving skills are expected from participants to tackle coding challenges effectively",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/webwizard.webp",
         staff: [
           {
-            name: "Dr v.Uma Rani ",
+            name: "Dr. V. Uma Rani",
             phone: 8610352527,
           },
         ],
@@ -1524,7 +1532,7 @@ export const EventDetails = [
             phone: 8122934948,
           },
           {
-            name: " Sonu",
+            name: "Sonu",
             phone: 9840916273,
           },          
         ],
@@ -1535,18 +1543,17 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "10:00am to 12:00pm",
-        members: "Team of 1-3",
-        rules:" Team Structure: 3 participants per team; each works for 5 minutes. Relay Process: Participants cannot communicate once the relay starts. They must continue from the previous coder&#39;s work without direct help. Problem Complexity: The problem must be solved using Python, C, or Java. Time Limit: Total round duration is 30 minutes. Advancement: The winning criteria for participants in Round 3 is based on the accuracy, efficiency, and completeness of their solution, along with how well they coordinate as a team during the relay within the given time limit",
+        time: "09:00am to 12:00pm",
+        members: "Team of 1 - 3",
         round1title: "Connections",
-        round1: "Description:Participants will face a series of visual clues (combinations of images) representing programming concepts or technical terms. They must decode these images to arrive at the correct term. Teams will be shown one set of images at a time.The visuals serve as abstract representations of common coding concepts such as algorithms, data structures, or programming terms, making it an engaging and creative way to test technical knowledge. Format: Online interactive quiz. Focus Areas: Programming fundamentals, algorithms, riddles, data structures, tech trivia. Duration per Question: 30 seconds to guess each term. Advancement: Top 50% of participants qualify for Round 2",
+        round1: "Participants decode visual clues, with each set of images representing a specific programming concept or technical term. The goal is to identify the correct term based on abstract visuals, covering ideas like algorithms, data structures, and general programming terms. The quiz is conducted online with interactive elements for direct engagement. Focus areas include programming fundamentals, algorithms, logic-based riddles, and tech trivia related to data structures. Each question has a 30-second time limit to challenge quick thinking and connections. The top 50% of participants qualify for Round 2 based on their first-round scores",
         round2title: "The Code Doctor",
-        round2: "The second round puts participants in the role of &quot;code doctors,&quot; where they must diagnose and fix errors in provided code snippets. These bugs may range from syntax issues to logical errors or runtime problems. Participants must identify and resolve all issues within the allotted time. Format: Debugging faulty code. Focus Areas: Syntax errors, logical errors, runtime errors. Programming Languages: Python, C, or Java. Duration: 20 minutes to debug 3-5 code snippets. Advancement: Participants who successfully debug the highest number of problems within the time limit move on to the final round",
+        round2: "Participants act as code doctors, diagnosing and fixing errors in provided code snippets. Bugs include syntax issues, logical errors, and runtime problems. The format involves debugging faulty code, with focus areas on syntax errors, logical errors, and runtime errors. Programming languages used are Python, C, or Java. Participants have a duration of 20 minutes to debug 3-5 code snippets. Advancement is determined by those who debug the highest number of issues within the time limit qualify for the final round",
         round3title: "Mastermind's Relay",
-        round3: "In this final round, teams of 3 will tackle a complex coding problem in a relay format. Each participant will code for a limited time before &quot;tagging&quot; the next teammate, who continues the work",
-        note:"From the College: Venue: A hall or room equipped with computers for coding and debugging rounds. Sufficient seating for all participants during the quiz round. Projector &amp; Audio System: For the quiz round and announcing results. Internet Connectivity: Needed for the quiz platform and for system setup if using online environments for code submission. Technical Setup: Pre-installed compilers and IDEs for the languages mentioned (Python, C, and Java). Ensure compatibility across systems. Power Backup: Essential to avoid interruptions during the coding rounds. From the Participants: Laptops/Devices: Participants should bring their own laptops. For each team .Preparation: Participants should be familiar with basic debugging techniques, coding principles, and algorithmic problem-solving. Team Dynamics: In case of team participation, members should coordinate effectively to split tasks (especially in debugging and coding rounds)",
+        round3: "Teams of 3 participants tackle a complex coding problem in a relay format. Each team has 3 participants, with each member coding in turns before tagging the next. Once the relay starts, participants cannot communicate; each coder must continue from the previous member’s work without direct help. The problem is to be solved using Python, C, or Java. The total round duration is 30 minutes. Teams are evaluated on accuracy, efficiency, completeness of the solution, and teamwork during the relay",
+        note: "Participants should bring their own laptops or devices for each team. They must have an active HackerRank account to access and participate in the contest. Participants should be familiar with basic debugging techniques, coding principles, and algorithmic problem-solving",
         tag: "EVENT",
-        color: "0, 1, 38",
+        color: "0, 1, 38",  
         logo: "/EventsAssets/codecrusade.webp",
         staff: [
           {
@@ -1556,7 +1563,7 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: "APARNA RB",
+            name: "Aparna R B",
             phone: 9382338204,
           },
           {
@@ -1573,6 +1580,7 @@ export const EventDetails = [
           },       
         ],
       },//8
+
       {
         name: "Prompt Arena",
         date: "09 Nov 2024(FN)",
@@ -1580,13 +1588,12 @@ export const EventDetails = [
         venue: "Will Be Updated Soon",
         time: "9:00am to 12:00pm",
         members: "Team of 2-3",
-        round1title: "Art Replication",
-        round1:
-          "Participants will be given a pre-generated image, created using AI tools, and their task is to replicate it as closely as possible. This round tests not only their creativity but also their precision and attention to detail. Time Taken for Round-1 will be 30 mins. Can you match the AI’s creation using your artistic skills? The top 10 teams will be moved to second round",
-        round2title: "AI Comic Creation",
-        round2:
-          "In the second round, the stakes are raised! Participants will be provided with a specific scenario, and their challenge is to generate their own comic using AI tools for image generation. They’ll need to create characters, scenes, and a compelling narrative that fits the given scenario. This round emphasizes storytelling, creativity, and the ability to seamlessly integrate AI-generated images into a cohesive comic. Time Taken for Round -2 will be 45 mins. The AI-generated-COMIC should be minimum of 5 to 6 pages",
-        note:"Requirements from College: Internet, Projector, Mic and speaker. Requirements from Participants:Laptop with Internet connection",
+        rules:"Each team must consist of 2-3 members. Teams must use the provided AI tools for image replication and comic creation. All submissions must be original and created during the event. Each round has a specified time limit. Teams will be judged based on creativity, originality, and adherence to the prompt",
+        round1title: "Copycat",
+        round1:"Participants will be given a pre-generated image created using AI tools, and their task is to replicate it as closely as possible. This round tests not only their creativity but also their precision and attention to detail. Can you match the AI’s creation using your artistic skills? The top 10 teams will advance to the second round",
+        round2title: "Comic Quest",
+        round2: "In the second round, the stakes are raised! Participants will be provided with a specific scenario, and their challenge is to generate their own comic using AI tools for image generation. They’ll need to create characters, scenes, and a compelling narrative that fits the given scenario. This round emphasizes storytelling, creativity, and the ability to seamlessly integrate AI-generated images into a cohesive comic. The AI-generated comic should be 10 pages",
+        note:"Required - Laptop with Internet connection",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/prompt.webp",
@@ -1615,58 +1622,52 @@ export const EventDetails = [
           },
         ],
       },//9
+
       {
         name: "Escape Room",
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
         time: "9:00am to 12:00pm",
-        members: "Team of 3",
-        rules:"Participants must work in teams of 3. Laptops and internet access are required",
-        round1title: "Quiz Securus (Qualifier)",
-        round1:
-          "The round will consist of multiple-choice questions covering basic cybersecurity concepts. Teams will be scored based on accuracy and speed; faster correct answers will yield higher points. The top 10 teams with the highest scores will advance to the next round",
-        round2title: "Scriptum Invisum",
-        round2:
-          "Teams will be provided access a designated webpage where passcodes are hidden within various elements of the source code. Participants must carefully inspect the webpage, looking for clues and hidden passcodes embedded in different sections",
-          round3title: "Imago Analysare",
-        round3:
-          "Teams will be provided with a digital image containing hidden information. Teams must use steganography techniques to uncover the passkey. A specific time limit will be imposed for analyzing the image which will lead to the third location where they will be provided with their next challenge",
-        round4title: "OSINT ( Open Source Intelligence )",
-        round4:
-          "In this task teams will complete a quiz consisting of 10 questions which should be answered using OSINT tools. Teams must answer all questions correctly to proceed; incomplete submissions will not be accepted. Upon successful completion, teams will receive a broken QR code that leads to the next task location where they will receive their final task",
-          round5title: "Frange Clavem",
-        round5:
-          "Teams will receive a password-protected PDF file as their final challenge and some basic command lines that will be used in kali linux to crack it. Teams may use their preferred tools or methods to crack the password. The first team to successfully crack the password and submit it correctly will be declared the winner",
-        note:"Laptops (one per team). Internet access. Tools: Kali Linux",
+        members: "Team of 2-3",
+        round1title: "Scriptum Invisum",
+        round1: "Teams will be provided access a designated webpage . Participants must carefully analyze the webpage, looking for clues and hidden passcodes embedded in different sections",
+        round2title: "Imago Analysare",
+        round2: "Teams will be provided with a digital image .  Teams must uncover the passkey by analyzing the image , which will lead to the third level where they will be provided with their next challenge",
+        round3title: "OSINT (Open Source Intelligence)",
+        round3: "In this task teams will complete a quiz consisting of 10 questions which should be answered using OSINT tools. Teams must answer all questions  to proceed. Upon successful completion, they will receive their final task",
+        round4title: "Frange Clavem",
+        round4: "Teams will receive a protected file as their final challenge  . Teams may  crack the password using Kali Linux . The first team to successfully crack the password and submit it correctly will be declared the winner",
+        note:"Laptops (one per team). Internet access. Tools - Kali Linux",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/escaperoom.webp",
         staff: [
-          {
-            name: " Karthika R N ",
-            phone: 8248816873,
-          },
-        ],
-        student: [
-          {
-            name: " VARSHINI S A",
-            phone:  8531868861,  
-          },
-          {
-            name: " SHANMATHI S",
-            phone: 6382398087,
-          },
-          {
-            name: " INFANTINA MARIA L",
-            phone: 9361680748,
-          },
-          {
-            name: "Dharshiniyaa k.s",
-            phone: 9787005451,
-          },
-        ],
+              {
+                name: "Dr. R. N. Karthika",
+                phone: 8248816873,
+              },
+            ],
+            student: [
+              {
+                name: " Varshini S A",
+                phone:  8531868861,  
+              },
+              {
+                name: " Shanmathi S",
+                phone: 6382398087,
+              },
+              {
+                name: "Infantina Maria L",
+                phone: 9361680748,
+              },
+              {
+                name: "Dharshiniyaa k.s",
+                phone: 9787005451,
+              },
+            ],
       },//10
+
       {
         name: "The Web Showdown",
         date: "08 Nov 2024(FN)",
@@ -1676,22 +1677,18 @@ export const EventDetails = [
         members: "Team of 1-3",
         rules:"Teams of 1-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections",
         round1title: "The Code Crunch (Web Dev Quiz)",
-        round1:
-          "Participants must complete a quiz based on web development within a stipulated time. Multiple-choice questions will be provided to test knowledge on HTML, CSS, JavaScript, and general web technologies",
+        round1: "Participants must complete a quiz based on web development within a stipulated time. Multiple-choice questions will be provided to test knowledge on HTML, CSS, JavaScript, and general web technologies",
         round2title: "The Style Showdown (Extreme Makeover: Web Edition)",
-        round2:
-          "Using the provided HTML skeleton, teams will enhance the website using CSS to create a compelling design",
-          round3title: "The Final Duel (Random Element Roulette)",
-        round3:
-         "Teams will create a website based on a given idea, with design twists introduced every 5 minutes (e.g., use limited colours, add a quirky GIF)",
-        note:"From the Participants: Laptop (mandatory) and personal data connection",
+        round2: "Using the provided HTML skeleton, teams will enhance the website using CSS to create a compelling design",
+        round3title: "The Final Duel (Random Element Roulette)",
+        round3: "Teams will create a website based on a given idea, with design twists introduced every 5 minutes (eg, use limited colours, add a quirky GIF)",
+        note: "Laptop (Mandatory) and Data Connection",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/webshadows.webp",
         staff: [
           {
-            name: " Dr.V.LOGANATHAN",
-            phone: 7395963361,
+            name: " Dr. V. LOGANATHAN",
           },
         ],
         student: [
@@ -1713,8 +1710,9 @@ export const EventDetails = [
           },
         ],
       },//11
+
       { 
-        name: "AlgoInception",
+        name: "Algoinception",
         date: "09 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
@@ -1722,18 +1720,16 @@ export const EventDetails = [
         members: "Team of 2-3",
         rules:"Teams must consist of 2-3 participants(Minimum - 2). Laptops and internet usage are permitted, but plagiarism is strictly prohibited. Participants should solve problems sequentially in both rounds. Any violation of rules may lead to disqualification",
         round1title: "Image Puzzle Grid Challenge",
-        round1:
-          "Grid Setup: The grid is arranged in a 3x3 format, with each square hiding part of a larger image. The coding challenges inside each grid range in difficulty. Solving and Revealing: When a team solves a problem, the corresponding grid section is revealed. The goal is to reveal as many sections as possible within the time limit and identify the image. Sequential Order: Problems must be solved in a specific order, unlocking adjacent grids as teams progress. Hint System: Teams may request hints, but doing so may add penalties to their overall score",
+        round1: "Grid Setup: The grid is arranged in a 3x3 format, with each square hiding part of a larger image. The coding challenges inside each grid range in difficulty. Solving and Revealing: When a team solves a problem, the corresponding grid section is revealed. The goal is to reveal as many sections as possible within the time limit and identify the image. Sequential Order: Problems must be solved in a specific order, unlocking adjacent grids as teams progress. Hint System: Teams may request hints, but doing so may add penalties to their overall score",
         round2title: "Folder Challenge – The Path to Victory",
-        round2:
-          "Folder Setup: Each folder contains a coding problem, increasing in difficulty from Easy to Hard. Progression: Teams must first solve the Easy problem to move on to the Medium problem. If they fail at any stage, they must restart from the Easy folder. Final Question: Successfully solving the Hard problem unlocks the Final Question, which determines the event winner. Hints and Penalties: A limited number of hints are available, but using them may impose time penalties or other restrictions",
-        note:"From the Participants: Laptops (one per team). Knowledge in any programming language(C,C++,Python or Java). General knowledge of programming and problem-solving. From the College: Internet access. Projector. Microphone and speaker system",
+        round2: "Folder Setup: Each folder contains a coding problem, increasing in difficulty from Easy to Hard. Progression: Teams must first solve the Easy problem to move on to the Medium problem. If they fail at any stage, they must restart from the Easy folder. Final Question: Successfully solving the Hard problem unlocks the Final Question, which determines the event winner. Hints and Penalties: A limited number of hints are available, but using them may impose time penalties or other restrictions",
+        note:"Laptop required (one per team). Knowledge in any programming language(C, C++, Python or Java). General knowledge of programming and problem-solving",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/AlgoInception.webp",
         staff: [
           {
-            name: " Silambarasi E",
+            name: "Mrs. E Silambarasi",
             phone: 9790644896,
           },
         ],
@@ -1743,8 +1739,16 @@ export const EventDetails = [
             phone:  9344799648,  
           },
           {
-            name: " Santhosh U",
+            name: "Santhosh U",
             phone: 6381551870,
+          },
+          {
+            name: "Amirthavarshini V",
+            phone: 9043910536,
+          },
+          {
+            name: "Sabeeha Shaik",
+            phone: 9063992808,
           },
         ],
       },//12
@@ -1774,7 +1778,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "ABINAYA G",
+              name: "Mrs. G. ABINAYA",
               phone: 9500206093,
             },
           ],
@@ -1810,7 +1814,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "ABINAYA G",
+              name: "Mrs. G. ABINAYA",
               phone: 9500206093,
             },
           ],
@@ -1994,7 +1998,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "ABINAYA G",
+              name: "Mrs. G. ABINAYA",
               phone: 9500206093,
             },
           ],
