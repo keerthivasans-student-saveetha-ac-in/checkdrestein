@@ -48,7 +48,7 @@ export const EventDetails = [
           venue: "will be updated soon",
           list: true,
           resource: [ {
-            name: "DR. KARPURA SUNDHARA PANDIAN",
+            name: "Dr. KARPURA SUNDHARA PANDIAN",
             desig:"Assistant professor ",
             phone: 7845938847  ,
           },
@@ -83,7 +83,7 @@ export const EventDetails = [
           venue: "will be updated soon",
           list: true,
           resource: [ {
-            name: "DR. K. P. Shashidar Rao",
+            name: "Dr. K. P. Shashidar Rao",
             desig:" Founder Dronemaker India ",
           },
         
@@ -119,8 +119,7 @@ export const EventDetails = [
         logo: "/EventsAssets/bmi24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        company: "Medingers Healthcare Solutions ",
-  
+        // company: "Medingers Healthcare Solutions ",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSfTN2VFkglGR36mB-xijwWUeOip2DLi-h3ZbQWdCwwG02ZPiQ/viewform ",
         day1: {
           date: "04 Nov 2024",
@@ -136,13 +135,13 @@ export const EventDetails = [
           // ],
           staff: [
             {
-              name: "Dr Nivethitha",
+              name: "Dr. Nivethitha",
               phone: 8940499135,
             },
           ],
           student: [
             {
-              name: "Parvathy Ramesh ",           
+              name: "Parvathy Ramesh",           
               phone: 7418999581,
             },
             {
@@ -165,13 +164,13 @@ export const EventDetails = [
           //],
           staff: [
             {
-              name: "Dr Nivethitha",
+              name: "Dr. Nivethitha",
               phone: 8940499135,
             },
           ],
           student: [
             {
-              name: "Parvathy Ramesh ",           
+              name: "Parvathy Ramesh",           
               phone: 7418999581,
             },
             {
@@ -196,19 +195,21 @@ export const EventDetails = [
         logo: "EventsAssets/aspen.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        link: "",
+        link: "https://forms.gle/DNPaR24M5j44j6Lw5",
         day1: {
           date: "05 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
           venue: "Will Be Updated Soon",
-          topic:"Section 1:Configuring the Property Environment in Aspen Plus. Section 2:Overview of using modern palette in Aspen Plus",
+          // topic:"Section 1:Configuring the Property Environment in Aspen Plus. Section 2:Overview of using modern palette in Aspen Plus",
           resource: [
             {
               name: "Dr. A. Balasubramanian",
+              desig: "Associate Professor - SEC"
             },
             {
               name: "Dr. P. Sundar Rajan",
+              desig: "Assistant Professor - SEC"
             },
           ],
           staff: [
@@ -219,15 +220,15 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "S. Dinesh ",
+              name: "Dinesh S",
               phone: 9345580512,
             },
             {
-              name: "R. Vishnupriyan ",
+              name: "Vishnupriyan R",
               phone: 8111083313,
             },
             {
-              name: "V. Kathirlingam",
+              name: "Kathirlingam V",
               phone: 9894931232,
             },
           ],
@@ -241,9 +242,11 @@ export const EventDetails = [
           resource: [
             {
               name: "Dr. N. Umaiyambika",
+              desig: "Assistant Professor - SEC"
             },
             {
               name: "P. Sundar Rajan",
+              desig: "Assistant Professor - SEC"
             },
           ],
           staff: [
@@ -254,15 +257,15 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "S. Dinesh ",
+              name: "Dinesh S",
               phone: 9345580512,
             },
             {
-              name: "R. Vishnupriyan ",
+              name: "Vishnupriyan R",
               phone: 8111083313,
             },
             {
-              name: "V. Kathirlingam",
+              name: "Kathirlingam V",
               phone: 9894931232,
             },
           ],
@@ -295,29 +298,28 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: " S.Sangili Uddayappan",
-              desig: " Designation:COE, Chief Surveyor",
-              // email: "srenganathan@annauniv.edu",
+              name: "Mr. S. Sangili Uddayappan",
+              desig: "COE, Chief Surveyor",
             },
             
           ],
           staff: [
             {
-              ame: " Dr VENKATESAN G",
+              name: "Dr. G. Venkatesan",
               phone:  9789290995,
             },
           ],
           student: [
             {
-              name: " SNEHARAJAN S",
+              name: "Sneharajan S",
               phone:  9940643218,
             },
             {
-              name: " JAYASRI N",
+              name: "Jayasri N",
               phone: 9677221289,
             },
             {
-              name: " MADHUMITHA S ",
+              name: "Madhumitha S",
               phone: 8015646347,
             },
           ],
@@ -329,29 +331,28 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: " S.Sangili Uddayappan",
-              desig: " Designation:COE, Chief Surveyor",
-              // email: "srenganathan@annauniv.edu",
+              name: "Mr. S. Sangili Uddayappan",
+              desig: "COE, Chief Surveyor",
             },
             
           ],
           staff: [
             {
-              ame: " Dr VENKATESAN G",
+              name: "Dr. G. Venkatesan",
               phone:  9789290995,
             },
           ],
           student: [
             {
-              name: " SNEHARAJAN S",
+              name: "Sneharajan S",
               phone:  9940643218,
             },
             {
-              name: " JAYASRI N",
+              name: "Jayasri N",
               phone: 9677221289,
             },
             {
-              name: " MADHUMITHA S ",
+              name: "Madhumitha S",
               phone: 8015646347,
             },
           ],
@@ -372,18 +373,18 @@ export const EventDetails = [
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
+        // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
           link: " ",
         day1: {
-          date: " 04 Nov 2024",
-          time: " NIL",
+          date: "04 Nov 2024",
+          time: "09:00am - 03.00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           topic: " NIL",
           resource: [
             {
-              name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "VIGNESH RAMADOSS",
+              desig: "TECHNICAL TRAINER",
             },
           ],
           staff: [
@@ -392,31 +393,31 @@ export const EventDetails = [
               phone: 9986822498,
             },
             {
-              name: " MR. GANDHIMATHINATHAN A ",
+              name: " MR. A. GANDHIMATHINATHAN ",
               phone: 9986822498,
             },
           ],
           student: [
             {
-              name: " CHARAN KUMAR",
+              name: "Charan Kumar",
               phone: 8438941803,
             },
             {
-              name: " AABITH ALI",
+              name: "Aabith Ali",
               // phone: 9986822498,
             },
           ],
         },
         day2: {
-          date: " 05 Nov 2024",
-          time: " NIL",
+          date: "05 Nov 2024",
+          time: "09:00am - 03.00pm",
           mode: "Individual",
            venue: " Will Be Updated Soon",
           topic: " NIL",
           resource: [
             {
-              name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "VIGNESH RAMADOSS",
+              desig: "TECHNICAL TRAINER",
             },
           ],
           staff: [
@@ -425,48 +426,49 @@ export const EventDetails = [
               phone: 9986822498,
             },
             {
-              name: " MR. GANDHIMATHINATHAN A ",
+              name: " MR. A. GANDHIMATHINATHAN",
               phone: 9986822498,
             },
           ],
           student: [
             {
-              name: " CHARAN KUMAR",
+              name: "Charan Kumar",
               phone: 8438941803,
             },
             {
-              name: " AABITH ALI",
+              name: "Aabith Ali",
               // phone: 9986822498,
             },
           ],
         },
       },//1    
+
       {
-        name:" GIT & GITHUB",
+        name:" Git and GitHub",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
         // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
           link: " ",
         day1: {
-          date: " 04 Nov 2024",
-          time: " NIL",
+          date: "04 Nov 2024",
+          time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
+          // topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Dr. B. Ezhilavan",
+              desig: "CEO & Founder - VEI Technologies, Pvt.Ltd",
             },
           ],
           staff: [
             {
-              name: " Mrs.G.Keerthiga",
+              name: " Mrs. G. Keerthiga",
               phone: 8825783729,
             },
             {
-              name: " Mrs.K.Sakthi ",
+              name: " Mrs. K. Sakthi ",
               phone: 9962386422,
             },
           ],
@@ -482,24 +484,24 @@ export const EventDetails = [
           ],
         },
         day2: {
-          date: " 05 Nov 2024",
-          time: " NIL",
+          date: "05 Nov 2024",
+          time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
+          // topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Dr. B. Ezhilavan",
+              desig: "CEO & Founder - VEI Technologies, Pvt.Ltd",
             },
           ],
           staff: [
             {
-              name: " Mrs.G.Keerthiga",
+              name: " Mrs. G. Keerthiga",
               phone: 8825783729,
             },
             {
-              name: " Mrs.K.Sakthi ",
+              name: " Mrs. K. Sakthi ",
               phone: 9962386422,
             },
           ],
@@ -515,32 +517,33 @@ export const EventDetails = [
           ],
         },
       },//2
+
       {
-        name:" Getting Started with machine learning in phython (implementing algorithm with scikit-learn)",
+        name:" Getting Started with machine learning in phython (Implementing algorithm with Scikit - Learn)",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
         // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
           link: " ",
         day1: {
-          date: " 06 Nov 2024",
-          time: " NIL",
+          date: "06 Nov 2024",
+          time: "10:00am - 03.00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
+          // topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Dr. A. Devi",
+              desig: "Associate Professor, IFET College of Engineering",
             },
           ],
           staff: [
             {
-              name: " Ms.A.Anjaline Jayapraba",
+              name: " Ms. A. Anjaline Jayapraba",
               phone: 9488412304,
             },
             {
-              name: " Ms. T.Deepa ",
+              name: " Ms. T. Deepa ",
               phone: 8148451848,
             },
           ],
@@ -557,23 +560,23 @@ export const EventDetails = [
         },
         day2: {
           date: " 07 Nov 2024",
-          time: " NIL",
+          time: "10:00am - 03.00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Dr. A. Devi",
+              desig: "Associate Professor, IFET College of Engineering",
             },
           ],
           staff: [
             {
-              name: " Ms.A.Anjaline Jayapraba",
+              name: " Ms. A. Anjaline Jayapraba",
               phone: 9488412304,
             },
             {
-              name: " Ms. T.Deepa ",
+              name: " Ms. T. Deepa ",
               phone: 8148451848,
             },
           ],
@@ -590,6 +593,7 @@ export const EventDetails = [
         },
         
       },//3
+
       {
         name:" Building Intelligent Robots with ROS and RoboDK: A Hands-On One Day Workshop",
         tag: "WORKSHOP",
@@ -599,19 +603,19 @@ export const EventDetails = [
           link: " ",
         day1: {
           date: " 07 Nov 2024",
-          time: " NIL",
+          time: "09:00am - 04.30pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
+          // topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Mr. J. G. Karthikesh",
+              desig: "Founder & CEO, Karthikesh Robotics Pvt Ltd",
             },
           ],
           staff: [
             {
-              name: " Dr.R.Vinod kumar M.E , Ph.D",
+              name: " Dr. R. Vinod Kumar, M.E, Ph.D",
               phone: 9865657392,
             },
           ],
@@ -628,19 +632,19 @@ export const EventDetails = [
         },
         day2: {
           date: " 08 Nov 2024",
-          time: " NIL",
+          time: "09:00am - 04.30pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
+          // topic: " NIL",
           resource: [
             {
-              // name: " VIGNESH RAMADOSS",
-              // desig: "CEO",
+              name: "Mr. J. G. Karthikesh",
+              desig: "Founder & CEO, Karthikesh Robotics Pvt Ltd",
             },
           ],
           staff: [
             {
-              name: " Dr.R.Vinod kumar M.E , Ph.D",
+              name: " Dr.R.Vinod Kumar, M.E, Ph.D",
               phone: 9865657392,
             },
           ],
@@ -810,11 +814,11 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "DR.F.MAX SAVIO",
+              name: "Dr. F. MAX SAVIO",
               phone: 9840188187,
             },
             {
-              name: "Mr. T.D Suresh",
+              name: "Mr. T. D. Suresh",
               phone: 9941721288,
             },
           ],
@@ -826,6 +830,7 @@ export const EventDetails = [
           ],
         },
       },//1
+
       {
         name: "Exploring IOT - From Concept to Implementation",
         logo: "/EventsAssets/eee2.webp",
@@ -939,24 +944,23 @@ export const EventDetails = [
           // topic: "Day 1: 10:00 AM to 12:00 PM- Introduction to Instrumentation Design.Introduction.Overview of an Engineering Organization.Role of a Process Engineer.Project Documentation. Day 1: 01:00 PM to 03:00 PM - Introduction to Detail Engineering: P&I Diagram.Instrument Index .IO List Process Data sheets and Specifications.Instrument Wiring Layout ",
           resource: [
             {
-              name: "Mr.J.G.Karthikesh",
-              // phone: 7904608170,
-              // email: "spacezeeteam@gmail.com",
+              name: "Mr. J. G. Karthikesh",
+              desig: "Founder & CEO, Karthikesh Robotics Pvt Ltd",
             },
           ],
           staff: [
             {
-              name: " Dr.A.R.KALAIARASI",
+              name: " Dr. A. R. Kalaiarasi",
               phone: 9840091709,
             },
           ],
           student: [
             {
-              name: "S.SEETHALADEVI",
+              name: "Seethaladevi S",
               phone: 7448804523,
             },
             {
-              name: "A.NALINA",
+              name: "Nalina A",
               phone: 8248583372,
             },
           ],
@@ -1076,7 +1080,7 @@ export const EventDetails = [
               phone: 8870434353,
             },
             {
-              name: "Ishvary.G",
+              name: "Ishvarya G",
               phone: 8667225253,
             },
             {
@@ -1259,8 +1263,8 @@ export const EventDetails = [
           list: true,
             resource: [
             {
-              name: "Mr. Hari Vishal M ",
-              phone: 8939456785,
+              name: "Mr. Hari Vishal M",
+              desig: "Founder and CEO, Visil Technologies"
             },
           ],
           staff: [
@@ -1268,25 +1272,18 @@ export const EventDetails = [
               name: "Ms. N. Vigneshwari",
               phone: 8056466552 ,
             },
-            // {
-            //   name: "Dr.S.Vinurajkumar",
-            //   desig: "Associate Professor",
-            //   phone: 9003225516,
-            //   email: "vinurajkumars@saveetha.ac.in ",
-            // },
           ],
           student: [
             {
-              name: "Mr. Hari prakash  ",
+              name: "Hari Prakash ",
               phone: 9600301926,
             },
             {
-              name: "Ms. Deepika ",
+              name: "Deepika ",
               phone: 7200354009 ,
             },
           ],
         },
-
       },//1
     ],
   },
