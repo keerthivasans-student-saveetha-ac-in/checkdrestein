@@ -92,138 +92,77 @@ export default function UpdateForm({
     {
       name: "AGRI",
       events: [
-        "BLOODY SWEET",
-        "ARE YOU A BRAINE",
-        "NEUTRAL NEXUS",
       ],
     },
-   
-    {
-      name: "AIDS",
-      events: [
-        "PICK YOUR FILTER",
-        "DESIGN BATTLE",
-        "PROMPT YOUR WAY THRU",
-        "MIND SWAP",
-        "MARVEL QUEST",
-      ],
-    },
-    {
-      name: "AIML",
-      events: [
-        "SHARK TANK",
-        "ESCAPE ROOM",
-        "UNSPLASH",
-        "CODE FUSION",
-        "MEMES MANIA",
-      ],
-    },
+
     {
       name: "BME",
       events: [
-        "TECHGPRES",
-        "THE CASE",
-        "DE-DEMOLISH",
-        "Neurotic Expelliarmus",
       ],
     },
+
     {
       name: "CHEM",
       events: [
-        "MAVERICK",
-         "HUSTLE HOUR",
-          "CLASH OF CHEMLAND", 
-          "VENZER O RATSEL",
         ],
     },
+
     {
       name: "CIVIL",
       events: [
-        "INVERTO",
-       "CONSTRUCT WITH CONSTRAINTS",
-        "PAPER SCRAPER",
          ],
     },
-    {
-      name: "CSE",
-      events: [
-        "EXPECTO PATRONUM",
-        "BINARY ILLUSIONS",
-        "GAMBOL CIPHERING",
-        "CRYPTO HUNT",
-      ],
-    },
-    {
-      name: "CSIOT",
-      events: [
-        "KICKSTART WITH IOT",
-        "OSINT PLAYGROUND",
-        "LIFE ENCODERS",
-        "IOT ENTREPRENEURSHIP CHALLENGE",
-      ],
-    },
+
     {
       name: "ECE",
-      events: ["CIRCUIT CRUISER",
-       "FUNTRONICS",
-        "ROVER RALLY",
-         "MEGAHERTZ",
-         "SILICON SMACKDOWN",
+      events: [
         ],
     },
+
     {
       name: "EEE",
       events: [
-        "LEVEL UP",
-        "ROBO SOCCER",
-       "LINE FOLLOWER",
       ],
     },
+
     {
       name: "EIE",
       events: [
-        "TECHNAROK",
-       "TECH EMERGE", 
-       "ELECTRO BUZZ", 
-       "TECHNOLADS",
-      ],
+        "TECH BATTLE",
+      ]
     },
-    {
-      name: "IT",
-      events: [
-        "PROMPT CRAFT",
-         "RIDDLESQL",
-          "DRONE THE DRACARYS",
-           "EMBRACE THE UNKNOWN",
-          ],
-    },
-    {
-      name: "MED",
-      events: [
-        "CONNECTIONS",
-       "READ THE MANUAL",
-         "BLIND TEASER",
-         "ANATOMIA",
-        ],
-    },
-  
+
     {
       name: "MECH",
       events: [
-        "MR.LATHE",
-        "FUSION ARTIST",
-        "PNEULINK",
       ],
     },
+
+    {
+      name: "MED",
+      events: [
+        ],
+    },
+
+    {
+      name: "SCOFT",
+      events: [
+        "MURDER MYSTERY",
+        "CRYPT N HUNT",
+        "DATA NOTE",
+        "TECHTOPIA",
+        "DESIGN DHAMAKA",
+        "IOT HACKTIVATE",
+        "WEB WIZARDS",
+        "CODE CRUSADE",
+        "PROMPT ARENA",
+        "ESCAPE ROOM",
+          ],
+    },
+
     {
       name: "MBA",
       events: [
-        "Adzap",
-        "Best Manager",
-        "Best Selling Pitch",
-        "Business Quiz",
-        "Case Study",
-        "Just a Minute(JAM)",
       ],
     },
    

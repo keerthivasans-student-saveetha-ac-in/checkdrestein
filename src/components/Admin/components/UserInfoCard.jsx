@@ -34,7 +34,7 @@ const UserCard = styled.div`
   /* background: #f8f8f8; */
 `;
 
-function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
+function UserInfoCard({ user, setRegistredPeople1,RegistredPeople1}) {
   const [load, setload] = useState(false);
   const {setRegUsers,setchange,setDataLoad,} = useContext(UserContext)
 
@@ -247,19 +247,17 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
   };
 
   const deptnames = [
-    "IT",
-    "CSE",
+    "AGRI",
+    "BME",
+    "CHEM",
+    "CIVIL",
     "ECE",
     "EEE",
     "EIE",
     "MECH",
-    "AI",
-    "CHEM",
-    "MBA",
     "MED",
-    "AGRI",
-    "CIVIL",
-    "BME",
+    "MBA",
+    "SCOFT"
   ];
 
   return (
@@ -526,7 +524,7 @@ function UserInfoCard({ user, setRegistredPeople,RegistredPeople }) {
       </div>
 
       {load && (
-        <Alert severity="error">updating the user don't refresh the page</Alert>
+        <Alert severity="error">Updating the user, Don't refresh the page</Alert>
       )}
     </UserCard>
   );

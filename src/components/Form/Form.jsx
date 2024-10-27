@@ -139,21 +139,17 @@ const Form = () => {
   }, []);
 
   const [eventName, setEventName] = React.useState({
-    CSE: [],
-    IT: [],
-    EEE: [],
+    AGRI: [],
+    BME: [],
+    CHEM: [],
+    CIVIL: [],
     ECE: [],
+    EEE: [],
     EIE: [],
     MECH: [],
-    CIVIL: [],
     MED: [],
-    CHEM: [],
-    AGRI: [],
-    AIDS: [],
-    AIML:[],
-    CSIOT:[],
+    SCOFT: [],
     MBA: [],
-    BME: [],
   });
   const [userExist, setUserExist] = useState([]);
 
@@ -321,8 +317,6 @@ const Form = () => {
 
     formdata.userRef = uuidv4();
 
-
-
     formdata.cashPaid = false;
 
     formdata.cashPaidForPaper = false;
@@ -356,22 +350,9 @@ const Form = () => {
     if (Paper === true) {
       formdata.CashToBePaid += 200;
     }
-    // if (Project === true) {
-    //   formdata.CashToBePaid += 250;
-    // }
     
     console.log(formdata);
     uploadProfileImg(formdata.userRef);
-//     if (response[0] === undefined) {
-//       console.log(formdata);
-//  setload(false)
-//     } else {
-//       setload(false);
-//       setUserExistError(true);
-//       toast.error("user Already exist", {
-//         position: "bottom-left",
-//       });
-//     }
   };
 
   const handleChangeForSelect = (e) => {
@@ -382,9 +363,6 @@ const Form = () => {
     }));
   };
 
-  // useEffect(() => {
-  //   console.log(eventName);
-  // }, [eventName]);
 
   const handleChangeT = (event) => {
     const {
@@ -398,138 +376,77 @@ const Form = () => {
     {
       name: "AGRI",
       events: [
-        "BLOODY SWEET",
-        "ARE YOU A BRAINE",
-        "NEUTRAL NEXUS",
       ],
     },
-   
-    {
-      name: "AIDS",
-      events: [
-        "PICK YOUR FILTER",
-        "DESIGN BATTLE",
-        "PROMPT YOUR WAY THRU",
-        "MIND SWAP",
-        "MARVEL QUEST",
-      ],
-    },
-    {
-      name: "AIML",
-      events: [
-        "SHARK TANK",
-        "ESCAPE ROOM",
-        "UNSPLASH",
-        "CODE FUSION",
-        "MEMES MANIA",
-      ],
-    },
+
     {
       name: "BME",
       events: [
-        "TECHGPRES",
-        "THE CASE",
-        "DE-DEMOLISH",
-        "Neurotic Expelliarmus",
       ],
     },
+
     {
       name: "CHEM",
       events: [
-        "MAVERICK",
-         "HUSTLE HOUR",
-          "CLASH OF CHEMLAND", 
-          "VENZER O RATSEL",
         ],
     },
+
     {
       name: "CIVIL",
       events: [
-        "INVERTO",
-       "CONSTRUCT WITH CONSTRAINTS",
-        "PAPER SCRAPER",
          ],
     },
-    {
-      name: "CSE",
-      events: [
-        "EXPECTO PATRONUM",
-        "BINARY ILLUSIONS",
-        "GAMBOL CIPHERING",
-        "CRYPTO HUNT",
-      ],
-    },
-    {
-      name: "CSIOT",
-      events: [
-        "KICKSTART WITH IOT",
-        "OSINT PLAYGROUND",
-        "LIFE ENCODERS",
-        "IOT ENTREPRENEURSHIP CHALLENGE",
-      ],
-    },
+
     {
       name: "ECE",
-      events: ["CIRCUIT CRUISER",
-       "FUNTRONICS",
-        "ROVER RALLY",
-         "MEGAHERTZ",
-         "SILICON SMACKDOWN",
+      events: [
         ],
     },
+
     {
       name: "EEE",
       events: [
-        "LEVEL UP",
-        "ROBO SOCCER",
-       "LINE FOLLOWER",
       ],
     },
+
     {
       name: "EIE",
       events: [
-        "TECHNAROK",
-       "TECH EMERGE", 
-       "ELECTRO BUZZ", 
-       "TECHNOLADS",
+        "TECH BATTLE",
       ],
     },
-    {
-      name: "IT",
-      events: [
-        "PROMPT CRAFT",
-         "RIDDLESQL",
-          "DRONE THE DRACARYS",
-           "EMBRACE THE UNKNOWN",
-          ],
-    },
-    {
-      name: "MED",
-      events: [
-        "CONNECTIONS",
-       "READ THE MANUAL",
-         "BLIND TEASER",
-         "ANATOMIA",
-        ],
-    },
-  
+
     {
       name: "MECH",
       events: [
-        "MR.LATHE",
-        "FUSION ARTIST",
-        "PNEULINK",
       ],
     },
+
+    {
+      name: "MED",
+      events: [
+        ],
+    },
+
+    {
+      name: "SCOFT",
+      events: [
+        "MURDER MYSTERY",
+        "CRYPT N HUNT",
+        "DATA NOTE",
+        "TECHTOPIA",
+        "DESIGN DHAMAKA",
+        "IOT HACKTIVATE",
+        "WEB WIZARDS",
+        "CODE CRUSADE",
+        "PROMPT ARENA",
+        "ESCAPE ROOM",
+          ],
+    },
+
     {
       name: "MBA",
       events: [
-        "Adzap",
-        "Best Manager",
-        "Best Selling Pitch",
-        "Business Quiz",
-        "Case Study",
-        "Just a Minute(JAM)",
       ],
     },
    
@@ -756,22 +673,17 @@ const Form = () => {
                         if (Event === true) {
                           setPay(Pay - 200);
                           setEventName({
-                            CSE: [],
-                            IT: [],
-                            EEE: [],
+                            AGRI: [],
+                            BME: [],
+                            CHEM: [],
+                            CIVIL: [],
                             ECE: [],
+                            EEE: [],
                             EIE: [],
                             MECH: [],
-                            CIVIL: [],
                             MED: [],
-                            CHEM: [],
-                            AGRI: [],
-                            AIML:[],
-                            AIML:[],
-                            CSIOT:[],
-                            AIDS: [],
+                            SCOFT: [],
                             MBA: [],
-                            BME: [],
                           });
                         } else {
                           setPay(Pay + 200);
