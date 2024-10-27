@@ -11,7 +11,7 @@ export const EventDetails = [
         type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        rules:"Each team must consist of exactly 4 members.Teams will be selected based on tasks given before the event. Each participant must pay an entry fee of ₹20. Payment must be made before the event begins.The event will last for a total of 3 hours.Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game. Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR It is the responsibility of each team to Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification. Ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing",      
+        rules:"Each team must consist of exactly 4 members.Teams will be selected based on tasks given before the event.Each participant must pay an entry fee of ₹20.Payment must be made before the event begins.The event will last for a total of 3 hours.Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game. Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR It is the responsibility of each team to Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing",      
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cursedchest.webp",
@@ -210,7 +210,7 @@ export const EventDetails = [
           
         ],
       },//2
-      
+
     ],
     workshopslist: [
     
@@ -390,6 +390,7 @@ export const EventDetails = [
         round2: "Participants must wear a blindfold or eye mask at all times.Once an object is identified, participants must announce their answer immediately.Participants are allowed a maximum of 2 hints throughout the game.Correct answers earn 10 points; incorrect answers yield no points.Participants may not receive external assistance.The Guesser has 90 seconds to guess the object",
         round3title: "TRASH TO TREASURE",
         round3: "Time Limit: 30 minutes.Waste Material Collection:.Teams must collect waste materials from around the college.Materials must be collected within the 30-minute time frame.Teams must return to the event venue within 30 minutes.Craft Creation:.Dimensions for the craft will be provided by organizers on the spot.Teams must create their craft within the given dimensions.Only waste materials collected during the challenge can be used.No external materials or tools allowed (except for basic crafting tools like glue, scissors, etc)",
+        
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/voicevision.webp",
@@ -504,42 +505,263 @@ export const EventDetails = [
     ],
     workshopslist: [
       {
-        name:" Industrial Automation Using PLC and ROBOTS",
+        name: "Boot Camp on Drone Technology",
+        logo: "EventsAssets/bootcamp.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
-          link: " ",
+        time: "08.00am - 03:00pm", 
+        note: "All participants must bring Laptop. Conducted By Department of ECE, EEE, SCOFT [AIDS | AIML | CSE | IT]",
+        link: "https://docs.google.com/forms/d/1bgT9d1CYHXoVtNS37p0mHhrZhgNdXthS0F1sGNr7wQE/viewform?edit_requested=true",
+        day1: {
+          date: "04 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Introduction to Drones – Overview of types, components, and applications.",
+          resource: [
+            {
+              name: "Dr. K. Krishna Naik",
+              desig: "Associate Professor & HOD, IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day2: {
+          date: "05 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Flight Mechanics – Basics of aerodynamics, flight control, and stability.",
+          resource: [
+            {
+              name: "Dr. K. V. Eswaramoorthy",
+              desig: "Assistant Professor (Grade-1) IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day3: {
+          date: "06 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Programming and Sensors – Integrating sensors, GPS, and control software.",
+          resource: [
+            {
+              name: "Dr. K. Nagaraju",
+              desig: "Assistant Professor (Grade 1), IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day4: {
+          date: "07 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Autonomous Navigation – Path planning, obstacle detection, and AI for autonomy.",
+          resource: [
+            {
+              name: "Mr. D. Akhil Kumar",
+              desig: "Junior Research Fellow,  IIITDM,  Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day5: {
+          date: "08 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Safety and Regulations – Key rules, privacy, and ethical considerations.",
+          resource: [
+            {
+              name: "Ms. A. Sai Jahnavi",
+              desig: "Junior Research Fellow, IIITDM,  Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        
+        
+       
+      },//1
+      
+      {
+        name:" Industrial Automation Using PLC and ROBOTS",
+        logo: "EventsAssets/industrialautomation.webp",
+        company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL TRAINING (AGIIT)",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdvQQgJ1RURc14Tg8_6L3a8kan5w78dxtAUe_C0ZMLXPI56Ig/viewform",
+        note: "All participants must bring Laptop",
         day1: {
           date: "04 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
           resource: [
             {
-              name: "VIGNESH RAMADOSS",
-              desig: "TECHNICAL TRAINER",
+              name: "Mr. LAKSHMI KANTHAN",
+              desig: "Training Manager",
             },
           ],
           staff: [
             {
-              name: " DR. SRIGITHA S. NATH ",
+              name: " Dr. Srigitha S. Nath", 
               phone: 9986822498,
             },
             {
-              name: " MR. A. GANDHIMATHINATHAN ",
+              name: " Mr. A. Gandhimathinathan ",
               phone: 9986822498,
             },
           ],
           student: [
             {
-              name: "Charan Kumar",
-              phone: 8438941803,
+              name: "Tamilselvan J",
+              phone: 9080223297,
             },
             {
-              name: "Aabith Ali",
-              // phone: 9986822498,
+              name: "Shivakumar H",
+              phone: 9080504205,
             },
           ],
         },
@@ -548,73 +770,73 @@ export const EventDetails = [
           time: "09:00am - 03:00pm",
           mode: "Individual",
            venue: " Will Be Updated Soon",
-          topic: " NIL",
           resource: [
             {
-              name: "VIGNESH RAMADOSS",
-              desig: "TECHNICAL TRAINER",
+              name: "Mr. LAKSHMI KANTHAN",
+              desig: "Training Manager",
             },
           ],
           staff: [
             {
-              name: " DR. SRIGITHA S. NATH ",
+              name: " Dr. Srigitha S. Nath", 
               phone: 9986822498,
             },
             {
-              name: " MR. A. GANDHIMATHINATHAN",
+              name: " Mr. A. Gandhimathinathan ",
               phone: 9986822498,
             },
           ],
           student: [
             {
-              name: "Charan Kumar",
-              phone: 8438941803,
+              name: "Tamilselvan J",
+              phone: 9080223297,
             },
             {
-              name: "Aabith Ali",
-              // phone: 9986822498,
+              name: "Shivakumar H",
+              phone: 9080504205,
             },
           ],
         },
-      },//1    
+      },//2  
 
       {
-        name:" Git and GitHub",
+        name:"Git & Github",
+        logo: "EventsAssets/git.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
-          link: " ",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLScHEpj-bnrmXxTSwyjJvvYxxdub_mQY30k-6c-cf9fPgXdNdA/viewform",
+        note: "All participants must bring Laptop",
         day1: {
           date: "04 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          // topic: " NIL",
           resource: [
             {
               name: "Dr. B. Ezhilavan",
-              desig: "CEO & Founder - VEI Technologies, Pvt.Ltd",
+              desig: "CEO & Founder, VEI Technologies PVT.LTD",
             },
           ],
           staff: [
             {
-              name: " Mrs. G. Keerthiga",
+              name: "Mrs. G. Keerthiga", 
               phone: 8825783729,
             },
             {
-              name: " Mrs. K. Sakthi ",
+              name: "Mrs. K. Sakthi ",
               phone: 9962386422,
             },
           ],
           student: [
             {
-              name: " Krishna S",
+              name: "Krishna S",
               phone: 7200576790,
             },
             {
-              name: " Nithish V",
-               phone: 8124590618,
+              name: "Vikhram S",
+              phone: 7200492450,
             },
           ],
         },
@@ -623,49 +845,49 @@ export const EventDetails = [
           time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          // topic: " NIL",
           resource: [
             {
               name: "Dr. B. Ezhilavan",
-              desig: "CEO & Founder - VEI Technologies, Pvt.Ltd",
+              desig: "CEO & Founder, VEI Technologies PVT.LTD",
             },
           ],
           staff: [
             {
-              name: " Mrs. G. Keerthiga",
+              name: "Mrs. G. Keerthiga", 
               phone: 8825783729,
             },
             {
-              name: " Mrs. K. Sakthi ",
+              name: "Mrs. K. Sakthi ",
               phone: 9962386422,
             },
           ],
           student: [
             {
-              name: " Krishna S",
+              name: "Krishna S",
               phone: 7200576790,
             },
             {
-              name: " Nithish V",
-               phone: 8124590618,
+              name: "Vikhram S",
+              phone: 7200492450,
             },
           ],
-        },
-      },//2
+        },     
+      },//3
 
       {
-        name:" Getting Started with machine learning in phython (Implementing algorithm with Scikit - Learn)",
+        name:"Getting Started with Machine Learning in Python",
+        logo: "EventsAssets/gettingstart.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
-          link: " ",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSd0WDcJzL6_9EFx6BfhvLoAEq5uk0jdrby9FwZq0kTg8xkCZA/viewform",
+        note: "All participants must bring Laptop",
         day1: {
           date: "06 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          // topic: " NIL",
           resource: [
             {
               name: "Dr. A. Devi",
@@ -674,31 +896,30 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: " Ms. A. Anjaline Jayapraba",
-              phone: 9488412304,
+              name: "A. Anjaline Jayapraba", 
+              phone: 9626474152,
             },
             {
-              name: " Ms. T. Deepa ",
+              name: "T. Deepa ",
               phone: 8148451848,
             },
           ],
           student: [
             {
-              name: " Salaudeen A",
+              name: "Salaudeen A",
               phone: 9500962067,
             },
             {
-              name: " Sachin B",
-               phone: 7200006675,
+              name: "Sachin B",
+              phone: 7200006675,
             },
           ],
         },
         day2: {
-          date: " 07 Nov 2024",
+          date: "07 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          topic: " NIL",
           resource: [
             {
               name: "Dr. A. Devi",
@@ -707,95 +928,404 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: " Ms. A. Anjaline Jayapraba",
-              phone: 9488412304,
+              name: "A. Anjaline Jayapraba", 
+              phone: 9626474152,
             },
             {
-              name: " Ms. T. Deepa ",
+              name: "T. Deepa ",
               phone: 8148451848,
             },
           ],
           student: [
             {
-              name: " Salaudeen A",
+              name: "Salaudeen A",
               phone: 9500962067,
             },
             {
-              name: " Sachin B",
-               phone: 7200006675,
+              name: "Sachin B",
+              phone: 7200006675,
             },
           ],
         },
-        
-      },//3
+       
+       
+      },//4
 
       {
-        name:" Building Intelligent Robots with ROS and RoboDK: A Hands-On One Day Workshop",
+        name:"Mastering in VLSI: Exploring in Cadence Tools ",
+        logo: "EventsAssets/masterinVLSI.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        // company:"AXIS GLOBAL INSTITUTE OF INDUSTRIAL",
-          link: " ",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSct-KV_41C8WYe9H161qRujHz7D0altQwZmQv5YvY83PnngEA/viewform",
+        note: "All participants must bring Laptop",
         day1: {
-          date: " 07 Nov 2024",
-          time: "09:00am - 04:30pm",
+          date: "05 Nov 2024",
+          time: "09:00am - 03:45pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          // topic: " NIL",
           resource: [
             {
-              name: "Mr. J. G. Karthikesh",
-              desig: "Founder & CEO, Karthikesh Robotics Pvt Ltd",
+              name: "Mr. Dhanagopal",
+              desig: "Managing Director, Edigm Research Pvt ltd",
             },
           ],
           staff: [
             {
-              name: " Dr. R. Vinod Kumar, M.E, Ph.D",
-              phone: 9865657392,
+              name: "Dr. S. Navaneethan", 
+              phone: 8939755682,
+            },
+            {
+              name: "Dr. K. Arunkumar",
+              phone: 9600981800,
             },
           ],
           student: [
             {
-              name: " Sughesh Kumar E",
-              phone: 9159644663,
+              name: "Tharun P R",
+              phone: 7010197512 ,
             },
             {
-              name: " Naresh Kumar R S",
-               phone: 8838348595,
+              name: " Safia Banu M",
+              phone: 9360113919,
             },
           ],
         },
         day2: {
-          date: " 08 Nov 2024",
-          time: "09:00am - 04:30pm",
+          date: "06 Nov 2024",
+          time: "09:00am - 03:45pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
-          // topic: " NIL",
           resource: [
             {
-              name: "Mr. J. G. Karthikesh",
-              desig: "Founder & CEO, Karthikesh Robotics Pvt Ltd",
+              name: "Mr. Dhanagopal",
+              desig: "Managing Director, Edigm Research Pvt ltd",
             },
           ],
           staff: [
             {
-              name: " Dr.R.Vinod Kumar, M.E, Ph.D",
+              name: "Dr. S. Navaneethan", 
+              phone: 8939755682,
+            },
+            {
+              name: "Dr. K. Arunkumar",
+              phone: 9600981800,
+            },
+          ],
+          student: [
+            {
+              name: "Tharun P R",
+              phone: 7010197512 ,
+            },
+            {
+              name: " Safia Banu M",
+              phone: 9360113919,
+            },
+          ],
+        },
+       
+       
+      },//5
+
+      {
+        name:"Building Intelligent Robot With ROS and RoboDK : A Hands-on One Day Workshop",
+        logo: "EventsAssets/buildingintell.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSf1_wB1Xnurtv7g0KZ5snydWHoGH2GsXr44H2YaFiIWd4gXWA/viewform",
+        note: "All participants must bring Laptop",
+        day1: {
+          date: "07 Nov 2024",
+          time: "09:00am - 04:30pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr J. G. Karthikesh",
+              desig: "CEO & Founder, Karthikesh Robotics Pvt Ltd",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. R. Vinod Kumar ", 
               phone: 9865657392,
             },
           ],
           student: [
             {
-              name: " Sughesh Kumar E",
-              phone: 9159644663,
+              name: "Sughesh Kumar E",
+              phone: 9159644663 ,
             },
             {
-              name: " Naresh Kumar R S",
-               phone: 8838348595,
+              name: "Naresh Kumar R S",
+              phone: 8838348595,
             },
           ],
-        },      
-      },//4
-    
+        },
+        day2: {
+          date: "08 Nov 2024",
+          time: "09:00am - 04:30pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr J. G. Karthikesh",
+              desig: "CEO & Founder, Karthikesh Robotics Pvt Ltd",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. R. Vinod Kumar ", 
+              phone: 9865657392,
+            },
+          ],
+          student: [
+            {
+              name: "Sughesh Kumar E",
+              phone: 9159644663 ,
+            },
+            {
+              name: "Naresh Kumar R S",
+              phone: 8838348595,
+            },
+          ],
+        },   
+      },//6
+
+      {
+        name:"Sneak Peek: Web Hacking for Beginners",
+        logo: "EventsAssets/sneakpeak.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSflLu_TdkDJABj8ep9Z13rY4kauLwInEWQix72861IY5pdVTQ/viewform",
+        note: "All participants must bring Laptop",
+        day1: {
+          date: "05 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. Santhosh",
+              desig: "Cybersecurity Inspector, Cyber Heals Infotech Pvt. Ltd",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886,
+            },
+            {
+              name: "Ms. A. Hema Malini", 
+              phone: 9952648240,
+            },
+          ],
+          student: [
+            {
+              name: "Girinath S",
+              phone: 9042422785 ,
+            },
+            {
+              name: "Nithish V",
+              phone: 9360501471,
+            },
+          ],
+        },
+        day2: {
+          date: "06 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. Santhosh",
+              desig: "Cybersecurity Inspector, Cyber Heals Infotech Pvt. Ltd",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886,
+            },
+            {
+              name: "Ms. A. Hema Malini", 
+              phone: 9952648240,
+            },
+          ],
+          student: [
+            {
+              name: "Girinath S",
+              phone: 9042422785 ,
+            },
+            {
+              name: "Nithish V",
+              phone: 9360501471,
+            },
+          ],
+        },
+         
+      },//7
+
+      {
+        name:" Integrating Security into cloud-based devops",
+        logo: "EventsAssets/intergratingsec.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSekxPzRoQJDCYbI83f7pYEwXxsaeLt02U2V6MC--jjKv1Apug/viewform?usp=send_form",
+        note: "All participants must bring Laptop",
+        day1: {
+          date: "06 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Moothukumar",
+              desig: "Project Leader, Towards Technology",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886 ,
+            },
+            {
+              name: "Ms J. Sharmila", 
+              phone: 7092328836,
+            },
+          ],
+          student: [
+            {
+              name: "CharanKumar R",
+              phone: 8438941803 ,
+            },
+            {
+              name: "Nithish Kumar B",
+              phone: 8610196036,
+            },
+          ],
+        },
+        day2: {
+          date: "07 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Moothukumar",
+              desig: "Project Leader, Towards Technology",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886 ,
+            },
+            {
+              name: "Ms J. Sharmila", 
+              phone: 7092328836,
+            },
+          ],
+          student: [
+            {
+              name: "CharanKumar R",
+              phone: 8438941803 ,
+            },
+            {
+              name: "Nithish Kumar B",
+              phone: 8610196036,
+            },
+          ],
+        },
+         
+      },//8
+
+      {
+        name:" Build Your Own GenAI using Python ",
+        logo: "EventsAssets/builtyourai.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "FULL DAY", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSfHSlrnqC_MMzcR5Uc8ELEdEFe6Nnt1tuEQK0rYpm7XK6HUuA/viewform",
+        note: "All participants must bring Laptop",
+        day1: {
+          date: "04 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. Muhammed Ilyas",
+              desig: "CEO, IT Expert Training ",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886 ,
+            },
+            {
+              name: "Ms. J. Sharmila", 
+              phone: 7092328836,
+            },
+          ],
+          student: [
+            {
+              name: "Paradisha P",
+              phone: 6385367840 ,
+            },
+            {
+              name: "Mahalakshmi B",
+              phone: 6379473406,
+            },
+          ],
+        },
+        day2: {
+          date: "05 Nov 2024",
+          time: "10:00am - 03:00pm",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. Muhammed Ilyas",
+              desig: "CEO, IT Expert Training ",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. M. Vanitha", 
+              phone: 7871784886 ,
+            },
+            {
+              name: "Ms. J. Sharmila", 
+              phone: 7092328836,
+            },
+          ],
+          student: [
+            {
+              name: "Paradisha P",
+              phone: 6385367840 ,
+            },
+            {
+              name: "Mahalakshmi B",
+              phone: 6379473406,
+            },
+          ],
+        },
+      
+         
+      },//9
+
+
+
     ],
   },
 
@@ -1049,14 +1579,6 @@ export const EventDetails = [
             name: "Darshana K",
             phone: 8248477077,
           },
-          {
-            name: "Kamalesh S",
-            phone: 9444436536,
-          },
-          {
-            name: "Kiran Balaji H",
-            phone: 9600141495,
-          },
         ],
       },//1
       {
@@ -1098,6 +1620,46 @@ export const EventDetails = [
           },
         ],
       },//2
+      {
+        name: " Circuitrix ",
+        tagline: "",
+        date: " 09 Nov 2024(AN)",
+        type: "Team of 4-5",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm -03:00pm",
+        round1title: "Tech Clue Hunt",
+        round1:
+          "One member from each team will come forward to pick a random sheet from a set provided by the organizers. The sheet will contain the name of a component or object. The member who picked the sheet will then give clues to their teammates to help them guess the name. These clues can describe the usage, structure, or other characteristics of the component or object but must not include its exact name. The team earns points based on how quickly and accurately they guess the correct answer. The co-ordinator will assign a score (maximum of 5 points) based on the team’s performance within the time limit",
+       
+        round2title: "Replica Relay",
+        round2:
+          "In this round, two members from each team will be given 25 seconds to observe a pre-designed circuit. After the observation period, they will have 10 minutes to replicate the circuit as accurately as possible. The circuits and required components will be provided by the coordinators. Teams will be evaluated based on both the accuracy of the circuit connections and the time taken to complete the task. The maximum score for this round is 25 points. However, any misconduct or malpractice during the round will result in immediate disqualification",
+       
+          round3title: "Quiz 'N' Cross",
+          round3:
+            "In this final round, two teams will compete in a quiz-based X-O game, where the chairs are arranged like a tic- tac-toe board. Both teams will be asked a question at the same time, but only one member from each team  can answer. If a team answers correctly, the answering member will sit in a chair on the board. However, if the answer is incorrect, the opposing team can claim that chair as a penalty.The goal is to form a straight line with seated team members, either horizontally, vertically, or diagonally. If a team has three seated members but hasn’t formed a line, a fourth member who answers correctly can replace one of their seated teammates to help form the line. The game continues until a straight line is formed or until the 15-minute time limit is reached. If no line is formed, the team with the most correct answers in this round will win",
+        
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/circuitrix.webp",
+        staff: [
+          {
+            name: "Dr. V. Anusha Rani",
+            phone: 7397496575,
+          },
+          
+        ],
+        student: [
+          {
+            name: "Jeginthan K",
+            phone: 6374470752,
+          },
+          {
+            name: "Bhavayoshini V ",
+            phone: 9095130316,
+          },
+        ],
+      },//3
 
       ],
     workshopslist:[
@@ -1187,10 +1749,10 @@ export const EventDetails = [
       {
         name: " Case-In-Point Case Study Competition",
         tagline: "",
-        date: " 07 Nov 2024(FN)",
+        date: " 08 Nov 2024(FN)",
         type: "Team of 2-4",
         venue: "Will Be Updated Soon",
-        time: "10:00am - 01:00pm",
+        time: "10:00am - 12:00pm",
         rules:"A team of students can consist of 2-4 members per team from the same college and from any department. Members can be from any year in college. There is no restriction on the number of teams from a college. Registered students will receive a management case study on the day of the event, with questions for analysis. Each team has to bring a laptop and prepare a PPT with solutions based on their analysis. Time will be provided to prepare the PPT. They will be given 15 mins to present their analysis. The PPT should not have more than 10 slides (including the Intro and Thank you slides). The PPT should focus on the following:. Case overview (not more than 2 mins).Identification of the problem (3 mins). Developing alternative solutions to the problem (5 mins).Reasoning for the solution identified (5 mins). The team will then be questioned on their presentation by a panel of judges. The finalists will be evaluated on the basis of their understanding of the problem, uniqueness, creativity and correctness/feasibility of the solution provided",
         
         tag: "EVENT",
@@ -1237,7 +1799,7 @@ export const EventDetails = [
         link: "https://docs.google.com/forms/d/e/1FAIpQLSe0QiWwzxm1jKaLJ7Npbvl_kcZ6gVYzm-FjiHZu1DtjiMRtrQ/viewform",
         note:"Certificate will be provided Only if you attend for two days. I'd card must. Participants must register in advance to attend the workshop. All participants are expected to arrive on time for each session.Actively engage in discussions and activities during the workshop. Treat fellow participants and the workshop facilitators with respect and courtesy. Do not share sensitive information about fellow participants or the workshop content outside the workshop. Turn off or silence mobile phones and other electronic devices during the sessions to minimize disruptions. Participants should bring any required materials or tools specified by the workshop organizers. Follow all instructions provided by the workshop facilitators. Feel free to ask questions and seek clarification when needed.Dress appropriately for the workshop; casual or business casual attire is usually suitable. Adhere to a professional and ethical code of conduct during the workshop.Do not record or broadcast the workshop sessions without permission.Complete any evaluation forms or surveys to provide feedback about the workshop",
         day1: {
-          date: "4/11/2024 ",
+          date: "04 Nov 2024 ",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
@@ -1271,7 +1833,7 @@ export const EventDetails = [
           ],
         },
         day2: {
-          date: "5/11/2024 ",
+          date: "05 Nov 2024 ",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
@@ -1446,8 +2008,8 @@ export const EventDetails = [
               phone: 8072000453,
             },
             {
-              name: " Harish Kumar R",
-              phone: 7305264191,
+              name: "Mohammed Abbas A",
+              phone: 9677183397,
             },
           ],
         },
@@ -1459,7 +2021,42 @@ export const EventDetails = [
     id: "med",
     title: "Medical Electronics",
     eventslist: [
-      
+      {
+        name: "Potter Tricks",
+        tagline: "",
+        date: " 08 Nov 2024(AN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        rules:"Participants to be in a team of 3-4 members. Pre requisite to join this event - Basic knowledge on electrical components, general medical equipments, computer hardwares, Basics in python.Event consists of 2 Rounds and each round will have time limits",
+        round1title: "Wingardium Leviosa",
+        round1: "A video consisting of spells and characters from harry potter will be shownEAMS FIND THE CRIME SCENE BY ANALYZING MISLEADING CLUES  WINNERS GET A PRE-CODED IMAGE CLASSIFIER; OTHERS MUST CODE IT.Participants must memorize them quickly.Two from each team must come forward to participate.A flash card consisting names of components,eqipments etc, will be provided to one participant.They must give hints/indirect clues to other one to find it (no actions to be used).Time limit will be provided.When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event.The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
+        round2title: "The Mind Flayer",
+        round2: "Each time questions Inspired from stranger things series will be asked and must be answered within 30 sec This will be a buzzer round.The answering team will get +5 point Then they get a chance to roll a dice Based on the number from the dice , flash cards with riddles about components or python codes will be given.Team members together must find the answers within 1 min If found the team will be given +3 points If not found then they will get minus (-3) points",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/pottertricks.webp",
+        staff: [
+          {
+            name: "Dr. R. Sindhuja",
+            phone: 8925011559,
+          },
+        ],
+        student: [
+          {
+            name: "Lokeshwari D",
+            phone: 6379442663,
+          },
+          {
+            name: "Varshini R",
+            phone: 9626041978,
+          },
+          {
+            name: "Manjushree R",
+            phone: 8778633695,
+          },
+        ],
+      },//1
     ],
     workshopslist: [
       {
@@ -1554,7 +2151,7 @@ export const EventDetails = [
         date: "09 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "10:00am - 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 3",
         rules: "Participants must work in teams of 3. Laptops and internet access are required",
         round1title: "The Tech Quiz Challenge",
@@ -1779,11 +2376,11 @@ export const EventDetails = [
             phone: 9003434339,
           },
           {
-            name: "Jayabirami",
+            name: "Jayabirami S",
             phone: 8122934948,
           },
           {
-            name: "Sonu",
+            name: "Sonu S",
             phone: 9840916273,
           },          
         ],
@@ -2134,8 +2731,7 @@ export const EventDetails = [
             },
           ],
         },
-      },//2
-      
+      },//2     
       {
         name: "Tested academy career acceralator",
         logo: "EventsAssets/scoft2.webp",
@@ -2740,6 +3336,221 @@ export const EventDetails = [
         },   
       },//13
       
+      {
+        name: "Boot Camp on Drone Technology",
+        logo: "EventsAssets/bootcamp.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "08.00am - 03:00pm", 
+        note: "All participants must bring Laptop. Conducted By Department of ECE, EEE, SCOFT [AIDS | AIML | CSE | IT]",
+        link: "https://docs.google.com/forms/d/1bgT9d1CYHXoVtNS37p0mHhrZhgNdXthS0F1sGNr7wQE/viewform?edit_requested=true",
+        day1: {
+          date: "04 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Introduction to Drones – Overview of types, components, and applications.",
+          resource: [
+            {
+              name: "Dr. K. Krishna Naik",
+              desig: "Associate Professor & HOD, IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day2: {
+          date: "05 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Flight Mechanics – Basics of aerodynamics, flight control, and stability.",
+          resource: [
+            {
+              name: "Dr. K. V. Eswaramoorthy",
+              desig: "Assistant Professor (Grade-1) IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day3: {
+          date: "06 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Programming and Sensors – Integrating sensors, GPS, and control software.",
+          resource: [
+            {
+              name: "Dr. K. Nagaraju",
+              desig: "Assistant Professor (Grade 1), IIITDM, Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day4: {
+          date: "07 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Autonomous Navigation – Path planning, obstacle detection, and AI for autonomy.",
+          resource: [
+            {
+              name: "Mr. D. Akhil Kumar",
+              desig: "Junior Research Fellow,  IIITDM,  Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+        day5: {
+          date: "08 Nov 2024",
+          mode: "Individual",
+          time: "08.00am - 03:00pm",
+          venue: "will be updated soon",
+          topic:"Safety and Regulations – Key rules, privacy, and ethical considerations.",
+          resource: [
+            {
+              name: "Ms. A. Sai Jahnavi",
+              desig: "Junior Research Fellow, IIITDM,  Kurnool",
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Raji Pandurangan",
+              phone: 9003051625,
+            },
+            {
+              name: "Dr. J. Anish Kumar",
+              phone: 9842336137,
+            },
+          ],
+          student: [
+            {
+              name: "Esaki Muthu M",
+              phone: 7358596661,
+            },
+            {
+              name: "Ganesh K",
+              phone: 7358132832,
+            },
+            {
+              name: "Dharshini M",
+              phone: 7418067027,
+            },
+            {
+              name: "Bharath M",
+              phone: 8056048552,
+            },
+          ],
+        },
+      },//14
 
     ],
   },
