@@ -4,7 +4,42 @@ export const EventDetails = [
     id: "agri",
     title: "Agricultural Engineering",
     eventslist: [
-      
+      {
+        name: "Cursed Chest Chase",
+        tagline: "",
+        date: "08 Nov 2024(FN)",
+        type: "Team of 4",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 12:00pm",
+        rules:"Each team must consist of exactly 4 members.Teams will be selected based on tasks given before the event. Each participant must pay an entry fee of ₹20. Payment must be made before the event begins.The event will last for a total of 3 hours.Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game. Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR It is the responsibility of each team to Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification. Ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing",      
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/cursedchest.webp",
+        staff: [
+          {
+            name: "Dr. V. Balasundaram",
+            phone: 9786437197,
+          },
+        ],
+        student: [
+          {
+            name: "Niranjana R",
+            phone: 9962838085,
+          },
+          {
+            name: "Shalini P",
+            phone: 9715999557,
+          },
+          {
+            name: "Sinhaa Srinithi S",
+            phone: 8438800293,
+          },
+          {
+            name: "Sreya K",
+            phone: 9025177044,
+          },
+        ],
+      },//1
     ],
     workshopslist: [
       {
@@ -111,6 +146,71 @@ export const EventDetails = [
     id: "bme",
     title: "Biomedical Engineering",
     eventslist: [
+      {
+        name: "Fast Track Trivia ",
+        date: " 08 Nov 2024(FN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: " 09:00am - 12:00pm",
+        rules:"Participants must compete in teams of 3 – 4 members per team.The quiz master asks questions and the first to bang the table gets to answer.No hints or additional clarifications are provided once a question is asked. Answers must be given immediately after the question is asked.The quizmaster's decision is final in case of disputes or confusion over answers. The team with the highest scores at the end of all rounds wins",
+        note:"The rapid-fire quiz will incorporate SDG 9: Industry, Innovation, and Infrastructure, highlighting how biomedical engineering drives innovation and contributes to solving global health challenges through advancements in medical technology and infrastructure",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/fasttrack.webp",
+        staff: [
+          {
+            name: "Dr. A. Swarnambiga",
+            phone: 7904392157,
+          },
+        ],
+        student: [
+          {
+            name: "Parvathy Ramesh",
+            phone: 7418999581,
+          },
+          {
+            name: "Rohit R",
+            phone: 9566715119,
+          },
+          
+        ],
+      },//1
+
+      {
+        name: " Task Trek",
+        tagline: "",
+        date: " 08 Nov 2024(AN)",
+        type: "Team of 4",
+        venue: "Will Be Updated Soon",
+        time: " 01:00am to 04:00pm",
+        rules:"Each team must have 4 members. ⁠If one team doesn’t know the answer it will be passed to the next team.⁠If you answer the question correctly, you will be awarded one point. If your answer is wrong, the next team that answers correctly will receive 1/2 bonus points. ⁠The team with the highest score will move to the next level",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/tasktrek.webp",
+        staff: [
+          {
+            name: "Ms. Nivethitha",
+            phone: 8940499135,
+          },
+        ],
+        student: [
+          {
+            name: "Janani M P",
+            phone: 9962795331,
+          },
+          {
+            name: "Vaishnavi S",
+            phone: 6379568335,
+          },
+          {
+            name: "Sruthi K",
+            phone: 8344534583,
+          },
+
+          
+        ],
+      },//2
+      
     ],
     workshopslist: [
     
@@ -278,7 +378,42 @@ export const EventDetails = [
     id: "civil",
     title: "Civil Engineering",
     eventslist: [
-     
+      {
+        name: "Voice, Vision, Victory",
+        date: "08 Nov 2024(FN)",
+        type: "Team 2-3",
+        venue: "Will Be Updated Soon",
+        time: "08:00am - 10:00am",
+        round1title: "WHISPER AND WIN",
+        round1: "Form teams with one Guesser per round while others whisper a sentence.Team members quietly whisper the same sentence without gestures or sounds.The Guesser has 1 minute to guess the whispered sentence.Points are awarded based on guessing speed: 0-20 sec (5 points), 21-40 sec (3 points), 41-60 sec (1 point).Rotate roles each round, and the team with the highest points at the end wins",
+        round2title: "GRAB AND GUESS",
+        round2: "Participants must wear a blindfold or eye mask at all times.Once an object is identified, participants must announce their answer immediately.Participants are allowed a maximum of 2 hints throughout the game.Correct answers earn 10 points; incorrect answers yield no points.Participants may not receive external assistance.The Guesser has 90 seconds to guess the object",
+        round3title: "TRASH TO TREASURE",
+        round3: "Time Limit: 30 minutes.Waste Material Collection:.Teams must collect waste materials from around the college.Materials must be collected within the 30-minute time frame.Teams must return to the event venue within 30 minutes.Craft Creation:.Dimensions for the craft will be provided by organizers on the spot.Teams must create their craft within the given dimensions.Only waste materials collected during the challenge can be used.No external materials or tools allowed (except for basic crafting tools like glue, scissors, etc)",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/voicevision.webp",
+        staff: [
+          {
+            name: "Dr. S. Theerkadharshini",
+            phone: 9597594405,
+          },
+        ],
+        student: [
+          {
+            name: "Samanth Priyan V S",
+            phone: 9841013469,
+          },
+          {
+            name: "Lahithya C",
+            phone: 7095804159,
+          },
+          {
+            name: "Mariya Andrea L",
+            phone: 9360846766,
+          },
+        ],
+      },//1
     ],
     workshopslist: [
       {
@@ -377,7 +512,7 @@ export const EventDetails = [
           link: " ",
         day1: {
           date: "04 Nov 2024",
-          time: "09:00am - 03.00pm",
+          time: "09:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           topic: " NIL",
@@ -410,7 +545,7 @@ export const EventDetails = [
         },
         day2: {
           date: "05 Nov 2024",
-          time: "09:00am - 03.00pm",
+          time: "09:00am - 03:00pm",
           mode: "Individual",
            venue: " Will Be Updated Soon",
           topic: " NIL",
@@ -527,7 +662,7 @@ export const EventDetails = [
           link: " ",
         day1: {
           date: "06 Nov 2024",
-          time: "10:00am - 03.00pm",
+          time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           // topic: " NIL",
@@ -560,7 +695,7 @@ export const EventDetails = [
         },
         day2: {
           date: " 07 Nov 2024",
-          time: "10:00am - 03.00pm",
+          time: "10:00am - 03:00pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           topic: " NIL",
@@ -603,7 +738,7 @@ export const EventDetails = [
           link: " ",
         day1: {
           date: " 07 Nov 2024",
-          time: "09:00am - 04.30pm",
+          time: "09:00am - 04:30pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           // topic: " NIL",
@@ -632,7 +767,7 @@ export const EventDetails = [
         },
         day2: {
           date: " 08 Nov 2024",
-          time: "09:00am - 04.30pm",
+          time: "09:00am - 04:30pm",
           mode: "Individual",
           venue: " Will Be Updated Soon",
           // topic: " NIL",
@@ -924,6 +1059,45 @@ export const EventDetails = [
           },
         ],
       },//1
+      {
+        name: "Digital Mania",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 12:00pm",
+        members: "Team of 2",
+        round1title: "ELECTROMYSTERY",
+        round1:
+          "Duration: 10 minutes. most words collected by a team will be qualified. Top 8 teams will be qualified for the next round",
+       
+        round2title: "ERROR EXPLORER",
+        round2:
+          "Duration: 20 minutes and negative mark of 1/2 will be there. Top 4 teams will be qualified for next round",
+       
+          round3title: "ELECTRONICS ARENA",
+          round3:
+            "Duration: 15 minutes. Winners & Runners will be selected based on points",
+       
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/digitalmania.webp",
+        staff: [
+          {
+            name: " Mr. Prabakaran",
+            phone: 9047472526,
+          },
+        ],
+        student: [
+          {
+            name: "Iswarya Lakshmi S",
+            phone: 6382822930,  
+          },
+          {
+            name: "Dhanush Kumar U",
+            phone: 6383481684,
+          },
+        ],
+      },//2
 
       ],
     workshopslist:[
@@ -1010,6 +1184,47 @@ export const EventDetails = [
     id: "mba",
     title: "Management Studies",
     eventslist: [
+      {
+        name: " Case-In-Point Case Study Competition",
+        tagline: "",
+        date: " 07 Nov 2024(FN)",
+        type: "Team of 2-4",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 01:00pm",
+        rules:"A team of students can consist of 2-4 members per team from the same college and from any department. Members can be from any year in college. There is no restriction on the number of teams from a college. Registered students will receive a management case study on the day of the event, with questions for analysis. Each team has to bring a laptop and prepare a PPT with solutions based on their analysis. Time will be provided to prepare the PPT. They will be given 15 mins to present their analysis. The PPT should not have more than 10 slides (including the Intro and Thank you slides). The PPT should focus on the following:. Case overview (not more than 2 mins).Identification of the problem (3 mins). Developing alternative solutions to the problem (5 mins).Reasoning for the solution identified (5 mins). The team will then be questioned on their presentation by a panel of judges. The finalists will be evaluated on the basis of their understanding of the problem, uniqueness, creativity and correctness/feasibility of the solution provided",
+        
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/caseinpoint.webp",
+        staff: [
+          {
+            name: "Dr. V. Joseph Satish",
+            phone: 8790535613,
+          },
+          {
+            name: "Dr. R. Ravimohan",
+            phone: 9444016612,
+          },
+        ],
+        student: [
+          {
+            name: "Badhri Narayanan M",
+            phone: 9361846117,
+          },
+          {
+            name: "Elakkiya S",
+            phone: 8754709979,
+          },
+          {
+            name: "Sridharan M",
+            phone: 9629832322,
+          },
+          {
+            name: "Reshma K",
+            phone: 6374815450,
+          },
+        ],
+      },//1
   
     ],
     workshopslist: [
@@ -1023,7 +1238,7 @@ export const EventDetails = [
         note:"Certificate will be provided Only if you attend for two days. I'd card must. Participants must register in advance to attend the workshop. All participants are expected to arrive on time for each session.Actively engage in discussions and activities during the workshop. Treat fellow participants and the workshop facilitators with respect and courtesy. Do not share sensitive information about fellow participants or the workshop content outside the workshop. Turn off or silence mobile phones and other electronic devices during the sessions to minimize disruptions. Participants should bring any required materials or tools specified by the workshop organizers. Follow all instructions provided by the workshop facilitators. Feel free to ask questions and seek clarification when needed.Dress appropriately for the workshop; casual or business casual attire is usually suitable. Adhere to a professional and ethical code of conduct during the workshop.Do not record or broadcast the workshop sessions without permission.Complete any evaluation forms or surveys to provide feedback about the workshop",
         day1: {
           date: "4/11/2024 ",
-          time: " 8:00am to 3:00pm",
+          time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
           staff: [
@@ -1057,7 +1272,7 @@ export const EventDetails = [
         },
         day2: {
           date: "5/11/2024 ",
-          time: " 8:00am to 3:00pm",
+          time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
           staff: [
@@ -1257,7 +1472,7 @@ export const EventDetails = [
         note:"We have done the Home Security project in this internship using OpenCV, Yolo, Keras, and TensorFlow. In this project, my part is to interface the modules, planning the work process and collecting the database for the security system.In this Internship, I’ve learned a lot about IoT devices and interfaces. The projects given to us are Food Spectroscopic analysis using Spectral Triad for Quality monitoring, and an automatic cleaning Robot, for which my part in this project is designing in CAD and Programming in Raspberry Pi using Machine Learning. In this company, I worked as a Hardware Development Engineer, and here I’ve worked on testing the Circuits, worked with various Sensors used for Automobile Testing, designed a Power Backup circuit, Designed and developed the PCBs, and worked on Fabricating PCBs with SMD and THT components.At OTOMATIKS, I worked as a Robotics Research Engineer, and here I’ve worked on building Robotic Projects, preparing course research on Aeromodelling, and Trained Students on Robotics and guided them building projects",
         day1: {
           date: " 06 Nov 2024 (FN & AN)",
-          time: "09:00AM to 03:00PM",
+          time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
@@ -1339,7 +1554,7 @@ export const EventDetails = [
         date: "09 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "10:00am to 12:00pm",
+        time: "10:00am - 12:00pm",
         members: "Team of 3",
         rules: "Participants must work in teams of 3. Laptops and internet access are required",
         round1title: "The Tech Quiz Challenge",
@@ -1425,7 +1640,7 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "10:00am to 12:00pm",
+        time: "10:00am - 12:00pm",
         members: "Team of 3-4",
         rules:"Each team must consist of 3-4 members to participate. Solo Entries are allowed. Participants must bring their own laptops with personal data connections. Participants must code and solve challenges without using AI tools or assistants like ChatGPT or similar. Stick to the time limits—no extensions!. Cheating or copying leads to disqualification",
         round1title: "Code Rewind: Reverse the Logic!",
@@ -1469,7 +1684,7 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 2-3",
         rules:"Teams of 2-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections. All the team members should know about the components and designing software",
         round1title: "Web Design",
@@ -1538,7 +1753,7 @@ export const EventDetails = [
         date: "09 Nov 2024(FN & AN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 3:00pm",
+        time: "09:00am - 03:00pm",
         members: "Team of 1-4",
         round1title: "Presentation of working prototype of their pre-made website",
         round1: "Participants will present a working prototype of their pre-made website. Teams can consist of 1 to 4 members. Participants are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. They will explain their unique touch and showcase their technical skills during the presentation. Evaluation criteria include originality, technical execution, and user experience",
@@ -1579,7 +1794,7 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "09:00am to 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 1 - 3",
         round1title: "Connections",
         round1: "Participants decode visual clues, with each set of images representing a specific programming concept or technical term. The goal is to identify the correct term based on abstract visuals, covering ideas like algorithms, data structures, and general programming terms. The quiz is conducted online with interactive elements for direct engagement. Focus areas include programming fundamentals, algorithms, logic-based riddles, and tech trivia related to data structures. Each question has a 30-second time limit to challenge quick thinking and connections. The top 50% of participants qualify for Round 2 based on their first-round scores",
@@ -1622,7 +1837,7 @@ export const EventDetails = [
         date: "09 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 2-3",
         rules:"Each team must consist of 2-3 members. Teams must use the provided AI tools for image replication and comic creation. All submissions must be original and created during the event. Each round has a specified time limit. Teams will be judged based on creativity, originality, and adherence to the prompt",
         round1title: "Copycat",
@@ -1664,7 +1879,7 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 2-3",
         round1title: "Scriptum Invisum",
         round1: "Teams will be provided access a designated webpage . Participants must carefully analyze the webpage, looking for clues and hidden passcodes embedded in different sections",
@@ -1709,7 +1924,7 @@ export const EventDetails = [
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "10:00am to 12:00pm",
+        time: "10:00am - 12:00pm",
         members: "Team of 1-3",
         rules:"Teams of 1-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections",
         round1title: "The Code Crunch (Web Dev Quiz)",
@@ -1752,7 +1967,7 @@ export const EventDetails = [
         date: "09 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
-        time: "9:00am to 12:00pm",
+        time: "09:00am - 12:00pm",
         members: "Team of 2-3",
         rules:"Teams must consist of 2-3 participants(Minimum - 2). Laptops and internet usage are permitted, but plagiarism is strictly prohibited. Participants should solve problems sequentially in both rounds. Any violation of rules may lead to disqualification",
         round1title: "Image Puzzle Grid Challenge",
@@ -1839,7 +2054,7 @@ export const EventDetails = [
         },
         day2: {
           date: " 05 Nov 2024",
-          time: "9:00am - 3.00pm",
+          time: "09:00am - 03.00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           resource: [
@@ -1983,7 +2198,7 @@ export const EventDetails = [
         link: "https://docs.google.com/forms/d/e/1FAIpQLScUEgS_paQp3mHKeNtN7qHOinyHtjm2yhoizVOHe9o7HN2NRA/viewform",
         day1: {
           date: " 06 Nov 2024",
-          time: "10:00am to 3:00pm",
+          time: "10:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
@@ -2116,7 +2331,7 @@ export const EventDetails = [
         link: "https://forms.gle/jni66VzWw8wcAPaU7",
         day1: {
           date: "05 Nov 2024",
-          time: "9:00am to 3:00pm",
+          time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
@@ -2154,7 +2369,7 @@ export const EventDetails = [
         },
         day2: {
           date: "06 Nov 2024",
-          time: "9:00am to 3:00pm",
+          time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
