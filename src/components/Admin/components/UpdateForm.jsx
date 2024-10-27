@@ -96,7 +96,7 @@ export default function UpdateForm({
         "AGRIVENTURE",
         "CLASH AND CONQUER",
       ],
-    },
+    }, //agri
 
     {
       name: "BME",
@@ -106,32 +106,38 @@ export default function UpdateForm({
         "BIOSOLVE BLITZ",
         "ESCAPE FROM - THE DNA DUNGEON",
       ],
-    },
+    }, //bme
 
     {
       name: "CHEM",
       events: [
         ],
-    },
+    }, //che
 
     {
       name: "CIVIL",
       events: [
         "VOICE, VISION, VICTORY",
+        "CUP - TITUDE FRENZY",
+        "BRIDGEIT",
          ],
-    },
+    }, //civil
 
     {
       name: "ECE",
       events: [
         ],
-    },
+    }, //ece
 
     {
       name: "EEE",
       events: [
+        "INNO BLOCK",
+        "TECH SPRINT",
+        "CIRCUIT WIZARDRY",
+        "BOT RACE",
       ],
-    },
+    }, //eee
 
     {
       name: "EIE",
@@ -140,13 +146,13 @@ export default function UpdateForm({
         "DIGITAL MANIA",
         "CIRCUITRIX",
       ],
-    },
+    }, //eie
 
     {
       name: "MECH",
       events: [
       ],
-    },
+    }, //mech
 
     {
       name: "MED",
@@ -154,7 +160,7 @@ export default function UpdateForm({
         "POTTER TRICKS",
         "THE SQUID GAME",
         ],
-    },
+    }, //med
 
     {
       name: "SCOFT",
@@ -172,14 +178,17 @@ export default function UpdateForm({
         "THE WEB SHOWDOWN",
         "ALGOINCEPTION",
           ],
-    },
+    }, //scoft
 
     {
       name: "MBA",
       events: [
         "CASE-IN-POINT CASE STUDY COMPETITION",
+        "BUSINESS QUIZ",
+        "AD-ZAP",
+        "BEST MANAGER",
       ],
-    },
+    }, //mba
    
   ];
 

@@ -11,7 +11,7 @@ export const EventDetails = [
         type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        rules:"Each team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game.Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing ",      
+        rules:"Each team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.Each participant must pay an entry fee of 20(Payment must be made before the event begins).The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game.Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing ",      
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cursedchest.webp",
@@ -41,7 +41,7 @@ export const EventDetails = [
         ],
       },//1
       {
-        name: "Agriventure",
+        name: "AgriVenture",
         tagline: "",
         date: "09 Nov 2024(AN)",
         type: "Team of 2-3",
@@ -75,7 +75,7 @@ export const EventDetails = [
         type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "08:30am - 12:00pm",
-        rules:" All participants must register in the Google form provided. On-spot registration may be limited according to the crowd. Each team may consist of 2 to 3 members. Each round will be explained before the round with clear instructions and objectives. Teams should work together to finish the round; all members should participate. Participants should not use their mobile phones in the middle of the round. If they do, their team will be disqualified. Respect for other participants should be maintained throughout the event. No offensive language or behavior will be tolerated. All rulings made by the event coordinators are final. Any objects for the event will be handed to the participants before the event. Participants should arrive on time for check-in at the designated location. Late arrivals may not be allowed to join the event. All events have time limits. All teams should finish the game within the time limit",  
+        rules:" All participants must register in the DRESTEIN's website. On-spot registration may be limited according to the crowd. Each team may consist of 2 to 3 members. Each round will be explained before the round with clear instructions and objectives. Teams should work together to finish the round; all members should participate. Participants should not use their mobile phones in the middle of the round. If they do, their team will be disqualified. Respect for other participants should be maintained throughout the event. No offensive language or behavior will be tolerated. All rulings made by the event coordinators are final. Any objects for the event will be handed to the participants before the event. Participants should arrive on time for check-in at the designated location. Late arrivals may not be allowed to join the event. All events have time limits. All teams should finish the game within the time limit",  
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/clash.webp",
@@ -193,7 +193,7 @@ export const EventDetails = [
        
       },//2
     ],
-  },
+  }, //agri
 
   {
     id: "bme",
@@ -416,7 +416,7 @@ export const EventDetails = [
         },
       },//1
     ],
-  },
+  }, //bme
 
   {
     id: "chem",
@@ -507,7 +507,7 @@ export const EventDetails = [
         },    
       },//1
     ],
-  },
+  }, //che
 
   {
     id: "civil",
@@ -550,6 +550,77 @@ export const EventDetails = [
           },
         ],
       },//1
+
+      {
+        name: " Cup-Titude Frenzy",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 12:00pm",
+        members: "Team of 2",
+        round1title: "Flip and Win",
+       round1: "A team includes 2 members. Teams must design a device using rubber bands, popsicle sticks, and cardboard to flip a paper cup upside down. After successfully flipping the paper cup, it should be placed on the Tic-Tac-Toe board. The first team to get three of their cups in a row (up, down, across, or diagonally) qualifies for the next round",
+        round2title: "Pyramid Zenith",
+        round2: "Each team will be given 1 cup of sand and 15 paper cups. A pyramid with 5 layers must be constructed within 10 minutes. The pyramid should have the stability to withstand 3 shakes",
+        round3title: "Cupstruct",
+        round3: "Each team will be given 50 paper cups. A civil structure must be built within 20 minutes",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/cuptide.webp",
+        staff: [
+          {
+            name: "Ms. S. Yamini Roja",
+            phone: 7010432801,
+          },
+        ],
+        student: [
+          {
+            name: "Barkavi D ",
+            phone: 8807176623,
+          },
+          {
+            name: "Sawasthika G P",
+            phone: 7397621996,
+          },
+          {
+            name: "Srinivas P K",
+            phone: 9940497207,
+          },
+        ],
+      },//2
+
+      {
+        name: " BridgeIt",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "",
+        members: "Team of 3",
+        rules: "**Rules for Round 1: **  Each team consists of two members. Question Format : Questions about bridges and famous structures will be displayed on a screen. Response : Teams must write their answers on sheets provided. Judging will be based on the accuracy of responses, and the top teams will qualify for the next round.    **Round 2: London Bridge Is Falling Down** (Score: 70 marks) .  This round is a hands-on challenge where participants will construct a truss-type bridge. Materials : Each team will be given a limited supply of newspapers, along with glue and rubber bands to build their bridge. Structure : The bridge should be a truss type and must meet specific dimension requirements provided at the start of the round. Testing : The constructed bridges will undergo a load test to assess their strength, as well as a dimension test to ensure they meet the set criteria. Winner Selection : The teams whose bridges pass both the load and dimension tests will be declared the winners ",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/bridgeit.webp",
+        staff: [
+          {
+            name: "Dr. S. Padma",
+            phone: 9445452883,
+          },
+        ],
+        student: [
+          {
+            name: "Prakalya C A ",
+            phone: 9342479383,
+          },
+          {
+            name: "Gokula Krishnan N",
+            phone: 9940363039,
+          },
+          {
+            name: "Pughazh Puviyalan J M",
+            phone: 7010560852,
+          },
+        ],
+      },//3
     ],
     workshopslist: [
       {
@@ -707,7 +778,7 @@ export const EventDetails = [
             
       },//2
     ],
-  },
+  }, //civil
 
   {
     id: "ece",
@@ -1125,11 +1196,11 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "A. Anjaline Jayapraba", 
+              name: "Ms. A. Anjaline Jayapraba", 
               phone: 9626474152,
             },
             {
-              name: "T. Deepa ",
+              name: "Ms. T. Deepa ",
               phone: 8148451848,
             },
           ],
@@ -1157,11 +1228,11 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "A. Anjaline Jayapraba", 
+              name: "Ms. A. Anjaline Jayapraba", 
               phone: 9626474152,
             },
             {
-              name: "T. Deepa ",
+              name: "Ms. T. Deepa ",
               phone: 8148451848,
             },
           ],
@@ -1273,7 +1344,7 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Mr J. G. Karthikesh",
+              name: "Mr. J. G. Karthikesh",
               desig: "CEO & Founder, Karthikesh Robotics Pvt Ltd",
             },
           ],
@@ -1301,7 +1372,7 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Mr J. G. Karthikesh",
+              name: "Mr. J. G. Karthikesh",
               desig: "CEO & Founder, Karthikesh Robotics Pvt Ltd",
             },
           ],
@@ -1556,135 +1627,160 @@ export const EventDetails = [
 
 
     ],
-  },
+  }, //ece
 
   {
     id: "eee",
     title: "Electrical and Electronics Engineering",
     eventslist: [
-      // {
-      //   name: "Level Up",
-      //   date: "02 Nov 2023(FN)",
-      //   type: "Team",
-      //   venue: "TBA",
-      //   time: "8am-12pm",
-      //   members: "2-3",
-      //   rules: "Open to all students interested in testing their intellect and technical skills.Participants can compete individually or in teams. Maintain sportsmanship and fair play; no cheating or unethical behavior",
-      //   round1title:"Quiz Competition",
-      //   round1:
-      //     "Quiz includes multiple-choice, short answer, and problem-solving questions. Earn points for correct answers with potential negative marking.Highest scorer progresses to the next level ",
-      //   round2title:" Treasure Hunt",
-      //     round2:
-      //     "Teams solve clues and puzzles to find hidden treasures. Emphasizes teamwork and collaboration. Adhere to a time limit for completion",
-      //   round3title:"Electro Connection",
-      //     round3:
-      //     " Design functional electronic circuits based on a problem statement. Use provided components, tools, and simulation software. Evaluation by judges based on functionality, efficiency, innovation, and documentation",
-      //   tag: "EVENT",
-      //   color: "0, 1, 38",
-      //   logo: "/EventsAssets/eee0.webp",
-      //   staff: [
-      //     {
-      //       name: "T.D.Suresh",
-      //       desig: "Assistant proffesor",
-      //       phone: 9941721288,
-      //       email: "sureshd@saveetha.ac.in",
-      //     },
-      //   ],
-      //   student: [
-      //     {
-      //       name: "Vishnu Prasad.N",
-      //       year: "IV",
-      //       phone: 6369299454,
-      //       email: "vishnuprasad30102002@gmail.com",
-      //     },
-      //     {
-      //       name: "Rishi.M",
-      //       year: "IV",
-      //       phone: 6385298615,
-      //       email: "rishimrl16@gmail.vcom",
-      //     },
-      //   ],
-      // },
-      // {
-      //   name: "Robo Soccer",
-      //   date: "02 Nov 2023(AN)",
-      //   type: "Team",
-      //   venue: "TBA",
-      //   time: "TBA",
-      //   members: "2",
-      //   // rules: "TBA",
-      //   round1:
-      //     "A Team can have a maximum of two members. Only one participant should control a robot. No player can be exchanged in the middle of match. A robot can push or hit the ball. It cannot withhold or grab the ball. The time given for each team to play is “ 4 minutes “. (timing can be varied depending on the situation). The first team to score 3 Goals within 4 minutes wins the round ; Or else the team which scores higher number of goals in 4 minutes wins the round. Human interference (e.g. touching the robot) during the game is not allowed. Only organizers can interfere when it is needed. Decision of the Judges and Event Organizers shall be treated as final and binding on all and cannot be contested. The event coordinator is the match referee. He takes all the decisions and participants have to abide by it. 8.Coordinators reserve the right to ask for the explanation of the robot. The coordinator can change the rules of the game depending on the situation.  Rules & Regulations may change without prior notice, by the Event organizers.  Positions of balls in the arena will be decided by the organizers on the particular day of event ",
-      //   round2:
-      //     "A Team can have a maximum of two members. Only one participant should control a robot. No player can be exchanged in the middle of match. A robot can push or hit the ball. It cannot withhold or grab the ball. The time given for each team to play is “ 4 minutes “. (timing can be varied depending on the situation). The first team to score 3 Goals within 4 minutes wins the round ; Or else the team which scores higher number of goals in 4 minutes wins the round. Human interference (e.g. touching the robot) during the game is not allowed. Only organizers can interfere when it is needed. Decision of the Judges and Event Organizers shall be treated as final and binding on all and cannot be contested. The event coordinator is the match referee. He takes all the decisions and participants have to abide by it. 8.Coordinators reserve the right to ask for the explanation of the robot. The coordinator can change the rules of the game depending on the situation.  Rules & Regulations may change without prior notice, by the Event organizers.  Positions of balls in the arena will be decided by the organizers on the particular day of the event ",
-      //   round3:
-      //     "A Team can have a maximum of two members. Only one participant should control a robot. No player can be exchanged in the middle of match. A robot can push or hit the ball. It cannot withhold or grab the ball. The time given for each team to play is “ 4 minutes “. (timing can be varied depending on the situation). The first team to score 3 Goals within 4 minutes wins the round ; Or else the team which scores higher number of goals in 4 minutes wins the round. Human interference (e.g. touching the robot) during the game is not allowed. Only organizers can interfere when it is needed. Decision of the Judges and Event Organizers shall be treated as final and binding on all and cannot be contested. The event coordinator is the match referee. He takes all the decisions and participants have to abide by it. 8.Coordinators reserve the right to ask for the explanation of the robot. The coordinator can change the rules of the game depending on the situation.  Rules & Regulations may change without prior notice, by the Event organizers.  Positions of balls in the arena will be decided by the organizers on the particular day of event ",
-      //   tag: "EVENT",
-      //   color: "0, 1, 38",
-      //   logo: "/EventsAssets/eee1.webp",
-      //   staff: [
-      //     {
-      //       name: "Er.F.Max Savio",
-      //       desig: "Assistant proffesor",
-      //       phone: 9840188187,
-      //       email: "maxsaviof@saveetha.ac.in",
-      //     },
-      //   ],
-      //   student: [
-      //     {
-      //       name: "Sathish Kumar.M",
-      //       year: "III",
-      //       phone: 8680077699,
-      //       email: "sathishmsk391@gmail.com",
-      //     },
-      //     {
-      //       name: "Premraj.N",
-      //       year: "III",
-      //       phone: 9600625080,
-      //       email: "kumarmano40333@gmail.com",
-      //     },
-      //   ],
-      // },
-      // {
-      //   name: "Line Follower",
-      //   date: "03 Nov 2023(FN)",
-      //   type: "Team",
-      //   venue: "TBA",
-      //   time: "TBA",
-      //   members: "1 or 2",
-      //   rules: "The robot must be autonomous/automatic.[No. Of team member allowed -2]. In competition the ready-made robots are not allowed, the teams can not participate if they use any ready- made robots, for example - Lego kits.Power supply must be on board.The robot must be in the given dimensions Examples dimensions of line follower robot 25cm- 25cm-25cm (Length *width *Hight). Electrical voltage of the robot should not excite 12 Volt (DC) at any time during competition.Track width=2 cms. The bot which completes the track at the fastest time will be announced as the winner.prizes will be time based.contact the coordinators for more details",
-      //   round1:
-      //     "1)The participant should bring their own robots. 2)They can participate solo or only two members are allowed in a team. 3)The robot should complete two laps . 4)The robot which goes off the track will be disqualified. 5)The robot which completes going on the track twice by going in the proper lane which reaches first will be given the first place. 6)Prizes will be given time based ",
-      //   // round2:
-      //   //   "1)The participant should bring their own robots. 2)They can participate solo or only two members are allowed in a team. 3)The robot should complete two laps . 4)The robot which goes off the track will be disqualified. 5)The robot which completes going on the track twice by going in the proper lane which reaches first will be given the first place. 6)Prizes will be given time based ",
-      //   // round3:
-      //   //   "1)The participant should bring their own robots. 2)They can participate solo or only two members are allowed in a team. 3)The robot should complete two laps . 4)The robot which goes off the track will be disqualified. 5)The robot which completes going on the track twice by going in the proper lane which reaches first will be given the first place. 6)Prizes will be given time based ",  
-      //   tag: "EVENT",
-      //   color: "0, 1, 38",
-      //   logo: "/EventsAssets/eee2.webp",
-      //   staff: [
-      //     {
-      //       name: "Dr.S.Rajalingam",
-      //       desig: "Assistant proffesor",
-      //       phone: 9790248476,
-      //       email: "rajalingams@saveetha.ac.in",
-      //     },
-      //   ],
-      //   student: [
-      //     {
-      //       name: "Jothi Krishan.M",
-      //       year: "II",
-      //       phone: 9597819217,
-      //       email: "jothikrishnan1299@gmail.com",
-      //     },
-      //     {
-      //       name: "Nevil Joe Ferdin.P",
-      //       year: "II",
-      //       phone: 9360507661,
-      //       email: "njferdin@gamil.com",
-      //     },
-      //   ],
-      // },
+      {
+        name: "Inno Block",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        members: "N/A",
+        rules: "Students will be grouped based on their academic year. Each team will be assigned a unique problem statement at the beginning of the event. The goal is to develop a solution for the given problem statement and present a detailed block diagram of the solution. The solution must be original and practical, tailored to the specific problem.Teams will have a specified time limit to complete their solution and block diagram. All work must be completed and submitted within the given time. Late submissions will not be accepted.Teams are allowed to use Google for research and information gathering. Use of any AI-based tools (other than Google) is strictly prohibited. Each team is permitted to use only one laptop for research and diagram creation.Teams will be closely monitored by event supervisors to ensure rule compliance.Any team caught using unauthorized AI tools, mobile phones, or additional laptops will be immediately disqualified.Teams must submit the final block diagram and a brief written explanation of their solution within the given time frame",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/innoblock.webp",
+        staff: [
+          {
+            name: "Mr. S. Rajalingam",
+            phone: 9790248476,
+          },
+        ],
+        student: [
+          {
+            name: "Sowmia R ",
+            phone: 8667073236,
+          },
+          {
+            name: "Yazhini S",
+            phone: 9487116150,
+          },
+          {
+            name: "Dhruv D Mehta",
+            phone: 9025944370,
+          },
+          {
+            name: "Visvanth P S",
+            phone: 9840928549,
+          },
+        ],
+      },//1
+
+      {
+        name: "Tech Sprint",
+        date: "09 Nov 2024(AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        members: "Team of 3",
+        round1title: "Pictogram",
+        round1: " Teams must identify a hidden puzzled image as early as possible to get max points. This round challenges their ability to recognize partial visuals. Timing: Allocated a time limit(eg, 10-30 seconds) for each team to answer once the images are shown. Team: 10 teams with 3 members each (30 participants Qualification: Top 7 Teams will qualify for the next round ",
+        round2title: "Jumbled words Decryptthe Word, Word Chaos",
+        round2: "Unscramble the jumbled word to form a valid technical term. Answering : Teams should write down the answers on the provided sheets. Timing: Allocated a time limit(eg, 30–60 seconds) for each team to answer once the words areshown. Team: 7 teams with 3 members each (21 participants) Qualification: Top 5 Teams will qualify forthe nextround",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/techsprint.webp",
+        staff: [
+          {
+            name: "Dr. R. Vinifa",
+            phone: 9442912448,
+          },
+        ],
+        student: [
+          {
+            name: " Dineshdharan K",
+            phone: 8838593373,
+          },
+          {
+            name: "Altrin Ahas A",
+            phone: 9342641309,
+          },
+          {
+            name: "Nidhish B",
+            phone: 9345593845,
+          },
+          {
+            name: "Santhosh D M",
+            phone: 7200149348,
+          },
+        ],
+      },//2
+
+      {
+        name: "Circuit Wizardry ",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        members: "Team of 2-4",
+        rules: "Team composition can consist of 2 to 4 members. The time limits are as follows: for the design phase, teams have 60 to 90 minutes, and for the debug phase, they have 30 to 45 minutes. The event is open to undergraduate students pursuing electrical, electronics, or related engineering courses.  Materials provided include simulation software licenses or hardware components for circuit design. The design must be original and created during the event; pre-designed circuits or plagiarized work will lead to disqualification. Teams must submit their circuit design and debugging solution within the given time frame. Teams can choose either simulation software or hardware (as per the event's setup) to design the circuit",
+        // round1title: "",
+        // round1: "",
+        // round2title: "",
+        // round2: "",
+        // round3title: "",
+        // round3: "",
+        note:"Violation of time limits occurs if teams exceed the time limit by more than 10 minutes in any phase without a valid reason. Unauthorized assistance includes seeking help from external sources during the event.Design accuracy is crucial; the circuit must meet all the given design requirements. Creativity will be rewarded, as innovative use of components or creative design approaches can earn bonus points. Efficiency is important; teams must fix faults in the debug phase within the allotted time, with quick and accurate fixes scoring higher. Presentation and teams should be able to explain their design and debug process clearly to the judges",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/circuitwizardy.webp",
+        staff: [
+          {
+            name: "John D Britto",
+            phone: 9025670734,
+          },
+        ],
+        student: [
+          {
+            name: " Naveen P",
+            phone: 8248549321,
+          },
+          {
+            name: "Anuranjana S Y",
+            phone: 8778000121,
+          },
+          {
+            name: " Shaik Ibrahim",
+            phone: 9848763198,
+          },
+          {
+            name: "Maniha Fathima M ",
+            phone: 8925840921,
+          },
+        ],
+      },//3
+
+      {
+        name: " Bot Race",
+        date: "08 Nov 2024(AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        members: "Team of 3",
+        rules: "Each team consists of 1-2 participants. Teams must register before the event starts, and participants should be present at the venue 20 minutes prior to the event. The event consists of a single race. The decision of the judges is final and binding.The race will be held on a predetermined track, and each team will have 2-3 minutes to complete it. The fastest completion time wins the race. In case of a tie, the team with the fewest errors will be declared the winner",
+        note:"Bot Specifications:Bots must be remotely controlled or wired. The maximum size for the bots is 30 cm x 30 cm x 30 cm, and they should not exceed a weight of 5 kg. Additionally, bots must not cause damage to the track or other bots",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/botrace.webp",
+        staff: [
+          {
+            name: "Dr. R. Karpaga Priya ",
+            phone: 9597727988,
+          },
+        ],
+        student: [
+          {
+            name: " Deepak R",
+            phone: 9361387086,
+          },
+        ],
+      },//4
+
+
     ],
     workshopslist: [
       {
@@ -1708,7 +1804,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Dr. F. MAX SAVIO",
+              name: "Dr. F. Max Savio",
               phone: 9840188187,
             },
             {
@@ -1765,7 +1861,7 @@ export const EventDetails = [
       },//2
 
     ],
-  },  
+  }, //eee
 
   {
     id: "eie",
@@ -1969,7 +2065,7 @@ export const EventDetails = [
         // },
       },//1
     ],
-  },
+  }, //eie
 
   {
     id: "mba",
@@ -2016,6 +2112,118 @@ export const EventDetails = [
           },
         ],
       },//1
+
+      {
+        name: " Business Quiz",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09.30am - 10:00am",
+        members: "Team of 2-3",
+        rules: "Team Composition : Each team can consist of 2 or 3 members, and all members must be from the same college or institution. Rounds & Structure : The quiz will consist of three rounds: the Preliminary Round will feature multiple-choice questions (MCQs) on general business knowledge. The Semi-Final Round will focus on short-answer questions related to success stories of companies and famous business celebrities. The Final Round will include rapid-fire and scenario-based questions. Each round will be elimination-based, with only the top teams proceeding to the next round.  Question Types : In the Preliminary Round, there will be 25 MCQs, with 1 minute per question. The Semi-Final Round will feature 15 questions related to business success stories and business celebrities, with 1 minute per question. In the Final Round, teams will answer 5 rapid-fire scenario-based questions, with 30 seconds per question. Scoring System : Full points will be awarded for each correct answer, and there is no negative marking for incorrect answers in any round. In the event of a tie, a tie-breaker question will be asked. Use of Aids : No electronic devices (phones, calculators, etc) are allowed during the quiz. The use of paper and pens will be permitted for rough work in the Semi-Final and Final Rounds. Time Limits : Each team must answer within the specified time for each question. Failing to answer within the time frame will result in no score for that question. Conduct : Any form of cheating will result in immediate disqualification. Participants are expected to maintain decorum throughout the event. Judging & Decision Making : The quizmaster’s decision will be final in case of disputes. Teams are encouraged to respect the quiz rules and the decision of the judges",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/businessquiz.webp",
+        staff: [
+          {
+            name: "Dr. L. Anitha ",
+            phone: 9841337619,
+          },
+
+          {
+            name: "Dr. V. Vimalnath ",
+            phone: 9500034681,
+          },
+        ],
+        student: [
+          {
+            name: " Gokul Saravanan",
+            phone: 9042642652,
+          },
+          {
+            name: "Monika D",
+            phone: 7338787220,
+          },
+          {
+            name: "Nivetha B",
+            phone: 9043589924,
+          },
+          {
+            name: "Dhanush B",
+            phone: 9884553809,
+          },
+        ],
+      },//2
+
+      {
+        name: "AD-ZAP",
+        date: "08 Nov 2024(AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        members: "Team of 5",
+        rules: "Each team can consist of a maximum of 5 members. The product name will be given on the spot, and teams will have 20 minutes for preparation. Vulgarity or offensive terms will lead to disqualification. The time to perform the advertisement is 5 minutes, followed by a 2-minute presentation and Q&A session. Exceeding the time limit may result in penalties. Teams are encouraged to use humor, innovation, and creativity to engage the audience. Participants can bring any required materials. The judges' decision will be final",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/adzap.webp",
+        staff: [
+          {
+            name: "Dr. Catherine",
+            phone: 8148915712,
+          },
+          {
+            name: "Dr. P. Shalini",
+            phone: 9940116246,
+          },
+        ],
+        student: [
+          {
+            name: " Shantanu Raj K",
+            phone: 7339287524,
+          },
+          {
+            name: " Prabhanjen V ",
+            phone: 6383825014,
+          },
+         
+        ],
+      },//3
+
+      {
+        name: "Best Manager",
+        date: "08 Nov 2024(FN & AN)",
+        type: "Individual",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        rules: "The number of participants for the event will be 1 or 2 per college. The Best Manager competition will consist of 3 to 4 different rounds conducted throughout the day at regular intervals. The rounds for the Best Manager will include decision-making and leadership assessment, personal branding and elevator pitch, a debate challenge, and rapid case analysis and presentation, which involves presenting a common case study with a presentation time of 5 minutes for the oral presentation. Participants are allowed to bring their laptops if needed. Additionally, there will be a crisis management simulation",
+        round1title: "Decision-Making and Leadership Assessment",
+        round1: "Each participant will answer 30 multiple-choice questions related to decision-making, leadership, and problem-solving",
+        round2title: "Personal Branding and Elevator Pitch",
+        round2: "Each participant will deliver a personal pitch, presenting themselves as a brand. They must describe their skills, strengths, achievements, and values in a way that reflects their unique value as a future manager",
+        round3title: "Debate Challenge",
+        round3: "Individuals are paired and given a relevant management topic. They must prepare arguments for or against the topic and engage in a structured debate",
+        round4title: "Rapid Case Analysis and Presentation",
+        round4: "Participants are provided with a brief, high - stakes business case. They must quickly analyze the case, identify the key issues, and develop a concise action plan. Presentation: After analyzing, participants will present their recommended solutions in a clear and structured 5-minute presentation to the judges",
+        round5title: "Crisis Management Simulation",
+        round5: "Each participant is placed in a hypothetical crisis (eg, a PR issue, a sudden drop in sales, or an employee strike). They must make quick decisions and manage the crisis while answering questions from the panel",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/bestmanager.webp",
+        staff: [
+          {
+            name: "Dr. J. Elango",
+            phone: 8838499674,
+          },
+        ],
+        student: [
+          {
+            name: " Srinidhi S",
+            phone: 9629808541,
+          },
+        ],
+      },//4
+
+    
   
     ],
     workshopslist: [
@@ -2078,11 +2286,11 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "Vishnupriya.K",
+              name: "Vishnupriya K",
               phone: 7305397423,
             },
             {
-              name: "Santhosh.P",
+              name: "Santhosh P",
               phone: 8870434353,
             },
             {
@@ -2090,14 +2298,15 @@ export const EventDetails = [
               phone: 8667225253,
             },
             {
-              name: "Shruthi.K",
+              name: "Shruthi K",
               phone: 7708115540,
             },
           ],
         },
       },//1
+
     ],
-  },
+  }, //mba
 
   {
     id: "mech",
@@ -2142,6 +2351,7 @@ export const EventDetails = [
           ],
         },
       },//1
+
       {
         name: "Autodesk Fusion",
         logo: "/EventsAssets/autodesk.webp",
@@ -2222,7 +2432,7 @@ export const EventDetails = [
           resource: [
             {
                name: "Gladwin Immanuel R",
-              desig: "N/A",
+              // desig: "",
             },
           ],
           staff: [
@@ -2244,7 +2454,7 @@ export const EventDetails = [
         },
       },//3
     ],
-  },
+  }, //mech
 
   {
     id: "med",
@@ -2259,7 +2469,7 @@ export const EventDetails = [
         time: "01:00pm - 03:00pm",
         rules:"Participants to be in a team of 3-4 members. Pre requisite to join this event - Basic knowledge on electrical components, general medical equipments, computer hardwares, Basics in python.Event consists of 2 Rounds and each round will have time limits",
         round1title: "Wingardium Leviosa",
-        round1: "A video consisting of spells and characters from Harry Potter will be shown. Participants must memorize them quickly. Two from each team must come forward to participate. A flash card consisting names of components,eqipments etc, will be provided to one participant. They must give hints/indirect clues to other one to find it (no actions to be used). Time limit will be provided. When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event. The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
+        round1: "A video consisting of spells and characters from harry potter will be shown.Participants must memorize them quickly.Two from each team must come forward to participate.A flash card consisting names of components,eqipments etc, will be provided to one participant.They must give hints/indirect clues to other one to find it (no actions to be used).Time limit will be provided.When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event.The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
         round2title: "The Mind Flayer",
         round2: "Each time questions Inspired from stranger things series will be asked and must be answered within 30 sec This will be a buzzer round.The answering team will get +5 point Then they get a chance to roll a dice Based on the number from the dice , flash cards with riddles about components or python codes will be given.Team members together must find the answers within 1 min If found the team will be given +3 points If not found then they will get minus (-3) points",
         tag: "EVENT",
@@ -2346,7 +2556,7 @@ export const EventDetails = [
           list: true,
             resource: [
             {
-              name: "Mr. Hari Vishal M",
+              name: "Mr. M. Hari Vishal",
               desig: "Founder and CEO, Visil Technologies"
             },
           ],
@@ -2369,7 +2579,7 @@ export const EventDetails = [
         },
       },//1
     ],
-  },
+  }, //med
 
   {
     id: "scoft",
@@ -2383,9 +2593,9 @@ export const EventDetails = [
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03.00pm",
         round1title: "WITNESS'S TALE:",
-        round1: "TEAMS FIND THE CRIME SCENE BY ANALYZING MISLEADING CLUES. WINNERS GET A PRE-CODED IMAGE CLASSIFIER; OTHERS MUST CODE IT",
+        round1: "Teams find the crime scene by analyzing misleading clues. Winners receive a pre-coded image classifier, while other teams must code it themselves",
         round2title: "HIDDEN DAGGERS:",
-        round2: "TEAMS IDENTIFY THE MURDER WEAPON USING IMAGE CLASSIFICATION.PREVIOUS WINNERS USE A PRE-CODED MODEL; OTHERS BUILD THEIR OWN AS A SABOTAGE",
+        round2: "Teams identify the murder weapon using image classification. Previous winners use a pre-coded model, while others must build their own as a sabotage challenge",
         // round3title: "",
         // round3: "Once the connections are given in the tinkercad (a website to give the connections to all the components and execute the project) code will be provided after completing the basic level IoT related quiz.Already executed programs should not be shown",
         note: "Team of 3. Laptop per team is must. Any python notebook of choice like Jupyter or Colab",
@@ -2529,19 +2739,19 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: "ALAGU NACHIYAR K",
+            name: "Alagu Nachiyar K",
             phone: 6385185289,
           },
           {
-            name: "VAISHALI BALAMURGAN",
+            name: "Vaishali Balamurgan",
             phone: 9786744995,
           },
           {
-            name: "DAKSHA SUBBAIAN",
+            name: "Daksha Subbaian",
             phone: 9840560001,
           },
           {
-            name: "AALIYA FATHIMA",
+            name: "Aaliya Fathima",
             phone: 7695010234,
           },
         ],
@@ -2605,11 +2815,11 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: "T.Yuvarani",
+            name: "Yuvarani T",
             phone: 6383257380,
           },
           {
-            name: " S.K.Keerthana Jayasri",
+            name: "Keerthana Jayasri S K",
             phone: 9342565093,
           },         
         ],
@@ -2676,7 +2886,7 @@ export const EventDetails = [
         logo: "/EventsAssets/codecrusade.webp",
         staff: [
           {
-            name: "Ms. Panimalar S P",
+            name: "Ms. S. P Panimalar",
             phone: 9789703697,
           },
         ],
@@ -2690,7 +2900,7 @@ export const EventDetails = [
             phone: 7904580233,
           },  
           {
-            name: "R Gokul Sharan",
+            name: "Gokul Sharan R",
             phone: 9791486718,
           },
           {
@@ -2718,7 +2928,7 @@ export const EventDetails = [
         logo: "/EventsAssets/prompt.webp",
         staff: [
           {
-            name: " Dr.M.Ulagammai",
+            name: " Dr. M. Ulagammai",
             phone: 9842925311,
           },
         ],
@@ -2807,7 +3017,7 @@ export const EventDetails = [
         logo: "/EventsAssets/webshadows.webp",
         staff: [
           {
-            name: " Dr. V. LOGANATHAN",
+            name: " Dr. V. Loganathan",
           },
         ],
         student: [
@@ -2848,7 +3058,7 @@ export const EventDetails = [
         logo: "/EventsAssets/AlgoInception.webp",
         staff: [
           {
-            name: "Mrs. E Silambarasi",
+            name: "Mrs. E. Silambarasi",
             phone: 9790644896,
           },
         ],
@@ -2891,31 +3101,31 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. Kameshwaran M",
+              name: "Mr. M. Kameshwaran",
               desig: "Associate Engineer, Presidio",
             },
           ],
           staff: [
             {
-              name: "Mrs. G. ABINAYA",
+              name: "Mrs. G. Abinaya",
               phone: 9500206093,
             },
           ],
           student: [
             {
-              name: "AADHITHYA D",
+              name: "Aadhithya D",
               phone: 7397381695,
             },
             {
-              name: "DIVYA K",
+              name: "Divya K",
               phone: 6381005748,
             },
             {
-              name: "ATCHAYA K",
+              name: "Atchaya K",
               phone: 6374499788,
             },
             {
-              name: "SANDHIYA SHREE B",
+              name: "Sandhiya Shree B",
               phone: 6380108204,
             },
           ],
@@ -2933,25 +3143,25 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Mrs. G. ABINAYA",
+              name: "Mrs. G. Abinaya",
               phone: 9500206093,
             },
           ],
           student: [
             {
-              name: "AADHITHYA D",
+              name: "Aadhithya D",
               phone: 7397381695,
             },
             {
-              name: "DIVYA K",
+              name: "Divya K",
               phone: 6381005748,
             },
             {
-              name: "ATCHAYA K",
+              name: "Atchaya K",
               phone: 6374499788,
             },
             {
-              name: "SANDHIYA SHREE B",
+              name: "Sandhiya Shree B",
               phone: 6380108204,
             },
           ],
@@ -2973,13 +3183,13 @@ export const EventDetails = [
           list: true,
           resource: [
             {
-              name: "Dr. Vasanth Kumar C H",
+              name: "Dr. C. H. Vasanth Kumar",
               desig: "Assistant Professor, SCOFT, Saveetha Engineering College",
             },
           ],
           staff: [
             {
-              name: "Dr Aswini J ",
+              name: "Dr. J. Aswini",
               phone: 9380977888,
             },
           ],
@@ -2993,7 +3203,7 @@ export const EventDetails = [
               phone: 8778079453,
             },
             {
-              name: "Kishore Narayanan S.R ",
+              name: "Kishore Narayanan S R ",
               phone: 9176125008,
             },
             {
@@ -3019,7 +3229,7 @@ export const EventDetails = [
           list: true,
           resource: [
             {
-              name: "Mr.Sitesh Srivastava",
+              name: "Mr. Sitesh Srivastava",
               desig: "Chief Customer 'Success' Officer (CCO), Yethi Consulting (yethi.in), Director - TESTED Academy"
             },
 
@@ -3031,7 +3241,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Ms.Panimalar",
+              name: "Ms. S. P. Panimalar",
               phone: 9789703697,
             },
           ],
@@ -3056,7 +3266,7 @@ export const EventDetails = [
         },
       },//3
       {
-        name: "Empowering Design: A Hands-On UI/UX Workshop",
+        name: "Empowering Design - A Hands-On UI/UX Workshop",
         logo: "EventsAssets/empower.jpg",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -3077,7 +3287,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Mrs Dhivya dharshini",
+              name: "Mrs. S. Dhivya Dharshini",
               phone: 8754468216,
             },
           ],
@@ -3109,14 +3319,14 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "DR. S. SELLAKUMAR",
+              name: "Dr. S. Sellakumar",
               desig: "Assistant Professor, Department of Mechanical Engineering (SCOFT)",
             },
             
           ],
           staff: [
             {
-              name: "Mrs. G. ABINAYA",
+              name: "Mrs. G. Abinaya",
               phone: 9500206093,
             },
           ],
@@ -3126,7 +3336,7 @@ export const EventDetails = [
               phone: 8825434325,
             },
             {
-              name: "B VIJAY KUMAR",
+              name: "Vijay Kumar B",
               phone: 9080390172,
             },
           ],
@@ -3162,7 +3372,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Ms. S. Dhivya Dharshini",
+              name: "Mrs. S. Dhivya Dharshini",
               phone: 8754468216,
             },
           ],
@@ -3211,13 +3421,13 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: " Ms. Silambarasi C",
+              name: " Ms. C. Silambarasi",
               phone: 9790644896,
             },
           ],
           student: [
             {
-              name: " Sanjushri.A ",
+              name: " Sanjushri A ",
               phone: 9384597482,
             },
             {
@@ -3249,13 +3459,13 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: "Ms. Silambarasi C",
+              name: "Ms. C. Silambarasi",
               phone: 9790644896,
             },
           ],
           student: [
             {
-              name: "Sanjushri.A ",
+              name: "Sanjushri A ",
               phone: 9384597482,
             },
             {
@@ -3298,7 +3508,7 @@ export const EventDetails = [
           ],
           staff: [
             {
-              name: " Ms. PANIMALAR S P",
+              name: " Ms. S. P. Panimalar",
               phone: 9789703697,
             },
           ],
@@ -3352,19 +3562,19 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: " HARINI R",
+              name: " Harini R",
               phone: 8668059418,
             },
             {
-              name: " ASWINI M",
+              name: " Aswini M",
               phone: 7338995840,
             },
             {
-              name: " NALINI P",
+              name: " Nalini P",
               phone: 9344763202,
             },
             {
-              name: " BHAVYASHREE R",
+              name: " Bhavyashree R",
               phone: 9345850687,
             },
           ],
@@ -3388,19 +3598,19 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: " HARINI R",
+              name: " Harini R",
               phone: 8668059418,
             },
             {
-              name: " ASWINI M",
+              name: " Aswini M",
               phone: 7338995840,
             },
             {
-              name: " NALINI P",
+              name: " Nalini P",
               phone: 9344763202,
             },
             {
-              name: " BHAVYASHREE R",
+              name: " Bhavyashree R",
               phone: 9345850687,
             },
           ],
@@ -3472,7 +3682,7 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: " Mr.Krishnan Kesavan",
+              name: " Mr. Krishnan Kesavan",
               desig: "Head of Operations and English language mentor, IMS Anna Nagar, Chennai",
             },
             {
@@ -3493,15 +3703,15 @@ export const EventDetails = [
               phone:  8248451017,
             },
             {
-              name: " Keerthana Jayasri SK",
+              name: " Keerthana Jayasri S K",
               phone: 9342565093,
             },
             {
-              name: " TARANIKKA A ",
+              name: " Taranikka A ",
               phone: 9585675901,
             },
             {
-              name: " VEDHASHREE G",
+              name: " Vedishree G",
               phone: 9003926730,
             },
           ],
@@ -3524,7 +3734,7 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "Mr. ANUPRIYAN K",
+              name: "Mr. K. Anupriyan ",
               desig: "B.TECH IT, M.E CSE, Technical Leader-Livewire Corporate,chennai",
             },
             
@@ -3575,14 +3785,14 @@ export const EventDetails = [
           
           resource: [
             {
-               name: " Mr. DHANANJAY KUMAR",
+               name: " Mr. Dhananjay Kumar",
                desig: " Assistant Vice President, Citi Bank",
             },
             
           ],
           staff: [
             {
-              name: " Mrs. G. ABINAYA",
+              name: " Mrs. G. Abinaya",
               phone:  9500206093,
             },
           ],
@@ -3940,7 +4150,7 @@ export const EventDetails = [
           venue: "will be updated soon",
           resource: [
             {
-              name: "MR. R. M. Selvakumar",
+              name: "Mr. R. M. Selvakumar",
               desig: "MD & CEO, Connect Infosystems",
             },
           ],
@@ -3963,6 +4173,6 @@ export const EventDetails = [
         },
       },//16
     ],
-  },
+  }, //scoft
 
 ];

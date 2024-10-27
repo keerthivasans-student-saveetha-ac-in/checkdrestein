@@ -16,6 +16,7 @@ const Modal = ({ open, setOpenModal }) => {
   const splitround2 = eventObject?.round2?.split(".");
   const splitround3 = eventObject?.round3?.split(".");
   const splitround4 = eventObject?.round4?.split(".");
+  const splitround5 = eventObject?.round5?.split(".");
   const splitnote = eventObject?.note?.split(".");
   const splitmaterial = eventObject?.material?.split(".");
   const splitcompet = eventObject?.compet?.split(".");
@@ -25,6 +26,7 @@ const Modal = ({ open, setOpenModal }) => {
   const splitpreroundlevel2 = eventObject?.preroundlevel2?.split(".");
   const splitround1level2 = eventObject?.round1level2?.split(".");
   const splitround2level2 = eventObject?.round2level2?.split(".");
+  const splitround5level2 = eventObject?.round5level2?.split(".");
   const splitworktopicd1 = eventObject?.day1?.topic?.split("\n");
   const splitworktopicd2 = eventObject?.day2?.topic?.split("\n");
   const splitworktopicd3 = eventObject?.day3?.topic?.split("\n");
@@ -239,24 +241,24 @@ const Modal = ({ open, setOpenModal }) => {
               </div>
             ) : null}
             {eventObject.round5 ? (
-              <div className="round2">
+              <div className="round5">
                 <h3>
                   Round 5:
-                  {eventObject.round2title
-                    ? `( ${eventObject.round2title} )`
+                  {eventObject.round5title
+                    ? `( ${eventObject.round5title} )`
                     : ""}
                 </h3>
-                {eventObject?.round2level2 && <h4>Level 1 :</h4>}
+                {eventObject?.round5level2 && <h4>Level 1 :</h4>}
                 <ol>
-                  {splitround2.map((each) => {
+                  {splitround5.map((each) => {
                     return <li>{each}</li>;
                   })}
                 </ol>
-                {eventObject?.round2level2 && (
+                {eventObject?.round5level2 && (
                   <>
                     <h4>Level 2 :</h4>
                     <ol>
-                      {splitround2level2.map((each) => {
+                      {splitround5level2.map((each) => {
                         return <li>{each}</li>;
                       })}
                     </ol>
@@ -658,7 +660,7 @@ const Modal = ({ open, setOpenModal }) => {
                   {eventObject?.day3.resource?.map((each) => {
                     return (
                       <li>
-                        <span>{each.name}</span> {`(${each.phone})`} <br />{" "}
+                        <span>{each.name}</span> <br />{" "}
                         {`${each.desig}`}
                       </li>
                     );

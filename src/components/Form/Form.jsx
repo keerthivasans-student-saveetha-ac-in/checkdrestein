@@ -380,7 +380,7 @@ const Form = () => {
         "AGRIVENTURE",
         "CLASH AND CONQUER",
       ],
-    },
+    }, //agri
 
     {
       name: "BME",
@@ -390,32 +390,38 @@ const Form = () => {
         "BIOSOLVE BLITZ",
         "ESCAPE FROM - THE DNA DUNGEON",
       ],
-    },
+    }, //bme
 
     {
       name: "CHEM",
       events: [
         ],
-    },
+    }, //che
 
     {
       name: "CIVIL",
       events: [
         "VOICE, VISION, VICTORY",
+        "CUP - TITUDE FRENZY",
+        "BRIDGEIT",
          ],
-    },
+    }, //civil
 
     {
       name: "ECE",
       events: [
         ],
-    },
+    }, //ece
 
     {
       name: "EEE",
       events: [
+        "INNO BLOCK",
+        "TECH SPRINT",
+        "CIRCUIT WIZARDRY",
+        "BOT RACE",
       ],
-    },
+    }, //eee
 
     {
       name: "EIE",
@@ -424,13 +430,13 @@ const Form = () => {
         "DIGITAL MANIA",
         "CIRCUITRIX",
       ],
-    },
+    }, //eie
 
     {
       name: "MECH",
       events: [
       ],
-    },
+    }, //mech
 
     {
       name: "MED",
@@ -438,7 +444,7 @@ const Form = () => {
         "POTTER TRICKS",
         "THE SQUID GAME",
         ],
-    },
+    }, //med
 
     {
       name: "SCOFT",
@@ -456,14 +462,17 @@ const Form = () => {
         "THE WEB SHOWDOWN",
         "ALGOINCEPTION",
           ],
-    },
+    }, //scoft
 
     {
       name: "MBA",
       events: [
         "CASE-IN-POINT CASE STUDY COMPETITION",
+        "BUSINESS QUIZ",
+        "AD-ZAP",
+        "BEST MANAGER",
       ],
-    },
+    }, //mba
    
   ];
 
