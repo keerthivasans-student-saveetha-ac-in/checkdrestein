@@ -376,12 +376,15 @@ const Form = () => {
     {
       name: "AGRI",
       events: [
+        "CURSED CHEST CHASE",
       ],
     },
 
     {
       name: "BME",
       events: [
+        "FAST TRACK TRIVIA",
+        "TASK TREK",
       ],
     },
 
@@ -394,6 +397,7 @@ const Form = () => {
     {
       name: "CIVIL",
       events: [
+        "VOICE, VISION, VICTORY",
          ],
     },
 
@@ -413,6 +417,7 @@ const Form = () => {
       name: "EIE",
       events: [
         "TECH BATTLE",
+        "DIGITAL MANIA",
       ],
     },
 
@@ -447,6 +452,7 @@ const Form = () => {
     {
       name: "MBA",
       events: [
+        "CASE-IN-POINT CASE STUDY COMPETITION",
       ],
     },
    

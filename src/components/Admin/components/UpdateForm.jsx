@@ -92,12 +92,15 @@ export default function UpdateForm({
     {
       name: "AGRI",
       events: [
+        "CURSED CHEST CHASE",
       ],
     },
 
     {
       name: "BME",
       events: [
+        "FAST TRACK TRIVIA",
+        "TASK TREK",
       ],
     },
 
@@ -110,6 +113,7 @@ export default function UpdateForm({
     {
       name: "CIVIL",
       events: [
+        "VOICE, VISION, VICTORY",
          ],
     },
 
@@ -129,7 +133,8 @@ export default function UpdateForm({
       name: "EIE",
       events: [
         "TECH BATTLE",
-      ]
+        "DIGITAL MANIA",
+      ],
     },
 
     {
@@ -163,6 +168,7 @@ export default function UpdateForm({
     {
       name: "MBA",
       events: [
+        "CASE-IN-POINT CASE STUDY COMPETITION",
       ],
     },
    
