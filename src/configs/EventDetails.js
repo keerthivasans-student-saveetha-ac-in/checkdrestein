@@ -11,13 +11,13 @@ export const EventDetails = [
         type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        rules:"Each team must consist of exactly 4 members.Teams will be selected based on tasks given before the event.Each participant must pay an entry fee of ₹20.Payment must be made before the event begins.The event will last for a total of 3 hours.Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game. Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR It is the responsibility of each team to Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing",      
+        rules:"Each team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game.Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing ",      
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cursedchest.webp",
         staff: [
           {
-            name: "Dr. V. Balasundaram",
+            name: "Er. V. Balasundaram",
             phone: 9786437197,
           },
         ],
@@ -40,6 +40,58 @@ export const EventDetails = [
           },
         ],
       },//1
+      {
+        name: "Agriventure",
+        tagline: "",
+        date: "09 Nov 2024(AN)",
+        type: "Team of 2-3",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 04:30pm",
+        rules:"All participants must register before the event.Teams should consist of a 2-3 members.Participants should maintain the time limit that is given for each round.Any form of cheating or aggression, behavior may result in disqualification.Participants should arrive on time before the start of event.Using mobile phone are prohibited during the event.Any equipment is required (eg,buzzer etc), participants should handle it properly and use it as instructed.Prizes may be awarded to winners or top teams, The decision of the judges or coordinators is final.Team members should have Agriculture related team names.In the event of unforeseen circumstances (eg, weather, emergencies), games may be rescheduled or canceled, with participants notified in advance.Participants are requested to maintain respect for other participants throughout the event",  
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/agriventure.webp",
+        staff: [
+          {
+            name: "Er. V. Balasundaram",
+            phone: 9786437197,
+          },
+        ],
+        student: [
+          {
+            name: "Shriya K",
+            phone: 9342933171,
+          },
+          {
+            name: "Brindha Y",
+            phone: 8925480401,
+          },
+        ],
+      },//2
+      {
+        name: "Clash and Conquer",
+        tagline: "",
+        date: "09 Nov 2024(FN)",
+        type: "Team of 2-3",
+        venue: "Will Be Updated Soon",
+        time: "08:30am - 12:00pm",
+        rules:" All participants must register in the Google form provided. On-spot registration may be limited according to the crowd. Each team may consist of 2 to 3 members. Each round will be explained before the round with clear instructions and objectives. Teams should work together to finish the round; all members should participate. Participants should not use their mobile phones in the middle of the round. If they do, their team will be disqualified. Respect for other participants should be maintained throughout the event. No offensive language or behavior will be tolerated. All rulings made by the event coordinators are final. Any objects for the event will be handed to the participants before the event. Participants should arrive on time for check-in at the designated location. Late arrivals may not be allowed to join the event. All events have time limits. All teams should finish the game within the time limit",  
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/clash.webp",
+        staff: [
+          {
+            name: "Er. V. Balasundaram",
+            phone: 9786437197,
+          },
+        ],
+        student: [
+          {
+            name: "Lailathul Afrin A",
+            phone: 8925171816,
+          }, 
+        ],
+      },//3
     ],
     workshopslist: [
       {
@@ -56,15 +108,15 @@ export const EventDetails = [
           venue: "will be updated soon",
           list: true,
           resource: [ {
-            name: "DR. KARPURA SUNDHARA PANDIAN",
-            desig:"Assistant professor ",
-            phone: 7845938847  ,
+            name: "Dr. N. Karpoora Sundara Pandian",
+            desig:"Assistant Professor, College of Food and Dairy Technology, Chennai",
+            phone: 7845938847,
           },
         
         ],
     staff: [
             {
-              name: " Dr. Ganapathy",
+              name: " Dr. D. Ganapathy",
               phone: 9787982231,
             },
            
@@ -77,32 +129,33 @@ export const EventDetails = [
           ],
         },
         day2: {
-          date: "05 Nov 2024",
+          date: " 05 Nov 2024",
           time: "FULL DAY",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
           resource: [ {
-            name: "Dr. KARPURA SUNDHARA PANDIAN",
-            desig:"Assistant professor ",
-            phone: 7845938847  ,
+            name: "Dr. N. Karpoora Sundara Pandian",
+            desig:"Assistant Professor, College of Food and Dairy Technology, Chennai",
+            phone: 7845938847,
           },
         
         ],
-        staff: [
-          {
-            name: " Dr. Ganapathy",
-            phone: 9787982231,
-          },
-         
-        ],
-        student: [
-          {
-            name: "Chantine S",
-            phone: 8248590927  ,
-          },
-        ],
-      },
+    staff: [
+            {
+              name: " Dr. D. Ganapathy",
+              phone: 9787982231,
+            },
+           
+          ],
+          student: [
+            {
+              name: "Chantine S",
+              phone: 8248590927,
+            },
+          ],
+        },
+        
       },//1
       {
         name: "Challenges, Benifits and Future of Drone Technology",
@@ -210,6 +263,88 @@ export const EventDetails = [
           
         ],
       },//2
+
+      {
+        name: "Biosolve Blitz",
+        tagline: "",
+        date: " 09 Nov 2024(FN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "9:00am - 12:00pm",
+        // round1title: "",
+        round1: "Case study will be displayed to the participants. A task will be given to each team, the team which completes the task gets the chance to answer the question.In round 1, the team should diagnose the disease in the case study. The team with maximum point will be shortlisted to Round 2",
+        // round2title: "",
+        round2: "In ROUND 2, each team should give an effective treatment plan of the diagnosed disease within the time limit. The team with proper explanation and treatment will be awarded",
+        rules:"Participants should be on time.This event centres around SDG 3: Good Health and Well-being, focusing on global health issues, nutrition, mental health, and healthcare advancements. It aims to inspire participants to consider health improvement as a shared global responsibility",
+       note:"Using mobile phones is strictly prohibited",
+        
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/bioslove.webp",
+        staff: [
+          {
+            name: "Mr. Sivanandam ",
+            phone: 9789010142,
+          },
+        ],
+        student: [
+          {
+            name: "Deepika V",
+            phone: 7305935667,
+          },
+          {
+            name: "Punidha Sree S",
+            phone: 9345987242,
+          },
+          {
+            name: "Mounika P",
+            phone: 7200664743,
+          },
+
+          
+        ],
+      },//3
+
+      {
+        name: "Escape from - The DNA Dungeon ",
+        tagline: "",
+        date: " 09 Nov 2024(AN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "9:00am - 12:00pm",
+        rules:"Please arrive 10 minutes before the scheduled time for a briefing.No bags, phones, or recording devices are allowed in the escape rooms. A secure room will be provided to keep your belongings.Usage of mobile phones is strictly restricted unless instructed otherwise for referring to the internet for information.   Communication and teamwork are important in The Escape Room. While mobile phones are strictly prohibited during gameplay, open communication within your team is highly encouraged. Please be mindful of maintaining a reasonable noise level to avoid disrupting other teams.   Throughout your adventure, a dedicated Game Master will be monitoring your progress. While their presence may not be immediately apparent, they will be observing your actions and offering subtle hints if necessary.   Play with care and integrity. While enjoying the game, be mindful of rushing to other rooms to avoid injury.   Maintain respectful and ethical behavior toward others",
+         round1title: "MEDIFY",
+        round1: "The drawer selects a chit randomly, without revealing it to the team.The player draws the medical instrument from the chit on the board.   No letters, numbers, or symbols related to the instrument name can be used. Players are not allowed to speak or make gestures while drawing.   Teammates must guess the name of the medical instrument based on the drawing.   Teams can shout out multiple guesses until the correct answer is given.   The team moves to the next round once they have guessed all the 5 clues.    If a player uses letters, numbers, or speaks while drawing, their turn is forfeited, and their points get deducted.   If a player does not recognize the instrument on their chit, they can pass, but their team loses that turn.   Optional challenge rounds can be added where more complex instruments or anatomical tools are introduced",
+        round2title: "CONNEXIONS",
+        round2: "Teams are shown the first image at the start of the game.   Participants have a limited amount of time (eg, 30–60 seconds) to guess what the image represents.   Upon guessing all the images correctly, participants are given a new clue that leads to the next image or task.   Teams that fail to guess within the time limit do not move on to the next clue immediately.   Teams can opt to pass on a clue after 2 incorrect guesses, but this incurs a time penalty (eg, 1 minute added to their total time).   Team members can discuss amongst themselves, but only three tries are allowed",
+        round3title: "MEDCRASH",
+        round3: "The event consists of multiple sub-rounds, each with a unique instrument and a different technical fault.In each round, participants will watch a muted video showing a specific instrument with an observable issue.   After each guess, teams will receive feedback. Correct guesses grant access to additional clues or points that contribute to the final score.    Each team will have a limited time (eg, 3-5 minutes) to observe the video in each round.   After the observation, they will have another 1-2 minutes to discuss and submit their guess for the cause of the fault.   Teams can submit only one or two guesses per round.   Guesses must be concise, focusing on the specific technical fault.   No external aids or devices are allowed to research the fault during the event.   Additional clues may be granted to teams for especially challenging rounds.   Winners are determined by total points and the accuracy of the final guess and will be given the clue for the final round.   Teams are not allowed to communicate with other teams",
+        round4title: "CAPTURE THE FLAG",
+        round4: "Questions will be displayed one at a time on anatomy, physiology, and medical instrumentation.Teams must work quickly to solve the question and identify the correct answer.   Once they have the answer, they must signal by “capturing the flag,” which could be represented by pressing a buzzer or raising a flag.   Only the first team or individual to capture the flag may answer each question.   Participants should answer immediately upon capturing the flag. They have a limited time (eg, 30 seconds) to provide a clear, concise answer.   If the answer is correct, the team earns points. If incorrect, the question will be reopened for other participants to attempt.   Correct answers earn points based on question difficulty.   The first team to reach the predetermined target score wins the event.   In case of a tie, an additional round with a tiebreaker question will determine the winner.   Participants are not allowed to use external aids or resources during the event.   Any team that fails to answer within the time limit loses their turn for that question.   No team is allowed to communicate with other teams.   If a team is found discussing with others or using unauthorized materials, they will be disqualified from the event",
+       note:"For any discrepancy, the final decision will be taken by the Game Master and Event Organizers",
+        
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/escaperoomdna.webp",
+        staff: [
+          {
+            name: "Ms. M. Nivethitha",
+            phone: 8940499135,
+          },
+        ],
+        student: [
+          {
+            name: "Sherena Jenice J",
+            phone: 9566533465,
+          },
+          {
+            name: "Dharmendra A",
+            phone: 9345714869,
+          },
+
+          
+        ],
+      },//4
 
     ],
     workshopslist: [
@@ -494,6 +629,83 @@ export const EventDetails = [
           ],
         },      
       },//1
+      {
+        name: "Modern Solutions for Bill of Quantities in Residential Construction",
+        logo: "EventsAssets/mordernsol.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: " will be updated soon",
+        time: " 10:00am - 02:00pm",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdqfxUvkHTBgIQn5hCtihVSSH8vOFw_bnqsFpHqIUqfgJxP4Q/viewform",
+        
+        day1: {
+          date: "06 Nov 2024",
+          time: "10:00am - 02:00pm",
+          mode: "Individual",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Mr. K. Mohammed Asif",
+              desig: "CEO, M Cube Construction and Promotors",
+            },
+            
+          ],
+          staff: [
+            {
+              name: "Dr. M. Madhan Kumar",
+              phone:  7708754085,
+            },
+          ],
+          student: [
+            {
+              name: "Asif S",
+              phone:  6383842405,
+            },
+            {
+              name: "Arul C",
+              phone: 9342597112,
+            },
+            {
+              name: "Nithishkumar J",
+              phone: 9566165318,
+            },
+          ],
+        }, 
+        day2: {
+          date: "06 Nov 2024",
+          time: "10:00am - 02:00pm",
+          mode: "Individual",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Mr. K. Mohammed Asif",
+              desig: "CEO, M Cube Construction and Promotors",
+            },
+            
+          ],
+          staff: [
+            {
+              name: "Dr. M. Madhan Kumar",
+              phone:  7708754085,
+            },
+          ],
+          student: [
+            {
+              name: "Asif S",
+              phone:  6383842405,
+            },
+            {
+              name: "Arul C",
+              phone: 9342597112,
+            },
+            {
+              name: "Nithishkumar J",
+              phone: 9566165318,
+            },
+          ],
+        },
+            
+      },//2
     ],
   },
 
@@ -939,8 +1151,8 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Dr. A. Devi",
-              desig: "Associate Professor, IFET College of Engineering",
+              name: "Mr. S. Balasubramanian",
+              desig: "Associate Professor, ECE, Meenakshi Sundararajan Engineering College",
             },
           ],
           staff: [
@@ -1204,7 +1416,7 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Moothukumar",
+              name: "Mr. Moothukumar",
               desig: "Project Leader, Towards Technology",
             },
           ],
@@ -1224,7 +1436,7 @@ export const EventDetails = [
               phone: 8438941803 ,
             },
             {
-              name: "Nithish Kumar B",
+              name: "Nithesh Kumar B",
               phone: 8610196036,
             },
           ],
@@ -1236,7 +1448,7 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Moothukumar",
+              name: "Mr. Moothukumar",
               desig: "Project Leader, Towards Technology",
             },
           ],
@@ -1256,7 +1468,7 @@ export const EventDetails = [
               phone: 8438941803 ,
             },
             {
-              name: "Nithish Kumar B",
+              name: "Nithesh Kumar B",
               phone: 8610196036,
             },
           ],
@@ -2047,7 +2259,7 @@ export const EventDetails = [
         time: "01:00pm - 03:00pm",
         rules:"Participants to be in a team of 3-4 members. Pre requisite to join this event - Basic knowledge on electrical components, general medical equipments, computer hardwares, Basics in python.Event consists of 2 Rounds and each round will have time limits",
         round1title: "Wingardium Leviosa",
-        round1: "A video consisting of spells and characters from harry potter will be shownEAMS FIND THE CRIME SCENE BY ANALYZING MISLEADING CLUES  WINNERS GET A PRE-CODED IMAGE CLASSIFIER; OTHERS MUST CODE IT.Participants must memorize them quickly.Two from each team must come forward to participate.A flash card consisting names of components,eqipments etc, will be provided to one participant.They must give hints/indirect clues to other one to find it (no actions to be used).Time limit will be provided.When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event.The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
+        round1: "A video consisting of spells and characters from Harry Potter will be shown. Participants must memorize them quickly. Two from each team must come forward to participate. A flash card consisting names of components,eqipments etc, will be provided to one participant. They must give hints/indirect clues to other one to find it (no actions to be used). Time limit will be provided. When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event. The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
         round2title: "The Mind Flayer",
         round2: "Each time questions Inspired from stranger things series will be asked and must be answered within 30 sec This will be a buzzer round.The answering team will get +5 point Then they get a chance to roll a dice Based on the number from the dice , flash cards with riddles about components or python codes will be given.Team members together must find the answers within 1 min If found the team will be given +3 points If not found then they will get minus (-3) points",
         tag: "EVENT",
@@ -2074,6 +2286,48 @@ export const EventDetails = [
           },
         ],
       },//1
+
+      {
+        name: "The Squid Game ",
+        tagline: "",
+        date: " 09 Nov 2024(FN & AN)",
+        type: "Team of 4-5",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 03:00pm",
+        rules:"The players are to stand at one end of the room and the captain at the other end.The captain stands with their back to the players, and the players move toward the captain and try to touch them while the captain is turned away.  On the count of 3, the captain turns to face the players.   When the captain turns, players should freeze in place and hold their pose.  Any player who moves, laughs, or wobbles will be asked a question.   If the player answers correctly, their team will earn points.   The team with the highest points will be selected for the next level.   The other teams will be eliminated.Each team will be given with a picture.  The picture will be consisting of a few objects in it.  One among the team members should try to memorise maximum objects in the picture.  The team that memorises maximum pictures will be given points .  Like wise each member of all the teams will be given a chance to memorise.  The team that gains maximum points will be the winning team ",
+        round1title: "London London statue !",
+        round1: "A game where a team of 4 or 5 students are selected ,1 of which is a captain and the others are player",
+        round2title: "Memory Master",
+        round2: "A game where the students will be divided in team and will be given pictures to memorise",
+        note:"No change of question will be provided for the players.Once the captain chooses the particular player to answer, only that player is supposed to answer.   If the other players or captain try to help, then the entire team will be eliminated.   Each player will be given 30 seconds to answer, so they are asked to respond within their given time.The picture will be displayed only for 20secs, with in that the students should memorize . The team members are not allowed to help the one thats answering . If any team member is helping, the particular team will not be given points ",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/thesquidgame.webp",
+        staff: [
+          {
+            name: "Mrs. Priya ",
+            phone: 9791244990,
+          },
+        ],
+        student: [
+          {
+            name: "Afrah A",
+            phone: 9677247430,
+          },
+          {
+            name: "Ashwini K",
+            phone: 9786747012,
+          },
+          {
+            name: "Medhamythri R S",
+            phone: 7200360906,
+          },
+          {
+            name: "Ashok E",
+            phone: 6380864998,
+          },
+        ],
+      },//2
     ],
     workshopslist: [
       {
@@ -3588,6 +3842,126 @@ export const EventDetails = [
           ],
         },
       },//14
+
+      {
+        name: "Dive into Deep Learning",
+        logo: "EventsAssets/diveinto.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 03:00pm", 
+        link: "https://docs.google.com/forms/u/0/d/1WZgsNLX5zR0sGSL1YEG_trUjmYEEIi0fnmnDC15PqQg/viewform?edit_requested=true",
+        day1: {
+          date: "06 Nov 2024",
+          mode: "Individual",
+          time: "09:00am - 03:00pm",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Mr. Amith Kumar",
+              desig: "Senior Analyst",
+            },
+          ],
+          staff: [
+            {
+              name: "Mrs. E. Poongulali",
+              phone: 9442787826,
+            },
+          ],
+          student: [
+            {
+              name: "Richardson A",
+              phone: 7348890210,
+            },
+            {
+              name: "Kishore Kumar U",
+              phone: 6383179836,
+            },
+            {
+              name: "Giftsoin N",
+              phone: 9042445715,
+            },
+            {
+              name: "Andrew Varghese ",
+              phone: 8610594447,
+            },
+          ],
+        },
+        day2: {
+          date: "07 Nov 2024",
+          mode: "Individual",
+          time: "09:00am - 03:00pm",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Mr. Amith Kumar",
+              desig: "Senior Analyst",
+            },
+          ],
+          staff: [
+            {
+              name: "Mrs. E. Poongulali",
+              phone: 9442787826,
+            },
+          ],
+          student: [
+            {
+              name: "Richardson A",
+              phone: 7348890210,
+            },
+            {
+              name: "Kishore Kumar U",
+              phone: 6383179836,
+            },
+            {
+              name: "Giftsoin N",
+              phone: 9042445715,
+            },
+            {
+              name: "Andrew Varghese ",
+              phone: 8610594447,
+            },
+          ],
+        },
+      },//15
+
+      {
+        name: "Laptop Diagnostics Mastery Workshop ",
+        logo: "EventsAssets/laptopdi.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 12:00pm", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdtLkh-vzOAEzqFR20zkZGGzmv3v2csVgm5vta54pRgnLcmNA/viewform",
+        day1: {
+          date: "04 Nov 2024",
+          mode: "Individual",
+          time: "09:00am - 03:00pm",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "MR. R. M. Selvakumar",
+              desig: "MD & CEO, Connect Infosystems",
+            },
+          ],
+          staff: [
+            {
+              name: "Mrs. J. Dhanalakshmi",
+              phone: 8866426107,
+            },
+          ],
+          student: [
+            {
+              name: "Harish Ragavendra S",
+              phone: 9486844192,
+            },
+            {
+              name: "Sanjay S",
+              phone: 9344911465,
+            },
+          ],
+        },
+      },//16
     ],
   },
 

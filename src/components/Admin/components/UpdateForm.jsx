@@ -93,6 +93,8 @@ export default function UpdateForm({
       name: "AGRI",
       events: [
         "CURSED CHEST CHASE",
+        "AGRIVENTURE",
+        "CLASH AND CONQUER",
       ],
     },
 
@@ -101,6 +103,8 @@ export default function UpdateForm({
       events: [
         "FAST TRACK TRIVIA",
         "TASK TREK",
+        "BIOSOLVE BLITZ",
+        "ESCAPE FROM - THE DNA DUNGEON",
       ],
     },
 
@@ -134,6 +138,7 @@ export default function UpdateForm({
       events: [
         "TECH BATTLE",
         "DIGITAL MANIA",
+        "CIRCUITRIX",
       ],
     },
 
@@ -146,6 +151,8 @@ export default function UpdateForm({
     {
       name: "MED",
       events: [
+        "POTTER TRICKS",
+        "THE SQUID GAME",
         ],
     },
 
@@ -162,6 +169,8 @@ export default function UpdateForm({
         "CODE CRUSADE",
         "PROMPT ARENA",
         "ESCAPE ROOM",
+        "THE WEB SHOWDOWN",
+        "ALGOINCEPTION",
           ],
     },
 

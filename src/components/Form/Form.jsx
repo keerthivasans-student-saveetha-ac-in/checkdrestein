@@ -377,6 +377,8 @@ const Form = () => {
       name: "AGRI",
       events: [
         "CURSED CHEST CHASE",
+        "AGRIVENTURE",
+        "CLASH AND CONQUER",
       ],
     },
 
@@ -385,6 +387,8 @@ const Form = () => {
       events: [
         "FAST TRACK TRIVIA",
         "TASK TREK",
+        "BIOSOLVE BLITZ",
+        "ESCAPE FROM - THE DNA DUNGEON",
       ],
     },
 
@@ -418,6 +422,7 @@ const Form = () => {
       events: [
         "TECH BATTLE",
         "DIGITAL MANIA",
+        "CIRCUITRIX",
       ],
     },
 
@@ -430,6 +435,8 @@ const Form = () => {
     {
       name: "MED",
       events: [
+        "POTTER TRICKS",
+        "THE SQUID GAME",
         ],
     },
 
@@ -446,6 +453,8 @@ const Form = () => {
         "CODE CRUSADE",
         "PROMPT ARENA",
         "ESCAPE ROOM",
+        "THE WEB SHOWDOWN",
+        "ALGOINCEPTION",
           ],
     },
 
