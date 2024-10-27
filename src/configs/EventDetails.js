@@ -532,7 +532,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -551,6 +551,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -573,7 +577,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -592,6 +596,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -614,7 +622,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -633,6 +641,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -655,7 +667,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -674,6 +686,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -696,7 +712,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910" ,
             },
           ],
           student: [
@@ -716,11 +732,12 @@ export const EventDetails = [
               name: "Bharath M",
               phone: 8056048552,
             },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
+            },
           ],
         },
-        
-        
-       
       },//1
       
       {
@@ -740,8 +757,8 @@ export const EventDetails = [
           venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Mr. LAKSHMI KANTHAN",
-              desig: "Training Manager",
+              name: "Mr. Vignesh Ramadoss",
+              desig: "Technical Trainer",
             },
           ],
           staff: [
@@ -772,8 +789,8 @@ export const EventDetails = [
            venue: " Will Be Updated Soon",
           resource: [
             {
-              name: "Mr. LAKSHMI KANTHAN",
-              desig: "Training Manager",
+              name: "Mr. Vignesh Ramadoss",
+              desig: "Technical Trainer",
             },
           ],
           staff: [
@@ -3364,7 +3381,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -3383,6 +3400,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -3405,7 +3426,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -3424,6 +3445,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -3446,7 +3471,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -3465,6 +3490,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -3487,7 +3516,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910",
             },
           ],
           student: [
@@ -3506,6 +3535,10 @@ export const EventDetails = [
             {
               name: "Bharath M",
               phone: 8056048552,
+            },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
             },
           ],
         },
@@ -3528,7 +3561,7 @@ export const EventDetails = [
             },
             {
               name: "Dr. J. Anish Kumar",
-              phone: 9842336137,
+              phone: "9842336137, 8072747910" ,
             },
           ],
           student: [
@@ -3548,10 +3581,13 @@ export const EventDetails = [
               name: "Bharath M",
               phone: 8056048552,
             },
+            {
+              name: "Sharvina Sri",
+              phone: 6383868305,
+            },
           ],
         },
       },//14
-
     ],
   },
 

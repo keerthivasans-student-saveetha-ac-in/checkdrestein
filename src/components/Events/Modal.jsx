@@ -28,6 +28,9 @@ const Modal = ({ open, setOpenModal }) => {
   const splitworktopicd1 = eventObject?.day1?.topic?.split("\n");
   const splitworktopicd2 = eventObject?.day2?.topic?.split("\n");
   const splitworktopicd3 = eventObject?.day3?.topic?.split("\n");
+  const splitworktopicd4 = eventObject?.day4?.topic?.split("\n");
+  const splitworktopicd5 = eventObject?.day5?.topic?.split("\n");
+  // const splitworktopicd6 = eventObject?.day6?.topic?.split("\n");
 
 
 
@@ -512,6 +515,7 @@ const Modal = ({ open, setOpenModal }) => {
                     />
                   </div>
                 </div>
+
                 {eventObject.day2.topic && (
                   <div>
                     {eventObject.day2.list ? (
@@ -690,6 +694,225 @@ const Modal = ({ open, setOpenModal }) => {
                 </ol>
               </div>
             ) : null}
+            
+            {eventObject?.day4 ? (
+              <>
+                <h1 className="title">Day 4:</h1>
+                {eventObject.company ? (
+                  <h4>Company Name : {eventObject.company}</h4>
+                ) : null}
+                <p className="desc">Date: {eventObject.day4.date}</p>
+                <div className="grid">
+                  <div className="item">
+                    <span>Mode</span>
+                    <IoIosPeople size={32} />
+                    <span>{eventObject.day4?.mode}</span>
+                  </div>
+                  <div className="item">
+                    <span>Venue</span>
+                    <TiLocation size={32} />
+                    <span>{eventObject.day4?.venue}</span>
+                  </div>
+                  <div className="item">
+                    <span>Timings</span>
+                    <FcAlarmClock size={32} />
+                    <span>{eventObject.day4?.time}</span>
+                  </div>
+                  <div
+                    style={{
+                      padding: 0,
+                    }}
+                    className="item"
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        borderRadius: "0.4rem",
+                      }}
+                      src={`${eventObject.logo}`}
+                      alt="Logo"
+                    />
+                  </div>
+                </div>
+                {eventObject.day3.topic && (
+                  <div>
+                    {eventObject.day3.list ? (
+                      <>
+                        {splitworktopicd3.map((data) => {
+                          return (
+                            <li
+                              style={{
+                                margin: "5px 0",
+                              }}
+                            >
+                              {data}
+                            </li>
+                          );
+                        })}
+                      </>
+                    ) : (
+                      <p className="desc">
+                        <span className="topic">Topic: </span>
+                        {eventObject.day4.topic}
+                      </p>
+                    )}
+                  </div>
+                )}
+              </>
+            ) : null}
+            {eventObject?.day4?.resource ? (
+              <div className="faculty">
+                <h3>Resource Person:</h3>
+                <ol>
+                  {eventObject?.day4.resource?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span><br />{" "}
+                        {`${each.desig}`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+            {eventObject?.day4?.staff ? (
+              <div className="faculty">
+                <h3>Faculty Co-ordinators:</h3>
+                <ol>
+                  {eventObject?.day4?.staff?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span> {`(${each.phone})`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+            {eventObject?.day4?.student ? (
+              <div className="student">
+                <h3>Student Co-ordinators:</h3>
+                <ol>
+                  {eventObject.day4.student?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span> {`(${each.phone})`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+
+             {eventObject?.day5 ? (
+              <>
+                <h1 className="title">Day 5:</h1>
+                {eventObject.company ? (
+                  <h4>Company Name : {eventObject.company}</h4>
+                ) : null}
+                <p className="desc">Date: {eventObject.day5.date}</p>
+                <div className="grid">
+                  <div className="item">
+                    <span>Mode</span>
+                    <IoIosPeople size={32} />
+                    <span>{eventObject.day5?.mode}</span>
+                  </div>
+                  <div className="item">
+                    <span>Venue</span>
+                    <TiLocation size={32} />
+                    <span>{eventObject.day5?.venue}</span>
+                  </div>
+                  <div className="item">
+                    <span>Timings</span>
+                    <FcAlarmClock size={32} />
+                    <span>{eventObject.day5?.time}</span>
+                  </div>
+                  <div
+                    style={{
+                      padding: 0,
+                    }}
+                    className="item"
+                  >
+                    <img
+                      style={{
+                        width: "100%",
+                        borderRadius: "0.4rem",
+                      }}
+                      src={`${eventObject.logo}`}
+                      alt="Logo"
+                    />
+                  </div>
+                </div>
+                {eventObject.day3.topic && (
+                  <div>
+                    {eventObject.day3.list ? (
+                      <>
+                        {splitworktopicd3.map((data) => {
+                          return (
+                            <li
+                              style={{
+                                margin: "5px 0",
+                              }}
+                            >
+                              {data}
+                            </li>
+                          );
+                        })}
+                      </>
+                    ) : (
+                      <p className="desc">
+                        <span className="topic">Topic: </span>
+                        {eventObject.day4.topic}
+                      </p>
+                    )}
+                  </div>
+                )}
+              </>
+            ) : null}
+            {eventObject?.day5?.resource ? (
+              <div className="faculty">
+                <h3>Resource Person:</h3>
+                <ol>
+                  {eventObject?.day5.resource?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span><br />{" "}
+                        {`${each.desig}`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+            {eventObject?.day5?.staff ? (
+              <div className="faculty">
+                <h3>Faculty Co-ordinators:</h3>
+                <ol>
+                  {eventObject?.day5?.staff?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span> {`(${each.phone})`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+            {eventObject?.day5?.student ? (
+              <div className="student">
+                <h3>Student Co-ordinators:</h3>
+                <ol>
+                  {eventObject.day5.student?.map((each) => {
+                    return (
+                      <li>
+                        <span>{each.name}</span> {`(${each.phone})`}
+                      </li>
+                    );
+                  })}
+                </ol>
+              </div>
+            ) : null}
+
             <a
               onClick={() => setOpenModal((prev) => !prev)}
               href={eventObject.link}
