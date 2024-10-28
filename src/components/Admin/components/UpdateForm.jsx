@@ -95,6 +95,7 @@ export default function UpdateForm({
         "CURSED CHEST CHASE",
         "AGRIVENTURE",
         "CLASH AND CONQUER",
+        "AGROBLOX",
       ],
     }, //agri
 
@@ -130,6 +131,18 @@ export default function UpdateForm({
     {
       name: "ECE",
       events: [
+        "CIRCUIT CIRCUS",
+        "TECH TONIX",
+        "ELECTROX CHAOS",
+        "CODER'S CLASH",
+        "SILICON VALLEY SHOWDOWN",
+        "SPARK & SEARCH - THE ELECTRONICS ADVENTURE",
+        "TECH-BID ARENA",
+        "WIRED 2 BREAKBAD",
+        "ELECTROHOLIC",
+        "LINE FOLLOWER ROBOT",
+        "GUSTO",
+        "QUADCON",
         ],
     }, //ece
 

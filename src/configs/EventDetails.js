@@ -68,6 +68,7 @@ export const EventDetails = [
           },
         ],
       },//2
+
       {
         name: "Clash and Conquer",
         tagline: "",
@@ -92,6 +93,31 @@ export const EventDetails = [
           }, 
         ],
       },//3
+
+      {
+        name: "Agroblox",
+        tagline: "",
+        date: "08 Nov 2024(AN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        rules:" Participants must register in advance; on-site registration may be limited or unavailable. Each team can consist of 3 to 4 members and must choose a unique name. Each round will be explained beforehand with clear instructions and objectives. Teams must work together on each challenge, with all members participating. Fair play is essential; cheating or sabotaging other teams will result in disqualification. All challenges will have time limits; failure to complete tasks within this timeframe will result in forfeiture. Respect and fairness are crucial; offensive language or behavior will not be tolerated. Decisions made by the event organizers are final; any disputes will be resolved by the event coordinator. Participants should arrive on time for check-in; late arrivals may not be allowed to join. Personal equipment should not be used without prior permission from the organizers",  
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/agroblox.webp",
+        staff: [
+          {
+            name: "Er. V. Balasundaram",
+            phone: 9786437197,
+          },
+        ],
+        student: [
+          {
+            name: "Krithika D",
+            phone: 9840572030,
+          }, 
+        ],
+      },//4
     ],
     workshopslist: [
       {
@@ -158,7 +184,7 @@ export const EventDetails = [
         
       },//1
       {
-        name: "Challenges, Benifits and Future of Drone Technology",
+        name: "Benefits, Challenges and Future of Drone in Agricultural Technology",
         logo: "EventsAssets/agri24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -185,7 +211,7 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "Priyadharshini",
+              name: "Priyadharshni P",
               phone:  9445913039 ,
             },
           ],
@@ -193,7 +219,7 @@ export const EventDetails = [
        
       },//2
     ],
-  },
+  },//agri
 
   {
     id: "bme",
@@ -416,7 +442,7 @@ export const EventDetails = [
         },
       },//1
     ],
-  },
+  },//bme
 
   {
     id: "chem",
@@ -645,7 +671,7 @@ export const EventDetails = [
         },    
       },//1
     ],
-  },
+  },//chem
 
   {
     id: "civil",
@@ -916,12 +942,521 @@ export const EventDetails = [
             
       },//2
     ],
-  },
+  },//civil
 
   {
     id: "ece",
     title: "Electronics and Communication Engineering",
     eventslist: [
+      {
+        name: "Circuit Circus",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 12:00pm",
+        // members: "Team of 3",
+        round1title: "Counter Strike",
+        round1: "Teams will solve visual puzzles projected on screen, with each image offering clues to electronics-related terms. Participants analyze images to uncover concepts or components in electronics. Points are awarded for each correct answer, and high-scoring teams advance to the next round. Sharpen your observation skills and think creatively to solve these electronic-themed puzzles!",
+        round2title: "Flip & Match",
+        round2: "Participants play a memory challenge by flipping cards to find matching pairs. Each player takes turns flipping two cards, aiming to match images, symbols, or numbers. A match allows them to keep the pair and continue; if not, the cards are flipped back, and the next player goes. The goal is to collect the most pairs, testing memory, focus, and quick thinking",
+        round3title: "Circuit Craze",
+        round3: "Participants begin by scanning one of six QR codes, each linking to a quiz with ten core / general topic questions. Scoring at least 7 out of 10 qualifies them for the next stage, where they proceed to the table matching their QR code number. At each table, five new QR codes lead to various challenges, including a circuit debugging task where teams identify and fix issues in a circuit diagram",
+        // note:"",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/circuitcirus.webp",
+        staff: [
+          {
+            name: "Dr. S. Kanagamalliga",
+            phone: 7708662408,
+          },
+          {
+            name: "Dr. A. J. Heiner",
+            phone: 9489393913,
+          },
+        ],
+        student: [
+          {
+            name: "Aravinth N",
+            phone: 9025420055,
+          },
+          {
+            name: "Jaya Vishal M",
+            phone: 8925342114,
+          },
+          {
+            name: "Dhinesh S",
+            phone: 9150231058,
+          },
+          {
+            name: "Adhavan K",
+            phone: 9445961562,
+          },
+        ],
+      },//1
+
+      {
+        name: "Tech Tonix",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09:00an - 12:00pm",
+        members: "Team of 2-3",
+        round1title: "Rapid Circuit Recall",
+        round1: "In this round, a circuit will be shown, learners have to memorize the circuit in 10 minutes and questions will be asked from that . Teams will get points for each questions they answer correctly.Display the circuit diagram for 10 minutes, ensuring it's clear, visible, and accessible to all learners. During this 10 - minute window, learners should memorize the circuit components, connections, and overall design. After the display period, questions will be asked related to the circuit. Award points for each correct answer. Consider bonus points for consecutive correct answers or penalty points for incorrect ones",
+        round2title: "Circuit Fix-It",
+        round2: "Learners are provided with an incorrect circuit diagram. They must debug and rectify the diagram, simulate it using Tinkercad, and present the output.Participants are required to identify and rectify errors in the given diagram. These errors might include incorrect component values, faulty connections, or missing components. Once the corrections are made, participants will simulate their corrected circuits using Tinkercad",
+        round3title: "Magic Box",
+        round3: "Create a functional electronic project within 2 hours using mystery components. Materials - Mystery box containing: - Sensors (ultrasonic, temperature, light) - Actuators (LED, buzzer, motor) - Power supply - Breadboard - Jumper wires - Miscellaneous components (resistors,capacitors, etc).There will be a set of boxes containing circuit diagrams. Participants will pick one circuit diagram from the box. After selecting the circuit, they will need to choose the correct components from another box to ensure the circuit produces the desired output. The task is to select the components correctly and demonstrate the output. The first three teams to successfully show the output will be declared the winners",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/techtonix.webp",
+        staff: [
+          {
+            name: "Dr. Raji Pandurangan",
+            phone: 9003051625,
+          },
+          {
+            name: "Dr. T. Jaya",
+            phone: 9488882262,
+          },
+        ],
+        student: [
+          {
+            name: "Esaki Muthu E ",
+            phone: 7358596661,
+          },
+          {
+            name: "Bharth Kumar G",
+            phone: 8056048552,
+          },
+          {
+            name: "Ragupathi Raj M",
+            phone: 9360317009,
+          },
+          {
+            name: "Pavithra S",
+            phone: 8925274865,
+          },
+        ],
+      },//2
+
+      {
+        name: "Electrox Chaos",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 02:00pm",
+        members: "Team of 2",
+        round1title: "CLUE TREKS",
+        round1: "Team members face opposite directions, each with a set of clue cards. Players use the clues to identify the jumbled component names on their cards. Points are awarded based on the number of clues used to identify each component. The top teams from Round 1 will advance to the circuit design showdown",
+        round2title: "KALEIDOSCOPE",
+        round2: "One team member will draw a chit from a bowl containing circuit names and components. The team member must provide verbal clues to their partner about the circuit and its components without naming them. The partner will then use Tinkercad to design the circuit based on the clues provided. The teams will submit the design, which is scored based on accuracy and speed",
+        round3title: "SILICON SILLINESS",
+        round3: " The top 5 teams compete to deliver the funniest stand-up comedy related to electronics or communication that describes your life. Their innovative ideas and audience laughter determine the winners",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/electroxchoas.webp",
+        staff: [
+          {
+            name: "Dr. M. Sowmiya Manoj",
+            phone: 7358747803,
+          },
+          {
+            name: "Ms. V. Subashree",
+            phone: 9994365720,
+          },
+        ],
+        student: [
+          {
+            name: "Sachita R",
+            phone: 8939668150,
+          },
+          {
+            name: "Sowmithra R",
+            phone: 6379251663,
+          },
+          {
+            name: "Reshma S",
+            phone: 9884158025,
+          },
+        ],
+      },//3
+
+      {
+        name: "Coder's Clash ",
+        date: "08 Nov 2024(AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 01:00pm",
+        members: "Team of 2 ",
+        round1title: "CODE HUNT",
+        round1: "Story-Driven Challenges: Participants engage with a captivating narrative while answering multiple-choice questions on computer fundamentals, C, and Python. Unlock the Map: Each correct answer reveals clues that piece together a treasure map leading to the hidden Code Crystal",
+        round2title: "CODE RELAY",
+        round2: "Each team is presented with a real-life coding scenario. Once the briefing ends, background music will start playing to make the experience more dynamic. The first participant begins coding the initial part of the solution. After 2-3 minutes, the first participant passes the code to the second team member, who takes over from where the first left off",
+        round3title: "DEBUG TO DISCOVER",
+        round3: "Bug Identification: Teams receive a code snippet with errors and work together to analyze and debug it to find the mistakes. Unlocking Clues: Once the code is corrected, it reveals hidden clues that help teams decipher a secret key. Treasure Hunt: The final key points to a treasure location, and the first team to find and retrieve the hidden item wins the challenge",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/codersclash.webp",
+        staff: [
+          {
+            name: "Dr. S. Imran Hussain",
+            phone: 9003399350,
+          },
+          {
+            name: "Dr. K. Nirmala Devi",
+            phone: "9677781647",
+          },
+        ],
+        student: [
+          {
+            name: "Geerthivash J D",
+            phone: 9043258972,
+          },
+          {
+            name: "Suganth S",
+            phone: 8870436377,
+          },
+          {
+            name: "Tamilselvan J",
+            phone: 9080223297,
+          },
+          {
+            name: "Thenmozhi N",
+            phone: 9344088545,
+          },
+        ],
+      },//4
+
+      {
+        name: "Silicon Valley Showdown ",
+        date: "09 Nov 2024(AN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "10:00an - 04:00pm",
+        // members: "Team of 3-4",
+        round1title: "The Circuit Challenge",
+        round1: "Teams will recreate a circuit diagram accurately based on audio instructions. All teams listen to instructions twice via a central audio setup. Teams draw their circuits based on what they remember from the audio instructions. 1 point is given for the completeness of the circuit path",
+        round2title: "The Logic Labyrinth – Digital Logic",
+        round2: "Questions will be based on digital logic concepts, requiring logical reasoning and binary calculations. Teams will submit their final answers on the event webpage for evaluation. Full points are awarded for each correct final answer submitted by the teams. Multiple incorrect attempts lead to deduction of points",
+        round3title: "Clash of Calculations",
+        round3: "Hints are available at varying point costs: 5, 10, 15 points. Answering correctly without hints earns teams an additional 10 bonus points. The team with the most correct answers wins the auction round. In case of a tie, the remaining points or sudden – death questions will determine the winner",
+        note:"Participants are advised to bring their own AirPods or earphones for an enhanced experience during the event.Winning teams will receive exclusive bookmarks inspired by Sustainable Development Goals (SDGs) as prizes!",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/siliconvalley.webp",
+        staff: [
+          {
+            name: "Dr. N. Sugitha",
+            phone: 9442077420,
+          },
+          {
+            name: "Ms. N. Chitra",
+            phone: 9751232451,
+          },
+        ],
+        student: [
+          {
+            name: "Kiruthika M",
+            phone: 8667590493,
+          },
+          {
+            name: "Boomika K",
+            phone: 6379386560,
+          },
+          {
+            name: "Rehan Naveid R",
+            phone: 6374333934,
+          },
+        ],
+      },//5
+
+      {
+        name: "Spark & Search - The Electronics Adventure",
+        date: "08 Nov 2024(FN & AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 03:00pm",
+        members: "Team of 2-3",
+        round1title: "Components Insight",
+        round1: "Component Identification involves teams identifying electronic components and understanding their functions. Data Analysis requires teams to analyze component characteristics like resistance, capacitance, and voltage. Strategic Planning entails strategizing component prioritization based on circuit needs and budget",
+        round2title: "Bid and Build",
+        round2: "Component Selection involves teams choosing components based on their performance in Round 1. In Budget Management, teams are given a limited budget to bid strategically. Competitive Bidding engages teams in bidding to acquire the necessary components for circuit design. After bidding, teams will proceed to build a circuit with the components they've won",
+        round3title: "Circuit Masters [Rapid Adaptation]",
+        round3: "In New Component Integration, teams receive new components and must integrate them into the circuit they built in the previous round. During Functional Adaptation, teams adapt the circuit's function to incorporate the new components while maintaining the original circuit's primary function",  
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/saprkandsearch.webp",
+        staff: [
+          {
+            name: "Dr. K. Mahendran",
+            phone: 9698999699,
+          },
+          {
+            name: "Ms. S. Subashini",
+            phone: 8220282898,
+          },
+        ],
+        student: [
+          {
+            name: "Vijayalakshmi B",
+            phone: 8148444700,
+          },
+          {
+            name: "Kameshwari M",
+            phone: 6374942860,
+          },
+        ],
+      },//6
+
+      {
+        name: "Tech-Bid Arena",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 01:00pm",
+        members: "Team of 2-3",
+        round1title: "Components Insight",
+        round1: "In Component Identification, teams identify electronic components and understand their functions. For Data Analysis, teams analyze component characteristics like resistance, capacitance, and voltage. Strategic Planning involves teams strategizing component prioritization based on circuit needs and budget",
+        round2title: "Bid and Build",
+        round2: "In Component Selection, teams choose components based on their performance in Round 1. For Budget Management, teams receive a limited budget and must strategize their spending. In Competitive Bidding, teams participate in a bidding process to acquire essential components for circuit design. After the bidding, teams proceed to build a circuit using the components they have won",
+        round3title: "Circuit Masters [Rapid Adaptation]",
+        round3: "In New Component Integration, teams receive additional components that must be incorporated into the circuit built in the previous round. During Functional Adaptation, teams modify their circuits to include the new components while ensuring that the original circuit's primary function is preserved",
+
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/techbidarena.webp",
+        staff: [
+          {
+            name: "Dr. S. Asha",
+            phone: 9443597837,
+          },
+          {
+            name: "Ms. A. Hemamalini",
+            phone: 9952648240,
+          },
+        ],
+        student: [
+          {
+            name: "Thiyaga Sri Charumathy",
+            phone: 6385039721,
+          },
+          {
+            name: "Trisha S",
+            phone: 9043331015,
+          },
+        ],
+      },//7
+
+      {
+        name: "Wired 2 Breakbad",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 01:00pm",
+        members: "Team of 2",
+        round1title: "CIRCUIT CHEMISTRY",
+        round1: "In this challenge, participants are presented with a faulty circuit design in Tinkercad. The task is to identify and correct the errors within a set time limit. Throughout the challenge, participants earn points for every correct solution. At the end of the round, teams with the highest total points advance to the next round. The number of teams advancing to the final round will be determined based on the registration count",
+        round2title: "COOK THE CODE",
+        round2: "Participants are provided with a secret message encoded in binary format. They must decode the message within a given time limit by converting it into an understandable word. The decoding format involves converting the binary input into ASCII values to reveal the secret message. To make the event more engaging and informative, participants will also take part in in-game fun activities to earn clues and hints for decoding the message. The top three teams that decode the message the fastest will be declared the winners",
+        note:"All must bring laptop",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/wiredtwobreakbad.webp",
+        staff: [
+          {
+            name: "Dr. P. Vinayagam",
+            phone: 9942534757,
+          },
+          {
+            name: "Mr. Valvilori",
+            phone: 8056371716,
+          },
+        ],
+        student: [
+          {
+            name: "Vishnu P",
+            phone: 8148976885,
+          },
+          {
+            name: "Vishal K",
+            phone: 9551155577,
+          },
+        ],
+      },//8
+
+      {
+        name: "Electroholic",
+        date: "09 Nov 2024(AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        members: "Team of 1-3",
+        round1title: "Grab and Link",
+        round1: "Test your electronics skills through a fun drag and drop activity. Drag the appropriate components to get the desired output of the circuit",
+        round2title: "Unravel the pdf enigma",
+        round2: "Unlock a password-protected PDF using clues. Decode the password from the provided clues to access the PDF. Each letter of the password will be decoded using given technical clues(Image/word) Use the clues to determine the password within [time limit, eg, 15 minutes]",
+        round3title: "circuitry code clash",
+        round3: "In this round, the first five participants who successfully unlock the PDF will advance to the next stage. Their challenge is to implement the specified circuit and write the code to achieve the desired functionality. All necessary components for circuit building and testing will be provided. Participants will receive a specific circuit schematic and must connect the components as per the design, followed by writing the required code to control the circuit's functions",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/electroholic.webp",
+        staff: [
+          {
+            name: "Dr. R. Vinod kumar",
+            phone: 9865657392,
+          },
+          {
+            name: "Dr. Kumaran",
+            phone: 9994958058,
+          },
+        ],
+        student: [
+          {
+            name: "Naresh Kumar R S",
+            phone: 8838348595,
+          },
+          {
+            name: "Sughesh Kumar E",
+            phone: 9159644663,
+          },
+          {
+            name: "Ugendran R",
+            phone: 8056612485,
+          },
+        ],
+      },//9
+
+      {
+        name: "Line Follower Robot",
+        date: "08 Nov 2024(FN & AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 03:00pm",
+        members: "Team of 10",
+        round1title: "Bot - Assemble",
+        round1: "The teams will be studying and assembling the robot. Every teams gets the code and the components and each team should have a laptop to dump the code which is given. Every team should design their robot, they can use their own design based on their Creativity to assemble the robot. They get about 2 hours to assemble and design the robot. After they designed their model, they can participate in the Rounds",
+        round2title: "Maze Curve",
+        round2: "The track is made difficult, so that the round will be more complex. The selected 5 teams will play round 2. Similarly, here also the robot should reach the end line without any interruptions. This maze pattern is time based task, where the teams will play the task with 5minutes in their hand. The robot which reach the endline with less time is the winner",
+        note:"All must bring laptop with Arduino IDE installed",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/linefollow.webp",
+        staff: [
+          {
+            name: "Dr. K. Chandrasekharan",
+            phone: 9444462663,
+          },
+          {
+            name: "Mr. M. Praveen",
+            phone: 8807592640,
+          },
+        ],
+        student: [
+          {
+            name: "Vikram G S",
+            phone: 6381200080,
+          },
+          {
+            name: "Niraimathiyan T V",
+            phone: 8248942362,
+          },
+          {
+            name: "Srijayan T",
+            phone: 9791260201,
+          },
+          {
+            name: "Venakatasubramanium R",
+            phone: 9994966572,
+          },
+        ],
+      },//10
+      
+      {
+        name: "Gusto",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 12:00pm",
+        members: "Team of 3",
+        round1title: "ELECTRO PUZZ",
+        round1: "Electro puzzle consists of a grid, with each box in the grid designated to one letter. The clues are numbered from 1 across and 1 down to signify which direction the word goes. Answers must fit within the allotted space given for the clue. Words in the crossword puzzle will cross each other. The goal is to solve every clue and enter every letter and word on the grid",
+        round2title: "Roll The Dice",
+        round2: "Each team designates any one player to roll the dice. A game board with numbered boxes (corresponding to dice numbers) is prepared in advance. Each numbered box contains either a question, a cross mark (elimination), or a tick mark (extra roll). The team that scores higher points will be selected to the next round",
+        round3title: "Blind - Find",
+        round3: "The goal of Blind Find is for the blindfolded player to memorize the given diagram in 30 seconds. The blindfolded player can ask for guidance from their teammate and needs to connect the circuits according to the diagram. There is a time limit for completing the connections, and the team that almost completes or fully completes within the time limit will be the winners",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/gusto.webp",
+        staff: [
+          {
+            name: "Dr. P. Baraneedharan",
+            phone: 9443648262,
+          },
+          {
+            name: "Dr. K. Indhumathi",
+            phone: 9940453582,
+          },
+        ],
+        student: [
+          {
+            name: "Dhivyadharshini S",
+            phone: 8778330788,
+          },
+          {
+            name: "Kamali S",
+            phone: 9361038619,
+          },
+          {
+            name: "Devika N",
+            phone: 8056771333,
+          },
+        ],
+      },//11
+
+      {
+        name: "QuadCon",
+        date: "09 Nov 2024(FN & AN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 03:00pm",
+        members: "Team of 3-4",
+        rules: "Participants are given a race track that they must complete. The tracks can be outdoor, featuring LED gates, flags, tunnels, and hoops to navigate. Pilots must maintain control of the quadcopter while navigating tight spaces and making split-second decisions. Drones used for the race course can have either an RC controller or a real-time operating system with an advanced flight controller, which is up to the participant. Participants can form a team comprising 2-3 members. The drone must not fly more than 4 meters in the air, as violating this could be a fatal mistake impacting their results",
+        note:"The drone contesting in the race course must weigh within 1 kg 35 gms. The pilot operating the quadcopter must have some previous experience with operating drones, which will be checked by technical experts before the race starts. All pilots must follow the race rules; any violation of the rules will result in immediate disqualification of the participant.As mentioned, the race course can be indoor or outdoor. The track may be narrower, which will determine the level of capability and robustness required from the drone. There can be sections of the track where the drone is restricted to an altitude of 75 cm or even lower. Some sections will test the drone's ability to move both forward and backward. Hitting any obstacles will incur penalties, such as added time to your overall race time. Finally, upon completion of the race course, the drone must land within a specified region for the timer to stop",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/quadcon.webp",
+        staff: [
+          {
+            name: "Dr. R. Latha",
+            phone: 9940362221,
+          },
+          {
+            name: "Dr. R. Arasakumar",
+            phone: 9894914225,
+          },
+        ],
+        student: [
+          {
+            name: "Dhayanithi S",
+            phone: 8825454463,
+          },
+          {
+            name: "Melvinraj G",
+            phone: 7010894262,
+          },
+          {
+            name: "Bharath M",
+            phone: 9677212244,
+          },
+          {
+            name: "Jothivanan T",
+            phone: 8148842579,
+          },
+        ],
+      },//12
+
 
     ],
     workshopslist: [
@@ -1757,15 +2292,10 @@ export const EventDetails = [
               phone: 6379473406,
             },
           ],
-        },
-      
-         
+        },  
       },//9
-
-
-
     ],
-  },
+  },//ece
 
   {
     id: "eee",
@@ -1815,10 +2345,16 @@ export const EventDetails = [
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
         members: "Team of 3",
+        note:"Correct Answer on First Attempt - Points: 10 points.Condition: If the team guesses the correct technical word within the first few seconds (eg, within 10 seconds of displaying the words).Correct Answer on Second Attempt - Points: 7 points.Condition: If the team guesses the term after receiving a hint, or within the next 10 - 20 seconds.Correct Answer on Final Attempt - Points: 5 points.Finally, The team with Highest Points will win",
         round1title: "Pictogram",
-        round1: " Teams must identify a hidden puzzled image as early as possible to get max points. This round challenges their ability to recognize partial visuals. Timing: Allocated a time limit(eg, 10-30 seconds) for each team to answer once the images are shown. Team: 10 teams with 3 members each (30 participants Qualification: Top 7 Teams will qualify for the next round ",
-        round2title: "Jumbled words Decryptthe Word, Word Chaos",
-        round2: "Unscramble the jumbled word to form a valid technical term. Answering : Teams should write down the answers on the provided sheets. Timing: Allocated a time limit(eg, 30–60 seconds) for each team to answer once the words areshown. Team: 7 teams with 3 members each (21 participants) Qualification: Top 5 Teams will qualify forthe nextround",
+        round1: " Objective :  Teams must identify a hidden puzzled image as early as possible to get max points. This round challenges their ability to recognize partial visuals. Timing: Allocated a time limit (eg, 10-30 seconds) for each team to answer once the images are shown.Team: 10 teams with 3 members each (30 participants) Qualification: Top 7 Teams will qualify for the next round",
+        round2title: "Word Chaos",
+        round2: "Jumbled words (Decrypt the Word, Word Chaos): Objective : Unscramble the jumbled word to form a valid technical term.Answering : Teams should write down the answers on the provided sheets Timing: Allocated a time limit (eg, 30–60 seconds) for each team to answer once the words are shown.Team: 7 teams with 3 members each (21 participants).Qualification: Top 5 Teams will qualify for the next round",
+        round3title: "Memory Hunt",
+        round3: "Objective : Display images of various components (eg, resistors) on the screen for a short duration (eg, 30 seconds to 1 minute). In each round, teams will need to recall and identify the components they saw earlier. After showing the images, teams will have a short amount of time (eg, 15-20 seconds) to list down or identify the components they remember. Answering : Teams should write down the answers on the provided sheets Timing: Allocated a time limit (eg, 30–60 seconds) for each team to answer once the images are shown. Team: 5 teams with 3 members each (15 participants).Winning: Top 3 teams will move to the next round",
+        round4title: "Jumbled words Decryptthe Word, Word Chaos",
+        round4: "Objective : Teams will be given a crossword puzzle with technical terms related to various fields (eg, electronics).The puzzle contains a series of clues for which teams need to provide correct answers in the crossword grid.Answering : Teams should write down the answers on the provided sheets.Timing: Allocated a time limit (eg, 5 mins) for each team to answer once the puzzles are shown.Team: 3 teams with 3 members each (9 participants).Winning: Team with Max points will be the winner",
+        
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/techsprint.webp",
@@ -1912,8 +2448,20 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: " Deepak R",
+            name: "Deepak R",
             phone: 9361387086,
+          },
+          {
+            name: "Stephen U",
+            phone: 6379635228,
+          },
+          {
+            name: "Mohamed Gows Z",
+            phone: 9025361714,
+          },
+          {
+            name: "Karthikeyan S",
+            phone: 7418272018,
           },
         ],
       },//4
@@ -1999,7 +2547,7 @@ export const EventDetails = [
       },//2
 
     ],
-  },  
+  },//eee
 
   {
     id: "eie",
@@ -2203,7 +2751,7 @@ export const EventDetails = [
         // },
       },//1
     ],
-  },
+  },//eie
 
   {
     id: "mba",
@@ -2444,7 +2992,7 @@ export const EventDetails = [
       },//1
 
     ],
-  },
+  },//mba
 
   {
     id: "mech",
@@ -2643,7 +3191,7 @@ export const EventDetails = [
           resource: [
             {
               name: "Dr. D. Sangeetha",
-              // phone: 8939360814,
+              desig: "Director, Centre for Composite Materials, Anna University",
             },
           ],
           staff: [
@@ -2681,7 +3229,7 @@ export const EventDetails = [
           resource: [
             {
                name: "Mr. J. Yasar Arafath",
-              // phone: 8939360814,
+              desig: "Application Engineer, USAM Technology Solutions, Chennai",
             },
           ],
           staff: [
@@ -2708,7 +3256,7 @@ export const EventDetails = [
           resource: [
             {
                name: "Mr. J. Yasar Arafath",
-              // phone: 8939360814,
+              desig: "Application Engineer, USAM Technology Solutions, Chennai",
             },
           ],
           staff: [
@@ -2745,7 +3293,7 @@ export const EventDetails = [
           resource: [
             {
                name: "Gladwin Immanuel R",
-              // desig: "",
+              desig: "Senior Design Engineer, TANCAM",
             },
           ],
           staff: [
@@ -2767,7 +3315,7 @@ export const EventDetails = [
         },
       },//3
     ],
-  },
+  },//mech
 
   {
     id: "med",
@@ -2892,7 +3440,7 @@ export const EventDetails = [
         },
       },//1
     ],
-  },
+  },//med
 
   {
     id: "scoft",
@@ -4482,10 +5030,18 @@ export const EventDetails = [
               name: "Sanjay S",
               phone: 9344911465,
             },
+            {
+              name: "Afifa A",
+              phone: 9344529859,
+            },
+            {
+              name: "Kaviya Sneka M",
+              phone: 6380908470,
+            },
           ],
         },
       },//16
     ],
-  },
+  },//scoft
 
 ];
