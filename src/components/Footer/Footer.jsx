@@ -256,7 +256,7 @@ const Footer = () => {
               <Avatar size="sm" src={`/static/images/avatar/1.jpg`} />
             }
             >
-            DHANUSH S (CHEM) - 8637432631
+            OVIYA P (CHEM) - 8220383723
         </Chip>
 
         <Chip
