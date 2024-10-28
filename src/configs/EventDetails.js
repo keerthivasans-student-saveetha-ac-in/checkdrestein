@@ -41,7 +41,7 @@ export const EventDetails = [
         ],
       },//1
       {
-        name: "AgriVenture",
+        name: "Agriventure",
         tagline: "",
         date: "09 Nov 2024(AN)",
         type: "Team of 2-3",
@@ -193,7 +193,7 @@ export const EventDetails = [
        
       },//2
     ],
-  }, //agri
+  },
 
   {
     id: "bme",
@@ -416,12 +416,150 @@ export const EventDetails = [
         },
       },//1
     ],
-  }, //bme
+  },
 
   {
     id: "chem",
     title: "Chemical Engineering",
     eventslist: [
+      {
+        name: " Heist Chronicles",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "",
+        members: "Team of 4",
+        round1title: "CHEM RELAY",
+       round1: "Each team should consist of 4 members. Team members will perform individually to crack a letter of the word, and the 4th member will then say the final word within the allotted time. Points will be awarded for the correct word to advance to the next round",
+        round2title: "CHEM PATROL",
+        round2: "A setup for industrial incidents will be provided in a room. Each team will have 5 minutes to find the cause of the chemical industrial incident and collect evidence related to what happened. Afterward, the team should report to the organizer about the cause and the evidence collected. Points will be awarded for the correct identification of the root cause and appropriate solutions. Based on the points earned, the winner, 1st runner-up, and 2nd runner-up will be selected",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/heistchronicles.webp",
+        staff: [
+          {
+            name: "Dr. N. Umaiyambika",
+            phone: 9444945153,
+          },
+        ],
+        student: [
+          {
+            name: " Nizar Khan A",
+            phone: 8637406706,
+          },
+          {
+            name: "Oviya P",
+            phone: 8220338723,
+          },
+        ],
+      },//1
+
+      {
+        name: " Wasser Wars",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "",
+        members: "Team of 3",
+        round1title: "ChemIQ Clash",
+        round1: "Questions will be displayed on the mentimeter website, and teams should attend the quiz through the website. Each question will be awarded points by the website, and the top 20 teams with the highest points will qualify for the next round",
+        round2title: "PICTIONARY",
+        round2: "Pictures will be shown to the teams, with each picture representing a word that, when combined, will form a technical term. The game follows a buzzer system. The team that identifies the most words will qualify for the next round",
+        round3title: "Wasser Wars",
+        round3: "Each qualified team will be provided with dirty water. The team's task is to analyze the materials provided to treat the dirty water and arrange or build a better water filtering unit. The time limit for this round is 30 minutes. Each material will have its unit prices, which will reduce the team's credit points accordingly when purchased. Each team has a credit limit to buy items from the organizer. The qualified teams should aim to produce the best quality and lowest TDS (Total Dissolved Solids) water",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/wasserwars.webp",
+        staff: [
+          {
+            name: "Dr. A. Kumar",
+            phone: 9500651760 ,
+          },
+        ],
+        student: [
+          {
+            name: " Rishanth S",
+            phone: 6382102344,
+          },
+          {
+            name: "Venmitha M",
+            phone: 8122492076,
+          },
+        ],
+      },//2
+
+      {
+        name: " Ultimate ShowOff",
+        date: "08 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        members: "Team of 3-4",
+        round1title: "AIM AND CLAIM",
+        round1: "Each team is provided with six darts to use during the game. After throwing the darts on the board, questions are asked. The difficulty of the questions is determined by where the team's darts landed in relation to the center of the dartboard, with points highest for darts that hit the center and decreasing as they move outward. Teams answer questions based on the points they achieve with their dart throws",
+        round2title: "BATTLEOF BIDS",
+        round2: "Teams must first answer five questions to earn points (money) for the auction. Correct answers earn teams a high number of points, while other teams receive points based on the number of questions they answered. After earning points, an auction begins where teams can bid their points to answer questions.  Teams can only bid points they have earned and must know the answer to place a bid. The team with the highest number of correct answers during the auction qualifies for the next round",
+        round3title: "NEWS SEEKER",
+        round3: "Each team receives a clip from a newspaper about a recent industrial accident. They are provided with a printed sheet containing around ten questions related to the incident. Teams must complete their answers within a specified time limit and are judged on both the speed and accuracy of their responses. The fastest team to accurately answer the questions is declared the winner",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/ultimateshowoff.webp",
+        staff: [
+          {
+            name: "Dr. P. Senthil Kumar",
+            phone: 7305105056 ,
+          },
+        ],
+        student: [
+          {
+            name: " Anish Kumar A ",
+            phone: 8610124025,
+          },
+          {
+            name: "Agalya T",
+            phone: 9840728167,
+          },
+          {
+            name: "Keerthivarman A",
+            phone: 7806993962,
+          },
+          
+        ],
+      },//3
+
+      {
+        name: " Brainy Browl",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "Will Be Updated Soon",
+        time: "N/A",
+        members: "Team of 2-3",
+        round1title: "CHEM E WHEEL OF FORTUNE",
+        round1: "This event features a spinning wheel divided into six distinct sections. A representative from each team will spin the wheel, and based on the outcome, they will participate in the corresponding game. Each team will be allotted a specific time limit according to the game to complete their challenge",
+        round2title: "ANALYZE THE LIQUOR SAMPLE",
+        round2: "Teams are arranged based on scores from the previous round. Each team will receive a beverage sample, and there will be two types of lab tests. According to the lot drawn, teams will conduct the lab tests to identify whether ethanol or glucose is present in the given sample. The procedure and required reagents will be provided. The first three teams to correctly identify the contents will be selected for the next round",
+        round3title: "FIND THE CULPRIT CHEMICAL",
+        round3: "Different types of chemical poisons are present in the loot. Players in each team need to pick a loot item, and based on the name of the chemical poison they receive, they must find the clues (specifically, the letters in that word) that are hidden in a room. The team that completes the task first will be declared the winner, while the following teams will be designated as runners-up",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/brainybrowl.webp",
+        staff: [
+          {
+            name: "Dr. S. Balachandran",
+            phone: 8610979386,
+          },
+        ],
+        student: [
+          {
+            name: " Harishankar E",
+            phone: 8807051192,
+          },
+          {
+            name: "Shruthi Sharma",
+            phone: 6379256066,
+          },
+        ],
+      },//4
   
     ],
     workshopslist: [
@@ -507,7 +645,7 @@ export const EventDetails = [
         },    
       },//1
     ],
-  }, //che
+  },
 
   {
     id: "civil",
@@ -552,7 +690,7 @@ export const EventDetails = [
       },//1
 
       {
-        name: " Cup-Titude Frenzy",
+        name: " Cup - Titude Frenzy",
         date: "08 Nov 2024(FN)",
         type: "Team",
         venue: "Will Be Updated Soon",
@@ -778,7 +916,7 @@ export const EventDetails = [
             
       },//2
     ],
-  }, //civil
+  },
 
   {
     id: "ece",
@@ -1627,7 +1765,7 @@ export const EventDetails = [
 
 
     ],
-  }, //ece
+  },
 
   {
     id: "eee",
@@ -1861,7 +1999,7 @@ export const EventDetails = [
       },//2
 
     ],
-  }, //eee
+  },  
 
   {
     id: "eie",
@@ -2065,7 +2203,7 @@ export const EventDetails = [
         // },
       },//1
     ],
-  }, //eie
+  },
 
   {
     id: "mba",
@@ -2306,13 +2444,188 @@ export const EventDetails = [
       },//1
 
     ],
-  }, //mba
+  },
 
   {
     id: "mech",
     title: "Mechanical Engineering",
     eventslist: [
-      
+      {
+        name: " Ideathon",
+        date: "08 Nov 2024(AN)",
+        type: "Team",
+        venue: "6612, 6th Floor, SEC",
+        time: "01:00pm - 03:00pm",
+        members: "Team of 2",
+        rules: "The topic will be revealed at the time of the event, and participants must analyze the problem statement. They will have one hour to create an idea for the topic and prepare a PowerPoint presentation. Based on their innovation, five teams will be selected to advance to the next round. The selected teams will present in the second round, and prizes will be awarded based on the presentation and their ideology",
+        note:"Participants should arrive at the venue 15 minutes early and follow the rules set for the event. Laptops are mandatory, and each student should have their own. It's important to pay attention to instructions from the event supervisors and ensure a proper internet connection is available. Additionally, participants should bring chargers for their laptops and phones.Participants should avoid sharing their ideas with other teams and refrain from extending their time for creating ideas. Additionally, if two teams submit the same idea, both will be disqualified",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/ideathon.webp",
+        staff: [
+          {
+            name: "Dr. R. Selvam",
+            phone: 9445181113,
+          },
+        ],
+        student: [
+          {
+            name: "Divesh J",
+            phone: 9150935187,
+          },
+          {
+            name: "Barath Kumar T",
+            phone: 9025363627,
+          },
+        ],
+      },//1
+
+      {
+        name: " 3D Visionaries ",
+        date: "08 Nov 2024(FN)",
+        type: "Individual",
+        venue: "CAD Lab, SEC",
+        time: "09:00am - 11:00am",
+        note:"Arrive at the venue 15 minutes early. Ensure that participants have their own Fusion licenses. Study the given model carefully before starting. Pay attention to instructions from the event coordinators. Finish the model within the allocated time",
+        rules: "Do not use any external aids, such as pre-designed models, and refraining from discussing or seeking help from other participants",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/3dvisionaries.webp",
+        staff: [
+          {
+            name: "Dr. M. P. Saravanan",
+            phone: 8608622418,
+          },
+        ],
+        student: [
+          {
+            name: "Sarath Krishna D",
+            phone: 9150730498,
+          },
+          {
+            name: "Jeeva A",
+            phone: 8148832518,
+          },
+        ],
+      },//2
+
+      {
+        name: "Water Rocketry",
+        date: "08 Nov 2024(AN)",
+        type: "Team",
+        venue: "Bike Parking, SEC",
+        time: "01:00 - 03:30pm",
+        members: "Team of 2",
+        rules: "Addon weights like stones or paper bundles inside the rocket are strictly prohibited. Each team is allowed to bring only one rocket, and changing or repairing rockets for further rounds are not permitted. Teams should avoid sharing rockets with others. While participants can build their rockets on site, they will not be provided with any materials",
+        note:"Here's the information for the Water Rocketry event without points:Participants should arrive at the venue 15 minutes early and follow all safety rules. It's important to pay attention to the instructions given by event supervisors. Only plastic bottles are allowed to be used for building the rocket, and each team must bring their own rocket. Participants should also bring any necessary materials in case they need to build their rocket on the spot",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/waterrocketry.webp",
+        staff: [
+          {
+            name: "Dr. A. Thamarai selvan",
+            phone: 8220147439,
+          },
+        ],
+        student: [
+          {
+            name: " Shyam Sundar K A",
+            phone: 9360719209,
+          },
+          {
+            name: " Ajay Joshua M",
+            phone: 8925014603,
+          },
+        ],
+      },//3
+
+      {
+        name: " Lathe Maestro",
+        date: "09 Nov 2024(AN)",
+        type: "Individual",
+        venue: "Near Canteen, SEC",
+        time: "01:00pm - 03:00pm",
+        rules: "Participants should not use any external aids, such as digital modeling tools or reference materials, and should avoid adjusting machine settings without authorization. It's important to refrain from discussing or seeking help from other participants and to inform the supervisor before leaving the workstation",
+        note:"Participants must arrive at the venue 15 minutes early and study the provided 2D projection or model carefully before starting. It's important to follow all safety rules and machine operation protocols while paying attention to instructions from event supervisors",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/lathemaestro.webp",
+        staff: [
+          {
+            name: "Mr. R. Prakash",
+            phone: 9894288421,
+          },
+        ],
+        student: [
+          {
+            name: "Gopi K R",
+            phone: 9789006354,
+          },
+          {
+            name: "Harish Kumar R",
+            phone: 7305264191,
+          },
+        ],
+      },//4
+
+      {
+        name: "Cruisin' Quiz",
+        date: "09 Nov 2024(FN)",
+        type: "Team",
+        venue: "6412, 6th Floor, SEC",
+        time: "09:00am - 11:00am",
+        members: "Team",
+        note:"Participants will compete in different rounds like Ignition, Torque Test, and Rev Limit, each filled with car facts, brand trivia, and industry insights. The quiz features varied formats including Multiple Choice, Rapid Fire, and Audio-Visual rounds to maintain engagement. Advancement is based on performance, as only the top teams progress, with increasing challenges to heighten the competition. The top three teams will secure the winning positions, and a bonus round will resolve any ties. This event is designed for all auto enthusiasts, from casual fans to dedicated aficionados",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/cruisinquiz.webp",
+        staff: [
+          {
+            name: "Mr. S. Shenbagaraman",
+            phone: 8015704764,
+          },
+        ],
+        student: [
+          {
+            name: "Gokula Krishnan K",
+            phone: 9360317837,
+          },
+          {
+            name: "Merryll S Sharon",
+            phone: 9489292364,
+          },
+        ],
+      },//5
+
+      {
+        name: " NFS (Need For Speed)",
+        date: "09 Nov 2024(AN)",
+        type: "Individual",
+        venue: "Near Canteen, SEC",
+        time: "01:00pm - 03:30pm",
+        // members: "Team of 3",
+        rules: "Arrive at the venue 15 minutes early and follow all safety rules. Pay close attention to instructions given by the event supervisors",
+        note:"The objective of this event is to engage participants in a competitive yet friendly race, promoting skills in RC car handling, engineering, and customization. It is open to RC car enthusiasts, hobbyists, engineering students, or anyone with an interest in remote-controlled vehicles. The event focuses on testing the speed of the cars. See you all there on race day!. Don't be late buddys!",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/nfs.webp",
+        staff: [
+          {
+            name: "Dr. R. Rajashekar",
+            phone: 9597647748,
+          },
+        ],
+        student: [
+          {
+            name: "Pavithran R",
+            phone: 9994838898,
+          },
+          {
+            name: "Hemanth S",
+            phone: 9042338902,
+          },
+        ],
+      },//6
     ],
     workshopslist: [
       {
@@ -2454,7 +2767,7 @@ export const EventDetails = [
         },
       },//3
     ],
-  }, //mech
+  },
 
   {
     id: "med",
@@ -2579,7 +2892,7 @@ export const EventDetails = [
         },
       },//1
     ],
-  }, //med
+  },
 
   {
     id: "scoft",
@@ -4173,6 +4486,6 @@ export const EventDetails = [
         },
       },//16
     ],
-  }, //scoft
+  },
 
 ];

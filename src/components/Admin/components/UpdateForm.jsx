@@ -111,6 +111,10 @@ export default function UpdateForm({
     {
       name: "CHEM",
       events: [
+        "HEIST CHRONICLES",
+        "WASSER WARS",
+        "ULTIMATE SHOWOFF",
+        "BRAINY BROWL",
         ],
     }, //che
 
@@ -151,6 +155,12 @@ export default function UpdateForm({
     {
       name: "MECH",
       events: [
+        "IDEATHON",
+        "3D VISIONARIES",
+        "WATER ROCKETRY",
+        "LATHE MAESTRO",
+        "CRUISIN' QUIZ",
+        "NFS (NEED FOR SPEED)",
       ],
     }, //mech
 
