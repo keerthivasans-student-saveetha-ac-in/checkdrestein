@@ -83,7 +83,7 @@ function Departments() {
     } else if (data.title === "Poster Presentation") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
-        <a href="pop.webp" key={i} target="_blank">
+        <a href="posterpresentation.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
@@ -94,10 +94,10 @@ function Departments() {
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "E-Waste Artifacts") {
+    } else if (data.title === "Best-out-of-Waste") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
-        <a href="pro.webp" key={i} target="_blank">
+        <a href="boow.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
@@ -123,7 +123,8 @@ function Departments() {
         </div>
       </motion.h1>
       <DepartmentContainer>
-  {splevnt.map((data, i) => {
+  {splevnt.map((data, i) => 
+  {
     if (data.title === "IPL AUCTION") {
       // If the title is "Project Display," render a link to the Project Display PDF.
       return (
@@ -131,14 +132,22 @@ function Departments() {
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "WIT DRAW") {
+    } 
+    else if (data.title === "TECHNICAL-MURDER-MYSTERY") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
-        <a href="eventfly.webp" key={i} target="_blank">
+        <a href="tmm.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "DUBSTAR") {
+    } else if (data.title === "VOICE OVER") {
+      // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
+      return (
+        <a href="vo.webp" key={i} target="_blank">
+          <SpacialEventsCard {...data} />
+        </a>
+      );
+    } else if (data.title === "CORPORATE WALK") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
         <a href="DU.webp" key={i} target="_blank">

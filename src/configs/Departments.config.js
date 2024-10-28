@@ -256,105 +256,139 @@ export const departobj = [
 ];
 
 export const comobj = [
-  {
-    id: "#paper",
-    title: "Paper Presentation",
-    img: "/DepartmentAssets/paper.webp",
-    des: "test",
-    color: "#ff0000",
-    bgtext: "Paper",
-  },
 
-  {
-    id: "#project",
-    title: "Project Display",
-    img: "/DepartmentAssets/PD.webp",
-    des: "test",
-    color: "#4da6ff",
-    bgtext: "Proj",
-  },
+  // {
+  //   id: "#paper",
+  //   title: "Paper Presentation",
+  //   img: "/DepartmentAssets/paper.webp",
+  //   des: "test",
+  //   color: "#ff0000",
+  //   bgtext: "Paper",
+  // },
+
+  // {
+  //   id: "#project",
+  //   title: "Project Display",
+  //   img: "/DepartmentAssets/PD.webp",
+  //   des: "test",
+  //   // color: "#4da6ff",
+  //   color: "#D3D3D3",
+  //   bgtext: "Proj",
+  // },
+
   {
     id: "#poster",
     title: "Poster Presentation",
-    img: "/DepartmentAssets/proj.webp",
+    img: "/DepartmentAssets/pp.webp",
     des: "test",
-    color: "#ff58c2",
+    // color: "#ff58c2",
+    color: "#008080",
     bgtext: "Pros",
   },
   {
-    id: "#invation",
-    title: "E-Waste Artifacts",
-    img: "/DepartmentAssets/ew.webp",
+    id: "#bestoutofwaste",
+    title: "Best-out-of-Waste",
+    img: "/DepartmentAssets/ce1.webp",
     des: "test",
-    color: "#ffff00",
+    // color: "#ffff00",
+    color: "#00ff00",
     bgtext: "Pros",
   },
 ];
 
 export const splevnt= [
+  
+
   {
-    id: "#ipl",
-    title: "IPL AUCTION",
-    img: "/DepartmentAssets/0ipl.webp",
+    id: "#CLUB1",
+    title: "TECHNICAL-MURDER-MYSTERY",
+    img: "/DepartmentAssets/lb.webp",
     des: "test",
-    color: "#ffff00",
-    bgtext: "IPL",
+    // color: "#ac00e6",
+    color: "#F4A261",
+    bgtext: "LC",
   },
 
   {
-    id: "#WIT DRAW",
-    title: "WIT DRAW",
-    img: "/DepartmentAssets/WD.webp",
+    id: "#CLUB2",
+    title: "VOICE OVER",
+    img: "/DepartmentAssets/lb.webp",
     des: "test",
-    color: "#ac00e6",
-    bgtext: "WIT",
+    // color: "#ac00e6",
+    color: "#F4A261",
+    bgtext: "LC",
   },
-  {
-    id: "#DUBSTAR",
-    title: "DUBSTAR",
-    img: "/DepartmentAssets/D.webp",
-    des: "test",
-    color: "#00ff00",
-    bgtext: "DUBS",
-  },
-  {
-    id: "#TENTUKOTTA",
-    title: "TENTUKOTTA",
-    img: "/DepartmentAssets/tentco.webp",
-    des: "test",
-    color: "#0080ff",
-    bgtext: "TENT",
-  },
-  {
-    id: "#AUTO EXPO",
-    title: "AUTO EXPO",
-    img: "/DepartmentAssets/autoco.webp",
-    des: "test",
-    color: "#FF0000",
-    bgtext: "expo",
-  },
-  {
-    id: "#STYLE WITH CANVA",
-    title: "STYLE\tWITH CANVA",
-    img: "/DepartmentAssets/cvn.webp",
-    des: "test",
-    color: "#FFCCE6",
-    bgtext: "canva",
-  },
-  {
-    id: "#STUMP SAGA",
-    title: "STUMP SAGA",
-    img: "/DepartmentAssets/c.webp",
-    des: "test",
-    color: "#4da6ff",
-    bgtext: "Proj",
-  },
-  {
-    id: "#ADAPTUNE",
-    title: "ADAPTUNE",
-    img: "/DepartmentAssets/dance.webp",
-    des: "test",
-    color: "#4da6ff",
-    bgtext: "Proj",
-  },
+
+  // {
+  //   id: "#ipl",
+  //   title: "IPL AUCTION",
+  //   img: "/DepartmentAssets/0ipl.webp",
+  //   des: "test",
+  //   color: "#ffff00",
+  //   bgtext: "IPL",
+  // },
+
+  // {
+  //   id: "#Corporate Walk",
+  //   title: "CORPORATE WALK",
+  //   img: "/DepartmentAssets/cw.webp",
+  //   des: "test",
+  //   color: "#ac00e6",
+  //   bgtext: "COR",
+  // },
+
+  // {
+  //   id: "#DUBSTAR",
+  //   title: "DUBSTAR",
+  //   img: "/DepartmentAssets/D.webp",
+  //   des: "test",
+  //   color: "#00ff00",
+  //   bgtext: "DUBS",
+  // },
+
+  // {
+  //   id: "#TENTUKOTTA",
+  //   title: "TENTUKOTTA",
+  //   img: "/DepartmentAssets/tentco.webp",
+  //   des: "test",
+  //   color: "#0080ff",
+  //   bgtext: "TENT",
+  // },
+
+  // {
+  //   id: "#AUTO EXPO",
+  //   title: "AUTO EXPO",
+  //   img: "/DepartmentAssets/autoco.webp",
+  //   des: "test",
+  //   color: "#FF0000",
+  //   bgtext: "expo",
+  // },
+
+  // {
+  //   id: "#STYLE WITH CANVA",
+  //   title: "STYLE\tWITH CANVA",
+  //   img: "/DepartmentAssets/cvn.webp",
+  //   des: "test",
+  //   color: "#FFCCE6",
+  //   bgtext: "canva",
+  // },
+
+  // {
+  //   id: "#STUMP SAGA",
+  //   title: "STUMP SAGA",
+  //   img: "/DepartmentAssets/c.webp",
+  //   des: "test",
+  //   color: "#4da6ff",
+  //   bgtext: "Proj",
+  // },
+
+  // {
+  //   id: "#ADAPTUNE",
+  //   title: "ADAPTUNE",
+  //   img: "/DepartmentAssets/dance.webp",
+  //   des: "test",
+  //   color: "#4da6ff",
+  //   bgtext: "Proj",
+  // },
+
 ];

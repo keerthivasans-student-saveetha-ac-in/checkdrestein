@@ -71,9 +71,10 @@ const Main = () => {
           <Counter />
         </div>
 
-      {/* <DepartmentDiv id="comman events">
+      <DepartmentDiv id="comman events">
         <comman />
-      </DepartmentDiv> */}
+      </DepartmentDiv>
+      
       <div
         style={{
           display: "flex",
@@ -98,10 +99,12 @@ const Main = () => {
         />
       </div>
       {/* <Link /> */}
-      {/* <DepartmentDiv id="event">
+
+      <DepartmentDiv id="event">
         <Departments />
-      </DepartmentDiv> */}
-{/*       
+      </DepartmentDiv>
+
+     {/*       
       <div id="Guest">
         <Guest />
       </div> */}
