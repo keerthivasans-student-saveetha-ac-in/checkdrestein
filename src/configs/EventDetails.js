@@ -2351,13 +2351,13 @@ export const EventDetails = [
       },//10
 
       {
-        name:" Building A Handwritten Digit Recognition AI Machine",
+        name: "Building A Handwritten Digit Recognition AI Machine",
         logo: "EventsAssets/buildinghardware.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
         time: "9:00am - 3:00pm ", 
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSeEatZ2lCi3BFKx_KIMkiwW6h5oxLUl2ixgmlWJQterBsDByw/viewform",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdBBvBX8_ycawF3-skOOkYR9msn5uZ7IpZkNG0GVem-2mrAdw/viewform",
         day1: {
           date: "06 Nov 2024",
           time: "9:00am - 3:00pm ",
