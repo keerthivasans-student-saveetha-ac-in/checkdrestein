@@ -101,7 +101,7 @@ const Footer = () => {
               gap: "10px",
             }}
           >
-            <h1>{602}</h1>
+            <h1>{687}</h1>
             <VisibilityIcon
               sx={{
                 fontSize: "50px",
