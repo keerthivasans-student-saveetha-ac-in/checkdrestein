@@ -501,7 +501,7 @@ const Form = () => {
 
   return (
     <div className="headcontainer" data-joy-color-scheme="dark">
-      {/* {load && <Loading />} */}
+      {load && <Loading />}
       <Nav />
       {confirmMsg ? (
         <ConfirmCard />
