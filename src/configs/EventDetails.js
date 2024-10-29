@@ -2560,7 +2560,7 @@ export const EventDetails = [
         type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
-        rules: "Each team consists of 3 participants. Teams must register before the event starts, and participants should be present at the venue 20 minutes prior to the event. The event consists of a single race. The decision of the judges is final and binding.The race will be held on a predetermined track, and each team will have 2-3 minutes to complete it. The fastest completion time wins the race. In case of a tie, the team with the fewest errors will be declared the winner",
+        rules: "Each team consists of 1-3 participants. Teams must register before the event starts, and participants should be present at the venue 20 minutes prior to the event. The event consists of a single race. The decision of the judges is final and binding.The race will be held on a predetermined track, and each team will have 2-3 minutes to complete it. The fastest completion time wins the race. In case of a tie, the team with the fewest errors will be declared the winner",
         note:"Bot Specifications:Bots must be remotely controlled or wired. The maximum size for the bots is 30 cm x 30 cm x 30 cm, and they should not exceed a weight of 5 kg. Additionally, bots must not cause damage to the track or other bots",
         tag: "EVENT",
         color: "0, 1, 38",
