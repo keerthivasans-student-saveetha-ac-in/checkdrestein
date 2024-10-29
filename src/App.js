@@ -39,7 +39,7 @@ function App() {
           <DisplayPopupProvider>
             <Routes>
               <Route path="/" element={<Main />} />
-              {/* <Route path="form" element={<Form />} /> */}
+              <Route path="form" element={<Form />} />
               <Route path="events" element={<Events />} />
               <Route path="AB" element={<Ab />} />
               <Route path="Departments" element={<Departments />} />
@@ -57,7 +57,7 @@ function App() {
                     }}
                   >
                     <h1> </h1>
-                    <h1>Registration coming soon...😉</h1>
+                    <h1>404 Error. Please try again after some time...</h1>
                    
                   </div>
                 }

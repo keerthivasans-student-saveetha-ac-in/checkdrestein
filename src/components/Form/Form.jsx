@@ -502,7 +502,7 @@ const Form = () => {
 
   return (
     <div className="headcontainer" data-joy-color-scheme="dark">
-      {load && <Loading />}
+      {/* {load && <Loading />} */}
       <Nav />
       {confirmMsg ? (
         <ConfirmCard />
@@ -566,7 +566,7 @@ const Form = () => {
                       value={formdata.fname}
                       onChange={handleChange}
                       type="text"
-                      placeholder="John"
+                      placeholder="Kamal"
                       label="First Name"
                       sx={{ width: "48%" }}
                     />
@@ -576,7 +576,7 @@ const Form = () => {
                       value={formdata.lname}
                       onChange={handleChange}
                       type="text"
-                      placeholder="Doe"
+                      placeholder="Kannan"
                       label="Last Name"
                       sx={{ width: "48%" }}
                     />
@@ -587,7 +587,7 @@ const Form = () => {
                     value={formdata.college}
                     onChange={handleChange}
                     type="text"
-                    placeholder="College name..."
+                    placeholder="College Name"
                     label="College Name"
                   />
                   <div className="yearno">
@@ -597,7 +597,7 @@ const Form = () => {
                       value={formdata.regno}
                       onChange={handleChange}
                       type="number"
-                      placeholder="Register number..."
+                      placeholder="Register Number"
                       label="Register Number"
                       sx={{ width: "48%" }}
                     />
@@ -611,7 +611,7 @@ const Form = () => {
                       <Select
                         id="year"
                         data-name="year"
-                        placeholder="Year..."
+                        placeholder="Year"
                         value={formdata.year}
                         onChange={handleChangeForSelect}
                       >
@@ -643,7 +643,7 @@ const Form = () => {
                       value={formdata.dept}
                       onChange={handleChange}
                       type="text"
-                      placeholder="Department..."
+                      placeholder="Department"
                       label="Department"
                       sx={{ width: "48%" }}
                     />
@@ -657,7 +657,7 @@ const Form = () => {
                       <Select
                         id="gender"
                         name="gender"
-                        placeholder="Gender..."
+                        placeholder="Gender"
                         value={formdata.gender}
                         onChange={handleChangeForSelect}
                       >
@@ -683,7 +683,7 @@ const Form = () => {
                     type="number"
                     value={formdata.phno}
                     onChange={handleChange}
-                    placeholder="98765*****"
+                    placeholder="90033*****"
                     label="Phone Number"
                   />
                   <TextField
@@ -698,7 +698,7 @@ const Form = () => {
                         ? "Already Registered with is mail id !"
                         : ""
                     }
-                    placeholder="johndoe@email.com"
+                    placeholder="kamalkannan@gmail.com"
                     label="Email"
                   />
 
@@ -740,7 +740,7 @@ const Form = () => {
                       }}
                     />
 
-                    <Checkbox
+                    {/* <Checkbox
                       className="check"
                       color="primary"
                       size="lg"
@@ -753,7 +753,8 @@ const Form = () => {
                         }
                         setPaper(e.target.checked);
                       }}
-                    />
+                    /> */}
+                    
                     {/* <Checkbox
                       className="check"
                       color="primary"
@@ -840,17 +841,17 @@ const Form = () => {
                   {load && (
                     <Alert
                       variant="outlined"
-                      color="danger"
+                      color="success"
                       sx={{ align: "center", zIndex: 1000 }}
                     >
-                      processing your data don't reload the page
+                      Registered Successfully. Pay the Registration amount to the Registration Desk on the day of Event.
                     </Alert>
                   )}
                   <Button
                     type="submit"
-                    value={load ? "Processing" : "Register"}
-                    disabled={load}
-                    sx={{ mt: 1 }}
+                    // value={load ? "Processing" : "Register"}
+                    // disabled={load}
+                    // sx={{ mt: 1 }}
                   >
                     Register
                   </Button>

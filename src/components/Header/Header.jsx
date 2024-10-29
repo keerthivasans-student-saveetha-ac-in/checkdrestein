@@ -226,12 +226,12 @@ function Main() {
       </HeaderBg>
       <Link to="/form">
         <RegisterNow className="button">
-          <HoverSpan className="span_btn">REGISTRATION COMING SOON...</HoverSpan>
+          <HoverSpan className="span_btn">REGISTER NOW</HoverSpan>
         </RegisterNow>
       </Link>
       <Link to="/events">
         <RegisterNow className="button">
-          <HoverSpan className="span_btn">visit events</HoverSpan>
+          <HoverSpan className="span_btn">VISIT EVENTS</HoverSpan>
         </RegisterNow>
       </Link>
     </MainHeader>
