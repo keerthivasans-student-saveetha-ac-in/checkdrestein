@@ -21,7 +21,7 @@ const Counter = ({ ...rest }) => {
         <div className="counter-column">
           <strong data-number="53">
             {/* <CountUp {...rest} start={viewPortEntered ? null : 0} end={70}> */}
-            <CountUp {...rest} start={viewPortEntered ? null : 0} end={85}>
+            <CountUp {...rest} start={viewPortEntered ? null : 0} end={58}>
               {({ countUpRef }) => {
                 return (
                   <VisibilitySensor
@@ -71,7 +71,7 @@ const Counter = ({ ...rest }) => {
         <div className="counter-column">
           <strong data-number="34+">
             {/* <CountUp {...rest} start={viewPortEntered ? null : 0} end={40}> */}
-            <CountUp {...rest} start={viewPortEntered ? null : 0} end={55}>
+            <CountUp {...rest} start={viewPortEntered ? null : 0} end={41}>
               {({ countUpRef }) => {
                 return (
                   <VisibilitySensor
@@ -93,7 +93,8 @@ const Counter = ({ ...rest }) => {
         </div>
         <div className="counter-column">
           <strong data-number="305">
-            <CountUp {...rest} start={viewPortEntered ? null : 0} end={views}>
+            {/* <CountUp {...rest} start={viewPortEntered ? null : 0} end={views}> */}
+            <CountUp {...rest} start={viewPortEntered ? null : 0} end={271}>
               {({ countUpRef }) => {
                 return (
                   <VisibilitySensor
