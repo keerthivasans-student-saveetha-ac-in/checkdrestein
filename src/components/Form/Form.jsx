@@ -493,7 +493,6 @@ const Form = () => {
       events: [
         "CASE-IN-POINT CASE STUDY COMPETITION",
         "BUSINESS QUIZ",
-        "AD-ZAP",
         "BEST MANAGER",
       ],
     }, //mba

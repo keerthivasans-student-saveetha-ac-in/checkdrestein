@@ -452,8 +452,8 @@ export const EventDetails = [
         name: " Heist Chronicles",
         date: "08 Nov 2024(FN)",
         type: "Team of 4",
-        venue: "Will Be Updated Soon",
-        time: "",
+        venue: "5611 & 5612, 5th Floor, SEC",
+        time: "09:00am - 12:00pm",
         members: "Team of 4",
         round1title: "CHEM RELAY",
        round1: "Each team should consist of 4 members. Team members will perform individually to crack a letter of the word, and the 4th member will then say the final word within the allotted time. Points will be awarded for the correct word to advance to the next round",
@@ -474,8 +474,8 @@ export const EventDetails = [
             phone: 8637406706,
           },
           {
-            name: "Oviya P",
-            phone: 8220338723,
+            name: "Mithun V",
+            phone: 9025014732,
           },
         ],
       },//1
@@ -484,8 +484,8 @@ export const EventDetails = [
         name: " Wasser Wars",
         date: "09 Nov 2024(FN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
-        time: "",
+        venue: "5611 & 5612, 5th Floor, SEC",
+        time: "09:00am - 12:00pm",
         round1title: "ChemIQ Clash",
         round1: "Questions will be displayed on the mentimeter website, and teams should attend the quiz through the website. Each question will be awarded points by the website, and the top 20 teams with the highest points will qualify for the next round",
         round2title: "PICTIONARY",
@@ -517,8 +517,8 @@ export const EventDetails = [
         name: " Ultimate ShowOff",
         date: "08 Nov 2024(FN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
-        time: "N/A",
+        venue: "5613 & 5652, 5th Floor, SEC",
+        time: "10:00am - 12:00pm",
         round1title: "AIM AND CLAIM",
         round1: "Each team is provided with six darts to use during the game. After throwing the darts on the board, questions are asked. The difficulty of the questions is determined by where the team's darts landed in relation to the center of the dartboard, with points highest for darts that hit the center and decreasing as they move outward. Teams answer questions based on the points they achieve with their dart throws",
         round2title: "BATTLEOF BIDS",
@@ -555,8 +555,8 @@ export const EventDetails = [
         name: " Brainy Browl",
         date: "09 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
-        time: "N/A",
+        venue: "5613, 5652, 5654, 5th Floor, SEC",
+        time: "09:00am - 12:00pm",
         members: "Team of 2-3",
         round1title: "CHEM E WHEEL OF FORTUNE",
         round1: "This event features a spinning wheel divided into six distinct sections. A representative from each team will spin the wheel, and based on the outcome, they will participate in the corresponding game. Each team will be allotted a specific time limit according to the game to complete their challenge",
@@ -595,9 +595,9 @@ export const EventDetails = [
         link: "https://forms.gle/DNPaR24M5j44j6Lw5",
         day1: {
           date: "05 Nov 2024",
-          time: "Full Day",
-          mode: "OFFLINE",
-          venue: "Will Be Updated Soon",
+          time: "10:00am - 03:00pm",
+          mode: "OFFLINE / Individual",
+          venue: "5411 (PIDC Lab), 5th Floor, SEC",
           // topic:"Section 1:Configuring the Property Environment in Aspen Plus. Section 2:Overview of using modern palette in Aspen Plus",
           resource: [
             {
@@ -628,13 +628,17 @@ export const EventDetails = [
               name: "Kathirlingam V",
               phone: 9894931232,
             },
+            {
+              name: "Shaveena Wershi G S",
+              phone: 7904198654,
+            },
           ],
         },
         day2: {
           date: "06 Nov 2024",
-          time: "Full Day",
-          mode: "OFFLINE",
-          venue: "Will Be Updated Soon",
+          time: "10:00am - 03:00pm",
+          mode: "OFFLINE / Individual",
+          venue: "5411 (PIDC Lab), 5th Floor, SEC",
           topic:"Case study on usage of Distillation Column. Section 2:Case study on usage of Reactor Column",
           resource: [
             {
@@ -664,6 +668,10 @@ export const EventDetails = [
             {
               name: "Kathirlingam V",
               phone: 9894931232,
+            },
+            {
+              name: "Shaveena Wershi G S",
+              phone: 7904198654,
             },
           ],
         },    
@@ -1078,7 +1086,7 @@ export const EventDetails = [
 
       {
         name: "Coder's Clash ",
-        date: "08 Nov 2024(AN)",
+        date: "09 Nov 2024(AN)",
         type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 01:00pm",
@@ -2266,6 +2274,159 @@ export const EventDetails = [
           ],
         },  
       },//9
+      {
+        name:" Design of Voltage Transformers",
+        logo: "EventsAssets/designvoltage.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "9:00am - 3:00pm ", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeEatZ2lCi3BFKx_KIMkiwW6h5oxLUl2ixgmlWJQterBsDByw/viewform",
+        note: "Soldering . Testing of wound bobbin . Winding procedure . Core placement . Stacking . Testing . Applying Varnish . Enclosure placement and vibration testing",
+        day1: {
+          date: "05 Nov 2024",
+          time: "9:00am - 3:00pm ",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. K. Jeevananth",
+              desig: "Managing director, Pebbels Electronics"
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. J. Jeffin Gracewell ", 
+              phone: 8903280025 ,
+            },
+            {
+              name: "Mr. R. Kannan", 
+              phone: 9840181019,
+            },
+          ],
+          student: [
+            {
+              name: "Siva R",
+              phone: 8072654442 ,
+            },
+            {
+              name: "Vishal M",
+              phone: 6369904631,
+            },
+          ],
+        },
+        day2: {
+          date: "06 Nov 2024",
+          time: "9:00am - 3:00pm ",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          resource: [
+            {
+              name: "Mr. K. Jeevananth",
+              desig: "Managing director, Pebbels Electronics"
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. J. Jeffin Gracewell ", 
+              phone: 8903280025 ,
+            },
+            {
+              name: "Mr. R. Kannan", 
+              phone: 9840181019,
+            },
+          ],
+          student: [
+            {
+              name: "Siva R",
+              phone: 8072654442 ,
+            },
+            {
+              name: "Vishal M",
+              phone: 6369904631,
+            },
+          ],
+        },
+         
+      },//10
+
+      {
+        name:" Building A Handwritten Digit Recognition AI Machine",
+        logo: "EventsAssets/buildinghardware.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "9:00am - 3:00pm ", 
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeEatZ2lCi3BFKx_KIMkiwW6h5oxLUl2ixgmlWJQterBsDByw/viewform",
+        day1: {
+          date: "06 Nov 2024",
+          time: "9:00am - 3:00pm ",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          topic:" Introduction to AI &amp; ML.Introduction to the project.Understanding the dataset.Logistic Regression Model.Logistic Regression Cost function",
+          resource: [
+            {
+              name: "Mr. Jeswin Arul Samuel",
+              desig: "Business Intelligence Engineer, Amazon Pvt Ltd"
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Sowmiya Manoj ", 
+              phone: 7358747803 ,
+            },
+            {
+              name: " Mrs. V. Subashree", 
+              phone: 9994365720,
+            },
+          ],
+          student: [
+            {
+              name: "Bhuvaneshwaran A",
+              phone: 9345604421 ,
+            },
+            {
+              name: "Priyanka R",
+              phone: 8098559549,
+            },
+          ],
+        },
+        day2: {
+          date: "07 Nov 2024",
+          time: "9:00am - 3:00pm ",
+          mode: "Individual",
+          venue: " Will Be Updated Soon",
+          topic:" Gradient Descent Algorithm.Training the dataset.Evaluating the model. Creating your own handwritten digit.Predicting your handwritten digit using your model",
+          resource: [
+            {
+              name: "Mr. Jeswin Arul Samuel",
+              desig: "Business Intelligence Engineer, Amazon Pvt Ltd"
+            },
+          ],
+          staff: [
+            {
+              name: "Dr. Sowmiya Manoj ", 
+              phone: 7358747803 ,
+            },
+            {
+              name: " Mrs. V. Subashree", 
+              phone: 9994365720,
+            },
+          ],
+          student: [
+            {
+              name: "Bhuvaneshwaran A",
+              phone: 9345604421 ,
+            },
+            {
+              name: "Priyanka R",
+              phone: 8098559549,
+            },
+          ],
+        },
+       
+         
+      },//11
     ],
   },//ece
 
@@ -2804,39 +2965,6 @@ export const EventDetails = [
       },//2
 
       {
-        name: "AD-ZAP",
-        date: "08 Nov 2024(AN)",
-        type: "Team of 5",
-        venue: "Will Be Updated Soon",
-        time: "01:00pm - 03:00pm",
-        rules: "Each team can consist of a maximum of 5 members. The product name will be given on the spot, and teams will have 20 minutes for preparation. Vulgarity or offensive terms will lead to disqualification. The time to perform the advertisement is 5 minutes, followed by a 2-minute presentation and Q&A session. Exceeding the time limit may result in penalties. Teams are encouraged to use humor, innovation, and creativity to engage the audience. Participants can bring any required materials. The judges' decision will be final",
-        tag: "EVENT",
-        color: "0, 1, 38",
-        logo: "/EventsAssets/adzap.webp",
-        staff: [
-          {
-            name: "Dr. Catherine",
-            phone: 8148915712,
-          },
-          {
-            name: "Dr. P. Shalini",
-            phone: 9940116246,
-          },
-        ],
-        student: [
-          {
-            name: " Shantanu Raj K",
-            phone: 7339287524,
-          },
-          {
-            name: " Prabhanjen V ",
-            phone: 6383825014,
-          },
-         
-        ],
-      },//3
-
-      {
         name: "Best Manager",
         date: "08 Nov 2024(FN & AN)",
         type: "Individual",
@@ -2868,7 +2996,7 @@ export const EventDetails = [
             phone: 9629808541,
           },
         ],
-      },//4
+      },//3
 
     
   
