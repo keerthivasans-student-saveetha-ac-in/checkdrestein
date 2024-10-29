@@ -229,7 +229,7 @@ export const EventDetails = [
         name: "Fast Track Trivia ",
         date: " 08 Nov 2024(FN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "4451, 4th Floor, SEC",
         time: " 09:00am - 12:00pm",
         rules:"Participants must compete in teams of 3 – 4 members per team.The quiz master asks questions and the first to bang the table gets to answer.No hints or additional clarifications are provided once a question is asked. Answers must be given immediately after the question is asked.The quizmaster's decision is final in case of disputes or confusion over answers. The team with the highest scores at the end of all rounds wins",
         note:"The rapid-fire quiz will incorporate SDG 9: Industry, Innovation, and Infrastructure, highlighting how biomedical engineering drives innovation and contributes to solving global health challenges through advancements in medical technology and infrastructure",
@@ -260,7 +260,7 @@ export const EventDetails = [
         tagline: "",
         date: " 08 Nov 2024(AN)",
         type: "Team of 4",
-        venue: "Will Be Updated Soon",
+        venue: "4681, 4th Floor, SEC",
         time: " 01:00am to 04:00pm",
         rules:"Each team must have 4 members. ⁠If one team doesn’t know the answer it will be passed to the next team.⁠If you answer the question correctly, you will be awarded one point. If your answer is wrong, the next team that answers correctly will receive 1/2 bonus points. ⁠The team with the highest score will move to the next level",
         tag: "EVENT",
@@ -295,7 +295,7 @@ export const EventDetails = [
         tagline: "",
         date: " 09 Nov 2024(FN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "3872 (DTE Lab), 3rd Floor, SEC",
         time: "9:00am - 12:00pm",
         // round1title: "",
         round1: "Case study will be displayed to the participants. A task will be given to each team, the team which completes the task gets the chance to answer the question.In round 1, the team should diagnose the disease in the case study. The team with maximum point will be shortlisted to Round 2",
@@ -309,7 +309,7 @@ export const EventDetails = [
         logo: "/EventsAssets/bioslove.webp",
         staff: [
           {
-            name: "Mr. Sivanandam ",
+            name: "Dr. S. Sivanandam",
             phone: 9789010142,
           },
         ],
@@ -336,7 +336,7 @@ export const EventDetails = [
         tagline: "",
         date: " 09 Nov 2024(AN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "3873 (MI Lab), 3rd Floor, SEC",
         time: "9:00am - 12:00pm",
         rules:"Please arrive 10 minutes before the scheduled time for a briefing.No bags, phones, or recording devices are allowed in the escape rooms. A secure room will be provided to keep your belongings.Usage of mobile phones is strictly restricted unless instructed otherwise for referring to the internet for information.   Communication and teamwork are important in The Escape Room. While mobile phones are strictly prohibited during gameplay, open communication within your team is highly encouraged. Please be mindful of maintaining a reasonable noise level to avoid disrupting other teams.   Throughout your adventure, a dedicated Game Master will be monitoring your progress. While their presence may not be immediately apparent, they will be observing your actions and offering subtle hints if necessary.   Play with care and integrity. While enjoying the game, be mindful of rushing to other rooms to avoid injury.   Maintain respectful and ethical behavior toward others",
          round1title: "MEDIFY",
@@ -354,8 +354,8 @@ export const EventDetails = [
         logo: "/EventsAssets/escaperoomdna.webp",
         staff: [
           {
-            name: "Ms. M. Nivethitha",
-            phone: 8940499135,
+            name: "Dr. R. Helen",
+            phone: 9840598158,
           },
         ],
         student: [
@@ -386,7 +386,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "3873 (MI Lab), 3rd Floor, SEC",
           // topic:
           //   "Infusion Pump.Syringe Pump. Suction Pump. IFT Machine.",
           // resource: [
@@ -415,7 +415,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "3873 (MI Lab), 3rd Floor, SEC",
           // topic:
           //   "Patient Monitoring System. Electrocardiogram. Nebulizer. Fetal Doppler",
           // resource: [
