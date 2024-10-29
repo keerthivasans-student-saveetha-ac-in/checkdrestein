@@ -11,7 +11,7 @@ export const EventDetails = [
         type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        rules:"Each team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.Each participant must pay an entry fee of 20(Payment must be made before the event begins).The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential.Teams showing signs of poor coordination may be disqualified.QR codes will be placed at specific locations as part of the game.Teams must find and scan the QR codes to progress through the hunt.A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location.Teams should arrive at least 15 minutes before the event begins for briefing ",      
+        rules:" ach team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential .Teams showing signs of poor coordination may be disqualified . QR codes will be placed at specific locations as part of the game .Teams must find and scan the QR codes to progress through the hunt .A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location .Teams should arrive at least 15 minutes before the event begins for briefing ",      
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cursedchest.webp",
@@ -27,8 +27,8 @@ export const EventDetails = [
             phone: 9962838085,
           },
           {
-            name: "Shalini P",
-            phone: 9715999557,
+            name: "Salini P",
+            phone: 9715999559,
           },
           {
             name: "Sinhaa Srinithi S",
@@ -191,8 +191,8 @@ export const EventDetails = [
         link: "https://docs.google.com/forms/d/e/1FAIpQLSfHfmXxz77N3HMInRnFNN6yk4hYJMmDKlhuX6Griob5cLs3JQ/viewform",
         // company:"CFDT, TANUVAS",
         day1: {
-          date: " 06 Nov 2024",
-          time: "FULL DAY",
+          date: " 07 Nov 2024",
+          time: "08:30am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
           list: true,
@@ -211,7 +211,7 @@ export const EventDetails = [
           ],
           student: [
             {
-              name: "Priyadharshni P",
+              name: "Priyadharshni. P",
               phone:  9445913039 ,
             },
           ],
@@ -451,7 +451,7 @@ export const EventDetails = [
       {
         name: " Heist Chronicles",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "",
         members: "Team of 4",
@@ -483,10 +483,9 @@ export const EventDetails = [
       {
         name: " Wasser Wars",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "",
-        members: "Team of 3",
         round1title: "ChemIQ Clash",
         round1: "Questions will be displayed on the mentimeter website, and teams should attend the quiz through the website. Each question will be awarded points by the website, and the top 20 teams with the highest points will qualify for the next round",
         round2title: "PICTIONARY",
@@ -517,10 +516,9 @@ export const EventDetails = [
       {
         name: " Ultimate ShowOff",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3-4",
         venue: "Will Be Updated Soon",
         time: "N/A",
-        members: "Team of 3-4",
         round1title: "AIM AND CLAIM",
         round1: "Each team is provided with six darts to use during the game. After throwing the darts on the board, questions are asked. The difficulty of the questions is determined by where the team's darts landed in relation to the center of the dartboard, with points highest for darts that hit the center and decreasing as they move outward. Teams answer questions based on the points they achieve with their dart throws",
         round2title: "BATTLEOF BIDS",
@@ -556,7 +554,7 @@ export const EventDetails = [
       {
         name: " Brainy Browl",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "N/A",
         members: "Team of 2-3",
@@ -680,9 +678,9 @@ export const EventDetails = [
       {
         name: "Voice, Vision, Victory",
         date: "08 Nov 2024(FN)",
-        type: "Team 2-3",
-        venue: "Will Be Updated Soon",
-        time: "08:00am - 10:00am",
+        type: "Team of 2-3",
+        venue: "0732, Ground Floor, SEC",
+        time: "09:00am - 12:00pm",
         round1title: "WHISPER AND WIN",
         round1: "Form teams with one Guesser per round while others whisper a sentence.Team members quietly whisper the same sentence without gestures or sounds.The Guesser has 1 minute to guess the whispered sentence.Points are awarded based on guessing speed: 0-20 sec (5 points), 21-40 sec (3 points), 41-60 sec (1 point).Rotate roles each round, and the team with the highest points at the end wins",
         round2title: "GRAB AND GUESS",
@@ -718,10 +716,9 @@ export const EventDetails = [
       {
         name: " Cup - Titude Frenzy",
         date: "08 Nov 2024(FN)",
-        type: "Team",
-        venue: "Will Be Updated Soon",
+        type: "Team of 2",
+        venue: "0731, Ground Floor, SEC",
         time: "10:00am - 12:00pm",
-        members: "Team of 2",
         round1title: "Flip and Win",
        round1: "A team includes 2 members. Teams must design a device using rubber bands, popsicle sticks, and cardboard to flip a paper cup upside down. After successfully flipping the paper cup, it should be placed on the Tic-Tac-Toe board. The first team to get three of their cups in a row (up, down, across, or diagonally) qualifies for the next round",
         round2title: "Pyramid Zenith",
@@ -756,11 +753,10 @@ export const EventDetails = [
       {
         name: " BridgeIt",
         date: "09 Nov 2024(FN)",
-        type: "Team",
-        venue: "Will Be Updated Soon",
-        time: "",
-        members: "Team of 3",
-        rules: "**Rules for Round 1: **  Each team consists of two members. Question Format : Questions about bridges and famous structures will be displayed on a screen. Response : Teams must write their answers on sheets provided. Judging will be based on the accuracy of responses, and the top teams will qualify for the next round.    **Round 2: London Bridge Is Falling Down** (Score: 70 marks) .  This round is a hands-on challenge where participants will construct a truss-type bridge. Materials : Each team will be given a limited supply of newspapers, along with glue and rubber bands to build their bridge. Structure : The bridge should be a truss type and must meet specific dimension requirements provided at the start of the round. Testing : The constructed bridges will undergo a load test to assess their strength, as well as a dimension test to ensure they meet the set criteria. Winner Selection : The teams whose bridges pass both the load and dimension tests will be declared the winners ",
+        type: "Team of 2",
+        venue: "0732, Ground Floor, SEC",
+        time: "N/A",
+        rules: "Rules for Round 1:  Each team consists of two members. Question Format : Questions about bridges and famous structures will be displayed on a screen. Response : Teams must write their answers on sheets provided. Judging will be based on the accuracy of responses, and the top teams will qualify for the next round. Round 2: London Bridge Is Falling Down (Score: 70 marks) .  This round is a hands-on challenge where participants will construct a truss-type bridge. Materials : Each team will be given a limited supply of newspapers, along with glue and rubber bands to build their bridge. Structure : The bridge should be a truss type and must meet specific dimension requirements provided at the start of the round. Testing : The constructed bridges will undergo a load test to assess their strength, as well as a dimension test to ensure they meet the set criteria. Winner Selection : The teams whose bridges pass both the load and dimension tests will be declared the winners ",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/bridgeit.webp",
@@ -780,7 +776,7 @@ export const EventDetails = [
             phone: 9940363039,
           },
           {
-            name: "Pughazh Puviyalan J M",
+            name: "Pugazh Puviyalan J M",
             phone: 7010560852,
           },
         ],
@@ -792,7 +788,7 @@ export const EventDetails = [
         logo: "EventsAssets/digitalland.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        venue: " will be updated soon",
+        venue: "5731, 5th Floor, SEC",
         time: " 10:00 AM to 02:00 PM",
         note:"Laptop Required",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdy2FVMZuXcsbdRudTLJlM-nnmOixNjrHlNOE7s7ubhLy5oaQ/viewform",
@@ -951,10 +947,9 @@ export const EventDetails = [
       {
         name: "Circuit Circus",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        // members: "Team of 3",
         round1title: "Counter Strike",
         round1: "Teams will solve visual puzzles projected on screen, with each image offering clues to electronics-related terms. Participants analyze images to uncover concepts or components in electronics. Points are awarded for each correct answer, and high-scoring teams advance to the next round. Sharpen your observation skills and think creatively to solve these electronic-themed puzzles!",
         round2title: "Flip & Match",
@@ -964,7 +959,7 @@ export const EventDetails = [
         // note:"",
         tag: "EVENT",
         color: "0, 1, 38",
-        logo: "/EventsAssets/circuitcirus.webp",
+        logo: "/EventsAssets/circuitcircus.webp",
         staff: [
           {
             name: "Dr. S. Kanagamalliga",
@@ -998,10 +993,9 @@ export const EventDetails = [
       {
         name: "Tech Tonix",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00an - 12:00pm",
-        members: "Team of 2-3",
         round1title: "Rapid Circuit Recall",
         round1: "In this round, a circuit will be shown, learners have to memorize the circuit in 10 minutes and questions will be asked from that . Teams will get points for each questions they answer correctly.Display the circuit diagram for 10 minutes, ensuring it's clear, visible, and accessible to all learners. During this 10 - minute window, learners should memorize the circuit components, connections, and overall design. After the display period, questions will be asked related to the circuit. Award points for each correct answer. Consider bonus points for consecutive correct answers or penalty points for incorrect ones",
         round2title: "Circuit Fix-It",
@@ -1044,10 +1038,9 @@ export const EventDetails = [
       {
         name: "Electrox Chaos",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 02:00pm",
-        members: "Team of 2",
         round1title: "CLUE TREKS",
         round1: "Team members face opposite directions, each with a set of clue cards. Players use the clues to identify the jumbled component names on their cards. Points are awarded based on the number of clues used to identify each component. The top teams from Round 1 will advance to the circuit design showdown",
         round2title: "KALEIDOSCOPE",
@@ -1086,10 +1079,9 @@ export const EventDetails = [
       {
         name: "Coder's Clash ",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 01:00pm",
-        members: "Team of 2 ",
         round1title: "CODE HUNT",
         round1: "Story-Driven Challenges: Participants engage with a captivating narrative while answering multiple-choice questions on computer fundamentals, C, and Python. Unlock the Map: Each correct answer reveals clues that piece together a treasure map leading to the hidden Code Crystal",
         round2title: "CODE RELAY",
@@ -1135,7 +1127,6 @@ export const EventDetails = [
         type: "Team of 3-4",
         venue: "Will Be Updated Soon",
         time: "10:00an - 04:00pm",
-        // members: "Team of 3-4",
         round1title: "The Circuit Challenge",
         round1: "Teams will recreate a circuit diagram accurately based on audio instructions. All teams listen to instructions twice via a central audio setup. Teams draw their circuits based on what they remember from the audio instructions. 1 point is given for the completeness of the circuit path",
         round2title: "The Logic Labyrinth – Digital Logic",
@@ -1175,30 +1166,34 @@ export const EventDetails = [
       {
         name: "Spark & Search - The Electronics Adventure",
         date: "08 Nov 2024(FN & AN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "10:00am - 03:00pm",
-        members: "Team of 2-3",
-        round1title: "Components Insight",
-        round1: "Component Identification involves teams identifying electronic components and understanding their functions. Data Analysis requires teams to analyze component characteristics like resistance, capacitance, and voltage. Strategic Planning entails strategizing component prioritization based on circuit needs and budget",
-        round2title: "Bid and Build",
-        round2: "Component Selection involves teams choosing components based on their performance in Round 1. In Budget Management, teams are given a limited budget to bid strategically. Competitive Bidding engages teams in bidding to acquire the necessary components for circuit design. After bidding, teams will proceed to build a circuit with the components they've won",
-        round3title: "Circuit Masters [Rapid Adaptation]",
-        round3: "In New Component Integration, teams receive new components and must integrate them into the circuit they built in the previous round. During Functional Adaptation, teams adapt the circuit's function to incorporate the new components while maintaining the original circuit's primary function",  
+        round1title: "Matoran Puzzle",
+        round1: "Students will first answer thought-provoking MCQs focused on fundamental electronics concepts. Each answer is a single-word term related to electronics. The answers will be hidden within a crossword puzzle filled with Matoran alphabet instead of regular letters. Using a Matoran alphabet key, participants must find and decode each correct answer within the puzzle",
+        round2title: "Boolean Sudoku",
+        round2: "Participants solve a 4x4 sudoku divided into four numbered 2x2 subgrids.Each sub grid has a unique logic diagram with two 2-input gates, whose outputs provide 2-bit answers to fill each line of the sub grids. They must ensure that 2-bit entries don’t repeat within any row, column, or 2x2 sub grid",
+        round3title: "Mind Rush",
+        round3: "Each team will select a storyline number and receives clues via WhatsApp to find the specific classrooms. Volunteers in the class rooms verify answers and ask questions related to electronics; correct responses will earn a component picture. Aftercollecting 5 pictures, teams will have to assemble a circuit diagram at the final venue. The fastest 3 teams win the Spark &amp; Search title!",  
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/saprkandsearch.webp",
         staff: [
           {
+            name: "Dr. J. Jeffin Gracewell",
+            phone: 8903280025,
+          },
+          {
             name: "Dr. K. Mahendran",
             phone: 9698999699,
           },
-          {
-            name: "Ms. S. Subashini",
-            phone: 8220282898,
-          },
+          
         ],
         student: [
+          {
+            name: "Subashini  S",
+            phone: 8220282898,
+          },
           {
             name: "Vijayalakshmi B",
             phone: 8148444700,
@@ -1207,16 +1202,16 @@ export const EventDetails = [
             name: "Kameshwari M",
             phone: 6374942860,
           },
+
         ],
       },//6
 
       {
         name: "Tech-Bid Arena",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "10:00am - 01:00pm",
-        members: "Team of 2-3",
         round1title: "Components Insight",
         round1: "In Component Identification, teams identify electronic components and understand their functions. For Data Analysis, teams analyze component characteristics like resistance, capacitance, and voltage. Strategic Planning involves teams strategizing component prioritization based on circuit needs and budget",
         round2title: "Bid and Build",
@@ -1252,10 +1247,9 @@ export const EventDetails = [
       {
         name: "Wired 2 Breakbad",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 01:00pm",
-        members: "Team of 2",
         round1title: "CIRCUIT CHEMISTRY",
         round1: "In this challenge, participants are presented with a faulty circuit design in Tinkercad. The task is to identify and correct the errors within a set time limit. Throughout the challenge, participants earn points for every correct solution. At the end of the round, teams with the highest total points advance to the next round. The number of teams advancing to the final round will be determined based on the registration count",
         round2title: "COOK THE CODE",
@@ -1288,11 +1282,10 @@ export const EventDetails = [
 
       {
         name: "Electroholic",
-        date: "09 Nov 2024(AN)",
-        type: "Team",
+        date: "09 Nov 2024(AN & FN)",
+        type: "Team of 1-3",
         venue: "Will Be Updated Soon",
-        time: "01:00pm - 03:00pm",
-        members: "Team of 1-3",
+        time: "10:00am - 01:00pm",
         round1title: "Grab and Link",
         round1: "Test your electronics skills through a fun drag and drop activity. Drag the appropriate components to get the desired output of the circuit",
         round2title: "Unravel the pdf enigma",
@@ -1301,7 +1294,7 @@ export const EventDetails = [
         round3: "In this round, the first five participants who successfully unlock the PDF will advance to the next stage. Their challenge is to implement the specified circuit and write the code to achieve the desired functionality. All necessary components for circuit building and testing will be provided. Participants will receive a specific circuit schematic and must connect the components as per the design, followed by writing the required code to control the circuit's functions",
         tag: "EVENT",
         color: "0, 1, 38",
-        logo: "/EventsAssets/electroholic.webp",
+        logo: "/EventsAssets/elect.webp",
         staff: [
           {
             name: "Dr. R. Vinod kumar",
@@ -1331,10 +1324,9 @@ export const EventDetails = [
       {
         name: "Line Follower Robot",
         date: "08 Nov 2024(FN & AN)",
-        type: "Team",
+        type: "Team of 10",
         venue: "Will Be Updated Soon",
         time: "09:00am - 03:00pm",
-        members: "Team of 10",
         round1title: "Bot - Assemble",
         round1: "The teams will be studying and assembling the robot. Every teams gets the code and the components and each team should have a laptop to dump the code which is given. Every team should design their robot, they can use their own design based on their Creativity to assemble the robot. They get about 2 hours to assemble and design the robot. After they designed their model, they can participate in the Rounds",
         round2title: "Maze Curve",
@@ -1376,7 +1368,7 @@ export const EventDetails = [
       {
         name: "Gusto",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
         members: "Team of 3",
@@ -1418,10 +1410,9 @@ export const EventDetails = [
       {
         name: "QuadCon",
         date: "09 Nov 2024(FN & AN)",
-        type: "Team",
+        type: "Team of 3-4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 03:00pm",
-        members: "Team of 3-4",
         rules: "Participants are given a race track that they must complete. The tracks can be outdoor, featuring LED gates, flags, tunnels, and hoops to navigate. Pilots must maintain control of the quadcopter while navigating tight spaces and making split-second decisions. Drones used for the race course can have either an RC controller or a real-time operating system with an advanced flight controller, which is up to the participant. Participants can form a team comprising 2-3 members. The drone must not fly more than 4 meters in the air, as violating this could be a fatal mistake impacting their results",
         note:"The drone contesting in the race course must weigh within 1 kg 35 gms. The pilot operating the quadcopter must have some previous experience with operating drones, which will be checked by technical experts before the race starts. All pilots must follow the race rules; any violation of the rules will result in immediate disqualification of the participant.As mentioned, the race course can be indoor or outdoor. The track may be narrower, which will determine the level of capability and robustness required from the drone. There can be sections of the track where the drone is restricted to an altitude of 75 cm or even lower. Some sections will test the drone's ability to move both forward and backward. Hitting any obstacles will incur penalties, such as added time to your overall race time. Finally, upon completion of the race course, the drone must land within a specified region for the timer to stop",
         tag: "EVENT",
@@ -1501,17 +1492,14 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
-            },
+           
           ],
         },
         day2: {
@@ -1546,16 +1534,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -1591,16 +1575,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -1636,16 +1616,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -1681,16 +1657,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -2002,17 +1974,17 @@ export const EventDetails = [
       },//5
 
       {
-        name:"Building Intelligent Robot With ROS and RoboDK : A Hands-on One Day Workshop",
+        name:"Building Intelligent Robot With ROS and RoboDK : A Hands-on Workshop",
         logo: "EventsAssets/buildingintell.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
-        time: "FULL DAY", 
+        time: "09:00am - 03:00pm", 
         link: "https://docs.google.com/forms/d/e/1FAIpQLSf1_wB1Xnurtv7g0KZ5snydWHoGH2GsXr44H2YaFiIWd4gXWA/viewform",
         note: "All participants must bring Laptop",
         day1: {
           date: "07 Nov 2024",
-          time: "09:00am - 04:30pm",
+          time: "09:00am - 03:00pm", 
           mode: "Individual",
           venue: " Will Be Updated Soon",
           resource: [
@@ -2040,7 +2012,7 @@ export const EventDetails = [
         },
         day2: {
           date: "08 Nov 2024",
-          time: "09:00am - 04:30pm",
+          time: "09:00am - 03:00pm", 
           mode: "Individual",
           venue: " Will Be Updated Soon",
           resource: [
@@ -2085,7 +2057,7 @@ export const EventDetails = [
           resource: [
             {
               name: "Mr. Santhosh",
-              desig: "Cybersecurity Inspector, Cyber Heals Infotech Pvt. Ltd",
+              desig: "Cybersecurity Instructor, Cyber Heals Infotech Pvt. Ltd",
             },
           ],
           staff: [
@@ -2117,7 +2089,7 @@ export const EventDetails = [
           resource: [
             {
               name: "Mr. Santhosh",
-              desig: "Cybersecurity Inspector, Cyber Heals Infotech Pvt. Ltd",
+              desig: "Cybersecurity Instructor, Cyber Heals Infotech Pvt. Ltd",
             },
           ],
           staff: [
@@ -2304,7 +2276,7 @@ export const EventDetails = [
       {
         name: "Inno Block",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 8-10",
         venue: "Will Be Updated Soon",
         time: "N/A",
         members: "N/A",
@@ -2320,7 +2292,7 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: "Sowmia R ",
+            name: "Sowmia R",
             phone: 8667073236,
           },
           {
@@ -2341,10 +2313,9 @@ export const EventDetails = [
       {
         name: "Tech Sprint",
         date: "09 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
-        members: "Team of 3",
         note:"Correct Answer on First Attempt - Points: 10 points.Condition: If the team guesses the correct technical word within the first few seconds (eg, within 10 seconds of displaying the words).Correct Answer on Second Attempt - Points: 7 points.Condition: If the team guesses the term after receiving a hint, or within the next 10 - 20 seconds.Correct Answer on Final Attempt - Points: 5 points.Finally, The team with Highest Points will win",
         round1title: "Pictogram",
         round1: " Objective :  Teams must identify a hidden puzzled image as early as possible to get max points. This round challenges their ability to recognize partial visuals. Timing: Allocated a time limit (eg, 10-30 seconds) for each team to answer once the images are shown.Team: 10 teams with 3 members each (30 participants) Qualification: Top 7 Teams will qualify for the next round",
@@ -2352,7 +2323,7 @@ export const EventDetails = [
         round2: "Jumbled words (Decrypt the Word, Word Chaos): Objective : Unscramble the jumbled word to form a valid technical term.Answering : Teams should write down the answers on the provided sheets Timing: Allocated a time limit (eg, 30–60 seconds) for each team to answer once the words are shown.Team: 7 teams with 3 members each (21 participants).Qualification: Top 5 Teams will qualify for the next round",
         round3title: "Memory Hunt",
         round3: "Objective : Display images of various components (eg, resistors) on the screen for a short duration (eg, 30 seconds to 1 minute). In each round, teams will need to recall and identify the components they saw earlier. After showing the images, teams will have a short amount of time (eg, 15-20 seconds) to list down or identify the components they remember. Answering : Teams should write down the answers on the provided sheets Timing: Allocated a time limit (eg, 30–60 seconds) for each team to answer once the images are shown. Team: 5 teams with 3 members each (15 participants).Winning: Top 3 teams will move to the next round",
-        round4title: "Jumbled words Decryptthe Word, Word Chaos",
+        round4title: "Criss Cross",
         round4: "Objective : Teams will be given a crossword puzzle with technical terms related to various fields (eg, electronics).The puzzle contains a series of clues for which teams need to provide correct answers in the crossword grid.Answering : Teams should write down the answers on the provided sheets.Timing: Allocated a time limit (eg, 5 mins) for each team to answer once the puzzles are shown.Team: 3 teams with 3 members each (9 participants).Winning: Team with Max points will be the winner",
         
         tag: "EVENT",
@@ -2387,17 +2358,11 @@ export const EventDetails = [
       {
         name: "Circuit Wizardry ",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-4",
         venue: "Will Be Updated Soon",
         time: "N/A",
         members: "Team of 2-4",
         rules: "Team composition can consist of 2 to 4 members. The time limits are as follows: for the design phase, teams have 60 to 90 minutes, and for the debug phase, they have 30 to 45 minutes. The event is open to undergraduate students pursuing electrical, electronics, or related engineering courses.  Materials provided include simulation software licenses or hardware components for circuit design. The design must be original and created during the event; pre-designed circuits or plagiarized work will lead to disqualification. Teams must submit their circuit design and debugging solution within the given time frame. Teams can choose either simulation software or hardware (as per the event's setup) to design the circuit",
-        // round1title: "",
-        // round1: "",
-        // round2title: "",
-        // round2: "",
-        // round3title: "",
-        // round3: "",
         note:"Violation of time limits occurs if teams exceed the time limit by more than 10 minutes in any phase without a valid reason. Unauthorized assistance includes seeking help from external sources during the event.Design accuracy is crucial; the circuit must meet all the given design requirements. Creativity will be rewarded, as innovative use of components or creative design approaches can earn bonus points. Efficiency is important; teams must fix faults in the debug phase within the allotted time, with quick and accurate fixes scoring higher. Presentation and teams should be able to explain their design and debug process clearly to the judges",
         tag: "EVENT",
         color: "0, 1, 38",
@@ -2431,10 +2396,9 @@ export const EventDetails = [
       {
         name: " Bot Race",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "N/A",
-        members: "Team of 3",
         rules: "Each team consists of 1-2 participants. Teams must register before the event starts, and participants should be present at the venue 20 minutes prior to the event. The event consists of a single race. The decision of the judges is final and binding.The race will be held on a predetermined track, and each team will have 2-3 minutes to complete it. The fastest completion time wins the race. In case of a tie, the team with the fewest errors will be declared the winner",
         note:"Bot Specifications:Bots must be remotely controlled or wired. The maximum size for the bots is 30 cm x 30 cm x 30 cm, and they should not exceed a weight of 5 kg. Additionally, bots must not cause damage to the track or other bots",
         tag: "EVENT",
@@ -2556,10 +2520,9 @@ export const EventDetails = [
       {
         name: "Tech Battle",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "10:00 AM - 12:00 PM",
-        members: "Team of 3",
         round1title: "Spotlight & Recall",
         round1:
           "Collect the Group of Components displayed on the Screen. Convey the image through action and find its technical term",
@@ -2595,10 +2558,9 @@ export const EventDetails = [
       {
         name: "Digital Mania",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 12:00pm",
-        members: "Team of 2",
         round1title: "ELECTROMYSTERY",
         round1:
           "Duration: 10 minutes. most words collected by a team will be qualified. Top 8 teams will be qualified for the next round",
@@ -2802,7 +2764,7 @@ export const EventDetails = [
       {
         name: " Business Quiz",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09.30am - 10:00am",
         members: "Team of 2-3",
@@ -2844,10 +2806,9 @@ export const EventDetails = [
       {
         name: "AD-ZAP",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 5",
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
-        members: "Team of 5",
         rules: "Each team can consist of a maximum of 5 members. The product name will be given on the spot, and teams will have 20 minutes for preparation. Vulgarity or offensive terms will lead to disqualification. The time to perform the advertisement is 5 minutes, followed by a 2-minute presentation and Q&A session. Exceeding the time limit may result in penalties. Teams are encouraged to use humor, innovation, and creativity to engage the audience. Participants can bring any required materials. The judges' decision will be final",
         tag: "EVENT",
         color: "0, 1, 38",
@@ -3001,10 +2962,9 @@ export const EventDetails = [
       {
         name: " Ideathon",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "6612, 6th Floor, SEC",
         time: "01:00pm - 03:00pm",
-        members: "Team of 2",
         rules: "The topic will be revealed at the time of the event, and participants must analyze the problem statement. They will have one hour to create an idea for the topic and prepare a PowerPoint presentation. Based on their innovation, five teams will be selected to advance to the next round. The selected teams will present in the second round, and prizes will be awarded based on the presentation and their ideology",
         note:"Participants should arrive at the venue 15 minutes early and follow the rules set for the event. Laptops are mandatory, and each student should have their own. It's important to pay attention to instructions from the event supervisors and ensure a proper internet connection is available. Additionally, participants should bring chargers for their laptops and phones.Participants should avoid sharing their ideas with other teams and refrain from extending their time for creating ideas. Additionally, if two teams submit the same idea, both will be disqualified",
         tag: "EVENT",
@@ -3060,10 +3020,9 @@ export const EventDetails = [
       {
         name: "Water Rocketry",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 2",
         venue: "Bike Parking, SEC",
         time: "01:00 - 03:30pm",
-        members: "Team of 2",
         rules: "Addon weights like stones or paper bundles inside the rocket are strictly prohibited. Each team is allowed to bring only one rocket, and changing or repairing rockets for further rounds are not permitted. Teams should avoid sharing rockets with others. While participants can build their rockets on site, they will not be provided with any materials",
         note:"Here's the information for the Water Rocketry event without points:Participants should arrive at the venue 15 minutes early and follow all safety rules. It's important to pay attention to the instructions given by event supervisors. Only plastic bottles are allowed to be used for building the rocket, and each team must bring their own rocket. Participants should also bring any necessary materials in case they need to build their rocket on the spot",
         tag: "EVENT",
@@ -3119,10 +3078,9 @@ export const EventDetails = [
       {
         name: "Cruisin' Quiz",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "6412, 6th Floor, SEC",
         time: "09:00am - 11:00am",
-        members: "Team",
         note:"Participants will compete in different rounds like Ignition, Torque Test, and Rev Limit, each filled with car facts, brand trivia, and industry insights. The quiz features varied formats including Multiple Choice, Rapid Fire, and Audio-Visual rounds to maintain engagement. Advancement is based on performance, as only the top teams progress, with increasing challenges to heighten the competition. The top three teams will secure the winning positions, and a bonus round will resolve any ties. This event is designed for all auto enthusiasts, from casual fans to dedicated aficionados",
         tag: "EVENT",
         color: "0, 1, 38",
@@ -3328,11 +3286,12 @@ export const EventDetails = [
         type: "Team of 3-4",
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
-        rules:"Participants to be in a team of 3-4 members. Pre requisite to join this event - Basic knowledge on electrical components, general medical equipments, computer hardwares, Basics in python.Event consists of 2 Rounds and each round will have time limits",
+        rules:"Participants to be in a team of 3-4 members .Pre requisites to join this event - Basic knowledge on electrical components, general medical equipments, computer hardware's, Basics in python .Event consists of 2 Rounds (Prelims and finals) and each round will have time limits, within which teams have to play ",
         round1title: "Wingardium Leviosa",
-        round1: "A video consisting of spells and characters from harry potter will be shown.Participants must memorize them quickly.Two from each team must come forward to participate.A flash card consisting names of components,eqipments etc, will be provided to one participant.They must give hints/indirect clues to other one to find it (no actions to be used).Time limit will be provided.When the team participant couldn't find the solution and wants next flash card, they must immediately pronounce a spell or character name previously shown in the video Time runs throughout the event.The team finding highest no of names in flash cards within the given time limit will be sent to next round 2",
+        round1: "Two members from each team must come forward to play .Flash cards will be provided to the participants in order to answer within given time limit.Teams with highest scores will be sent to the finals",
         round2title: "The Mind Flayer",
-        round2: "Each time questions Inspired from stranger things series will be asked and must be answered within 30 sec This will be a buzzer round.The answering team will get +5 point Then they get a chance to roll a dice Based on the number from the dice , flash cards with riddles about components or python codes will be given.Team members together must find the answers within 1 min If found the team will be given +3 points If not found then they will get minus (-3) points",
+        round2: "Teams scrutinized from Round 1 are eligible to Participate.All team members can participate.This is a Buzzer Round, where only limited chances are given and open to all teams for answering.Teams with highest score will be given top places",
+        note:"Round 2 consists of questions related to Stranger things series, make sure any of your team mate is a 'GURU' about the series, if not then no worries u can still participate",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/pottertricks.webp",
@@ -3349,11 +3308,15 @@ export const EventDetails = [
           },
           {
             name: "Varshini R",
-            phone: 9626041978,
+            phone: 9626041971,
           },
           {
             name: "Manjushree R",
             phone: 8778633695,
+          },
+          {
+            name: "Sanjeey Karthick B",
+            phone: 6374060940,
           },
         ],
       },//1
@@ -3376,7 +3339,7 @@ export const EventDetails = [
         logo: "/EventsAssets/thesquidgame.webp",
         staff: [
           {
-            name: "Mrs. Priya ",
+            name: "Mrs. Mary Adline Priya",
             phone: 9791244990,
           },
         ],
@@ -3399,18 +3362,86 @@ export const EventDetails = [
           },
         ],
       },//2
+
+      {
+        name: " Bio Nexus",
+        date: "08 Nov 2024(FN)",
+        type: "Team of 3-4",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 12:00pm",
+        round1title: "Puzzle Reveal Challenge",
+        round1: "Objective: identify an image from blinking segments.Team Setup: 3 members per team, with 3 teams per batch.Activity: Teams observe image segments displayed one at a time and press the buzzer",
+        round2title: "Escape Room Adventure",
+        round2: "Objective: Solve medical electronics-themed puzzles in an online escape room,web page will be shared during the event.Team Setup: 3 members per team.Activity: Teams work together to solve puzzles within the virtual escape room",
+        round3title: "Circuit Replication Challenge",
+        round3: "Objective: Replicate a circuit in Tinkercad after a 2-minute observation.Team Setup: 3 members per team.Activity: Teams replicate a pre-built circuit based on memory.If they want to see the cicuit diagram again ,one member from the team should eat a piece of bitter gourd and see the circuit for 30 seconds",
+        note:"BIO-NEXUS consists of three stages designed to test skills in observation, problem-solving, and technical accuracy",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/bionexus.webp",
+        staff: [
+          {
+            name: "Ms. T. Indumathy",
+            phone:  9003025299,
+          },
+        ],
+        student: [
+          {
+            name: "Cheenu D",
+            phone: 7708350437,
+          },
+          {
+            name: "Jayarubini K",
+            phone: 6381954861,
+          },
+          {
+            name: "Gowtham Murugappan A R",
+            phone: 9443094130,
+          },
+      
+        ],
+      },//3
     ],
     workshopslist: [
       {
-        name: "From Imagination to Reality",
+        name: "From Imagination to Reality : Customized Crafeing of Digit Support Prostheses",
         logo: "/EventsAssets/med24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         // company: "KVS BIOMEDICAL",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSeN2NWlWHiP4FiW_fPEdNJuxbmABJH461TjL561ScTTGEwuBA/viewform",
-        note:"We have done the Home Security project in this internship using OpenCV, Yolo, Keras, and TensorFlow. In this project, my part is to interface the modules, planning the work process and collecting the database for the security system.In this Internship, I’ve learned a lot about IoT devices and interfaces. The projects given to us are Food Spectroscopic analysis using Spectral Triad for Quality monitoring, and an automatic cleaning Robot, for which my part in this project is designing in CAD and Programming in Raspberry Pi using Machine Learning. In this company, I worked as a Hardware Development Engineer, and here I’ve worked on testing the Circuits, worked with various Sensors used for Automobile Testing, designed a Power Backup circuit, Designed and developed the PCBs, and worked on Fabricating PCBs with SMD and THT components.At OTOMATIKS, I worked as a Robotics Research Engineer, and here I’ve worked on building Robotic Projects, preparing course research on Aeromodelling, and Trained Students on Robotics and guided them building projects",
+        note:"Introduction to Prosthetic Design and Customization.3D Modeling and Printing for Prosthetic Applications.Material Selection and Biocompatibility.Anatomical Fit and Functional Analysis.Digital Workflow in Prosthetic Crafting.Testing and Troubleshooting Prostheses.Patient-Centric Design Considerations.All participate must bring laptop",
         day1: {
           date: " 06 Nov 2024 (FN & AN)",
+          time: "09:00am - 03:00pm",
+          mode: "OFFLINE",
+          venue: "will be updated soon",
+          list: true,
+            resource: [
+            {
+              name: "Mr. M. Hari Vishal",
+              desig: "Founder and CEO, Visil Technologies"
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. N. Vigneshwari",
+              phone: 8056466552 ,
+            },
+          ],
+          student: [
+            {
+              name: "Hari Prakash ",
+              phone: 9600301926,
+            },
+            {
+              name: "Deepika ",
+              phone: 7200354009 ,
+            },
+          ],
+        },
+        day2: {
+          date: " 07 Nov 2024 (FN & AN)",
           time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "will be updated soon",
@@ -3447,7 +3478,7 @@ export const EventDetails = [
     title: "SCOFT [ AIDS | AIML | CSE | CSE (CYB) | CSE (IOT) | IT ]",
     eventslist: [
       {
-        name: "Murder Mystery",
+        name: "Mystery Layers",
         tagline: "",
         date: "08 Nov 2024(AN)",
         type: "Team of 3",
@@ -3491,10 +3522,9 @@ export const EventDetails = [
       {
         name: "Crypt N Hunt",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 3",
         rules: "Participants must work in teams of 3. Laptops and internet access are required",
         round1title: "The Tech Quiz Challenge",
         round1:"Teams will face a series of challenging quiz-based questions that test their knowledge across various technical domains. It's all about accuracy and teamwork as you work together to solve the problems and find the correct answers",
@@ -3533,10 +3563,9 @@ export const EventDetails = [
       {
         name: "Data Note",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team of 3",
         venue: "Will Be Updated Soon",
         time: "01:00pm - 03:00pm",
-        members: "Team of 3",
         rules: "Participants must work in teams of 3. AI tools are prohibited",
         round1title: "L's Data Investigations",
         round1: "The setting is L's dimly lit office, cluttered with stacks of data reports and illuminated by the flickering glow of computer screens. This is where L, the world’s greatest detective, meticulously examines every detail, searching for patterns that might lead him to Kira. Participants step into this realm, embodying L's investigative spirit. Armed with a dataset filled with clues—crime statistics, social media activity, and more—they must analyze the information to uncover trends that could reveal Kira's next move. With five questions to answer, teams work frantically, applying statistical methods to determine which day had the highest crime rates or uncovering the most prevalent social media interactions. The clock ticks down, and they race to submit their findings, knowing that accuracy and clarity will earn them crucial points",
@@ -3544,7 +3573,7 @@ export const EventDetails = [
         round2: "As the investigation deepens, the scene shifts to Kira’s hideout—an enigmatic space where strategy and manipulation reign supreme. Here, Kira devises intricate plans, and participants must adopt his cunning mindset to prevail.In Kira’s Preprocessing Trial, teams face a series of data challenges that test their collaborative skills and analytical prowess. Each task reveals a clue that will bring them closer to escaping the room, just as Kira carefully orchestrates his moves to outwit L. Teams tackle the first challenge of handling missing values, filling in gaps to ensure data integrity. Next, they confront duplicates, stripping away redundancy to present a unique dataset. Outlier detection becomes a race against time as they identify anomalies, while data type conversion ensures every piece of information is in its rightful format. The pressure mounts, and only those who solve each task with speed and accuracy will advance",
         round3title: "Shinigami's Data Vision",
         round3: "In the final act, participants enter the mystical realm of the Shinigami, where clarity and insight illuminate the darkness. Here, the true power of visualization comes to life. Just as the Shinigami can perceive lifespans, teams must create visual representations that reveal the hidden narratives within their data. With a 3x3 Bingo card in hand, participants engage in a flurry of creativity. They tackle a variety of visualization challenges—from pie charts to scatter plots—working together to communicate trends and insights that could change the game. As they complete three tasks in a row and call “Bingo!”, the anticipation builds. They present their visualizations to the judges, explaining how each chart uncovers a deeper understanding of the data. In this moment, the power of insight becomes their ultimate weapon",
-        note:"Laptop with internet connection. Jupyter Notebook required",
+        note:"Laptop with internet connection. Jupyter Notebook required / Kaggle required",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/datanote.webp",
@@ -3577,10 +3606,9 @@ export const EventDetails = [
         name: "Techtopia",
         // tagline: "",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 3-4",
         venue: "Will Be Updated Soon",
-        time: "10:00am - 12:00pm",
-        members: "Team of 3-4",
+        time: "09:00am - 12:00pm",
         rules:"Each team must consist of 3-4 members to participate. Solo Entries are allowed. Participants must bring their own laptops with personal data connections. Participants must code and solve challenges without using AI tools or assistants like ChatGPT or similar. Stick to the time limits—no extensions!. Cheating or copying leads to disqualification",
         round1title: "Code Rewind: Reverse the Logic!",
         round1: "Given only the final output, reconstruct the code in any language helpful that produces the given output",
@@ -3621,10 +3649,9 @@ export const EventDetails = [
         name: "Design Dhamaka",
         // tagline: "",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 2-3",
         rules:"Teams of 2-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections. All the team members should know about the components and designing software",
         round1title: "Web Design",
         round1: "Participants will design a UI/UX landing page using Figma, based on a given prompt",
@@ -3654,7 +3681,7 @@ export const EventDetails = [
         name: "IOT Hacktivate",
         // tagline: "",
         date: "08 Nov 2024(AN)",
-        type: "Team",
+        type: "Team 1-3",
         venue: "Will Be Updated Soon",
         time: "1:00pm to 3:00pm",
         members: "Team of 1-3",
@@ -3690,10 +3717,9 @@ export const EventDetails = [
         name: "Web Wizards",
         // tagline: "",
         date: "09 Nov 2024(FN & AN)",
-        type: "Team",
+        type: "Team of 1-4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 03:00pm",
-        members: "Team of 1-4",
         round1title: "Presentation of working prototype of their pre-made website",
         round1: "Participants will present a working prototype of their pre-made website. Teams can consist of 1 to 4 members. Participants are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. They will explain their unique touch and showcase their technical skills during the presentation. Evaluation criteria include originality, technical execution, and user experience",
         round2title: "Live Development Challenge",
@@ -3731,10 +3757,9 @@ export const EventDetails = [
         name: "Code Crusade",
         // tagline: "",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 1-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 1 - 3",
         round1title: "Connections",
         round1: "Participants decode visual clues, with each set of images representing a specific programming concept or technical term. The goal is to identify the correct term based on abstract visuals, covering ideas like algorithms, data structures, and general programming terms. The quiz is conducted online with interactive elements for direct engagement. Focus areas include programming fundamentals, algorithms, logic-based riddles, and tech trivia related to data structures. Each question has a 30-second time limit to challenge quick thinking and connections. The top 50% of participants qualify for Round 2 based on their first-round scores",
         round2title: "The Code Doctor",
@@ -3774,10 +3799,9 @@ export const EventDetails = [
       {
         name: "Prompt Arena",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 2-3",
         rules:"Each team must consist of 2-3 members. Teams must use the provided AI tools for image replication and comic creation. All submissions must be original and created during the event. Each round has a specified time limit. Teams will be judged based on creativity, originality, and adherence to the prompt",
         round1title: "Copycat",
         round1:"Participants will be given a pre-generated image created using AI tools, and their task is to replicate it as closely as possible. This round tests not only their creativity but also their precision and attention to detail. Can you match the AI’s creation using your artistic skills? The top 10 teams will advance to the second round",
@@ -3816,10 +3840,9 @@ export const EventDetails = [
       {
         name: "Escape Room",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 2-3",
         round1title: "Scriptum Invisum",
         round1: "Teams will be provided access a designated webpage . Participants must carefully analyze the webpage, looking for clues and hidden passcodes embedded in different sections",
         round2title: "Imago Analysare",
@@ -3861,10 +3884,9 @@ export const EventDetails = [
       {
         name: "The Web Showdown",
         date: "08 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 1-3",
         venue: "Will Be Updated Soon",
         time: "10:00am - 12:00pm",
-        members: "Team of 1-3",
         rules:"Teams of 1-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections",
         round1title: "The Code Crunch (Web Dev Quiz)",
         round1: "Participants must complete a quiz based on web development within a stipulated time. Multiple-choice questions will be provided to test knowledge on HTML, CSS, JavaScript, and general web technologies",
@@ -3904,10 +3926,9 @@ export const EventDetails = [
       { 
         name: "Algoinception",
         date: "09 Nov 2024(FN)",
-        type: "Team",
+        type: "Team of 2-3",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        members: "Team of 2-3",
         rules:"Teams must consist of 2-3 participants(Minimum - 2). Laptops and internet usage are permitted, but plagiarism is strictly prohibited. Participants should solve problems sequentially in both rounds. Any violation of rules may lead to disqualification",
         round1title: "Image Puzzle Grid Challenge",
         round1: "Grid Setup: The grid is arranged in a 3x3 format, with each square hiding part of a larger image. The coding challenges inside each grid range in difficulty. Solving and Revealing: When a team solves a problem, the corresponding grid section is revealed. The goal is to reveal as many sections as possible within the time limit and identify the image. Sequential Order: Problems must be solved in a specific order, unlocking adjacent grids as teams progress. Hint System: Teams may request hints, but doing so may add penalties to their overall score",
@@ -4719,17 +4740,14 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
-            },
+           
           ],
         },
         day2: {
@@ -4764,16 +4782,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -4809,16 +4823,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -4854,16 +4864,12 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
@@ -4899,20 +4905,17 @@ export const EventDetails = [
               phone: 7358132832,
             },
             {
-              name: "Dharshini M",
-              phone: 7418067027,
+              name: "Arjun N S",
+              phone: 7845904452,
             },
             {
-              name: "Bharath M",
-              phone: 8056048552,
-            },
-            {
-              name: "Sharvina Sri",
-              phone: 6383868305,
+              name: "Kishore Narayanan",
+              phone: 9176125008,
             },
           ],
         },
       },//14
+      
 
       {
         name: "Dive into Deep Learning",

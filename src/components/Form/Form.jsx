@@ -186,10 +186,10 @@ const Form = () => {
         SecureToken: process.env.REACT_APP_EMAILCODE_ID,
         To: formdata.email,
 
-        From: "drestein@saveetha.ac.in",
+        From: "drestein2023@gmail.com",
 
         Subject:
-          "Congrats! Your registration for Drestein is complete 🎉",
+          "Congrats! Your registration for Drestein is completed 🎉",
 
         Body: `
            <h2>Congrats ${formdata.fname},</h2>
@@ -466,13 +466,14 @@ const Form = () => {
       events: [
         "POTTER TRICKS",
         "THE SQUID GAME",
+        "BIO NEXUS",
         ],
     }, //med
 
     {
       name: "SCOFT",
       events: [
-        "MURDER MYSTERY",
+        "MYSTERY LAYERS",
         "CRYPT N HUNT",
         "DATA NOTE",
         "TECHTOPIA",

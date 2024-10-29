@@ -182,13 +182,14 @@ export default function UpdateForm({
       events: [
         "POTTER TRICKS",
         "THE SQUID GAME",
+        "BIO NEXUS",
         ],
     }, //med
 
     {
       name: "SCOFT",
       events: [
-        "MURDER MYSTERY",
+        "MYSTERY LAYERS",
         "CRYPT N HUNT",
         "DATA NOTE",
         "TECHTOPIA",
