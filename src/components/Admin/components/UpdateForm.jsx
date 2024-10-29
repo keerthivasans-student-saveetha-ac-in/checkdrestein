@@ -210,6 +210,8 @@ export default function UpdateForm({
         "CASE-IN-POINT CASE STUDY COMPETITION",
         "BUSINESS QUIZ",
         "BEST MANAGER",
+        "AD-ZAP",
+        "IPL AUCTION",
       ],
     }, //mba
    

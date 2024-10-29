@@ -80,21 +80,21 @@ function Departments() {
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "Poster Presentation") {
+    } else if (data.title === "POSTER PRESENTATION") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
         <a href="posterpresentation.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "Paper Presentation") {
+    } else if (data.title === "PAPER PRESENTATION") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
-        <a href="pap.webp" key={i} target="_blank">
+        <a href="paperpresentation.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "Best-out-of-Waste") {
+    } else if (data.title === "BEST\tOUT\tOF\tWASTE") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
         <a href="boow.webp" key={i} target="_blank">
@@ -125,15 +125,17 @@ function Departments() {
       <DepartmentContainer>
   {splevnt.map((data, i) => 
   {
-    if (data.title === "IPL AUCTION") {
-      // If the title is "Project Display," render a link to the Project Display PDF.
-      return (
-        <a href="iplauction.webp" key={i} target="_blank">
-          <SpacialEventsCard {...data} />
-        </a>
-      );
-    } 
-    else if (data.title === "TECHNICAL\tMURDER\tMYSTERY") {
+    
+    // if (data.title === "IPL AUCTION") {
+    //   // If the title is "Project Display," render a link to the Project Display PDF.
+    //   return (
+    //     <a href="iplauction.webp" key={i} target="_blank">
+    //       <SpacialEventsCard {...data} />
+    //     </a>
+    //   );
+    // } 
+    
+    if (data.title === "TECHNICAL\tMURDER\tMYSTERY") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
         <a href="tmm.webp" key={i} target="_blank">
@@ -154,14 +156,18 @@ function Departments() {
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "ADZAP") {
-      // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
-      return (
-        <a href="adzap.webp" key={i} target="_blank">
-          <SpacialEventsCard {...data} />
-        </a>
-      );
-    } else if (data.title === "AUTO EXPO") {
+    } 
+    
+    // else if (data.title === "ADZAP") {
+    //   // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
+    //   return (
+    //     <a href="adzap.webp" key={i} target="_blank">
+    //       <SpacialEventsCard {...data} />
+    //     </a>
+    //   );
+    // }
+
+    else if (data.title === "AUTO EXPO") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
         <a href="/DepartmentAssets/autoco.webp" key={i} target="_blank">

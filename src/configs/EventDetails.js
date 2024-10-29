@@ -2998,6 +2998,88 @@ export const EventDetails = [
         ],
       },//3
 
+      {
+        name: "AD-ZAP",
+        date: "08 Nov 2024(AN)",
+        type: "Team of 5",
+        venue: "Will Be Updated Soon",
+        time: "01:00pm - 03:00pm",
+        rules: "Each team can consist of a maximum of 5 members. The product name will be given on the spot, and teams will have 20 minutes for preparation. Vulgarity or offensive terms will lead to disqualification. The time to perform the advertisement is 5 minutes, followed by a 2-minute presentation and Q&A session. Exceeding the time limit may result in penalties. Teams are encouraged to use humor, innovation, and creativity to engage the audience. Participants can bring any required materials. The judges' decision will be final",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/adzap.webp",
+        staff: [
+          {
+            name: "Dr. Catherine",
+            phone: 8148915712,
+          },
+          {
+            name: "Dr. P. Shalini",
+            phone: 9940116246,
+          },
+        ],
+        student: [
+          {
+            name: " Shantanu Raj K",
+            phone: 7339287524,
+          },
+          {
+            name: " Prabhanjen V ",
+            phone: 6383825014,
+          },
+         
+        ],
+      },//4
+
+      {
+        name: "IPL Auction",
+        date: "08 Nov 2024(FN)",
+        type: "Team of 2",
+        venue: "Will Be Updated Soon",
+        time: "10:00am - 12:00pm",
+        rules: "The competition will have 2 rounds. Participants can be from any department and any year of study. Each team consist of 2 participants. Participants who do not adhere to the rules and regulations will be disqualified at any phase of the event. Decision of the Judges and the Organizing Committee will be final. Using electronic gadgets like mobile phone and smart watches is strictly prohibited. Judgment criteria - Player rating, Playing XI strength Overall team strength, In case of tie the winner will be decided based on the remaining budget",
+        round1title : "IPL Quiz",
+        round1 : "This round will be a Quiz which comprises of 25 multiple choice questions. Questions in this round is based on the past IPL tournaments. This is a paper and pen round. Duration of this round: 20 minutes. Teams will be selected on the basis of marks",
+        round2title : "IPL Auction (Bidding)",
+        round2 : "8 teams for the first round will be selected to participate in this round. An equal budget will be allocated to each team.A team should have a minimum of 11 Players and a maximum of 15 Players. A team can have a maximum of 4 Overseas Players. Each team should have a playing XI with 4 Batsmen, 3 Bowlers, 3 All Rounders, and 1 Wicket keeper. Unsold players will not be re-auctioned in case of players shortage",
+        tag: "EVENT",
+        color: "0, 1, 38",
+        logo: "/EventsAssets/iplogo.webp",
+        staff: [
+          {
+            name: "Dr. K. Sathiyamurthi",
+            phone: 9566580680,
+          },
+          {
+            name: "Dr. M. Deepa",
+            phone: 7042071986,
+          },
+          {
+            name: "Dr. M. Venith Vijay",
+            phone: 9840611531,
+          },
+        ],
+        student: [
+          {
+            name: "Lavanesh",
+            phone: 7305921189,
+          },
+          {
+            name: "Selva",
+            phone: 8124645775,
+          },
+          {
+            name: "Lavanya",
+            phone: 979043092,
+          },
+          {
+            name: "Basith",
+            phone: 9962664242,
+          },
+         
+        ],
+      },//5
+
     
   
     ],

@@ -257,14 +257,14 @@ export const departobj = [
 
 export const comobj = [
 
-  // {
-  //   id: "#paper",
-  //   title: "Paper Presentation",
-  //   img: "/DepartmentAssets/paper.webp",
-  //   des: "test",
-  //   color: "#ff0000",
-  //   bgtext: "Paper",
-  // },
+  {
+    id: "#paper",
+    title: "PAPER PRESENTATION",
+    img: "/DepartmentAssets/paper.webp",
+    des: "test",
+    color: "#ff0000",
+    bgtext: "Paper",
+  },
 
   // {
   //   id: "#project",
@@ -278,7 +278,7 @@ export const comobj = [
 
   {
     id: "#poster",
-    title: "Poster Presentation",
+    title: "POSTER PRESENTATION",
     img: "/DepartmentAssets/pp.webp",
     des: "test",
     // color: "#ff58c2",
@@ -287,7 +287,7 @@ export const comobj = [
   },
   {
     id: "#bestoutofwaste",
-    title: "Best-out-of-Waste",
+    title: "BEST\tOUT\tOF\tWASTE",
     img: "/DepartmentAssets/ce1.webp",
     des: "test",
     // color: "#ffff00",
@@ -319,14 +319,14 @@ export const splevnt= [
     bgtext: "LC",
   },
 
-  {
-      id: "#ipl",
-      title: "IPL AUCTION",
-      img: "/DepartmentAssets/iplogo.webp",
-      des: "test",
-      color: "#ffff00",
-      bgtext: "IPL",
-    },
+  // {
+  //     id: "#ipl",
+  //     title: "IPL AUCTION",
+  //     img: "/DepartmentAssets/iplogo.webp",
+  //     des: "test",
+  //     color: "#ffff00",
+  //     bgtext: "IPL",
+  //   },
 
   {
     id: "#Corporate Walk",
@@ -337,14 +337,14 @@ export const splevnt= [
     bgtext: "COR",
   },
 
-  {
-    id: "#ADZAP",
-    title: "ADZAP",
-    img: "/DepartmentAssets/adzaplogo.webp",
-    des: "test",
-    color: "#0080ff",
-    bgtext: "TENT",
-  },
+  // {
+  //   id: "#ADZAP",
+  //   title: "ADZAP",
+  //   img: "/DepartmentAssets/adzaplogo.webp",
+  //   des: "test",
+  //   color: "#0080ff",
+  //   bgtext: "TENT",
+  // },
 
   // {
   //   id: "#DUBSTAR",

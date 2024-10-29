@@ -494,6 +494,8 @@ const Form = () => {
         "CASE-IN-POINT CASE STUDY COMPETITION",
         "BUSINESS QUIZ",
         "BEST MANAGER",
+        "AD-ZAP",
+        "IPL AUCTION",
       ],
     }, //mba
    
