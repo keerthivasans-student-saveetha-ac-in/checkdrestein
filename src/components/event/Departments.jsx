@@ -128,12 +128,12 @@ function Departments() {
     if (data.title === "IPL AUCTION") {
       // If the title is "Project Display," render a link to the Project Display PDF.
       return (
-        <a href="ipl2023.webp" key={i} target="_blank">
+        <a href="iplauction.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
     } 
-    else if (data.title === "TECHNICAL-MURDER-MYSTERY") {
+    else if (data.title === "TECHNICAL\tMURDER\tMYSTERY") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
         <a href="tmm.webp" key={i} target="_blank">
@@ -150,14 +150,14 @@ function Departments() {
     } else if (data.title === "CORPORATE WALK") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
-        <a href="DU.webp" key={i} target="_blank">
+        <a href="corporatewalk.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "TENTUKOTTA") {
+    } else if (data.title === "ADZAP") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
-        <a href="tenco.webp" key={i} target="_blank">
+        <a href="adzap.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );

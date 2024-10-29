@@ -301,7 +301,7 @@ export const splevnt= [
 
   {
     id: "#CLUB1",
-    title: "TECHNICAL-MURDER-MYSTERY",
+    title: "TECHNICAL\tMURDER\tMYSTERY",
     img: "/DepartmentAssets/lb.webp",
     des: "test",
     // color: "#ac00e6",
@@ -319,23 +319,32 @@ export const splevnt= [
     bgtext: "LC",
   },
 
-  // {
-  //   id: "#ipl",
-  //   title: "IPL AUCTION",
-  //   img: "/DepartmentAssets/0ipl.webp",
-  //   des: "test",
-  //   color: "#ffff00",
-  //   bgtext: "IPL",
-  // },
+  {
+      id: "#ipl",
+      title: "IPL AUCTION",
+      img: "/DepartmentAssets/iplogo.webp",
+      des: "test",
+      color: "#ffff00",
+      bgtext: "IPL",
+    },
 
-  // {
-  //   id: "#Corporate Walk",
-  //   title: "CORPORATE WALK",
-  //   img: "/DepartmentAssets/cw.webp",
-  //   des: "test",
-  //   color: "#ac00e6",
-  //   bgtext: "COR",
-  // },
+  {
+    id: "#Corporate Walk",
+    title: "CORPORATE WALK",
+    img: "/DepartmentAssets/cw.webp",
+    des: "test",
+    color: "#ac00e6",
+    bgtext: "COR",
+  },
+
+  {
+    id: "#ADZAP",
+    title: "ADZAP",
+    img: "/DepartmentAssets/adzaplogo.webp",
+    des: "test",
+    color: "#0080ff",
+    bgtext: "TENT",
+  },
 
   // {
   //   id: "#DUBSTAR",
@@ -344,15 +353,6 @@ export const splevnt= [
   //   des: "test",
   //   color: "#00ff00",
   //   bgtext: "DUBS",
-  // },
-
-  // {
-  //   id: "#TENTUKOTTA",
-  //   title: "TENTUKOTTA",
-  //   img: "/DepartmentAssets/tentco.webp",
-  //   des: "test",
-  //   color: "#0080ff",
-  //   bgtext: "TENT",
   // },
 
   // {

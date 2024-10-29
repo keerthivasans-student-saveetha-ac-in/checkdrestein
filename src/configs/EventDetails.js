@@ -11,7 +11,7 @@ export const EventDetails = [
         type: "Team of 4",
         venue: "Will Be Updated Soon",
         time: "09:00am - 12:00pm",
-        rules:" ach team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential .Teams showing signs of poor coordination may be disqualified . QR codes will be placed at specific locations as part of the game .Teams must find and scan the QR codes to progress through the hunt .A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location .Teams should arrive at least 15 minutes before the event begins for briefing ",      
+        rules:"Each team must consist of exactly 4 members. Teams will be selected based on tasks given before the event.The event will last for a total of 3 hours. Teams must complete the hunt within this time frame.Proper coordination between team members is essential .Teams showing signs of poor coordination may be disqualified . QR codes will be placed at specific locations as part of the game .Teams must find and scan the QR codes to progress through the hunt .A stable internet connection is required to scan the QR. It is the responsibility of each team to ensure proper connectivity, lack of internet connection will not be considered an excuse.Teams failing to follow the rules, coordinate effectively, or show up on time may face disqualification.Misconduct or cheating will lead to immediate disqualification.The event will start promptly at the designated time and location .Teams should arrive at least 15 minutes before the event begins for briefing ",      
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cursedchest.webp",
@@ -244,12 +244,12 @@ export const EventDetails = [
         ],
         student: [
           {
-            name: "Parvathy Ramesh",
-            phone: 7418999581,
+            name: "Harsha V",
+            phone: 9940203477,
           },
           {
-            name: "Rohit R",
-            phone: 9566715119,
+            name: "Thangam C",
+            phone: 7010039511,
           },
           
         ],
@@ -1988,7 +1988,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
         time: "09:00am - 03:00pm", 
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSf1_wB1Xnurtv7g0KZ5snydWHoGH2GsXr44H2YaFiIWd4gXWA/viewform",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdBBvBX8_ycawF3-skOOkYR9msn5uZ7IpZkNG0GVem-2mrAdw/viewform",
         note: "All participants must bring Laptop",
         day1: {
           date: "07 Nov 2024",
@@ -3210,6 +3210,13 @@ export const EventDetails = [
         venue: "6412, 6th Floor, SEC",
         time: "09:00am - 11:00am",
         note:"Participants will compete in different rounds like Ignition, Torque Test, and Rev Limit, each filled with car facts, brand trivia, and industry insights. The quiz features varied formats including Multiple Choice, Rapid Fire, and Audio-Visual rounds to maintain engagement. Advancement is based on performance, as only the top teams progress, with increasing challenges to heighten the competition. The top three teams will secure the winning positions, and a bonus round will resolve any ties. This event is designed for all auto enthusiasts, from casual fans to dedicated aficionados",
+        rules: "Devices: Allowed in Round 1 only. Conduct: Respectful behaviour is required; disruptive actions lead to disqualification. The Quiz Master’s decision is final. Tie-Breaker: Any tie will be resolved through a rapid-fire round",
+        round1title : "Ignition",
+        round1 : "Content: Car logos, silhouettes, and basic automotive knowledge. Advancement: Top 50-60% proceed to Round 2. Mode: Digital",
+        round2title : "Torque Test",
+        round2 : "Content: Alternate car names, parent companies, mergers. Elimination: Bottom 40-50% are eliminated",
+        round3title : "Rev Limit",
+        round3 : "Content: Current automotive events, advancements, and motorsports. Awards: Top three teams will be awarded",
         tag: "EVENT",
         color: "0, 1, 38",
         logo: "/EventsAssets/cruisinquiz.webp",
@@ -4551,7 +4558,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue: "will be updated soon",
         time: "Full Day",
-        note:"Dive into the world of Robotic Process Automation (RPA) with this hands-on, two-day UiPath workshop designed for beginners and professionals alike. On Day 1, you'll master RPA basics: setup, exploring the UiPath environment, and building your first automated workflows, including web scraping and Excel automation. Day 2 takes you deeper, with advanced automation techniques, error handling, email and PDF automation, and modular workflow design. By the end, you’ll have practical, industry-ready skills to automate repetitive tasks, optimize workflows, and boost productivity with UiPath",
+        note:" Laptop mandatory. Dive into the world of Robotic Process Automation (RPA) with this hands-on, two-day UiPath workshop designed for beginners and professionals alike. On Day 1, you'll master RPA basics: setup, exploring the UiPath environment, and building your first automated workflows, including web scraping and Excel automation. Day 2 takes you deeper, with advanced automation techniques, error handling, email and PDF automation, and modular workflow design. By the end, you’ll have practical, industry-ready skills to automate repetitive tasks, optimize workflows, and boost productivity with UiPath",
         link: "https://forms.gle/BpjKcs9XZG4rvncq9",
         day1: {
           date: "06 Nov 2024",
