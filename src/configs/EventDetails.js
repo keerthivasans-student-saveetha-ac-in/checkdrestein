@@ -2601,8 +2601,8 @@ export const EventDetails = [
         color: "0, 70, 90",
         link: "https://docs.google.com/forms/d/e/1FAIpQLSeRuL6PfSaod7e9JAEww9q4IkllDBB1Cy4RQ4glymBji6nX9Q/viewform?usp=sf_link",
         day1: {
-          date: " 04 Nov 2024",
-          time: "Full Day",
+          date: "07 Nov 2024",
+          time: "09:00am - 03:00pm",
           mode:"OFFLINE",
           venue:"will be updated soon",
           // company: "Think Big Unlocking Innovation",
