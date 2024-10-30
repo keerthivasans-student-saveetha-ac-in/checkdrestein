@@ -311,7 +311,7 @@ export const splevnt= [
 
   {
     id: "#CLUB2",
-    title: "VOICE OVER",
+    title: "VOICE\tOVER -\tDUBBING",
     img: "/DepartmentAssets/lb.webp",
     des: "test",
     // color: "#ac00e6",

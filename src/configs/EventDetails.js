@@ -2798,20 +2798,20 @@ export const EventDetails = [
       ],
     workshopslist:[
       {
-        name: "Building Robotics Applications with ROS",
+        name: "Generative AI Essentials: Deep Dive into Models, NLP, and Image Generation",
         logo: "/EventsAssets/eie24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
         venue:"will be updated soon",
         // company: "Karthikesh Robotics Pvt LTD",
-        note:"Introduction to ROS and its architecture. Building a ROS-based robotic system. Simulating robot behavior using ROS tools. Communication between robotic sensors and actuators using ROS. Real-time data handling for robotic applications. Practical applications of ROS in various industries",
+        note:"This workshop provides an in-depth introduction to generative AI, covering essential AI concepts, practical applications, and hands-on activities. Participants will learn about various generative models, including transformers, RNNs, and diffusion models, and will gain practical experience in natural language processing (NLP) and image generation.Introduction to ROS and its architecture. Building a ROS-based robotic system. Simulating robot behavior using ROS tools. Communication between robotic sensors and actuators using ROS. Real-time data handling for robotic applications. Practical applications of ROS in various industries",
         link: "https://forms.gle/7GrJx2jvrCQ2KSbs9",
         day1: {
           date: " 06 Nov 2024",
           time: "8:00 AM – 3:00 PM",
           mode: "OFFLINE",
-          venue:"",
-          // topic: "Day 1: 10:00 AM to 12:00 PM- Introduction to Instrumentation Design.Introduction.Overview of an Engineering Organization.Role of a Process Engineer.Project Documentation. Day 1: 01:00 PM to 03:00 PM - Introduction to Detail Engineering: P&I Diagram.Instrument Index .IO List Process Data sheets and Specifications.Instrument Wiring Layout ",
+          venue:"2611B (Transducer and Measurement Laboratory), 2nd Floor, SEC",
+          topic: "Introduction to Generative AI. Basics of Generative Models. Recurrent Neural Network. NLP in Generative AI. Introduction to Image Generation Concepts. Transfer Learning. Fine-Tuning and Customization. Introduction to Retrieval Augmented Generation. Hands On experience",
           resource: [
             {
               name: "Mr. J. G. Karthikesh",

@@ -142,10 +142,10 @@ function Departments() {
           <SpacialEventsCard {...data} />
         </a>
       );
-    } else if (data.title === "VOICE OVER") {
+    } else if (data.title === "VOICE\tOVER -\tDUBBING") {
       // If the title is "Poster Presentation," render a link to the Poster Presentation PDF.
       return (
-        <a href="vo.webp" key={i} target="_blank">
+        <a href="vod.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
