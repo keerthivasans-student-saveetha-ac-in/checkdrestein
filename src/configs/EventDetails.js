@@ -5261,6 +5261,75 @@ export const EventDetails = [
           ],
         },
       },//16
+
+      {
+        name: "Advanced Excel and Power BI for Data Analytics",
+        logo: "EventsAssets/dataanalytics.webp",
+        tag: "WORKSHOP",
+        color: "0, 70, 90",
+        venue: "Will Be Updated Soon",
+        time: "09:00am - 03:00pm", 
+        note : "This workshop focuses on Advanced Excel and Power BI for Data Analytics, guiding participants from foundational data analysis concepts to creating insightful, interactive dashboards. Participants will learn advanced data cleaning and transformation techniques, visualizations, and dashboard creation. By the end of the workshop, they will be equipped with comprehensive skills in Excel and Power BI, empowering them to handle complex datasets and derive valuable insights from data. Hands-on sessions to develop practical skills in data analytics using Excel and Power BI. Participants will gain essential tools for creating data-driven insights",
+        link: "https://forms.gle/hk4kszv5Uyoyxoc26",
+        day1: {
+          date: "06 Nov 2024",
+          mode: "Individual",
+          topic: "Focus on Advanced Excel for data cleaning, visualization, and interactive dashboards",
+          time: "09:00am - 03:00pm",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Dr. S. Stephen Bernard",
+              desig: "Director of Learning and Development, Vinayak Institute of Training and Education",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. S. P. Panimalar",
+              phone: 9789703697,
+            },
+          ],
+          student: [
+            {
+              name: "Dinesh Kumaraa K",
+              phone: 8438923349,
+            },
+            {
+              name: "Priyanka S",
+              phone: 9150529822,
+            },
+          ],
+        },
+        day2: {
+          date: "07 Nov 2024",
+          mode: "Individual",
+          time: "09:00am - 03:00pm",
+          topic: "Focus on Power BI for data transformation, visualization, and dashboard creation",
+          venue: "will be updated soon",
+          resource: [
+            {
+              name: "Dr. S. Stephen Bernard",
+              desig: "Director of Learning and Development, Vinayak Institute of Training and Education",
+            },
+          ],
+          staff: [
+            {
+              name: "Ms. S. P. Panimalar",
+              phone: 9789703697,
+            },
+          ],
+          student: [
+            {
+              name: "Dinesh Kumaraa K",
+              phone: 8438923349,
+            },
+            {
+              name: "Priyanka S",
+              phone: 9150529822,
+            },
+          ],
+        },
+      },//17
     ],
   },//scoft
 
