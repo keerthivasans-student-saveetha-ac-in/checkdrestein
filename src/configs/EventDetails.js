@@ -2966,10 +2966,10 @@ export const EventDetails = [
 
       {
         name: "Best Manager",
-        date: "08 Nov 2024(FN & AN)",
+        date: "08 Nov 2024(FN)",
         type: "Individual",
         venue: "6412, 6th Floor, SEC",
-        time: "N/A",
+        time: "08:00am - 10:00pm",
         rules: "The number of participants for the event will be 1 or 2 per college. The Best Manager competition will consist of 3 to 4 different rounds conducted throughout the day at regular intervals. The rounds for the Best Manager will include decision-making and leadership assessment, personal branding and elevator pitch, a debate challenge, and rapid case analysis and presentation, which involves presenting a common case study with a presentation time of 5 minutes for the oral presentation. Participants are allowed to bring their laptops if needed. Additionally, there will be a crisis management simulation",
         round1title: "Decision-Making and Leadership Assessment",
         round1: "Each participant will answer 30 multiple-choice questions related to decision-making, leadership, and problem-solving",
@@ -3033,7 +3033,7 @@ export const EventDetails = [
 
       {
         name: "IPL Auction",
-        date: "08 Nov 2024(FN)",
+        date: "09 Nov 2024(FN)",
         type: "Team of 2",
         venue: "Will Be Updated Soon",
         time: "10:00am - 12:00pm",
@@ -3093,7 +3093,7 @@ export const EventDetails = [
         link: "https://docs.google.com/forms/d/e/1FAIpQLSe0QiWwzxm1jKaLJ7Npbvl_kcZ6gVYzm-FjiHZu1DtjiMRtrQ/viewform",
         note:"Certificate will be provided Only if you attend for two days. I'd card must. Participants must register in advance to attend the workshop. All participants are expected to arrive on time for each session.Actively engage in discussions and activities during the workshop. Treat fellow participants and the workshop facilitators with respect and courtesy. Do not share sensitive information about fellow participants or the workshop content outside the workshop. Turn off or silence mobile phones and other electronic devices during the sessions to minimize disruptions. Participants should bring any required materials or tools specified by the workshop organizers. Follow all instructions provided by the workshop facilitators. Feel free to ask questions and seek clarification when needed.Dress appropriately for the workshop; casual or business casual attire is usually suitable. Adhere to a professional and ethical code of conduct during the workshop.Do not record or broadcast the workshop sessions without permission.Complete any evaluation forms or surveys to provide feedback about the workshop",
         day1: {
-          date: "04 Nov 2024 ",
+          date: "04 Nov 2024",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
@@ -3127,7 +3127,7 @@ export const EventDetails = [
           ],
         },
         day2: {
-          date: "05 Nov 2024 ",
+          date: "05 Nov 2024",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "WILL BE UPDATED SOON",
