@@ -1988,7 +1988,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue: "Will Be Updated Soon",
         time: "09:00am - 03:00pm", 
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdBBvBX8_ycawF3-skOOkYR9msn5uZ7IpZkNG0GVem-2mrAdw/viewform",
+        link: "https://forms.gle/mLsW9ZS5EmH8WCva6",
         note: "All participants must bring Laptop",
         day1: {
           date: "07 Nov 2024",
