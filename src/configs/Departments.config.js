@@ -266,15 +266,15 @@ export const comobj = [
     bgtext: "Paper",
   },
 
-  // {
-  //   id: "#project",
-  //   title: "Project Display",
-  //   img: "/DepartmentAssets/PD.webp",
-  //   des: "test",
-  //   // color: "#4da6ff",
-  //   color: "#D3D3D3",
-  //   bgtext: "Proj",
-  // },
+  {
+    id: "#project",
+    title: "PROJECT DISPLAY",
+    img: "/DepartmentAssets/PD.webp",
+    des: "test",
+    // color: "#4da6ff",
+    color: "#D3D3D3",
+    bgtext: "Proj",
+  },
 
   {
     id: "#poster",

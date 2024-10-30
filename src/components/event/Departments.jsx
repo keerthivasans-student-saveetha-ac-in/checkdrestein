@@ -73,10 +73,10 @@ function Departments() {
       </motion.h1>
       <DepartmentContainer>
   {comobj.map((data, i) => {
-    if (data.title === "Project Display") {
+    if (data.title === "PROJECT DISPLAY") {
       // If the title is "Project Display," render a link to the Project Display PDF.
       return (
-        <a href="prpd.webp" key={i} target="_blank">
+        <a href="projectdisplay.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );
