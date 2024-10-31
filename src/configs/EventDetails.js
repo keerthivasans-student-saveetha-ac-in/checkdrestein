@@ -2804,7 +2804,7 @@ export const EventDetails = [
         color: "0, 70, 90",
         venue:"will be updated soon",
         // company: "Karthikesh Robotics Pvt LTD",
-        note:"This workshop provides an in-depth introduction to generative AI, covering essential AI concepts, practical applications, and hands-on activities. Participants will learn about various generative models, including transformers, RNNs, and diffusion models, and will gain practical experience in natural language processing (NLP) and image generation.Introduction to ROS and its architecture. Building a ROS-based robotic system. Simulating robot behavior using ROS tools. Communication between robotic sensors and actuators using ROS. Real-time data handling for robotic applications. Practical applications of ROS in various industries",
+        note:"Laptop mandatory. This workshop provides an in-depth introduction to generative AI, covering essential AI concepts, practical applications, and hands-on activities. Participants will learn about various generative models, including transformers, RNNs, and diffusion models, and will gain practical experience in natural language processing (NLP) and image generation",
         link: "https://forms.gle/7GrJx2jvrCQ2KSbs9",
         day1: {
           date: " 06 Nov 2024",
@@ -2835,43 +2835,6 @@ export const EventDetails = [
             },
           ],
         },
-        // day2: {
-        //   date: "31/10/2023",
-        //   time: "FULL DAY",
-        //   mode: "OFFLINE",
-        //   venue:"",
-        //   topic: "Day 2: 10:00 AM to 12:00 PM - Introduction to IoT [Hands-on].Basics of IoT.Implementation using Domestic standards.Handshake signals.Day 2: 01:00 PM to 03:00 PM - Fusion Technology.Introduction to VR/AR in Instrumentation.Implementation of Fusion Technology in Industries.Case studies ",
-        //   resource: [
-        //     {
-        //       name: "Hari Haran M",
-        //       desig: "Managing Director",
-        //       phone: 7904608170,
-        //       email: "spacezeeteam@gmail.com",
-        //     },
-        //   ],
-        //   staff: [
-        //     {
-        //       name: " Dr.A.Manivanna Boopathi",
-        //       desig: " Professor",
-        //       phone: 9688643991,
-        //       email: "manivannaboopathi@saveetha.ac",
-        //     },
-        //   ],
-        //   student: [
-        //     {
-        //       name: "A.	Nirmal Kumar",
-        //       year: "III",
-        //       phone: 9150779496,
-        //       email: "nirmalanbu736@gmail.com",
-        //     },
-        //     {
-        //       name: "F.Shafiq Mohammed",
-        //       year: "III",
-        //       phone: 6383705767,
-        //       email: "shafiqbasha20@gmail.com",
-        //     },
-        //   ],
-        // },
       },//1
     ],
   },//eie
