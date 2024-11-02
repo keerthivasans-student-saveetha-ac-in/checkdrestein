@@ -131,7 +131,7 @@ export const EventDetails = [
           date: " 04 Nov 2024",
           time: "FULL DAY",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "4871, 4th Floor, SEC",
           list: true,
           resource: [ {
             name: "Dr. N. Karpoora Sundara Pandian",
@@ -158,7 +158,7 @@ export const EventDetails = [
           date: " 05 Nov 2024",
           time: "FULL DAY",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "4871, 4th Floor, SEC",
           list: true,
           resource: [ {
             name: "Dr. N. Karpoora Sundara Pandian",
@@ -194,7 +194,7 @@ export const EventDetails = [
           date: " 07 Nov 2024",
           time: "08:30am - 03:00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "Majestorium Hall, 5th floor, SEC",
           list: true,
           resource: [ {
             name: "Dr. K. P. Shashidar Rao",
@@ -2682,7 +2682,7 @@ export const EventDetails = [
         name: "Tech Battle",
         date: "08 Nov 2024(FN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
+        venue: "2611A (Industrial Instrumentation Laboratory), 2nd Floor, SEC",
         time: "10:00 AM - 12:00 PM",
         round1title: "Spotlight & Recall",
         round1:
@@ -2720,7 +2720,7 @@ export const EventDetails = [
         name: "Digital Mania",
         date: "08 Nov 2024(FN)",
         type: "Team of 2",
-        venue: "Will Be Updated Soon",
+        venue: "2611B (Transducer and Measurement Laboratory), 2nd Floor, SEC",
         time: "10:00am - 12:00pm",
         round1title: "ELECTROMYSTERY",
         round1:
@@ -2759,7 +2759,7 @@ export const EventDetails = [
         tagline: "",
         date: " 09 Nov 2024(AN)",
         type: "Team of 4-5",
-        venue: "Will Be Updated Soon",
+        venue: "2611C, 2nd Floor, SEC",
         time: "01:00pm -03:00pm",
         round1title: "Tech Clue Hunt",
         round1:
@@ -2802,7 +2802,6 @@ export const EventDetails = [
         logo: "/EventsAssets/eie24.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        venue:"will be updated soon",
         // company: "Karthikesh Robotics Pvt LTD",
         note:"Laptop mandatory. This workshop provides an in-depth introduction to generative AI, covering essential AI concepts, practical applications, and hands-on activities. Participants will learn about various generative models, including transformers, RNNs, and diffusion models, and will gain practical experience in natural language processing (NLP) and image generation",
         link: "https://forms.gle/7GrJx2jvrCQ2KSbs9",
@@ -2965,7 +2964,7 @@ export const EventDetails = [
         name: "AD-ZAP",
         date: "08 Nov 2024(AN)",
         type: "Team of 5",
-        venue: "Will Be Updated Soon",
+        venue: "6412, 6th Floor, SEC",
         time: "01:00pm - 03:00pm",
         rules: "Each team can consist of a maximum of 5 members. The product name will be given on the spot, and teams will have 20 minutes for preparation. Vulgarity or offensive terms will lead to disqualification. The time to perform the advertisement is 5 minutes, followed by a 2-minute presentation and Q&A session. Exceeding the time limit may result in penalties. Teams are encouraged to use humor, innovation, and creativity to engage the audience. Participants can bring any required materials. The judges' decision will be final",
         tag: "EVENT",
@@ -2998,7 +2997,7 @@ export const EventDetails = [
         name: "IPL Auction",
         date: "09 Nov 2024(FN)",
         type: "Team of 2",
-        venue: "Will Be Updated Soon",
+        venue: "6412, 6th Floor, SEC",
         time: "10:00am - 12:00pm",
         rules: "The competition will have 2 rounds. Participants can be from any department and any year of study. Each team consist of 2 participants. Participants who do not adhere to the rules and regulations will be disqualified at any phase of the event. Decision of the Judges and the Organizing Committee will be final. Using electronic gadgets like mobile phone and smart watches is strictly prohibited. Judgment criteria - Player rating, Playing XI strength Overall team strength, In case of tie the winner will be decided based on the remaining budget",
         round1title : "IPL Quiz",
@@ -3059,7 +3058,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "WILL BE UPDATED SOON",
+          venue: "6512, 6th Floor, SEC",
           staff: [
             {
               name: "Dr. P. Sangeetha",
@@ -3093,7 +3092,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "08:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "WILL BE UPDATED SOON",
+          venue: "6512, 6th Floor, SEC",
           staff: [
             {
               name: "Dr. P. Sangeetha",
