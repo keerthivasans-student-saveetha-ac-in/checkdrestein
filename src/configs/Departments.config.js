@@ -337,14 +337,14 @@ export const splevnt= [
     bgtext: "COR",
   },
 
-  // {
-  //   id: "#ADZAP",
-  //   title: "ADZAP",
-  //   img: "/DepartmentAssets/adzaplogo.webp",
-  //   des: "test",
-  //   color: "#0080ff",
-  //   bgtext: "TENT",
-  // },
+  {
+    id: "#TENTUKOTTA",
+    title: "TENTUKOTTA 2.0",
+    img: "/DepartmentAssets/tent.webp",
+    des: "test",
+    color: "#0080ff",
+    bgtext: "TENT",
+  },
 
   // {
   //   id: "#DUBSTAR",

@@ -158,14 +158,14 @@ function Departments() {
       );
     } 
     
-    // else if (data.title === "ADZAP") {
-    //   // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
-    //   return (
-    //     <a href="adzap.webp" key={i} target="_blank">
-    //       <SpacialEventsCard {...data} />
-    //     </a>
-    //   );
-    // }
+    else if (data.title === "TENTUKOTTA 2.0") {
+      // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
+      return (
+        <a href="tentukotta2.0.webp" key={i} target="_blank">
+          <SpacialEventsCard {...data} />
+        </a>
+      );
+    }
 
     else if (data.title === "AUTO EXPO") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
