@@ -4161,7 +4161,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           mode: "OFFLINE",
           time: "09.00 AM to 03.00 PM",
-          venue: "will be updated soon",
+          venue: "1481, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. M. Kameshwaran",
@@ -4197,7 +4197,7 @@ export const EventDetails = [
           date: " 05 Nov 2024",
           time: "09:00am - 03.00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "Lines Hall, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Kameshwaran M",
@@ -4243,7 +4243,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1561 (XR Lab), 1st Floor, SEC",
           list: true,
           resource: [
             {
@@ -4290,7 +4290,7 @@ export const EventDetails = [
           date: " 05 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1511, 1st Floor, SEC",
           list: true,
           resource: [
             {
@@ -4343,7 +4343,7 @@ export const EventDetails = [
           date: " 06 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1512, 1st Floor, SEC",
           list: true,
           resource: [
             {
@@ -4383,7 +4383,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           mode: "OFFLINE",
           time: "09.00 AM to 03.00 PM",
-          venue: "will be updated soon",
+          venue: "1561 (XR Lab), 1st Floor, SEC",
           resource: [
             {
               name: "Dr. S. Sellakumar",
@@ -4424,7 +4424,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "9:00 AM to 3:00 PM",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1512, 1st Floor, SEC",
           topic: "Wi-Fi Cracking, Android Hacking, ⁠⁠Browser Hacking, ⁠⁠Website hacking, ⁠⁠Bug Bounty, ⁠⁠Windows Hacking, ⁠⁠Dark Web, ⁠⁠Daily Cyber Threats",
           resource: [
             {
@@ -4477,7 +4477,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1481, 1st Floor, SEC",
           list: true,
           // topic: "MERN Mobile Synergy",
           resource: [
@@ -4515,7 +4515,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1511, 1st Floor, SEC",
           list: true,
           // topic: "MERN Mobile Synergy",
           resource: [
@@ -4565,7 +4565,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1682, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. Sylesh",
@@ -4614,7 +4614,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1682, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. Mohamed Salman",
@@ -4650,7 +4650,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "Full Day",
           mode: "OFFLINE",
-          venue: "will be updated soon",
+          venue: "1682, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. Mohamed Salman",
@@ -4697,7 +4697,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "09:30 AM to 03:00 PM",
           mode: "OFFLINE",  
-          venue: "will be updated soon",
+          venue: "1511, 1st Floor, SEC",
           resource: [
             {
               name: " Mr. S. N. Sathva Krishnan",
@@ -4798,7 +4798,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "09:00 AM to 03:00 PM",
           mode: "Individual",
-          venue: "will be updated soon",
+          venue: "1482 (IOT Lab), 1st Floor, SEC",
           resource: [
             {
               name: "Mr. K. Anupriyan ",
@@ -4848,7 +4848,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: " 09:00 AM 03:00 PM",
           mode: "Individual",
-          venue: "will be updated soon",
+          venue: "1512, 1st Floor, SEC",
           
           resource: [
             {
@@ -5114,7 +5114,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           mode: "Individual",
           time: "09:00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "1681, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. Amith Kumar",
@@ -5150,7 +5150,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           mode: "Individual",
           time: "09:00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "1681, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. Amith Kumar",
@@ -5196,7 +5196,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           mode: "Individual",
           time: "09:00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "1512, 1st Floor, SEC",
           resource: [
             {
               name: "Mr. R. M. Selvakumar",
@@ -5244,7 +5244,7 @@ export const EventDetails = [
           mode: "Individual",
           topic: "Focus on Advanced Excel for data cleaning, visualization, and interactive dashboards",
           time: "09:00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "1481, 1st Floor, SEC",
           resource: [
             {
               name: "Dr. S. Stephen Bernard",
@@ -5273,7 +5273,7 @@ export const EventDetails = [
           mode: "Individual",
           time: "09:00am - 03:00pm",
           topic: "Focus on Power BI for data transformation, visualization, and dashboard creation",
-          venue: "will be updated soon",
+          venue: "1481, 1st Floor, SEC",
           resource: [
             {
               name: "Dr. S. Stephen Bernard",
