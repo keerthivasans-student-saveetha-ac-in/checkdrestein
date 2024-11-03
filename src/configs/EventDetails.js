@@ -957,7 +957,7 @@ export const EventDetails = [
         name: "Circuit Circus",
         date: "08 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "3412, 3rd Floor, SEC",
         time: "09:00am - 12:00pm",
         round1title: "Counter Strike",
         round1: "Teams will solve visual puzzles projected on screen, with each image offering clues to electronics-related terms. Participants analyze images to uncover concepts or components in electronics. Points are awarded for each correct answer, and high-scoring teams advance to the next round. Sharpen your observation skills and think creatively to solve these electronic-themed puzzles!",
@@ -1003,7 +1003,7 @@ export const EventDetails = [
         name: "Tech Tonix",
         date: "09 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "3411, 3rd Floor, SEC",
         time: "09:00an - 12:00pm",
         round1title: "Rapid Circuit Recall",
         round1: "In this round, a circuit will be shown, learners have to memorize the circuit in 10 minutes and questions will be asked from that . Teams will get points for each questions they answer correctly.Display the circuit diagram for 10 minutes, ensuring it's clear, visible, and accessible to all learners. During this 10 - minute window, learners should memorize the circuit components, connections, and overall design. After the display period, questions will be asked related to the circuit. Award points for each correct answer. Consider bonus points for consecutive correct answers or penalty points for incorrect ones",
@@ -1048,7 +1048,7 @@ export const EventDetails = [
         name: "Electrox Chaos",
         date: "09 Nov 2024(FN)",
         type: "Team of 2",
-        venue: "Will Be Updated Soon",
+        venue: "3731, 3rd Floor, SEC",
         time: "10:00am - 02:00pm",
         round1title: "CLUE TREKS",
         round1: "Team members face opposite directions, each with a set of clue cards. Players use the clues to identify the jumbled component names on their cards. Points are awarded based on the number of clues used to identify each component. The top teams from Round 1 will advance to the circuit design showdown",
@@ -1089,7 +1089,7 @@ export const EventDetails = [
         name: "Coder's Clash ",
         date: "09 Nov 2024(AN)",
         type: "Team of 2",
-        venue: "Will Be Updated Soon",
+        venue: "3613, 3rd Floor, SEC",
         time: "10:00am - 01:00pm",
         round1title: "CODE HUNT",
         round1: "Story-Driven Challenges: Participants engage with a captivating narrative while answering multiple-choice questions on computer fundamentals, C, and Python. Unlock the Map: Each correct answer reveals clues that piece together a treasure map leading to the hidden Code Crystal",
@@ -1134,7 +1134,7 @@ export const EventDetails = [
         name: "Silicon Valley Showdown ",
         date: "09 Nov 2024(AN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "3412, 3rd Floor, SEC",
         time: "10:00an - 04:00pm",
         round1title: "The Circuit Challenge",
         round1: "Teams will recreate a circuit diagram accurately based on audio instructions. All teams listen to instructions twice via a central audio setup. Teams draw their circuits based on what they remember from the audio instructions. 1 point is given for the completeness of the circuit path",
@@ -1176,7 +1176,7 @@ export const EventDetails = [
         name: "Spark & Search - The Electronics Adventure",
         date: "08 Nov 2024(FN & AN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "3411, 3rd Floor, SEC",
         time: "10:00am - 03:00pm",
         round1title: "Matoran Puzzle",
         round1: "Students will first answer thought-provoking MCQs focused on fundamental electronics concepts. Each answer is a single-word term related to electronics. The answers will be hidden within a crossword puzzle filled with Matoran alphabet instead of regular letters. Using a Matoran alphabet key, participants must find and decode each correct answer within the puzzle",
@@ -1219,7 +1219,7 @@ export const EventDetails = [
         name: "Tech-Bid Arena",
         date: "09 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "3512, 3rd Floor, SEC",
         time: "10:00am - 01:00pm",
         round1title: "Components Insight",
         round1: "In Component Identification, teams identify electronic components and understand their functions. For Data Analysis, teams analyze component characteristics like resistance, capacitance, and voltage. Strategic Planning involves teams strategizing component prioritization based on circuit needs and budget",
@@ -1257,7 +1257,7 @@ export const EventDetails = [
         name: "Wired 2 Breakbad",
         date: "08 Nov 2024(FN)",
         type: "Team of 2",
-        venue: "Will Be Updated Soon",
+        venue: "3481 & 3482, 3rd Floor, SEC",
         time: "10:00am - 01:00pm",
         round1title: "CIRCUIT CHEMISTRY",
         round1: "In this challenge, participants are presented with a faulty circuit design in Tinkercad. The task is to identify and correct the errors within a set time limit. Throughout the challenge, participants earn points for every correct solution. At the end of the round, teams with the highest total points advance to the next round. The number of teams advancing to the final round will be determined based on the registration count",
@@ -1293,7 +1293,7 @@ export const EventDetails = [
         name: "Electroholic",
         date: "09 Nov 2024(AN & FN)",
         type: "Team of 1-3",
-        venue: "Will Be Updated Soon",
+        venue: "3511, 3rd Floor, SEC",
         time: "10:00am - 01:00pm",
         round1title: "Grab and Link",
         round1: "Test your electronics skills through a fun drag and drop activity. Drag the appropriate components to get the desired output of the circuit",
@@ -1334,7 +1334,7 @@ export const EventDetails = [
         name: "Line Follower Robot",
         date: "08 Nov 2024(FN & AN)",
         type: "Team of 10",
-        venue: "Will Be Updated Soon",
+        venue: "3652, , 3rd Floor, SEC",
         time: "09:00am - 03:00pm",
         round1title: "Bot - Assemble",
         round1: "The teams will be studying and assembling the robot. Every teams gets the code and the components and each team should have a laptop to dump the code which is given. Every team should design their robot, they can use their own design based on their Creativity to assemble the robot. They get about 2 hours to assemble and design the robot. After they designed their model, they can participate in the Rounds",
@@ -1378,7 +1378,7 @@ export const EventDetails = [
         name: "Gusto",
         date: "08 Nov 2024(FN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
+        venue: "3653 & 3654, 3rd Floor, SEC",
         time: "09:00am - 12:00pm",
         members: "Team of 3",
         round1title: "ELECTRO PUZZ",
@@ -1420,7 +1420,7 @@ export const EventDetails = [
         name: "QuadCon",
         date: "09 Nov 2024(FN & AN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "Outdoor - near Saveetha stores, SEC",
         time: "09:00am - 03:00pm",
         rules: "Participants are given a race track that they must complete. The tracks can be outdoor, featuring LED gates, flags, tunnels, and hoops to navigate. Pilots must maintain control of the quadcopter while navigating tight spaces and making split-second decisions. Drones used for the race course can have either an RC controller or a real-time operating system with an advanced flight controller, which is up to the participant. Participants can form a team comprising 2-3 members. The drone must not fly more than 4 meters in the air, as violating this could be a fatal mistake impacting their results",
         note:"The drone contesting in the race course must weigh within 1 kg 35 gms. The pilot operating the quadcopter must have some previous experience with operating drones, which will be checked by technical experts before the race starts. All pilots must follow the race rules; any violation of the rules will result in immediate disqualification of the participant.As mentioned, the race course can be indoor or outdoor. The track may be narrower, which will determine the level of capability and robustness required from the drone. There can be sections of the track where the drone is restricted to an altitude of 75 cm or even lower. Some sections will test the drone's ability to move both forward and backward. Hitting any obstacles will incur penalties, such as added time to your overall race time. Finally, upon completion of the race course, the drone must land within a specified region for the timer to stop",
@@ -1457,8 +1457,8 @@ export const EventDetails = [
         ],
       },//12
 
-
     ],
+    
     workshopslist: [
       {
         name: "Boot Camp on Drone Technology",
@@ -1691,7 +1691,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3613, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Vignesh Ramadoss",
@@ -1723,7 +1723,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "Individual",
-           venue: " Will Be Updated Soon",
+           venue: "3613, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Vignesh Ramadoss",
@@ -1766,7 +1766,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4612, 4th Floor, SEC",
           resource: [
             {
               name: "Dr. B. Ezhilavan",
@@ -1798,7 +1798,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4612, 4th Floor, SEC",
           resource: [
             {
               name: "Dr. B. Ezhilavan",
@@ -1841,7 +1841,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3612, 3rd Floor, SEC",
           resource: [
             {
               name: "Dr. A. Devi",
@@ -1873,7 +1873,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3612, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. S. Balasubramanian",
@@ -1910,7 +1910,7 @@ export const EventDetails = [
         logo: "EventsAssets/masterinVLSI.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
-        venue: "Will Be Updated Soon",
+        venue: "4332, 4th Floor, SEC",
         time: "FULL DAY", 
         link: "https://docs.google.com/forms/d/e/1FAIpQLSct-KV_41C8WYe9H161qRujHz7D0altQwZmQv5YvY83PnngEA/viewform",
         note: "All participants must bring Laptop",
@@ -1918,7 +1918,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "09:00am - 03:45pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4332, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. Dhanagopal",
@@ -1950,7 +1950,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "09:00am - 03:45pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4332, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. Dhanagopal",
@@ -1995,7 +1995,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "09:00am - 03:00pm", 
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4612, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. J. G. Karthikesh",
@@ -2023,7 +2023,7 @@ export const EventDetails = [
           date: "08 Nov 2024",
           time: "09:00am - 03:00pm", 
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4612, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. J. G. Karthikesh",
@@ -2062,7 +2062,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3731, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Santhosh",
@@ -2094,7 +2094,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3731, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Santhosh",
@@ -2138,7 +2138,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3613, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Moothukumar",
@@ -2170,7 +2170,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3613, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Moothukumar",
@@ -2214,7 +2214,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3612, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Muhammed Ilyas",
@@ -2246,7 +2246,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "10:00am - 03:00pm",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3612, 3rd Floor, SEC",
           resource: [
             {
               name: "Mr. Muhammed Ilyas",
@@ -2275,8 +2275,9 @@ export const EventDetails = [
           ],
         },  
       },//9
+
       {
-        name:" Design of Voltage Transformers",
+        name:"Design of Voltage Transformers",
         logo: "EventsAssets/designvoltage.webp",
         tag: "WORKSHOP",
         color: "0, 70, 90",
@@ -2288,7 +2289,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           time: "9:00am - 3:00pm ",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4613, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. K. Jeevananth",
@@ -2320,7 +2321,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "9:00am - 3:00pm ",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "4613, 4th Floor, SEC",
           resource: [
             {
               name: "Mr. K. Jeevananth",
@@ -2363,7 +2364,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "9:00am - 3:00pm ",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3653, 3rd Floor, SEC",
           topic:" Introduction to AI &amp; ML.Introduction to the project.Understanding the dataset.Logistic Regression Model.Logistic Regression Cost function",
           resource: [
             {
@@ -2396,7 +2397,7 @@ export const EventDetails = [
           date: "07 Nov 2024",
           time: "9:00am - 3:00pm ",
           mode: "Individual",
-          venue: " Will Be Updated Soon",
+          venue: "3653, 3rd Floor, SEC",
           topic:" Gradient Descent Algorithm.Training the dataset.Evaluating the model. Creating your own handwritten digit.Predicting your handwritten digit using your model",
           resource: [
             {
