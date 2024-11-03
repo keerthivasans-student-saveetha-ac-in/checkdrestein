@@ -4746,7 +4746,7 @@ export const EventDetails = [
           date: "06 Nov 2024",
           time: "09:00 AM to 03:00 PM",
           mode: "Individual",
-          venue: "will be updated soon",
+          venue: "1611, 1st Floor, SEC",
           resource: [
             {
               name: " Mr. Krishnan Kesavan",
