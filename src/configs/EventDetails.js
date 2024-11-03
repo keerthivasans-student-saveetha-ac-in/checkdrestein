@@ -1473,7 +1473,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           mode: "Individual",
           time: "08.00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "Lines Hall, 3rd Floor, SEC",
           topic:"Introduction to Drones – Overview of types, components, and applications.",
           resource: [
             {
@@ -4230,6 +4230,7 @@ export const EventDetails = [
           ],
         },
       },//1
+
       {
         name: "JUPYTER IOT SANDBOX",
         logo: "EventsAssets/jupyter.webp",
@@ -4275,7 +4276,8 @@ export const EventDetails = [
             },
           ],
         },
-      },//2     
+      },//2   
+
       {
         name: "Tested academy career acceralator",
         logo: "EventsAssets/scoft2.webp",
@@ -4328,6 +4330,7 @@ export const EventDetails = [
           ],
         },
       },//3
+
       {
         name: "Empowering Design - A Hands-On UI/UX Workshop",
         logo: "EventsAssets/empower.jpg",
@@ -4366,6 +4369,7 @@ export const EventDetails = [
           ],
         },
       },//4
+
       {
         name: "3D Fabrication Hub",
         logo: "EventsAssets/scoft5.webp",
@@ -4893,7 +4897,7 @@ export const EventDetails = [
           date: "04 Nov 2024",
           mode: "Individual",
           time: "08.00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "Lines Hall, 3rd Floor, SEC",
           topic:"Introduction to Drones – Overview of types, components, and applications.",
           resource: [
             {
