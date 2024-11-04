@@ -170,7 +170,7 @@ function Departments() {
     else if (data.title === "AUTO EXPO") {
       // If the title is "Paper Presentation," render a link to the Paper Presentation PDF.
       return (
-        <a href="/DepartmentAssets/autoco.webp" key={i} target="_blank">
+        <a href="/DepartmentAssets/autoexpo2024.webp" key={i} target="_blank">
           <SpacialEventsCard {...data} />
         </a>
       );

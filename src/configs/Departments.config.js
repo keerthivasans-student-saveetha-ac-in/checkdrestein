@@ -355,14 +355,14 @@ export const splevnt= [
   //   bgtext: "DUBS",
   // },
 
-  // {
-  //   id: "#AUTO EXPO",
-  //   title: "AUTO EXPO",
-  //   img: "/DepartmentAssets/autoco.webp",
-  //   des: "test",
-  //   color: "#FF0000",
-  //   bgtext: "expo",
-  // },
+  {
+    id: "#AUTO EXPO",
+    title: "AUTO EXPO",
+    img: "/DepartmentAssets/autoco.webp",
+    des: "test",
+    color: "#FF0000",
+    bgtext: "expo",
+  },
 
   // {
   //   id: "#STYLE WITH CANVA",

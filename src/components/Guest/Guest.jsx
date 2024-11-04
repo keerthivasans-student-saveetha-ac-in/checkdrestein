@@ -107,18 +107,16 @@ const Test = styled.div`
 function Guest() {
   const Guests = [
     {
-      name: "Mr.Vijay Venkatesh",
-      // desc: "Associate Vice President ",
-      src: "PeopleAssets/guest.webp",
+      name: "Mr. MURALI CHELLAPA",
+      src: "PeopleAssets/guests/guest12024.webp",
     },
    
   ];
   const Guests1 = [
-    {
-      name: "Mr.Vimal Rajendhiran",
-      // desc: "HR - Manager - Talent Acquisition ",
-      src: "PeopleAssets/guest1.webp",
-    },
+    // {
+    //   name: "Mr.Vimal Rajendhiran",
+    //   src: "PeopleAssets/guests/guest1.webp",
+    // },
    
   ];
    
@@ -199,10 +197,10 @@ function Guest() {
                 /> */}
 
                 <div style={{ textAlign: "left", maxWidth: "450px" }}>
-                Associate Vice President 
+                GLOBAL HEAD
                   <br />
-                  Banking and Financial Services Cognizant 
-                </div>
+                  TCS - BFS - BPS 
+                </div>``
               </div>
               <GuestDesp
                 as={motion.p}
