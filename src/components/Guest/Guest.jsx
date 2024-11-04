@@ -200,7 +200,7 @@ function Guest() {
                 GLOBAL HEAD
                   <br />
                   TCS - BFS - BPS 
-                </div>``
+                </div>
               </div>
               <GuestDesp
                 as={motion.p}
