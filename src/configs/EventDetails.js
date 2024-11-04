@@ -3663,7 +3663,7 @@ export const EventDetails = [
         tagline: "",
         date: "08 Nov 2024(AN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
+        venue: "1481, 1st Floor, SEC",
         time: "01:00pm - 03.00pm",
         round1title: "WITNESS'S TALE:",
         round1: "Teams find the crime scene by analyzing misleading clues. Winners receive a pre-coded image classifier, while other teams must code it themselves",
@@ -3700,11 +3700,12 @@ export const EventDetails = [
           },
         ],
       },//1
+
       {
         name: "Crypt N Hunt",
         date: "09 Nov 2024(FN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
+        venue: "Lines Hall (Discussion Room), 3rd Floor, SEC",
         time: "09:00am - 12:00pm",
         rules: "Participants must work in teams of 3. Laptops and internet access are required",
         round1title: "The Tech Quiz Challenge",
@@ -3745,7 +3746,7 @@ export const EventDetails = [
         name: "Data Note",
         date: "08 Nov 2024(AN)",
         type: "Team of 3",
-        venue: "Will Be Updated Soon",
+        venue: "1682, 1st Floor, SEC",
         time: "01:00pm - 03:00pm",
         rules: "Participants must work in teams of 3. AI tools are prohibited",
         round1title: "L's Data Investigations",
@@ -3783,12 +3784,13 @@ export const EventDetails = [
           },
         ],
       },//3
+
       {
         name: "Techtopia",
         // tagline: "",
         date: "08 Nov 2024(FN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "1512, 1st Floor, SEC",
         time: "09:00am - 12:00pm",
         rules:"Each team must consist of 3-4 members to participate. Solo Entries are allowed. Participants must bring their own laptops with personal data connections. Participants must code and solve challenges without using AI tools or assistants like ChatGPT or similar. Stick to the time limits—no extensions!. Cheating or copying leads to disqualification",
         round1title: "Code Rewind: Reverse the Logic!",
@@ -3826,12 +3828,13 @@ export const EventDetails = [
           },
         ],
       },//4
+
       {
         name: "Design Dhamaka",
         // tagline: "",
         date: "08 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "1511, 1st Floor, SEC",
         time: "09:00am - 12:00pm",
         rules:"Teams of 2-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections. All the team members should know about the components and designing software",
         round1title: "Web Design",
@@ -3858,12 +3861,13 @@ export const EventDetails = [
           },         
         ],
       },//5
+
       {
         name: "IOT Hacktivate",
         // tagline: "",
         date: "08 Nov 2024(AN)",
         type: "Team 1-3",
-        venue: "Will Be Updated Soon",
+        venue: "2581, 2nd Floor, SEC",
         time: "1:00pm to 3:00pm",
         members: "Team of 1-3",
         rules:"Teams of 1 - 3 members. Can use proteus or Tinckercad  Participants must bring their own laptops with personal data connections",
@@ -3899,7 +3903,7 @@ export const EventDetails = [
         // tagline: "",
         date: "09 Nov 2024(FN & AN)",
         type: "Team of 1-4",
-        venue: "Will Be Updated Soon",
+        venue: "1561 (XR Lab), 1st Floor, SEC",
         time: "09:00am - 03:00pm",
         round1title: "Presentation of working prototype of their pre-made website",
         round1: "Participants will present a working prototype of their pre-made website. Teams can consist of 1 to 4 members. Participants are allowed to use any tools and technologies, including AI, but must demonstrate significant personal contribution and understanding of the code. They will explain their unique touch and showcase their technical skills during the presentation. Evaluation criteria include originality, technical execution, and user experience",
@@ -3934,12 +3938,13 @@ export const EventDetails = [
           },          
         ],
       },//7
+
       {
         name: "Code Crusade",
         // tagline: "",
         date: "08 Nov 2024(FN)",
         type: "Team of 1-3",
-        venue: "Will Be Updated Soon",
+        venue: "1482 (IOT Lab), 1st Floor, SEC",
         time: "09:00am - 12:00pm",
         round1title: "Connections",
         round1: "Participants decode visual clues, with each set of images representing a specific programming concept or technical term. The goal is to identify the correct term based on abstract visuals, covering ideas like algorithms, data structures, and general programming terms. The quiz is conducted online with interactive elements for direct engagement. Focus areas include programming fundamentals, algorithms, logic-based riddles, and tech trivia related to data structures. Each question has a 30-second time limit to challenge quick thinking and connections. The top 50% of participants qualify for Round 2 based on their first-round scores",
@@ -3981,7 +3986,7 @@ export const EventDetails = [
         name: "Prompt Arena",
         date: "09 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "2512, 2nd Floor, SEC",
         time: "09:00am - 12:00pm",
         rules:"Each team must consist of 2-3 members. Teams must use the provided AI tools for image replication and comic creation. All submissions must be original and created during the event. Each round has a specified time limit. Teams will be judged based on creativity, originality, and adherence to the prompt",
         round1title: "Copycat",
@@ -4022,7 +4027,7 @@ export const EventDetails = [
         name: "Escape Room",
         date: "08 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: "1561 (XR Lab), 1st Floor, SEC",
         time: "09:00am - 12:00pm",
         round1title: "Scriptum Invisum",
         round1: "Teams will be provided access a designated webpage . Participants must carefully analyze the webpage, looking for clues and hidden passcodes embedded in different sections",
@@ -4066,7 +4071,7 @@ export const EventDetails = [
         name: "The Web Showdown",
         date: "08 Nov 2024(FN)",
         type: "Team of 1-3",
-        venue: "Will Be Updated Soon",
+        venue: "1681, 1st Floor, SEC",
         time: "10:00am - 12:00pm",
         rules:"Teams of 1-3 members. AI tools are prohibited. Participants must bring their own laptops with personal data connections",
         round1title: "The Code Crunch (Web Dev Quiz)",
@@ -4108,7 +4113,7 @@ export const EventDetails = [
         name: "Algoinception",
         date: "09 Nov 2024(FN)",
         type: "Team of 2-3",
-        venue: "Will Be Updated Soon",
+        venue: " 1482 (IOT Lab), 1st Floor, SEC",
         time: "09:00am - 12:00pm",
         rules:"Teams must consist of 2-3 participants(Minimum - 2). Laptops and internet usage are permitted, but plagiarism is strictly prohibited. Participants should solve problems sequentially in both rounds. Any violation of rules may lead to disqualification",
         round1title: "Image Puzzle Grid Challenge",
