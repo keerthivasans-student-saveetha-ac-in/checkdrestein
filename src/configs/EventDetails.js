@@ -1515,7 +1515,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           mode: "Individual",
           time: "08.00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "Majestorium Hall, 5th Floor, SEC",
           topic:"Flight Mechanics – Basics of aerodynamics, flight control, and stability.",
           resource: [
             {
@@ -4292,7 +4292,7 @@ export const EventDetails = [
         note:"Join us for an insightful day of learning and hands-on experience designed to equip you with essential knowledge in the banking domain, software testing, automation, and Tenjin's capabilities. Our event features interactive sessions and real-time application, making it ideal for those looking to sharpen their skills and apply industry-relevant practices. We’re thrilled to announce that all event participants will receive one month of FREE access to Tenjin’s powerful platform!. This exclusive offer allows you to explore and utilize Tenjin's advanced data and automation tools, giving you the hands-on experience needed to stand out in tech and analytics roles",
         link: "https://forms.gle/68uN1gf1WpYZLbfL9",
         day1: {
-          date: " 05 Nov 2024",
+          date: "05 Nov 2024",
           time: "09:00am - 03:00pm",
           mode: "OFFLINE",
           venue: "1511, 1st Floor, SEC",
@@ -4944,7 +4944,7 @@ export const EventDetails = [
           date: "05 Nov 2024",
           mode: "Individual",
           time: "08.00am - 03:00pm",
-          venue: "will be updated soon",
+          venue: "Majestorium Hall, 5th Floor, SEC",
           topic:"Flight Mechanics – Basics of aerodynamics, flight control, and stability.",
           resource: [
             {

@@ -104,9 +104,9 @@ const Main = () => {
         <Departments />
       </DepartmentDiv>
        
-      <div id="Guest">
+      {/* <div id="Guest">
         <Guest />
-      </div>
+      </div> */}
       
       {/* <div id="Gallery2022">
         <Gallery2022 />
