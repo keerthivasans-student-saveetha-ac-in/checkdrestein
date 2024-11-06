@@ -3465,7 +3465,7 @@ export const EventDetails = [
         tagline: "",
         date: " 08 Nov 2024(AN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "4653, 4th Floor, SEC",
         time: "01:00pm - 03:00pm",
         rules:"Participants to be in a team of 3-4 members .Pre requisites to join this event - Basic knowledge on electrical components, general medical equipments, computer hardware's, Basics in python .Event consists of 2 Rounds (Prelims and finals) and each round will have time limits, within which teams have to play ",
         round1title: "Wingardium Leviosa",
@@ -3507,7 +3507,7 @@ export const EventDetails = [
         tagline: "",
         date: " 09 Nov 2024(FN & AN)",
         type: "Team of 4-5",
-        venue: "Will Be Updated Soon",
+        venue: "3872 (DTE Lab), 3rd Floor, SEC",
         time: "09:00am - 03:00pm",
         rules:"The players are to stand at one end of the room and the captain at the other end.The captain stands with their back to the players, and the players move toward the captain and try to touch them while the captain is turned away.  On the count of 3, the captain turns to face the players.   When the captain turns, players should freeze in place and hold their pose.  Any player who moves, laughs, or wobbles will be asked a question.   If the player answers correctly, their team will earn points.   The team with the highest points will be selected for the next level.   The other teams will be eliminated.Each team will be given with a picture.  The picture will be consisting of a few objects in it.  One among the team members should try to memorise maximum objects in the picture.  The team that memorises maximum pictures will be given points .  Like wise each member of all the teams will be given a chance to memorise.  The team that gains maximum points will be the winning team ",
         round1title: "London London statue !",
@@ -3548,7 +3548,7 @@ export const EventDetails = [
         name: " Bio Nexus",
         date: "08 Nov 2024(FN)",
         type: "Team of 3-4",
-        venue: "Will Be Updated Soon",
+        venue: "4652, 4th Floor, SEC",
         time: "09:00am - 12:00pm",
         round1title: "Puzzle Reveal Challenge",
         round1: "Objective: identify an image from blinking segments.Team Setup: 3 members per team, with 3 teams per batch.Activity: Teams observe image segments displayed one at a time and press the buzzer",
@@ -3582,6 +3582,7 @@ export const EventDetails = [
       
         ],
       },//3
+
     ],
     workshopslist: [
       {

@@ -107,16 +107,25 @@ const Test = styled.div`
 function Guest() {
   const Guests = [
     {
-      name: "Mr. MURALI CHELLAPA",
-      src: "PeopleAssets/guests/guest12024.webp",
+      name: "Dr. V. V. S. RAVEENDRA",
+      src: "PeopleAssets/guests/guest20241.webp",
     },
    
   ];
+
   const Guests1 = [
-    // {
-    //   name: "Mr.Vimal Rajendhiran",
-    //   src: "PeopleAssets/guests/guest1.webp",
-    // },
+    {
+      name: "Ms. PADMA JAYARAMAN",
+      src: "PeopleAssets/guests/guest20242.webp",
+    },
+   
+  ];
+
+  const Guests2 = [
+    {
+      name: "Mr. SHIVAGANESH RAMAKRISHNAN",
+      src: "PeopleAssets/guests/guest20243.webp",
+    },
    
   ];
    
@@ -155,6 +164,7 @@ function Guest() {
       >
         <div className="GalleryHeadTxt">Chief Guest</div>
       </GuestTitle>
+
       <GuestContainer>
         {Guests.map((data) => {
           return (
@@ -197,9 +207,9 @@ function Guest() {
                 /> */}
 
                 <div style={{ textAlign: "left", maxWidth: "450px" }}>
-                GLOBAL HEAD
+                CHIEF TECHNOLOGY OFFICER. BFSI AMERICAS
                   <br />
-                  TCS - BFS - BPS 
+                  TATA CONSULTANCY SERVICES 
                 </div>
               </div>
               <GuestDesp
@@ -257,10 +267,11 @@ function Guest() {
                 /> */}
 
                 <div style={{ textAlign: "left", maxWidth: "450px" }}>
-                HR - Manager - Talent Acquisition 
+                SENIOR ASSOCIATE DIRECTOR 
                
                   <br />
-                  Tata Consultancy Services 
+                  CAMPUS & INSTITUTIONAL ALLIANCES
+                  MOVATE
                 </div>
               </div>
               <GuestDesp
@@ -275,6 +286,68 @@ function Guest() {
           );
         })}
       </GuestContainer>
+
+      <GuestContainer>
+        {Guests2.map((data) => {
+          return (
+            <GuestImageDiv
+              as={motion.div}
+              initial="offscreen"
+              whileInView="onscreen"
+              viewport={{ once: false, amount: 0.5 }}
+              transition={{
+                staggerChildren: 0.5,
+              }}
+              key={data.name}
+            >
+              <GuestImg as={motion.img} variants={text} src={data.src} />
+              <GuestName
+                as={motion.h1}
+                initial="offscreen"
+                whileInView="onscreen"
+                varients={text}
+                style={{
+                  padding: "5px",
+                }}
+              >
+                {data.name}
+              </GuestName>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "row",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  gap: "1rem",
+                  margin: "1rem",
+                }}
+              >
+                {/* <img
+                  src="OtherAssets/tcs.webp"
+                  style={{ borderRadius: "1rem" }}
+                  alt="tcs_logo"
+                /> */}
+
+                <div style={{ textAlign: "left", maxWidth: "450px" }}>
+                INDIA TECHNICAL PRACTICE DELIVERY HEAD
+               
+                  <br />
+                  CPRIME - INDIA
+                </div>
+              </div>
+              <GuestDesp
+                as={motion.p}
+                initial="offscreen"
+                whileInView="onscreen"
+                varients={text}
+              >
+                {data.desc}
+              </GuestDesp>
+            </GuestImageDiv>
+          );
+        })}
+      </GuestContainer>
+
       
     </GuestHead>
   );
