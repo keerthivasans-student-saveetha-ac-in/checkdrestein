@@ -13,7 +13,8 @@ function About() {
     );
     margin-top: 100px;
     display: flex;
-    --bg-img: url("https://www.saveetha.ac.in/images/sec/2024/sdd.jpg");
+    // --bg-img: url("https://www.saveetha.ac.in/images/sec/2024/sdd.jpg");
+    --bg-img: url("https://saveetha.ac.in/wp-content/uploads/2024/06/building.jpg");
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.35)),
       var(--bg-img);
     background-position: center;
