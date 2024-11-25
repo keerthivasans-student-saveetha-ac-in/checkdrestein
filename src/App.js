@@ -57,8 +57,8 @@ function App() {
                     }}
                   >
                     <h1> </h1>
-                    <h1>404 Error. Please try again after some time...</h1>
-                   
+                    {/* <h1>404 Error. Please try again after some time...</h1> */}
+                    <h1>REGISTRATION CLOSED</h1>
                   </div>
                 }
               />
