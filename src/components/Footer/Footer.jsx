@@ -112,7 +112,7 @@ const Footer = () => {
         
         <div className="block">
           <h4 className="heading" align="center">CO-ORDINATORS</h4>
-          <a href="https://www.saveetha.ac.in/index.php/2-uncategorised/489-dr-k-suresh-kumar-m-tech-ph-d"  target="_blank" class="links">
+          <a href="https://saveetha.ac.in/information-technology/faculty-information-technology/"  target="_blank" class="links">
           <Chip
             size="lg"
             style={{ backgroundColor: "transparent", margin: "20px 0 " }}
@@ -134,7 +134,7 @@ const Footer = () => {
           </Chip>
           </a>
 
-          <a href="https://www.saveetha.ac.in/index.php/departments/mechanical-engineering?id=661"  target="_blank" class="links">
+          <a href="https://saveetha.ac.in/mechanical-engineering/faculty-mechanical-engineering/"  target="_blank" class="links">
           <Chip
             size="lg"
             style={{ backgroundColor: "transparent" }}
